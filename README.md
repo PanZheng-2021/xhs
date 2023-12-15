@@ -7,7 +7,7 @@
 另外，如果需要
 <font color=#7CFC00 size=2>根据关键词爬取小红书的笔记、视频和用户、每个笔记的评论、以及单个小红书博主的所有笔记信息</font>
 ,请加微信
-<font color=#FF4500 size=2>ww7799pp</font>
+<font color=#FF4500 size=2>dd7799pp</font>
 联系。
 
 
