@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "background/index.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon/edge128.png",
+         "32": "icon/edge32.png",
+         "96": "icon/edge96.png"
+      },
+      "default_popup": "popup/index.html",
+      "default_title": "__MSG_add_to_infinity__"
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab/index.html"
+   },
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en_US",
+   "description": "__MSG_extension_des_pro__",
+   "icons": {
+      "128": "icon/edge128.png",
+      "32": "icon/edge32.png",
+      "96": "icon/edge96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAivvEpynQagoQ+j+zH1pTFMITANB4EIGQiTiTtIs9e4OgZUCXly8lQ2zAylGTGo/6M8fs2r9fkD5HMrkKvViQv3zNV4O1gilhZD/dJAg+nT56tg2sFmAlI2UxcAHSZTafxGT5sirZKXN5MMJF16tZpyB6n4AOTEQJORiMbtiCljf2eBF9vPhKxZF3DIES0LBo15JljuuwpY5wNCDIHb+NfMhj4oM0kXNCfN4T94AJogLzxl4QPSquA0uPrNHSbSvEPF4JcAOVKLg6eQ42Lf/EgWAnb5EMybJvKibEMyEBKxI00VruqxpkA+jEXosniQ8FgU/ArhH6VtB+jjXuzmGEuwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "81",
+   "name": "__MSG_name_pro__",
+   "optional_permissions": [ "https://google.com/", "https://suggestion.baidu.com/", "https://mail.google.com/", "notifications", "bookmarks", "topSites", "history", "management", "http://*/", "https://*/" ],
+   "permissions": [ "activeTab", "storage", "unlimitedStorage", "chrome://favicon/", "background" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "10.0.99"
+}

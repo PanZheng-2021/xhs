@@ -1,0 +1,365 @@
+{
+   "alert_popup_filter_enabled_title": {
+      "message": "Автоматична активация на филтрите"
+   },
+   "blocking_pages_advanced_button": {
+      "message": "Разширени"
+   },
+   "close_button_title": {
+      "message": "Затвори"
+   },
+   "context_block_site_ads": {
+      "message": "Блокирай рекламата на този сайт..."
+   },
+   "context_disable_protection": {
+      "message": "Пауза на защитата AdGuard"
+   },
+   "context_enable_protection": {
+      "message": "Пусни отново защитата AdGuard"
+   },
+   "context_open_log": {
+      "message": "Дневник на филтрирането..."
+   },
+   "context_open_settings": {
+      "message": "AdGuard настройки..."
+   },
+   "context_site_exception": {
+      "message": "Този сайт е в изключенията"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard не може да работи на този домейн"
+   },
+   "context_site_filtering_off": {
+      "message": "Забрани филтрирането на този сайт"
+   },
+   "context_site_filtering_on": {
+      "message": "Разреши филтрирането на този сайт"
+   },
+   "context_site_protection_disabled": {
+      "message": "AdGuard защитата е в пауза"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Провери за актуализации на филтрите"
+   },
+   "description": {
+      "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, YouTube and all other websites."
+   },
+   "filtering_clear_log_events": {
+      "message": "Изчисти дневника"
+   },
+   "filtering_log_details_modal_try_again": {
+      "message": "Опитай пак"
+   },
+   "filtering_log_filter_allowed": {
+      "message": "В белия списък"
+   },
+   "filtering_log_filter_blocked": {
+      "message": "Блокирано"
+   },
+   "filtering_log_filter_modified": {
+      "message": "Modified"
+   },
+   "filtering_log_filter_regular": {
+      "message": "Regular"
+   },
+   "filtering_log_filter_user_rules": {
+      "message": "Потребителски филтър"
+   },
+   "filtering_log_status_allowed": {
+      "message": "В белия списък"
+   },
+   "filtering_log_status_blocked": {
+      "message": "Блокирано"
+   },
+   "filtering_log_status_modified": {
+      "message": "Modified"
+   },
+   "filtering_log_status_processed": {
+      "message": "Обработен"
+   },
+   "filtering_log_title": {
+      "message": "Дневник на филтрирането"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Добави правило"
+   },
+   "filtering_modal_add_title": {
+      "message": "Добавяне на правило"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Приложи правилото за всички страници"
+   },
+   "filtering_modal_block": {
+      "message": "Блокирай"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Добави изключение"
+   },
+   "filtering_modal_filter": {
+      "message": "Филтър:"
+   },
+   "filtering_modal_important": {
+      "message": "Задай висок приоритет за правилото"
+   },
+   "filtering_modal_info_title": {
+      "message": "Детайли за запитването"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Отвори в нов таб"
+   },
+   "filtering_modal_preview_request_button": {
+      "message": "Преглед"
+   },
+   "filtering_modal_preview_title": {
+      "message": "Преглед"
+   },
+   "filtering_modal_rule": {
+      "message": "Правило:"
+   },
+   "filtering_modal_source": {
+      "message": "Източник:"
+   },
+   "filtering_modal_status_text_loading": {
+      "message": "Зареждане..."
+   },
+   "filtering_modal_third_party": {
+      "message": "Приложи само към заявки от трети страни"
+   },
+   "filtering_modal_type": {
+      "message": "Тип:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Деблокирай"
+   },
+   "filtering_refresh_tab_short": {
+      "message": "Обнови"
+   },
+   "filtering_table_filter": {
+      "message": "Филтър"
+   },
+   "filtering_table_rule": {
+      "message": "Правило за филтриране"
+   },
+   "filtering_table_source": {
+      "message": "Източник"
+   },
+   "filtering_table_status": {
+      "message": "Състояние"
+   },
+   "filtering_table_type": {
+      "message": "Тип"
+   },
+   "filtering_type_all": {
+      "message": "Всички"
+   },
+   "fullscreen_user_rules_title": {
+      "message": "Потребителски филтър"
+   },
+   "name": {
+      "message": "AdGuard рекламен блокер"
+   },
+   "options_about": {
+      "message": "Относно"
+   },
+   "options_about_version": {
+      "message": "Версия"
+   },
+   "options_acknowledgment": {
+      "message": "Благодарности"
+   },
+   "options_add_custom_filter": {
+      "message": "Добави персонализиран филтър"
+   },
+   "options_antibanner_custom_filter_already_exists": {
+      "message": "Този персонализиран филтър вече е добавен"
+   },
+   "options_antibanner_custom_group": {
+      "message": "Персонализиране"
+   },
+   "options_check_update": {
+      "message": "Провери за актуализации"
+   },
+   "options_confirm_modal_cancel_button": {
+      "message": "Отказ"
+   },
+   "options_editor_save": {
+      "message": "Запази"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Автоматично активиране на най-подходящите филтри"
+   },
+   "options_export_settings": {
+      "message": "Експортиране на настройките"
+   },
+   "options_filters": {
+      "message": "Филтри"
+   },
+   "options_filters_empty_title": {
+      "message": "Нищо не е намерено"
+   },
+   "options_filters_list_search_display_option_all_filters": {
+      "message": "Всички филтри"
+   },
+   "options_filters_list_search_display_option_disabled": {
+      "message": "Изключено"
+   },
+   "options_filters_list_search_display_option_enabled": {
+      "message": "Включено"
+   },
+   "options_filters_search": {
+      "message": "Търси"
+   },
+   "options_general_settings": {
+      "message": "Общи настройки"
+   },
+   "options_github": {
+      "message": "GitHub"
+   },
+   "options_hide_search_queries_title": {
+      "message": "Скрий търсещите запитвания"
+   },
+   "options_import_settings": {
+      "message": "Импорт на настройките"
+   },
+   "options_open_changelog": {
+      "message": "Дневник на промените"
+   },
+   "options_popup_check_false_title": {
+      "message": "Грешка"
+   },
+   "options_popup_filter_description": {
+      "message": "Описание:"
+   },
+   "options_popup_filter_url": {
+      "message": "URL:"
+   },
+   "options_popup_filter_version": {
+      "message": "Версия: "
+   },
+   "options_popup_next_button": {
+      "message": "Следващ"
+   },
+   "options_popup_try_again_button": {
+      "message": "Опитай пак"
+   },
+   "options_popup_update_error": {
+      "message": "Актуализация не се осъществи. Моля опитайте по-късно."
+   },
+   "options_popup_update_not_found": {
+      "message": "Няма намерени актуализации"
+   },
+   "options_privacy": {
+      "message": "Стелт режим"
+   },
+   "options_privacy_policy": {
+      "message": "Правила за поверителност"
+   },
+   "options_privacy_title": {
+      "message": "Стелт режим"
+   },
+   "options_remove_filter_confirm_modal_ok_button": {
+      "message": "Премахни"
+   },
+   "options_reset_settings": {
+      "message": "Изтрий всички настройки"
+   },
+   "options_reset_settings_confirm_modal_clear_button": {
+      "message": "Нулиране"
+   },
+   "options_reset_stats": {
+      "message": "Нулирай статистиката"
+   },
+   "options_reset_stats_done": {
+      "message": "Статистиката е нулирана"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Защита от фишинг и зловреден софтуер"
+   },
+   "options_select_theme": {
+      "message": "Тема"
+   },
+   "options_select_update_period_24h": {
+      "message": "24 часа"
+   },
+   "options_select_update_period_6h": {
+      "message": "6 часа"
+   },
+   "options_select_update_period_default": {
+      "message": "По подразбиране"
+   },
+   "options_select_update_period_disabled": {
+      "message": "Изключен"
+   },
+   "options_settings": {
+      "message": "AdGuard настройки"
+   },
+   "options_site": {
+      "message": "Официален сайт"
+   },
+   "options_stealth_general_title": {
+      "message": "General"
+   },
+   "options_stealth_miscellaneous_title": {
+      "message": "Разни"
+   },
+   "options_third_party_title": {
+      "message": "Самоунищожаващи себисквитки (cookies) от трети страни"
+   },
+   "options_update_antibanner_filters": {
+      "message": "Провери за актуализации"
+   },
+   "options_use_optimized_filters": {
+      "message": "Използвайте оптимизирани филтри"
+   },
+   "options_userfilter": {
+      "message": "Потребителски филтър"
+   },
+   "options_userfilter_export": {
+      "message": "Експортирай"
+   },
+   "options_userfilter_import": {
+      "message": "Импортирай"
+   },
+   "popup_abuse_site": {
+      "message": "Съобщи за проблем"
+   },
+   "popup_block_site_ads_option": {
+      "message": "Блокирай рекламите на този сайт"
+   },
+   "popup_header_cta_link": {
+      "message": "Искаш да блокираш повече?"
+   },
+   "popup_header_update_filters": {
+      "message": "Провери за актуализации на филтрите"
+   },
+   "popup_reset_custom_rules": {
+      "message": "Премахване на всички потребителски правила за тази страница"
+   },
+   "popup_security_report": {
+      "message": "Проверка на сигурността на уебсайта"
+   },
+   "popup_site_filtering_state_disabled": {
+      "message": "Защитата е деактивирана"
+   },
+   "popup_site_filtering_state_enabled": {
+      "message": "Защитата е включена"
+   },
+   "popup_site_filtering_state_secure_page": {
+      "message": "Защитена страница"
+   },
+   "popup_statistics_months_jul": {
+      "message": "Юли"
+   },
+   "popup_statistics_months_jun": {
+      "message": "Юни"
+   },
+   "popup_statistics_months_may": {
+      "message": "Май"
+   },
+   "popup_tab_actions": {
+      "message": "Действия"
+   },
+   "short_name": {
+      "message": "AdGuard"
+   }
+}

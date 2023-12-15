@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "เครื่องมือค้นหาความปลอดภัย"
+   },
+   "about": {
+      "message": "เกี่ยวกับ"
+   },
+   "about_us": {
+      "message": "เกี่ยวกับเรา"
+   },
+   "account_expired": {
+      "message": "ทดสอบบัญชีของคุณหมดอายุแล้วโปรดลงชื่อเข้าใช้อีกครั้ง"
+   },
+   "account_setting": {
+      "message": "การตั้งค่าบัญชี"
+   },
+   "add": {
+      "message": "เพิ่ม"
+   },
+   "add_city": {
+      "message": "เพิ่มเมือง"
+   },
+   "add_first_note": {
+      "message": "จดบันทึกย่อชิ้นแรกของคุณ"
+   },
+   "add_icon_success": {
+      "message": "เพิ่มเรียบร้อยแล้ว"
+   },
+   "add_link": {
+      "message": "เพิ่มลิงก์"
+   },
+   "add_new_search_engine": {
+      "message": "เพิ่มเครื่องมือค้นหาใหม่"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "ห้องสมุดวอลล์เปเปอร์ใหม่"
+   },
+   "add_search_engine": {
+      "message": "เพิ่มเครื่องมือค้นหา"
+   },
+   "add_success": {
+      "message": "เพิ่มสำเร็จแล้ว"
+   },
+   "add_to_home_site": {
+      "message": "เพิ่มไปยังหน้าหลัก"
+   },
+   "add_to_infinity": {
+      "message": "เพิ่มในหน้าแท็บอินฟินิตี้ใหม่"
+   },
+   "additional_search_engine": {
+      "message": "เครื่องมือค้นหาที่แนบมา"
+   },
+   "air_pressure": {
+      "message": "ความกดอากาศ"
+   },
+   "all_wallpaper_sources": {
+      "message": "วอลล์เปเปอร์ทั้งหมด"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "แหล่งวอลเปเปอร์ทั้งหมด"
+   },
+   "ambiguity": {
+      "message": "ความกำกวม"
+   },
+   "animals": {
+      "message": "สัตว์"
+   },
+   "animation": {
+      "message": "อนิเมชั่น"
+   },
+   "animation_tips": {
+      "message": "แอนิเมชั่นเริ่มต้นอาจส่งผลกระทบต่อความราบรื่น"
+   },
+   "anime": {
+      "message": "การ์ตูน"
+   },
+   "any_money": {
+      "message": "ไม่จำกัดระยะทาง"
+   },
+   "app": {
+      "message": "แอพลิเคชัน"
+   },
+   "app_disabled_enable_first": {
+      "message": "คุณปิดใช้งานแอพนี้ อนุญาตให้อินฟินิตี้เปิดใช้งานแอพนี้ก่อนหรือไม่"
+   },
+   "application": {
+      "message": "แอปพลิเคชัน"
+   },
+   "apply": {
+      "message": "นำไปใช้"
+   },
+   "architecture": {
+      "message": "สถาปัตยกรรม"
+   },
+   "athletics": {
+      "message": "กีฬา"
+   },
+   "avatar": {
+      "message": "เลือกรูปแสดงตน"
+   },
+   "backing_up": {
+      "message": "กำ​ลัง​แบ็ก​อัพ…"
+   },
+   "backup_and_recovery": {
+      "message": "สำรองและกู้คืน"
+   },
+   "backup_failed": {
+      "message": "สำรองข้อมูลล้มเหลว"
+   },
+   "backup_now": {
+      "message": "สำรองข้อมูลเลย"
+   },
+   "backup_successful": {
+      "message": "สำรองข้อมูลสำเร็จ"
+   },
+   "backup_tips": {
+      "message": "เราเก็บโหนดสำรองข้อมูลได้สูงสุด 3 โหนดและ 3 โหนดสำรองอัตโนมัติสำหรับคุณ"
+   },
+   "backup_with_device": {
+      "message": "ซิงค์กับอุปกรณ์อื่น"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "มุ่งเน้นการเก็บรวบรวมการถ่ายภาพประเภทที่ไม่ใช่แกลเลอรี่คุณภาพสูงและคุณภาพสูง"
+   },
+   "basic_info": {
+      "message": "ข้อมูลทั่วไป"
+   },
+   "bg_color": {
+      "message": "สีพื้นหลัง"
+   },
+   "bg_updating": {
+      "message": "ในการอัพเกรดโปรดรอ ..."
+   },
+   "bind": {
+      "message": "เชื่อมโยง"
+   },
+   "bind_success": {
+      "message": "การเชื่อมโยงสำเร็จ"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing เป็นเครื่องมือค้นหาที่พัฒนาโดย Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "ห้องสมุดวอลล์เปเปอร์ Bing รายวัน"
+   },
+   "bookmarks": {
+      "message": "บุ๊กมาร์ก"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ ไม่สนับสนุนคุณลักษณะนี้",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "cancel_login": {
+      "message": "ยกเลิกการลงชื่อเข้าใช้"
+   },
+   "cancel_remind_time": {
+      "message": "ยกเลิกเวลาเตือนความจำ"
+   },
+   "cancel_set_top": {
+      "message": "ลบหมุดออก"
+   },
+   "cannot_change_password": {
+      "message": "คุณไม่สามารถเปลี่ยนรหัสผ่านหากเข้าสู่ระบบด้วยบัญชีบุคคลที่สาม"
+   },
+   "cannot_change_profile": {
+      "message": "ผู้ใช้บุคคลที่สามที่เข้าสู่ระบบไม่สามารถแก้ไขข้อมูลโปรไฟล์"
+   },
+   "cannot_download": {
+      "message": "ไม่สนับสนุนการดาวน์โหลด"
+   },
+   "cannot_empty": {
+      "message": "ปล่อยให้ว่างไม่ได้"
+   },
+   "celsius": {
+      "message": "เซลเซียส"
+   },
+   "change_remind_time": {
+      "message": "เปลี่ยนเวลาเตือนความจำ"
+   },
+   "change_wallpaper": {
+      "message": "เปลี่ยนวอลเปเปอร์"
+   },
+   "check_olddata_desc": {
+      "message": "ตรวจพบว่ามีข้อมูลรุ่นเก่ารุ่นเก่าซึ่งอาจอัปเกรดได้หากคุณต้องการให้คุณพยายามอัพเกรดข้อมูลนี้"
+   },
+   "choose_sync_type": {
+      "message": "เลือกข้อมูลบัญชี"
+   },
+   "chose_from_mypc": {
+      "message": "สร้างห้องสมุดวอลล์เปเปอร์ของฉัน"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "แอป $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - ส่วนขยาย"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "ป้อน chrome://settings/appearance ในแถบที่อยู่และป้อนหน้าการตั้งค่า"
+   },
+   "chrome_browser_guide2": {
+      "message": "เลื่อนลงไปที่ด้านล่างและเลือกตัวเลือกที่ระบุโดยลูกศรในรูป"
+   },
+   "chrome_browser_guide3": {
+      "message": "ป้อน URL https://inftab.com ในหน้าต่างป๊อปอัปแล้วคลิกปุ่มเพิ่มเพื่อให้การตั้งค่าโฮมเพจเสร็จสมบูรณ์"
+   },
+   "clear_historys": {
+      "message": "ล้างประวัติ"
+   },
+   "col_gap": {
+      "message": "ระยะห่างของคอลัมน์"
+   },
+   "col_num": {
+      "message": "แถว"
+   },
+   "color": {
+      "message": "สี"
+   },
+   "color_icon": {
+      "message": "ไอคอนสีทึบ"
+   },
+   "come_from": {
+      "message": "จากผู้ใช้"
+   },
+   "comming_soon": {
+      "message": "กำลังจะมีบริการในไม่ช้า"
+   },
+   "comming_soon_title": {
+      "message": "เวอร์ชัน Infinity Mobile อยู่ระหว่างทาง"
+   },
+   "confirm": {
+      "message": "ตกลง"
+   },
+   "confirm_clear_all_history": {
+      "message": "คุณแน่ใจหรือว่าต้องการทำความสะอาดประวัติทั้งหมด?"
+   },
+   "confirm_cover_remote": {
+      "message": "ข้อมูลท้องถิ่นจะถูกบันทึกลงในโหนดสำรองข้อมูลด้วยตนเอง"
+   },
+   "confirm_del_folder": {
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการลบโฟลเดอร์นี้?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่เสร็จสมบูรณ์?"
+   },
+   "confirm_delete_note": {
+      "message": "ยืนยันการลบจดหมายหรือไม่?"
+   },
+   "confirm_logout": {
+      "message": "ออกจากระบบ"
+   },
+   "confirm_password": {
+      "message": "ยืนยันรหัสผ่านใหม่"
+   },
+   "confirm_password_2": {
+      "message": "ยืนยันรหัสผ่าน"
+   },
+   "confirm_recovery_data": {
+      "message": "ข้อมูลคลาวด์จะแทนที่ข้อมูลท้องถิ่น คุณแน่ใจเกี่ยวกับการกระทำนี้?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "คุณแน่ใจหรือว่าต้องการลบไลบรารีวอลล์เปเปอร์นี้?"
+   },
+   "confirm_unbind": {
+      "message": "ตัดการเชื่อมต่อกับบัญชีนี้?"
+   },
+   "confirm_unbind_email": {
+      "message": "คุณแน่ใจหรือว่าต้องการยกเลิกการติดตามอีเมลของคุณ $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "คุณแน่ใจหรือไม่ว่าคุณต้องการยกเลิกการติดตามหมายเลขโทรศัพท์ของคุณ $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "วิศวกรติดต่อ"
+   },
+   "contact_us": {
+      "message": "ติดต่อเรา"
+   },
+   "copy": {
+      "message": "คัดลอก"
+   },
+   "cubic_bezier": {
+      "message": "เตะกลับ"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "รูปภาพโปรไฟล์"
+   },
+   "current_browser_not_support": {
+      "message": "เบราว์เซอร์ปัจจุบันไม่รองรับการจัดการส่วนขยาย"
+   },
+   "current_no_reminders": {
+      "message": "ไม่มีอะไรในรายการสิ่งที่ต้องทำ"
+   },
+   "current_node": {
+      "message": "โหนดปัจจุบัน"
+   },
+   "custom": {
+      "message": "กำหนดค่า"
+   },
+   "custom_icon": {
+      "message": "กำหนดไอคอนเอง"
+   },
+   "custom_layout": {
+      "message": "กำหนดเค้าโครง"
+   },
+   "custom_site": {
+      "message": "เว็บไซต์ที่กำหนดเอง"
+   },
+   "default": {
+      "message": "ค่าเริ่มต้น"
+   },
+   "del_folder": {
+      "message": "ลบ"
+   },
+   "delete_all_bookmarks": {
+      "message": "ลบบุ๊กมาร์กทั้งหมดภายใต้โฟลเดอร์นี้"
+   },
+   "disable_chrome_app": {
+      "message": "ปิดใช้งานแอพพลิเคชั่น"
+   },
+   "disable_extension": {
+      "message": "ปิดการใช้งานส่วนขยาย"
+   },
+   "do_later": {
+      "message": "พูดคุยเกี่ยวกับมันในภายหลัง"
+   },
+   "done": {
+      "message": "เสร็จสิ้น"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "ดาวน์โหลด CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "ดาวน์โหลดวอลเปเปอร์ปัจจุบัน"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckduckGo มุ่งเน้นไปที่การนำเข้าเนื้อหาจากเว็บไซต์ Major Web 2.0 นอกเหนือจากการเป็นเครื่องมือค้นหาแบบดั้งเดิมปรัชญาของเว็บไซต์คือการเคารพความเป็นส่วนตัวของผู้ใช้ที่มีแนวโน้มที่จะไม่ตรวจสอบหรือบันทึกเนื้อหาการค้นหาเอกสาร"
+   },
+   "ease_in": {
+      "message": "จางหาย"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "ป้อน edge://settings/onStartup ในแถบที่อยู่เบราว์เซอร์จากนั้นกดปุ่ม Enter."
+   },
+   "edge_browser_guide2": {
+      "message": "คลิกตัวเลือกที่ระบุโดยลูกศรในรูป"
+   },
+   "edge_browser_guide3": {
+      "message": "ป้อน URL https://inftab.com ในหน้าต่างป๊อปอัปแล้วคลิกปุ่มเพิ่มเพื่อให้การตั้งค่าโฮมเพจเสร็จสมบูรณ์"
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "แก้ไข"
+   },
+   "edit_avatar": {
+      "message": "แก้ไขภาพตัวแทน"
+   },
+   "edit_content": {
+      "message": "แก้ไขเนื้อหา"
+   },
+   "edit_icon": {
+      "message": "แก้ไขไอคอน"
+   },
+   "education": {
+      "message": "การศึกษาและงาน"
+   },
+   "email": {
+      "message": "อีเมล"
+   },
+   "email_code": {
+      "message": "รหัสยืนยันผ่านอีเมลล์"
+   },
+   "email_format_error": {
+      "message": "รูปแบบอีเมล์ไม่ถูกต้อง"
+   },
+   "email_or_phone_number_tips": {
+      "message": "อีเมลหรือหมายเลขโทรศัพท์มือถือ"
+   },
+   "empty": {
+      "message": "ว่างเปล่า"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "คุณต้องการลบโฟลเดอร์หรือไม่?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "คุณต้องการลบบุ๊คมาร์กนี้?"
+   },
+   "ensure_logout": {
+      "message": "คุณแน่ใจหรือไม่ที่จะออกจากระบบ?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "กรอกรายการที่ต้องทำของคุณเพิ่มรายการโดยคลิกป้อน"
+   },
+   "enter_password_tips": {
+      "message": "ป้อนรหัสผ่าน"
+   },
+   "enter_valid_phone_tips": {
+      "message": "กรุณากรอกหมายเลขโทรศัพท์ที่ถูกต้อง"
+   },
+   "enter_verification_code_tips": {
+      "message": "โปรดป้อนรหัสยืนยัน"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "ส่งออกข้อมูลสำรองข้อมูล"
+   },
+   "export_local_data_desc": {
+      "message": "ส่งออกจากข้อมูลท้องถิ่นปัจจุบัน"
+   },
+   "extension": {
+      "message": "ส่วนขยาย"
+   },
+   "extension_app": {
+      "message": "ส่วนขยาย"
+   },
+   "extension_des": {
+      "message": "เพิ่มไอคอนเว็บไซต์ได้อย่างอิสระเพลิดเพลินไปกับวอลล์เปเปอร์ไดรฟ์เมฆความละเอียดสูงและเข้าถึงบุ๊คมาร์คข้อมูลสภาพอากาศบันทึกรายการสิ่งที่ต้องทำการจัดการส่วนขยายและประวัติในหน้าแท็บใหม่ที่เลือกโดยผู้ใช้นับล้าน"
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP อนุญาตให้คุณปรับแต่งแท็บหน้าใหม่ของคุณ"
+   },
+   "extension_des_firefox": {
+      "message": "ล้านคนเลือกแท็บใหม่รวมถึงไอคอนหน้าเว็บเครื่องมือค้นหาวอลล์เปเปอร์สภาพอากาศบันทึกย่อบุ๊คมาร์คสิ่งที่ต้องทำประวัติฯลฯ"
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro อนุญาตให้คุณปรับแต่งแท็บหน้าใหม่ของคุณ"
+   },
+   "extension_mananger": {
+      "message": "จัดการส่วนขยาย"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "เข้าร่วมกลุ่มบน Facebook"
+   },
+   "fahrenheit": {
+      "message": "ฟาเรนไฮต์"
+   },
+   "feedback": {
+      "message": "ข้อเสนอแนะ"
+   },
+   "female": {
+      "message": "หญิง"
+   },
+   "filter": {
+      "message": "ตัวกรอง"
+   },
+   "finance": {
+      "message": "การเงิน"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox Add-on Store"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "อินพุต about: preferences #home ในแถบที่อยู่เพื่อเข้าสู่หน้าการตั้งค่า"
+   },
+   "firefox_browser_guide2": {
+      "message": "ตามที่แสดงโดยลูกศรในรูปให้เลือกตัวเลือกของ URL ที่กำหนดเอง"
+   },
+   "firefox_browser_guide3": {
+      "message": "ป้อน URL https://inftab.com ในกล่องข้อความการตั้งค่าโฮมเพจเสร็จสมบูรณ์"
+   },
+   "five_star": {
+      "message": "ให้ 5 ดาว"
+   },
+   "folder": {
+      "message": "โฟลเดอร์"
+   },
+   "follow_us": {
+      "message": "ติดตามเรา"
+   },
+   "follow_wechat": {
+      "message": "ติดตามบัญชีสาธารณะ Infinity Wechat"
+   },
+   "follow_wechat_desc": {
+      "message": "ให้ความสนใจกับหมายเลขสาธารณะ Wechat ของเรา (สัญญาณไมโคร: InfinityDaily) รับการเปลี่ยนแปลงผลิตภัณฑ์ล่าสุดที่ไม่มีที่สิ้นสุดและคุณสามารถค้นพบความสนุกที่จะขยายและเว็บไซต์ได้มากขึ้น"
+   },
+   "font": {
+      "message": "แบบอักษร"
+   },
+   "font_color": {
+      "message": "สีแบบอักษร"
+   },
+   "font_size": {
+      "message": "ขนาดตัวอักษร"
+   },
+   "food_drink": {
+      "message": "อาหาร"
+   },
+   "forget_password": {
+      "message": "ลืมรหัสผ่าน"
+   },
+   "format_error": {
+      "message": "รูปแบบผิดพลาด"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "ภาพถ่ายที่ไม่มีค่าลิขสิทธิ์จำนวนมากฟรีที่จะใช้และอัปเดตทุกวัน"
+   },
+   "fri": {
+      "message": "วันศุกร์"
+   },
+   "fri_min": {
+      "message": "ศุกร์"
+   },
+   "fully_authorized_to_use": {
+      "message": "ได้รับอนุญาตอย่างเต็มที่ในการใช้งานฟังก์ชั่น"
+   },
+   "games": {
+      "message": "การเล่นเกมและความบันเทิง"
+   },
+   "gamil_notice": {
+      "message": "การแจ้งเตือน Gmail"
+   },
+   "gender": {
+      "message": "เลือกเพศ"
+   },
+   "get_app_permission": {
+      "message": "อนุญาตให้รับแอปในพื้นที่ของคุณ"
+   },
+   "get_cloud_icon": {
+      "message": "ได้รับออนไลน์"
+   },
+   "give_money": {
+      "message": "บริจาค"
+   },
+   "give_money_thanks": {
+      "message": "การสนับสนุนของคุณเป็นรางวัลที่ยิ่งใหญ่ที่สุดของเรา"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "หากคุณชอบหน้าแท็บอินฟินิตี้ใหม่โปรดให้คะแนนบริการของเราหรือให้ข้อเสนอแนะเพื่อช่วยเรา IGN"
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "หากคุณมีคำถามหรือข้อเสนอแนะใด ๆ โปรดติดต่อเรา"
+   },
+   "gmail_notice_voice": {
+      "message": "ริงโทนการแจ้งเตือน Gmail"
+   },
+   "google": {
+      "message": "กูเกิ้ล"
+   },
+   "google_desc": {
+      "message": "Google Search เป็นเครื่องมือค้นหาที่พัฒนาโดย Google มันเป็นเครื่องมือค้นหาที่ใหญ่ที่สุดและมีอิทธิพลมากที่สุดบนอินเทอร์เน็ต"
+   },
+   "have_todo_item": {
+      "message": "คุณมีสิ่งที่ต้องทำ"
+   },
+   "hide_homepage_btn": {
+      "message": "ซ่อนชุดเป็นปุ่มโฮม"
+   },
+   "hide_icon_name": {
+      "message": "ซ่อนชื่อไอคอน"
+   },
+   "hide_search_button": {
+      "message": "ซ่อนปุ่มค้นหา"
+   },
+   "hide_search_category": {
+      "message": "ซ่อนหมวดหมู่ค้นหา"
+   },
+   "hide_search_input": {
+      "message": "ซ่อนกล่องค้นหา"
+   },
+   "hide_set_homepage_btn": {
+      "message": "ซ่อนชุดเป็นปุ่มโฮม"
+   },
+   "hint": {
+      "message": "เคล็ดลับ"
+   },
+   "history": {
+      "message": "ประวัติการเข้าชม"
+   },
+   "history_backup_list": {
+      "message": "รายชื่อโหนดสำรองข้อมูลประวัติ"
+   },
+   "history_week": {
+      "message": "ค้นหาประวัติภายในสัปดาห์"
+   },
+   "host_permission": {
+      "message": "สิทธิ์โฮสต์"
+   },
+   "hour": {
+      "message": "ชั่วโมง"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "เว็บ"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "ฉันต้องการให้รางวัล"
+   },
+   "icon": {
+      "message": "ไอคอน"
+   },
+   "icon_added": {
+      "message": "มีแล้ว"
+   },
+   "icon_bg_text": {
+      "message": "ข้อความไอคอน"
+   },
+   "icon_network_error": {
+      "message": "ข้อยกเว้นของเครือข่าย กรุณาคลิกเพื่อโหลดใหม่"
+   },
+   "ignore": {
+      "message": "ไม่สนใจ"
+   },
+   "img_verify_code": {
+      "message": "ตรวจสอบรูปภาพ"
+   },
+   "import_data": {
+      "message": "นำเข้าข้อมูลสำรอง"
+   },
+   "import_data_desc": {
+      "message": "กู้คืนข้อมูลจากไฟล์สำรอง"
+   },
+   "import_select_tile": {
+      "message": "เลือกข้อมูล"
+   },
+   "infinity_bookmarks": {
+      "message": "flatt ลำดับชั้นของโฟลเดอร์บุ๊คมาร์คของคุณและค้นหาที่คั่นหน้าได้ง่ายขึ้นด้วยที่คั่นหน้าอินฟินิตี้"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "อินฟินิตี้ภาพพื้นหลังอะนิเมะ"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "ห้องสมุดอินฟินิตี้อะนิเมะคุณภาพสูง"
+   },
+   "infinity_extension": {
+      "message": "จัดการส่วนขยายและแอป $browser$ ของคุณได้อย่างง่ายดายด้วย Infinity Extension Manager",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "ดูและจัดการประวัติเบราว์เซอร์ของคุณอย่างรวดเร็วด้วยประวัติอนันต์"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "อินฟินิตี้วอลล์เปเปอร์ภูมิทัศน์ที่โดดเด่น"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "ห้องสมุดวอลล์เปเปอร์ภูมิทัศน์ที่มีคุณภาพสูง"
+   },
+   "infinity_notes": {
+      "message": "บันทึกแรงบันดาลใจของชีวิตอย่างรวดเร็วด้วยโน้ตอินฟินิตี้"
+   },
+   "infinity_settings": {
+      "message": "ปรับแต่งหน้าแท็บอินฟินิตี้ใหม่ของคุณด้วยการตั้งค่าอินฟินิตี้"
+   },
+   "infinity_todos": {
+      "message": "จัดเรียงภารกิจของคุณตามลำดับและปรับปรุงประสิทธิภาพการทำงานของคุณด้วยรายการอินฟินิตี้ที่ต้องทำ"
+   },
+   "infinity_wallpaper": {
+      "message": "ห้องสมุด Infinity วอลล์เปเปอร์ที่ให้คุณมากมายและยอดเยี่ยมวอลล์เปเปอร์"
+   },
+   "infinity_weather": {
+      "message": "สภาพอากาศแบบอินฟินิตี้ให้การพยากรณ์อากาศของเมืองทั่วโลก"
+   },
+   "info": {
+      "message": "ข้อมูล"
+   },
+   "inportdata_desc": {
+      "message": "นำเข้าข้อมูลไม่สอดคล้องกับข้อมูลท้องถิ่นเลือกผสานหรือเขียนทับ"
+   },
+   "input_and_search": {
+      "message": "ป้อนการค้นหา"
+   },
+   "input_city": {
+      "message": "เข้าสู่เมือง/ภูมิภาค"
+   },
+   "input_new_password": {
+      "message": "ป้อนรหัสผ่านใหม่"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "เชื่อมโยง"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "ภาพถ่ายฟรีเพื่อวัตถุประสงค์ใด ๆ"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "เก็บเนื้อหาของช่องค้นหา"
+   },
+   "label": {
+      "message": "ป้าย"
+   },
+   "language": {
+      "message": "ภาษา"
+   },
+   "language_select": {
+      "message": "เลือกภาษา"
+   },
+   "last_sync_time": {
+      "message": "เวลาการซิงค์ล่าสุด: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "อัปเดตครั้งล่าสุด"
+   },
+   "layout": {
+      "message": "รูปแบบ"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "ฟรี HD วอลล์เปเปอร์แหล่งที่มา"
+   },
+   "life_style": {
+      "message": "วิถีชีวิต"
+   },
+   "limit_input_length": {
+      "message": "ความยาวข้อความเกินขีด จำกัด"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "ไอคอนท้องถิ่น"
+   },
+   "local_wallpaper2": {
+      "message": "Local Wallpapers"
+   },
+   "login": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "login_abandon_tips": {
+      "message": "วิธีการเข้าสู่ระบบปัจจุบันจะถูกลบออกในไม่ช้า กรุณาผูกอีเมลของคุณหรือบัญชีบุคคลที่สามอื่น ๆ โดยเร็วที่สุดหลังจากเข้าสู่ระบบ"
+   },
+   "login_now": {
+      "message": "เข้าสู่ระบบบัญชีอินฟินิตี้ของคุณตอนนี้เพื่อเพลิดเพลินกับการอนุญาตเพิ่มเติม"
+   },
+   "login_now_btn": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "login_register": {
+      "message": "เข้าสู่ระบบ/สมัครสมาชิก"
+   },
+   "loging": {
+      "message": "กำลังลงชื่อเข้าใช้"
+   },
+   "logout": {
+      "message": "ออกจากระบบ"
+   },
+   "logout_clear_something": {
+      "message": "ล้างการตั้งค่าส่วนบุคคลและข้อมูลอื่น ๆ ในอุปกรณ์นี้"
+   },
+   "logout_tips": {
+      "message": "คุณจำเป็นต้องล้างข้อมูลในเครื่องก่อนที่คุณจะออกจากระบบบัญชีของคุณเพื่อป้องกันข้อมูลจากบัญชีต่าง ๆ บนอุปกรณ์นี้จากการเชื่อมต่อหรือไม่"
+   },
+   "logout_warn": {
+      "message": "หลังจากออกจากระบบจากบัญชีข้อมูลการสำรองข้อมูลทั้งหมดภายใต้บัญชีนี้จะถูกลบ คุณแน่ใจหรือว่าต้องการออกจากระบบจากบัญชีนี้ (รูปภาพของบันทึกย่อและห้องสมุดวอลล์เปเปอร์ที่กำหนดเองอาจไม่สามารถใช้ได้)"
+   },
+   "male": {
+      "message": "ชาย"
+   },
+   "manage_backup_node": {
+      "message": "จัดการโหนดสำรองประวัติ"
+   },
+   "manul_backup": {
+      "message": "แบ็กอัพเอง"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "เปิดวอลเปเปอร์"
+   },
+   "me": {
+      "message": "ฉัน"
+   },
+   "merge_cloud_local": {
+      "message": "รวมข้อมูลท้องถิ่นและคลาวด์"
+   },
+   "merge_data": {
+      "message": "ผสานข้อมูล"
+   },
+   "mini_mode": {
+      "message": "โหมดมินิมอล"
+   },
+   "mins": {
+      "message": "นาที"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "ใช้ในเว็บไซต์ธีมเทมเพลตโครงการวัสดุการพิมพ์และหนังสือพิมพ์ มีการเพิ่มวอลเปเปอร์และวิดีโอใหม่ทุกสัปดาห์"
+   },
+   "mobile_devices": {
+      "message": "Infinity รุ่นโทรศัพท์มือถือ"
+   },
+   "modify": {
+      "message": "แก้ไขข้อมูล"
+   },
+   "modify_email": {
+      "message": "แก้ไขอีเมล"
+   },
+   "modify_password": {
+      "message": "แก้ไขรหัสผ่าน"
+   },
+   "modify_phone_number": {
+      "message": "ปรับเปลี่ยนหมายเลขโทรศัพท์"
+   },
+   "modify_pwd": {
+      "message": "แก้ไขรหัสผ่าน"
+   },
+   "modify_success": {
+      "message": "เปลี่ยนสำเร็จ"
+   },
+   "modify_this": {
+      "message": "แก้ไข"
+   },
+   "mon": {
+      "message": "วันจันทร์"
+   },
+   "mon_min": {
+      "message": "จันทร์"
+   },
+   "month_1": {
+      "message": "มกราคม"
+   },
+   "month_10": {
+      "message": "ตุลาคม"
+   },
+   "month_11": {
+      "message": "พฤศจิกายน"
+   },
+   "month_12": {
+      "message": "ธันวาคม"
+   },
+   "month_2": {
+      "message": "กุมภาพันธ์"
+   },
+   "month_3": {
+      "message": "มีนาคม"
+   },
+   "month_4": {
+      "message": "เมษายน"
+   },
+   "month_5": {
+      "message": "พฤษภาคม"
+   },
+   "month_6": {
+      "message": "มิถุนายน"
+   },
+   "month_7": {
+      "message": "กรกฎาคม"
+   },
+   "month_8": {
+      "message": "สิงหาคม"
+   },
+   "month_9": {
+      "message": "กันยายน"
+   },
+   "more_content_from_site": {
+      "message": "เนื้อหาเพิ่มเติมจากเว็บไซต์นี้"
+   },
+   "most_used_in_chinese": {
+      "message": "เครื่องมือค้นหาใช้มากที่สุดโดยจีน"
+   },
+   "music_video": {
+      "message": "มิวสิควิดีโอ"
+   },
+   "my_collection": {
+      "message": "คอลเลคชั่นของฉัน"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "กรุณาใส่ชื่อเว็บไซต์"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "ธรรมชาติ"
+   },
+   "need_you_permission": {
+      "message": "ต้องได้รับการอนุญาต"
+   },
+   "network_error": {
+      "message": "ข้อผิดพลาดของเครือข่าย"
+   },
+   "new_email": {
+      "message": "อีเมลใหม่"
+   },
+   "new_password": {
+      "message": "ป้อนรหัสผ่านใหม่"
+   },
+   "new_phone_number": {
+      "message": "หมายเลขโทรศัพท์ใหม่"
+   },
+   "new_tab": {
+      "message": "แท็บใหม่"
+   },
+   "new_tab_web": {
+      "message": "Infinity โฮมเพจ"
+   },
+   "news": {
+      "message": "ข่าวสาร"
+   },
+   "next": {
+      "message": "ถัดไป"
+   },
+   "nickname": {
+      "message": "ชื่อเล่น"
+   },
+   "no_account_register": {
+      "message": "ยังไม่มีบัญชีผู้ใช้งาน ลงทะเบียนได้เลย"
+   },
+   "no_backup_time": {
+      "message": "ไม่มี"
+   },
+   "no_bookmark_result": {
+      "message": "ไม่มีคั่นหน้า"
+   },
+   "no_chrome_app": {
+      "message": "คุณยังไม่ได้ติดตั้งแอป $browser$ ใด ๆ",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "ไม่มีข้อมูลสภาพอากาศ"
+   },
+   "no_data": {
+      "message": "ไม่มีข้อมูล"
+   },
+   "no_description": {
+      "message": "ไม่มีคำอธิบาย"
+   },
+   "no_more": {
+      "message": "ไม่อีกแล้ว"
+   },
+   "no_more_reminder": {
+      "message": "ห้าม​แสดง​อีก"
+   },
+   "no_permission_text": {
+      "message": "ขอแนะนำให้คุณพยายามเปิดและให้สิทธิ์นี้ในแถบที่อยู่เบราว์เซอร์หรือศูนย์การตั้งค่า"
+   },
+   "no_permission_title": {
+      "message": "ยังไม่ได้รับใบอนุญาต"
+   },
+   "no_permission_to_open_app": {
+      "message": "ไม่อนุญาตให้เปิดแอป $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "ไม่มีอะไรในรายการสิ่งที่ต้องทำ"
+   },
+   "no_search_result": {
+      "message": "ไม่พบผลการค้นหา"
+   },
+   "no_title": {
+      "message": "ไม่มีชื่อ"
+   },
+   "none": {
+      "message": "ซ่อนอยู่"
+   },
+   "none_auto_backup": {
+      "message": "ขณะนี้ไม่มีการสำรองข้อมูลที่กำหนดไว้"
+   },
+   "none_auto_backup_desc": {
+      "message": "การสำรองข้อมูลที่กำหนดเวลาจะเริ่มในวันเดียวกันกับที่คุณแก้ไขข้อมูลเกี่ยวกับอินฟินิตี้"
+   },
+   "none_manual_backup": {
+      "message": "ขณะนี้ไม่มีการสำรองข้อมูลด้วยตนเอง"
+   },
+   "normal_model": {
+      "message": "โหมดมาตรฐาน"
+   },
+   "not_binding": {
+      "message": "ไม่มีการเชื่อมโยง"
+   },
+   "note_title": {
+      "message": "ป้อนชื่อหมายเหตุ"
+   },
+   "note_upload_img_15": {
+      "message": "ขนาดรูปภาพนี้ต้องไม่เกิน 15 ล้าน"
+   },
+   "notes": {
+      "message": "บันทึกต่างๆ"
+   },
+   "notice": {
+      "message": "ประกาศ"
+   },
+   "ocean": {
+      "message": "มหาสมุทร"
+   },
+   "one_day_later": {
+      "message": "เตือนฉันพรุ่งนี้"
+   },
+   "one_week_later": {
+      "message": "แจ้งเตือนอีกครั้งในอีก 1 สัปดาห์"
+   },
+   "only_used_infinity": {
+      "message": "ใช้สำหรับโมดูลภายในแบบอินฟินิตี้เท่านั้น"
+   },
+   "opacity": {
+      "message": "ความทึบแสงไอคอน"
+   },
+   "open_all": {
+      "message": "เปิดทั้งหมด"
+   },
+   "open_chrome_app": {
+      "message": "เปิดใช้งานแอปพลิเคชัน"
+   },
+   "open_extension": {
+      "message": "เปิดใช้งานส่วนขยาย"
+   },
+   "open_folder_icons": {
+      "message": "เปิดทั้งหมด"
+   },
+   "open_new_tab": {
+      "message": "เปิดเว็บไซต์ในแท็บใหม่"
+   },
+   "open_newtab_bookmarks": {
+      "message": "เปิดลิงค์บุ๊คมาร์คในแท็บใหม่"
+   },
+   "open_newtab_history": {
+      "message": "เปิดประวัติในแท็บใหม่"
+   },
+   "open_newtab_show_search": {
+      "message": "เปิดผลการค้นหาของบุคคลที่สามในแท็บใหม่"
+   },
+   "origin_password": {
+      "message": "รหัสผ่านปัจจุบัน"
+   },
+   "other_bookmarks": {
+      "message": "บุ๊กมาร์กอื่นๆ"
+   },
+   "others": {
+      "message": "อื่นๆ"
+   },
+   "oversize": {
+      "message": "ขนาดไม่เกิน 2MB"
+   },
+   "overwrite_data": {
+      "message": "เขียนทับข้อมูล"
+   },
+   "pagin": {
+      "message": "ปุ่มพลิก"
+   },
+   "password": {
+      "message": "รหัสผ่าน"
+   },
+   "password_dont_empty": {
+      "message": "ต้องไม่เว้นว่างรหัสผ่าน"
+   },
+   "password_length_low": {
+      "message": "รหัสผ่านไม่น้อยกว่า 6 หลัก"
+   },
+   "password_not_equals": {
+      "message": "รหัสผ่านไม่เหมือนกัน"
+   },
+   "password_not_some": {
+      "message": "รหัสผ่านที่ป้อนไม่ตรงกัน"
+   },
+   "permission": {
+      "message": "ให้สิทธิ์"
+   },
+   "permission_all": {
+      "message": "อนุญาตทั้งหมด"
+   },
+   "permission_gmail_notice_content": {
+      "message": "ขอให้เข้าถึงและแก้ไขข้อมูลของคุณใน mail.google.com; ขอแสดงการแจ้งเตือน"
+   },
+   "permission_gmail_notice_title": {
+      "message": "การแจ้งเตือน Gmail"
+   },
+   "permission_gmail_num_content": {
+      "message": "ขอให้เข้าถึงและแก้ไขข้อมูลของคุณใน mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "เข้าถึงปริมาณ Gmail"
+   },
+   "permission_serch_suggest_content": {
+      "message": "ขอให้เข้าถึงและแก้ไขข้อมูลของคุณบน Google.com และข้อเสนอแนะ. BAIDU.COM"
+   },
+   "permission_serch_suggest_title": {
+      "message": "เสนอแนะการค้นหา"
+   },
+   "permission_todo_notice_content": {
+      "message": "ร้องขอการแจ้งเตือนการแสดงผล"
+   },
+   "permission_todo_notice_title": {
+      "message": "การแจ้งเตือนที่ต้องทำ"
+   },
+   "permission_top_bookmark_content": {
+      "message": "ขอให้เข้าถึงไอคอนที่สอดคล้องกับเว็บไซต์ที่เยี่ยมชมและเข้าถึงและแก้ไขบุ๊กมาร์กของคุณ"
+   },
+   "permission_top_bookmark_title": {
+      "message": "แสดงบุ๊กมาร์กที่ด้านบน"
+   },
+   "permission_top_useful_content": {
+      "message": "ขอให้เข้าถึงไอคอนที่สอดคล้องกับเว็บไซต์ที่เข้าชมและเข้าถึงและแก้ไขรายชื่อเว็บไซต์ที่บ่อยที่สุด"
+   },
+   "permission_top_useful_title": {
+      "message": "แสดงเว็บไซต์ที่ใช้บ่อยด้านบน"
+   },
+   "permisson_label": {
+      "message": "การอนุญาต"
+   },
+   "phone_number": {
+      "message": "หมายเลขโทรศัพท์"
+   },
+   "photos": {
+      "message": "ภาพ"
+   },
+   "pick_local_wallpaper": {
+      "message": "เลือกวอลล์เปเปอร์ท้องถิ่น"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "ภาพถ่ายฟรีและสวยงามที่มีให้สำหรับการใช้งานใด ๆ"
+   },
+   "placeholder_name": {
+      "message": "ชื่อ"
+   },
+   "please_chose_picture": {
+      "message": "กรุณาเลือกรูปภาพ"
+   },
+   "please_enter_bookmark_name": {
+      "message": "กรุณาใส่ชื่อบุ๊คมาร์ค"
+   },
+   "please_enter_email": {
+      "message": "ป้อนอีเมล"
+   },
+   "please_enter_img_verify_code": {
+      "message": "โปรดป้อนรหัสยืนยันภาพ"
+   },
+   "please_enter_nickname": {
+      "message": "ป้อนชื่อเล่น"
+   },
+   "please_enter_phone": {
+      "message": "โปรดป้อนหมายเลขโทรศัพท์"
+   },
+   "please_enter_right_account": {
+      "message": "โปรดป้อนอีเมลหรือหมายเลขโทรศัพท์ที่ถูกต้อง"
+   },
+   "please_enter_text": {
+      "message": "ป้อนข้อความ"
+   },
+   "please_enter_url": {
+      "message": "พิมพ์ URL"
+   },
+   "please_input_bg_text": {
+      "message": "กรุณาใส่ข้อความไอคอน"
+   },
+   "please_pre_login": {
+      "message": "กรุณาเข้าสู่ระบบก่อน"
+   },
+   "please_re_login": {
+      "message": "โปรดลงขื่อเข้าใช้อีกครั้ง"
+   },
+   "please_set_your_password": {
+      "message": "กรุณาตั้งรหัสผ่าน"
+   },
+   "please_type_link": {
+      "message": "โปรดป้อนการเชื่อมโยง"
+   },
+   "please_type_right_link": {
+      "message": "โปรดป้อนที่อยู่เชื่อมโยงที่ถูกต้อง"
+   },
+   "please_upload_photos": {
+      "message": "กรุณาอัพโหลดรูปภาพ"
+   },
+   "popular": {
+      "message": "ยอดนิยม"
+   },
+   "preview": {
+      "message": "ดูตัวอย่าง"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "การรวบรวมความเป็นส่วนตัวและข้อมูล"
+   },
+   "privacy_data_item_1_1": {
+      "message": "ภาพที่สร้างขึ้นโดยไอคอนเว็บไซต์ที่กำหนดเอง"
+   },
+   "privacy_data_item_1_2": {
+      "message": "ภาพที่สร้างขึ้นโดยเครื่องมือค้นหาที่กำหนดเอง"
+   },
+   "privacy_data_item_2_1": {
+      "message": "ที่อยู่อีเมลที่ลงทะเบียนของคุณรูปภาพโปรไฟล์ที่อัปโหลดชื่อเล่นที่เลือกรหัสผ่านข้อความที่ไม่ใช่ธรรมดาและข้อมูลอื่น ๆ"
+   },
+   "privacy_data_item_2_2": {
+      "message": "หากคุณเข้าสู่ระบบด้วยบัญชีบุคคลที่สามเราจะเก็บชื่อเล่นเพศรูปภาพโปรไฟล์และข้อมูลอื่น ๆ ที่ให้ไว้โดยบุคคลที่สาม"
+   },
+   "privacy_data_item_2_3": {
+      "message": "ข้อมูลไอคอนเว็บไซต์และข้อมูลเครื่องมือค้นหาที่คุณเพิ่ม"
+   },
+   "privacy_data_item_2_4": {
+      "message": "ข้อมูลสภาพอากาศในพื้นที่หรือข้อมูลสภาพอากาศของคุณในพื้นที่อื่น ๆ ที่คุณกำหนด"
+   },
+   "privacy_data_item_2_5": {
+      "message": "รายการที่ต้องทำที่คุณสร้างขึ้น"
+   },
+   "privacy_data_item_2_6": {
+      "message": "เนื้อหาของบันทึกย่อที่คุณสร้างและรูปภาพที่อัปโหลดในบันทึกของคุณ"
+   },
+   "privacy_data_item_2_7": {
+      "message": "วอลล์เปเปอร์ปัจจุบันของคุณการตั้งค่าวอลล์เปเปอร์ภาพที่อัปโหลดไปยังวอลล์เปเปอร์ในพื้นที่ของคุณและรูปภาพที่อัพโหลดไปยังห้องสมุดวอลล์เปเปอร์ในพื้นที่ของคุณ"
+   },
+   "privacy_data_item_2_8": {
+      "message": "การตั้งค่าส่วนขยาย"
+   },
+   "privacy_data_item_3_1": {
+      "message": "เซิร์ฟเวอร์อาจเก็บบันทึกที่สร้างขึ้นระหว่างการโต้ตอบกับผู้ใช้และลูกค้า ระเบียนนี้ส่วนใหญ่จะใช้ในการแก้ไขข้อผิดพลาดข้อยกเว้น เราจะล้างบันทึกนี้เป็นครั้งคราว"
+   },
+   "privacy_data_item_4_1": {
+      "message": "ประเภทเบราว์เซอร์ภาษาและรุ่นและความละเอียดหน้าจอ"
+   },
+   "privacy_data_item_4_10": {
+      "message": "ขณะนี้มีการบันทึกหรือไม่"
+   },
+   "privacy_data_item_4_11": {
+      "message": "จำนวนไอคอนปัจจุบันโดยประมาณ"
+   },
+   "privacy_data_item_4_12": {
+      "message": "เปิดใช้งานส่วนขยายที่เปิดใช้งานในปัจจุบัน (หากคุณใช้คุณสมบัติการจัดการเพิ่มเติม)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "จำนวนครั้งที่ขยายนี้ได้รับการเปิดแล้ว"
+   },
+   "privacy_data_item_4_2": {
+      "message": "ที่อยู่ IP และตำแหน่งทางภูมิศาสตร์ที่ได้มาจากที่อยู่ IP"
+   },
+   "privacy_data_item_4_3": {
+      "message": "ไอคอนเว็บไซต์และเครื่องมือค้นหาเพิ่ม"
+   },
+   "privacy_data_item_4_4": {
+      "message": "วอลล์เปเปอร์และการตั้งค่าส่วนขยาย"
+   },
+   "privacy_data_item_4_5": {
+      "message": "เวอร์ชั่นส่วนขยาย"
+   },
+   "privacy_data_item_4_6": {
+      "message": "ความถี่ของการคลิกที่ปุ่มฟังก์ชั่น"
+   },
+   "privacy_data_item_4_7": {
+      "message": "ข้อผิดพลาดข้อผิดพลาดข้อยกเว้น"
+   },
+   "privacy_data_item_4_8": {
+      "message": "เปิดโฮสต์ที่อยู่ของเว็บไซต์"
+   },
+   "privacy_data_item_4_9": {
+      "message": "โฮสต์เครื่องมือค้นหาปัจจุบัน"
+   },
+   "privacy_data_item_5_1": {
+      "message": "เราจะนับจำนวนครั้งที่ใช้ในการค้นหาบางครั้งโดยไม่ระบุชื่อ"
+   },
+   "privacy_data_item_9": {
+      "message": "คุณต้องยอมรับนโยบายความเป็นส่วนตัวนี้ก่อนที่คุณจะสามารถใช้นามสกุลนี้ได้ ดู $the_infinity_privacy$ เพื่อเรียนรู้เพิ่มเติม",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "ไม่อย่ารวบรวมข้อมูลที่ไม่ระบุชื่อ"
+   },
+   "privacy_data_title_1": {
+      "message": "เราอาจจัดเก็บภาพที่สร้างขึ้นโดยสมัครใจโดยผู้ใช้ในระหว่างการใช้งาน ภาพต่อไปนี้ถูกเก็บไว้โดยไม่ระบุชื่อ:"
+   },
+   "privacy_data_title_2": {
+      "message": "หากคุณลงทะเบียนหรือลงชื่อเข้าใช้บัญชีของคุณเราต้องเก็บข้อมูลต่อไปนี้ (ต่อไปนี้จะเรียกว่าข้อมูลผู้ใช้) บนเซิร์ฟเวอร์ของเราเพื่อสำรองข้อมูลและการซิงโครไนซ์ข้อมูลให้เสร็จสมบูรณ์:"
+   },
+   "privacy_data_title_3": {
+      "message": "บันทึกเซิร์ฟเวอร์:"
+   },
+   "privacy_data_title_4": {
+      "message": "การรวบรวมข้อมูลต่อไปนี้เป็นตัวเลือก ข้อมูลจะถูกรวบรวมโดยไม่ระบุชื่อผ่าน Google Analytics ช่วยให้เราปรับปรุงผลิตภัณฑ์ของเรา:"
+   },
+   "privacy_data_title_5": {
+      "message": "การวิเคราะห์ทางสถิติ:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "โปรดยืนยันการถอนการติดตั้งหน้าแท็บอินฟินิตี้ใหม่"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "โปรดยืนยันการถอนการติดตั้ง Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "ถอนการติดตั้งหน้าแท็บอินฟินิตี้ใหม่หรือไม่"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "ถอนการติดตั้ง Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "ใช่ข้อมูลนิรนามสามารถรวบรวมได้ตามนโยบายความเป็นส่วนตัว"
+   },
+   "privacy_disagree": {
+      "message": "ไม่ยอมรับ"
+   },
+   "privacy_policy": {
+      "message": "นโยบายความเป็นส่วนตัว"
+   },
+   "privacy_title": {
+      "message": "\\ufffd\\ufffd͵\\ufffdŧ\\ufffd\\ufffdº\\ufffd¤\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffd\\ufffdǹ\\ufffd\\ufffd\\ufffd"
+   },
+   "profile": {
+      "message": "ข้อมูลส่วนบุคคล"
+   },
+   "pure_color": {
+      "message": "สีที่บริสุทธิ์"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "กลุ่ม QQ"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "วอลเปเปอร์แบบสุ่ม"
+   },
+   "re_update": {
+      "message": "อัพเกรดอีกครั้ง"
+   },
+   "read": {
+      "message": "อ่าน"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "ภาพถ่าย HD จำนวนมากสำหรับใช้ส่วนตัวและเชิงพาณิชย์ 7 รายการใหม่ทุกสัปดาห์"
+   },
+   "recently_add": {
+      "message": "เพิ่มล่าสุด"
+   },
+   "recently_use": {
+      "message": "ใช้งานล่าสุด"
+   },
+   "recover_error": {
+      "message": "การกู้คืนข้อมูลล้มเหลว"
+   },
+   "recover_error_version": {
+      "message": "รูปแบบข้อมูลที่ไม่รองรับ"
+   },
+   "recover_this": {
+      "message": "กู้คืนจากโหนดนี้"
+   },
+   "redius": {
+      "message": "ไอคอนมุมโค้งมน"
+   },
+   "refresh_qrcode": {
+      "message": "รหัส QR ไม่ถูกต้องคลิกรีเฟรช"
+   },
+   "register": {
+      "message": "ลงทะเบียน"
+   },
+   "register_back": {
+      "message": "ย้อนกลับ"
+   },
+   "register_get_email_code_error": {
+      "message": "รับรหัสการตรวจสอบไม่สำเร็จ"
+   },
+   "register_now": {
+      "message": "ลงทะเบียนบัญชีอินฟินิตี้ของคุณตอนนี้เพื่อเพลิดเพลินกับการอนุญาตเพิ่มเติม"
+   },
+   "relative_humidity": {
+      "message": "ความชื้นสัมพัทธ์"
+   },
+   "reload": {
+      "message": "ลองใหม่"
+   },
+   "reminder_update_text1": {
+      "message": "เพื่อปรับปรุงประสบการณ์การใช้งานของคุณที่ Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "ขอแนะนำให้อัพเกรดเบราว์เซอร์ของคุณเป็นเวอร์ชั่นล่าสุดแนะนำเบราว์เซอร์ที่เข้ากันได้กับ Infinity"
+   },
+   "reminder_update_title": {
+      "message": "แสดงข้อผิดพลาดในหน้า"
+   },
+   "remove_account": {
+      "message": "ลบบัญชี"
+   },
+   "remove_done": {
+      "message": "ลบรายการที่ต้องทำเสร็จแล้ว"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "วอลล์เปเปอร์ทั้งหมดภายใต้ห้องสมุดวอลล์เปเปอร์นี้จะถูกลบออกด้วยกัน"
+   },
+   "rename_folder": {
+      "message": "เปลี่ยนชื่อ"
+   },
+   "repair_auto_backup": {
+      "message": "สำรองข้อมูลโดยอัตโนมัติ"
+   },
+   "repair_concat": {
+      "message": "รายละเอียดการติดต่อ"
+   },
+   "repair_concat_email": {
+      "message": "อีเมล: "
+   },
+   "repair_concat_qq": {
+      "message": "วิศวกร QQ: "
+   },
+   "repair_data": {
+      "message": "ซ่อมแซมข้อมูล"
+   },
+   "repair_data_desc_contnet": {
+      "message": "โปรดส่งไฟล์ข้อมูลที่จะซ่อมแซมผ่านข้อมูลติดต่อต่อไปนี้ และเราจะช่วยคุณซ่อมแซมข้อมูลโดยเร็วที่สุด ก่อนที่วิศวกรจะแก้ไขปัญหาโปรดพยายามอย่าดำเนินการอื่น ๆ ไฟล์นี้อาจมีข้อมูลที่ละเอียดอ่อน เช่น บัญชี โปรดอย่าเปิดเผยให้ผู้อื่นทราบ"
+   },
+   "repair_data_title": {
+      "message": "กู้คืนข้อมูลที่สูญหายหรือเสียหาย"
+   },
+   "repair_export_btn": {
+      "message": "ส่งออกข้อมูลที่จะซ่อมแซม"
+   },
+   "repeat_city": {
+      "message": "คุณไม่สามารถเพิ่มเมืองเดียวกันอีกครั้ง"
+   },
+   "reqeust_login_message": {
+      "message": "คุณต้องเข้าสู่ระบบเพื่อใช้ฟีเจอร์นี้"
+   },
+   "request_logout_confirm": {
+      "message": "మీ ఖాతాను తొలగించాలా?"
+   },
+   "request_reset_all_settings": {
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตการตั้งค่าเป็นค่าเริ่มต้น?"
+   },
+   "reset": {
+      "message": "รีเซ็ต"
+   },
+   "reset_password": {
+      "message": "รีเซ็ตรหัสผ่าน"
+   },
+   "reset_password_by_email": {
+      "message": "รีเซ็ตรหัสผ่านของคุณผ่านการตรวจสอบอีเมล"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "รีเซ็ตรหัสผ่านของคุณผ่านการตรวจสอบอีเมลหรือหมายเลขโทรศัพท์"
+   },
+   "reset_setting": {
+      "message": "รีเซ็ตการตั้งค่า"
+   },
+   "reset_your_password": {
+      "message": "โปรดรีเซ็ทรหัสผ่านของคุณ"
+   },
+   "restore_setting": {
+      "message": "กู้คืนการตั้งค่า"
+   },
+   "revovery_data": {
+      "message": "คืนค่าข้อมูล"
+   },
+   "row_gap": {
+      "message": "ระยะห่างระหว่างบรรทัด"
+   },
+   "row_num": {
+      "message": "คอลัมน์"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "คลิกตัวเลือกที่แสดงโดยลูกศรในรูป"
+   },
+   "safari_browser_guide2": {
+      "message": "ในหน้าต่างป๊อปอัปป้อน URL https://inftab.com ในคอลัมน์โฮมเพจ"
+   },
+   "safari_browser_guide3": {
+      "message": "คลิกที่ปุ่มด้านล่าง URL เพื่อทำการตั้งค่าโฮมเพจให้เสร็จสมบูรณ์"
+   },
+   "sat": {
+      "message": "วันเสาร์"
+   },
+   "sat_min": {
+      "message": "เสาร์"
+   },
+   "save": {
+      "message": "บันทึก"
+   },
+   "scale": {
+      "message": "ขนาดไอคอน"
+   },
+   "scale_main": {
+      "message": "ซูมหน้าจอ"
+   },
+   "scale_side": {
+      "message": "ซูมเสาด้านข้าง"
+   },
+   "scheduled_backup": {
+      "message": "สำรองกำหนดเวลา"
+   },
+   "search": {
+      "message": "ค้นหา"
+   },
+   "search_bookmark": {
+      "message": "ค้นหาบุ๊กมาร์ก"
+   },
+   "search_engine": {
+      "message": "เครื่องมือค้นหา"
+   },
+   "search_engine_error": {
+      "message": "ป้อนชื่อเครื่องมือค้นหา"
+   },
+   "search_error": {
+      "message": "โหลดล้มเหลว"
+   },
+   "search_extension": {
+      "message": "ค้นหาส่วนขยาย"
+   },
+   "search_from": {
+      "message": "ค้นหาจาก: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "ไอคอนค้นหา"
+   },
+   "search_input": {
+      "message": "ช่องค้นหา"
+   },
+   "search_input_shadow": {
+      "message": "กล่องค้นหาเงา"
+   },
+   "search_opacity": {
+      "message": "ความทึบของช่องค้นหา"
+   },
+   "search_redius": {
+      "message": "กล่องค้นหามุมโค้งมน"
+   },
+   "search_result": {
+      "message": "ผลการค้นหา"
+   },
+   "search_size": {
+      "message": "ขนาดกล่องค้นหา"
+   },
+   "search_suggest": {
+      "message": "แสดงข้อเสนอแนะการค้นหา"
+   },
+   "search_website": {
+      "message": "ค้นหาไซต์"
+   },
+   "searching": {
+      "message": "กำลังค้นหา"
+   },
+   "select_date": {
+      "message": "เลือกวันที่"
+   },
+   "select_icon": {
+      "message": "เลือกไอคอน"
+   },
+   "select_time": {
+      "message": "เลือกเวลา"
+   },
+   "send_success": {
+      "message": "อีเมลยืนยันถูกส่งแล้วโปรดตรวจสอบกล่องจดหมาย"
+   },
+   "set_homepage_desc": {
+      "message": "ติดตั้งส่วนขยายสำหรับเบราว์เซอร์เพื่อเพลิดเพลินกับคุณสมบัติทั้งหมด"
+   },
+   "set_homepage_title2": {
+      "message": "ฟีเจอร์นี้ไม่รองรับในเวอร์ชันปัจจุบัน_#_โปรดติดตั้งส่วนขยายของเบราว์เซอร์ก่อนใช้งาน"
+   },
+   "set_infinity_to_homepage": {
+      "message": "ตั้งค่า Infinity เป็นหน้าแรกสำหรับเบราว์เซอร์ของคุณ"
+   },
+   "set_new_password": {
+      "message": "กำหนดรหัสผ่านใหม่"
+   },
+   "set_remind_time": {
+      "message": "ตั้งเวลาเตือน"
+   },
+   "set_setting_default": {
+      "message": "คืนค่าเริ่มต้น"
+   },
+   "set_to_homepage": {
+      "message": "ตั้งเป็นหน้าแรก"
+   },
+   "set_top": {
+      "message": "ด้านบน"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "ตั้งชื่อเล่นและอวตาร"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "shadow": {
+      "message": "เงาไอคอน"
+   },
+   "share": {
+      "message": "แชร์"
+   },
+   "share_by_user": {
+      "message": "ผู้ใช้แบ่งปัน"
+   },
+   "share_desc": {
+      "message": "Infinity แท็บใหม่นามสกุลนำทางที่เลือกโดยคนนับล้านแท็บใหม่ที่ใช้งานง่ายที่สุดบนเบราว์เซอร์"
+   },
+   "share_title": {
+      "message": "อาจเป็นแท็บใหม่ที่ดีที่สุดบนเบราว์เซอร์ $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "ซื้อและจัดกลุ่มกลุ่ม"
+   },
+   "shortcut_mode": {
+      "message": "โหมดด่วน"
+   },
+   "show_detail": {
+      "message": "ดูตอนนี้"
+   },
+   "show_gamil_unread_number": {
+      "message": "แสดงจำนวนอีเมลที่ยังไม่ได้อ่านจาก Gmail บนไอคอน"
+   },
+   "show_later": {
+      "message": "เตือนฉันภายหลัง"
+   },
+   "show_name": {
+      "message": "ชื่อที่ต้องการแสดง"
+   },
+   "show_reminders_number": {
+      "message": "แสดงจำนวนที่ต้องทำในไอคอน"
+   },
+   "skip": {
+      "message": "ข้าม"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "สถานที่ที่จะค้นหาแสดงและแบ่งปันภาพถ่าย"
+   },
+   "social": {
+      "message": "โซเชียลมีเดียและบล็อก"
+   },
+   "solid_color_wallpaper": {
+      "message": "วอลล์เปเปอร์สีเดียว"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "เครื่องมือค้นหาที่สามารถค้นหาเนื้อหาที่โพสต์โดยบัญชีอย่างเป็นทางการ WeChat"
+   },
+   "sports": {
+      "message": "กีฬาและการท่องเที่ยว"
+   },
+   "start_animation": {
+      "message": "เริ่มนิเมชั่น"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "จัดเตรียมการเริ่มต้นบล็อกเกอร์ผู้เผยแพร่เว็บไซต์นักออกแบบนักพัฒนาผู้สร้างและอื่น ๆ ด้วยภาพถ่ายฟรี"
+   },
+   "street_photography": {
+      "message": "ถนน"
+   },
+   "sun": {
+      "message": "วันอาทิตย์"
+   },
+   "sun_min": {
+      "message": "อา."
+   },
+   "support": {
+      "message": "การสนับสนุน"
+   },
+   "switch_to": {
+      "message": "สลับไป"
+   },
+   "sync_fail": {
+      "message": "การซิงค์ล้มเหลวโปรดลองอีกครั้ง"
+   },
+   "sync_suncess": {
+      "message": "การซิงค์เสร็จสมบูรณ์"
+   },
+   "sync_type_tips": {
+      "message": "ตรวจพบข้อมูลคลาวด์และข้อมูลท้องถิ่นที่ไม่สอดคล้องกัน โปรดเลือกข้อมูลหนึ่งประเภท"
+   },
+   "syncing": {
+      "message": "ข้อมูลกำลังซิงค์..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "คุณยังไม่ได้ติดตั้งแอป $browser$ นี้",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "วิธีการเปิดเป้าหมาย"
+   },
+   "tech": {
+      "message": "เทคโนโลยี"
+   },
+   "technology": {
+      "message": "เทคโนโลยี"
+   },
+   "term_of_use": {
+      "message": "ข้อกำหนดการใช้งาน"
+   },
+   "text": {
+      "message": "ข้อความ"
+   },
+   "text_shadow": {
+      "message": "เงาข้อความ"
+   },
+   "thirt_party": {
+      "message": "ใช้การล็อกอินบัญชีของบุคคลที่สาม"
+   },
+   "thu": {
+      "message": "วันพฤหัสบดี"
+   },
+   "thu_min": {
+      "message": "พฤหัสบดี"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. เปิดเว็บไซต์ใด ๆ และป้อน \"% s\" ในช่องค้นหาเพื่อค้นหา (กับ Google เป็นตัวอย่าง)"
+   },
+   "tip_question_2": {
+      "message": "2. คัดลอก URL ของผลการค้นหาโดยตรง"
+   },
+   "tip_question_3": {
+      "message": "3. วาง URL ที่คัดลอกที่นี่และคุณทำเสร็จแล้ว"
+   },
+   "tip_question_title": {
+      "message": "เกี่ยวกับการใช้ \"% s\" เพื่อแทนที่คำค้นหา"
+   },
+   "to_login": {
+      "message": "ล็อกอินเลย"
+   },
+   "today": {
+      "message": "วันนี้"
+   },
+   "todo_welcome": {
+      "message": "ยินดีต้อนรับสู่หน้าแท็บใหม่อินฟินิตี้ นี่คือรายการตัวอย่างที่ต้องทำ"
+   },
+   "todos": {
+      "message": "สิ่งที่ต้องทำ"
+   },
+   "top_bookmark": {
+      "message": "แสดงบุ๊กมาร์กที่ด้านบน"
+   },
+   "top_use_ful": {
+      "message": "แสดงเว็บไซต์ที่ใช้บ่อยด้านบน"
+   },
+   "travel": {
+      "message": "การเดินทาง"
+   },
+   "tue": {
+      "message": "อังคาร"
+   },
+   "tue_min": {
+      "message": "อังคาร"
+   },
+   "twitter": {
+      "message": "ทวิตเตอร์"
+   },
+   "two_hours_later": {
+      "message": "สองชั่วโมงต่อมาเตือนฉัน"
+   },
+   "type_link": {
+      "message": "ป้อนลิงก์"
+   },
+   "type_text": {
+      "message": "ป้อนข้อความ"
+   },
+   "unbind": {
+      "message": "ลบ"
+   },
+   "unbind_btn": {
+      "message": "ยกเลิกการเชื่อมโยง"
+   },
+   "unbind_email": {
+      "message": "ปลดล็อกอีเมล"
+   },
+   "unbind_phone_number": {
+      "message": "ปลดล็อคหมายเลขโทรศัพท์มือถือ"
+   },
+   "unbind_success": {
+      "message": "ลบเรียบร้อยแล้ว"
+   },
+   "uninstall_agree": {
+      "message": "ยอมรับ"
+   },
+   "uninstall_chrome_app": {
+      "message": "ถอนการติดตั้งแอป"
+   },
+   "uninstall_extension": {
+      "message": "นำส่วนขยายออก"
+   },
+   "unknown_mistake": {
+      "message": "ข้อผิดพลาดที่ไม่รู้จัก"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "วอลเปเปอร์คุณภาพสูงที่มีชื่อเสียงระดับโลก"
+   },
+   "unzip_folder_content": {
+      "message": "โฟลเดอร์จะถูกลบและไอคอนจะถูกเก็บไว้ คุณแน่ใจไหม?"
+   },
+   "unzip_folder_title": {
+      "message": "นำออกให้ใช้งาน"
+   },
+   "update_data": {
+      "message": "อัพเกรดข้อมูล"
+   },
+   "update_data_failure": {
+      "message": "ปรับปรุงรายละเอียดของการล้มเหลว"
+   },
+   "update_desc_1": {
+      "message": "หากการแปลงข้อมูลล้มเหลวในระหว่างการอัพเกรดเวอร์ชันคุณสามารถลองอัปเกรดข้อมูลอีกครั้ง"
+   },
+   "update_desc_2": {
+      "message": "หากคุณยังไม่สามารถแก้ปัญหาได้หลายครั้งคุณสามารถติดต่อวิศวกรของเราเราจะพยายามช่วยคุณแก้ปัญหา"
+   },
+   "update_desc_3": {
+      "message": "ข้อมูลการแปลงเขียนทับข้อมูลเวอร์ชันใหม่ขอแนะนำให้คุณสำรองข้อมูลก่อนที่จะใช้งาน"
+   },
+   "update_error_desc1": {
+      "message": "คุณสามารถลองอัพเกรดอีกครั้งหากคุณตรวจจับข้อมูลบางอย่าง"
+   },
+   "update_error_desc2": {
+      "message": "หากคุณล้มเหลวหลายการอัพเกรดคุณสามารถคลิกที่ไอคอน \"การตั้งค่า\" จากมุมขวาบนเพื่อเข้าสู่ - [My] - [สำรองและซ่อมแซม]"
+   },
+   "update_now": {
+      "message": "อัปเดตตอนนี้"
+   },
+   "update_or_repair_data": {
+      "message": "อัพเกรดหรือซ่อมแซมข้อมูล"
+   },
+   "upload_avatar_failure": {
+      "message": "ล้มเหลวในการอัพโหลดภาพตัวแทน"
+   },
+   "upload_file_error": {
+      "message": "การอัปโหลดไฟล์ล้มเหลว"
+   },
+   "upload_image_error": {
+      "message": "ไม่สามารถอัพโหลดรูปได้"
+   },
+   "uploading": {
+      "message": "กำลังอัพโหลด…"
+   },
+   "use_cloud": {
+      "message": "ใช้ข้อมูลคลาวด์"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "ป้อนข้อความแล้วกด Enter เพื่อเพิ่ม"
+   },
+   "use_local": {
+      "message": "ใช้ข้อมูลท้องถิ่น"
+   },
+   "use_mobile_screen": {
+      "message": "ใช้อุปกรณ์มือถือเพื่อสแกนรหัส QR"
+   },
+   "user_evaluation": {
+      "message": "ความคิดเห็นของผู้ใช้"
+   },
+   "username_cannot_empty": {
+      "message": "ชื่อผู้ใช้ต้องไม่เว้นว่าง"
+   },
+   "verify_password_desc": {
+      "message": "สำหรับความปลอดภัยของบัญชีของคุณโปรดป้อนรหัสผ่านบัญชี"
+   },
+   "verity_code": {
+      "message": "ส่งรหัสยืนยัน"
+   },
+   "verity_code_no_value": {
+      "message": "รหัสการตรวจรับรองไม่สามารถเว้นว่างได้"
+   },
+   "videos": {
+      "message": "วิดีโอ"
+   },
+   "view": {
+      "message": "มุมมอง"
+   },
+   "w309": {
+      "message": "ฝนตก"
+   },
+   "w_100": {
+      "message": "แดดจัด"
+   },
+   "w_101": {
+      "message": "เชดดี้"
+   },
+   "w_102": {
+      "message": "เมฆน้อย"
+   },
+   "w_103": {
+      "message": "ฟ้าแจ้งเป็นส่วนมาก"
+   },
+   "w_104": {
+      "message": "มืดครึ้ม"
+   },
+   "w_200": {
+      "message": "ลมแรง"
+   },
+   "w_201": {
+      "message": "สงบ"
+   },
+   "w_202": {
+      "message": "ลมพัดเบา"
+   },
+   "w_203": {
+      "message": "ลมปานกลาง"
+   },
+   "w_204": {
+      "message": "ลมค่อนข้างแรง"
+   },
+   "w_205": {
+      "message": "ลมแรง"
+   },
+   "w_206": {
+      "message": "ลมแรงมาก"
+   },
+   "w_207": {
+      "message": "ลมแรง"
+   },
+   "w_208": {
+      "message": "ลมกรรโชกแรง"
+   },
+   "w_209": {
+      "message": "พายุ"
+   },
+   "w_210": {
+      "message": "มีพายุ"
+   },
+   "w_211": {
+      "message": "พายุเฮอร์ริเคน"
+   },
+   "w_212": {
+      "message": "พายุทอร์นาโด"
+   },
+   "w_213": {
+      "message": "พายุโซนร้อน"
+   },
+   "w_300": {
+      "message": "มีฝนตกปรอยๆ"
+   },
+   "w_301": {
+      "message": "ฝนตกหนักมาก"
+   },
+   "w_302": {
+      "message": "มีพายุฝนฟ้าคะนอง"
+   },
+   "w_303": {
+      "message": "มีฝนฟ้าคะนองอย่างหนัก"
+   },
+   "w_304": {
+      "message": "พายุฟ้าคะนองและมีลูกเห็บ"
+   },
+   "w_305": {
+      "message": "ฝนตกเล็กน้อย"
+   },
+   "w_306": {
+      "message": "ฝนตกปานกลาง"
+   },
+   "w_307": {
+      "message": "ฝนตกหนัก"
+   },
+   "w_308": {
+      "message": "มีฝนตกมากเป็น"
+   },
+   "w_310": {
+      "message": "พายุฝน"
+   },
+   "w_311": {
+      "message": "พายุหนัก"
+   },
+   "w_312": {
+      "message": "พายุฝนรุนแรงพิเศษ"
+   },
+   "w_313": {
+      "message": "มีฝนน้ำแข็ง"
+   },
+   "w_314": {
+      "message": "ฝนอ่อนถึงปานกลาง"
+   },
+   "w_315": {
+      "message": "ฝนตกปานกลางถึงหนักมาก"
+   },
+   "w_316": {
+      "message": "ตกหนักถึงขั้นพายุ"
+   },
+   "w_317": {
+      "message": "พายุจนถึงพายุหนัก"
+   },
+   "w_318": {
+      "message": "พายุถึงขั้นพายุรุนแรง"
+   },
+   "w_399": {
+      "message": "สาย​ฝน"
+   },
+   "w_400": {
+      "message": "หิมะตกเล็กน้อย"
+   },
+   "w_401": {
+      "message": "หิมะตกปานกลาง"
+   },
+   "w_402": {
+      "message": "หิมะตกหนัก"
+   },
+   "w_403": {
+      "message": "พายุหิมะ"
+   },
+   "w_404": {
+      "message": "กึ่งหนาว"
+   },
+   "w_405": {
+      "message": "หิมะฝน"
+   },
+   "w_406": {
+      "message": "ฝนน้้ำแข็งปรอย"
+   },
+   "w_407": {
+      "message": "ห้องอาบน้ำฝักบัวหิมะ"
+   },
+   "w_408": {
+      "message": "หิมะตกเบาถึงปานกลาง"
+   },
+   "w_409": {
+      "message": "หิมะตกปานกลางถึงหนัก"
+   },
+   "w_410": {
+      "message": "ตกหนักถึงขั้นพายุหิมะ"
+   },
+   "w_499": {
+      "message": "หิมะ"
+   },
+   "w_500": {
+      "message": "หมอก"
+   },
+   "w_501": {
+      "message": "มีหมอก"
+   },
+   "w_502": {
+      "message": "หมอกแห้ง"
+   },
+   "w_503": {
+      "message": "หาดทราย"
+   },
+   "w_504": {
+      "message": "ฝุ่นละออง"
+   },
+   "w_507": {
+      "message": "มีพายุทราย"
+   },
+   "w_508": {
+      "message": "พายุทรายรุนแรง"
+   },
+   "w_509": {
+      "message": "หมอกหนาทึบ"
+   },
+   "w_510": {
+      "message": "มีหมอกหนามาก"
+   },
+   "w_511": {
+      "message": "หมอกควันปานกลาง"
+   },
+   "w_512": {
+      "message": "ควันมาก"
+   },
+   "w_513": {
+      "message": "หมอกควันรุนแรง"
+   },
+   "w_514": {
+      "message": "หมอกลง"
+   },
+   "w_515": {
+      "message": "หมอกรุนแรง"
+   },
+   "w_900": {
+      "message": "ร้อน"
+   },
+   "w_901": {
+      "message": "หนาว"
+   },
+   "w_999": {
+      "message": "ไม่รู้จัก"
+   },
+   "wallpaper": {
+      "message": "วอลเปเปอร์"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "เพิ่มสีแบบกำหนดเอง"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "ไม่สามารถเพิ่มภาพได้ ลองอีกครั้งในภายหลัง"
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "แอปวอลเปเปอร์ท้องถิ่นล้มเหลว ลองอีกครั้งในภายหลัง"
+   },
+   "wallpaper_applying_library": {
+      "message": "เปิดใช้งานห้องสมุดวอลล์เปเปอร์..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "วอลล์เปเปอร์รีเฟรชความถี่"
+   },
+   "wallpaper_choose_library": {
+      "message": "เลือกวอลล์เปเปอร์แหล่งที่มา"
+   },
+   "wallpaper_choose_single": {
+      "message": "เลือกรูปพื้นหลัง"
+   },
+   "wallpaper_clear_filter": {
+      "message": "ล้างสิ่งที่เลือก"
+   },
+   "wallpaper_cloud": {
+      "message": "วอลล์เปเปอร์เมฆ"
+   },
+   "wallpaper_collect_current": {
+      "message": "รวบรวมวอลล์เปเปอร์ปัจจุบัน"
+   },
+   "wallpaper_common_color": {
+      "message": "สีที่พบบ่อย"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "ลบวอลล์เปเปอร์นี้หรือไม่?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "ไม่สามารถสร้างไลบรารีวอลล์เปเปอร์ท้องถิ่น ลองอีกครั้งในภายหลัง"
+   },
+   "wallpaper_create_library_limit": {
+      "message": "ไลบรารีวอลล์เปเปอร์ที่กำหนดเองของผู้ใช้เกินขีด จำกัด"
+   },
+   "wallpaper_custom_color": {
+      "message": "สีที่กำหนดเอง"
+   },
+   "wallpaper_delete_color": {
+      "message": "ลบสีนี้"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "ลบเรียบร้อยแล้ว"
+   },
+   "wallpaper_delete_file": {
+      "message": "ลบวอลล์เปเปอร์นี้"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "ไม่สามารถลบวอลล์เปเปอร์"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "ปิดใช้งานการสลับวอลล์เปเปอร์อัตโนมัติ"
+   },
+   "wallpaper_empty_text": {
+      "message": "ไม่มีข้อมูล"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "รับภาพพื้นหลังไม่สำเร็จ"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "ไม่สามารถรับวอลล์เปเปอร์ผู้ใช้"
+   },
+   "wallpaper_library": {
+      "message": "ไลบรารี่ภาพพื้นหลัง"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$ library วอลล์เปเปอร์ท้องถิ่น",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "ชื่อห้องสมุดวอลล์เปเปอร์ที่ผิดกฎหมาย"
+   },
+   "wallpaper_library_preview": {
+      "message": "ตัวอย่างวอลเปเปอร์"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "อัปโหลดวอลเปเปอร์สูงสุด 20 ภาพ วอลล์เปเปอร์แต่ละภาพต้องไม่เกิน 10m"
+   },
+   "wallpaper_loading": {
+      "message": "กำลังประมวลผล..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "ต้องการการเชื่อมต่อเครือข่ายเพื่อทำเช่นนั้น"
+   },
+   "wallpaper_remove_library": {
+      "message": "ลบไลบรารีวอลล์เปเปอร์นี้"
+   },
+   "wallpaper_sort_default": {
+      "message": "การเรียงขั้นต้น"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "ความนิยม"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "วันที่รวม"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "สลับทุก 24 ชั่วโมง"
+   },
+   "wallpaper_switch_failure": {
+      "message": "การแลกเปลี่ยนวอลล์เปเปอร์ล้มเหลว"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "อัปเดตวอลเปเปอร์ประจำวันของคุณด้วย Bing คุณไม่สามารถเลือกความถี่การสลับได้"
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "สลับทุก ๆ 1 ชั่วโมง"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "สลับทุก ๆ 12 ชั่วโมง"
+   },
+   "wallpaper_switch_success": {
+      "message": "วอลล์เปเปอร์สุ่มเปลี่ยนไปอย่างประสบความสำเร็จ"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "เปลี่ยนเป็นวอลล์เปเปอร์ถัดไป"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "สลับเมื่อเปิดแท็บใหม่"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "สลับเมื่อเปิดหน้า"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "การอัปโหลดไฟล์ล้มเหลว เหตุผล: ขนาดเกินขีด จำกัด"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "เลือกพื้นหลังท้องถิ่น"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "ต้องมีวอลเปเปอร์อย่างน้อยหนึ่งภาพ"
+   },
+   "want_more": {
+      "message": "เพลิดเพลินไปกับ perks มากขึ้นทันที"
+   },
+   "weather": {
+      "message": "สภาพอากาศ"
+   },
+   "weather_empty": {
+      "message": "ไม่มีข้อมูลสภาพอากาศที่มีอยู่ในปัจจุบัน"
+   },
+   "web_set_home_title": {
+      "message": "วิธีการตั้งค่า Infinity เป็นโฮมเพจ"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "ชื่อเว็บไซต์"
+   },
+   "website_search_replace_char": {
+      "message": "URL (ใช้% s เพื่อแทนที่คำค้นหา)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "วันพุธ"
+   },
+   "wed_min": {
+      "message": "พุธ"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "แรงลม"
+   },
+   "wind_mill": {
+      "message": "แสดงปุ่มวอลล์เปเปอร์แบบสุ่มที่มุมล่างขวา"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search เป็นเครื่องมือค้นหาที่ดำเนินการโดย Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex เป็นหนึ่งในพอร์ทัลบริการอินเทอร์เน็ตที่สำคัญที่สุดในรัสเซีย"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$ปี$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "เมื่อวานนี้"
+   },
+   "you_need_login": {
+      "message": "ลงชื่อเข้าใช้บัญชี Infinity เพื่อใช้คุณสมบัตินี้"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "บันทึกการเรียกดูของคุณจะปรากฏที่นี่"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Beveiligde zoekmachine"
+   },
+   "about": {
+      "message": "Over"
+   },
+   "about_us": {
+      "message": "Over ons"
+   },
+   "account_expired": {
+      "message": "Test Uw account is verlopen, log opnieuw in"
+   },
+   "account_setting": {
+      "message": "Accountinstellingen"
+   },
+   "add": {
+      "message": "Toevoegen"
+   },
+   "add_city": {
+      "message": "Plaats toevoegen"
+   },
+   "add_first_note": {
+      "message": "Maak uw eerste notitie"
+   },
+   "add_icon_success": {
+      "message": "succesvol toegevoegd"
+   },
+   "add_link": {
+      "message": "Een link toevoegen"
+   },
+   "add_new_search_engine": {
+      "message": "Een nieuwe zoekmachine toevoegen"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Nieuwe behangbibliotheek"
+   },
+   "add_search_engine": {
+      "message": "Zoekmachine toevoegen"
+   },
+   "add_success": {
+      "message": "Succesvol toegevoegd"
+   },
+   "add_to_home_site": {
+      "message": "Toevoegen aan startpagina"
+   },
+   "add_to_infinity": {
+      "message": "Toevoegen aan Infinity Nieuwe tabblad pagina"
+   },
+   "additional_search_engine": {
+      "message": "Bevestigde zoekmachine"
+   },
+   "air_pressure": {
+      "message": "Druk"
+   },
+   "all_wallpaper_sources": {
+      "message": "Alle behangen"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Alle bronnen van wallpapers"
+   },
+   "ambiguity": {
+      "message": "Blur Degree"
+   },
+   "animals": {
+      "message": "Dieren"
+   },
+   "animation": {
+      "message": "Animaties"
+   },
+   "animation_tips": {
+      "message": "Startende animatie kan de soepelheid beïnvloeden"
+   },
+   "anime": {
+      "message": "Strips"
+   },
+   "any_money": {
+      "message": "Maakt niet uit"
+   },
+   "app": {
+      "message": "Applicatie"
+   },
+   "app_disabled_enable_first": {
+      "message": "U hebt deze app uitgeschakeld. Sta Infinity toe om deze app eerst in te schakelen?"
+   },
+   "application": {
+      "message": "Applicatie"
+   },
+   "apply": {
+      "message": "Toepassen"
+   },
+   "architecture": {
+      "message": "Architectuur"
+   },
+   "athletics": {
+      "message": "Sport"
+   },
+   "avatar": {
+      "message": "Kies een avatar"
+   },
+   "backing_up": {
+      "message": "Back-up maken…"
+   },
+   "backup_and_recovery": {
+      "message": "Back-up en herstel"
+   },
+   "backup_failed": {
+      "message": "Backup mislukt"
+   },
+   "backup_now": {
+      "message": "Nu back-up maken"
+   },
+   "backup_successful": {
+      "message": "Succesvolle BackUp"
+   },
+   "backup_tips": {
+      "message": "We houden maximaal 3 handmatige back-upknooppunten en 3 automatische back-upknooppunten voor u"
+   },
+   "backup_with_device": {
+      "message": "Sync met andere apparaten"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Focus op het verzamelen van gratis en hoogwaardige niet-galerij type fotografie"
+   },
+   "basic_info": {
+      "message": "Algemene informatie"
+   },
+   "bg_color": {
+      "message": "Achtergrondkleur"
+   },
+   "bg_updating": {
+      "message": "In de upgrade, even geduld aub ..."
+   },
+   "bind": {
+      "message": "Koppelen"
+   },
+   "bind_success": {
+      "message": "Koppeling geslaagd"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing is een zoekmachine ontwikkeld door Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Dagelijkse Bing Wallpaper Library"
+   },
+   "bookmarks": {
+      "message": "Bladwijzers"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ ondersteunt deze functie niet",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "cancel_login": {
+      "message": "Inloggen annuleren"
+   },
+   "cancel_remind_time": {
+      "message": "Annuleer de herinneringstijd"
+   },
+   "cancel_set_top": {
+      "message": "Losmaken"
+   },
+   "cannot_change_password": {
+      "message": "U kunt geen wachtwoord wijzigen als u inlogt met een account van derden"
+   },
+   "cannot_change_profile": {
+      "message": "Gebruikers van derden die inloggen, kunnen geen profielinformatie wijzigen"
+   },
+   "cannot_download": {
+      "message": "Downloads worden niet ondersteund"
+   },
+   "cannot_empty": {
+      "message": "Mag niet leeg zijn"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Verander de herinneringstijd"
+   },
+   "change_wallpaper": {
+      "message": "Verander achtergrond"
+   },
+   "check_olddata_desc": {
+      "message": "Er wordt gedetecteerd dat er een oude versie is van de Legacy-gegevens, die kunnen worden geüpgraded. Als u nodig hebt, probeert u deze gegevens te upgraden"
+   },
+   "choose_sync_type": {
+      "message": "Kies accountgegevens"
+   },
+   "chose_from_mypc": {
+      "message": "Maak mijn behangbibliotheek"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$-apps",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - Extensions"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Voer de chrome://settings/appearance in de adresbalk in en voer de pagina Instellingen in."
+   },
+   "chrome_browser_guide2": {
+      "message": "Schuif naar beneden naar de onderkant en selecteer de optie aangegeven door de pijl in de afbeelding."
+   },
+   "chrome_browser_guide3": {
+      "message": "Voer URL https://inftab.com in het pop-upvenster in en klik vervolgens op de knop Toevoegen om de startpagina-instelling te voltooien."
+   },
+   "clear_historys": {
+      "message": "Geschiedenis wissen"
+   },
+   "col_gap": {
+      "message": "Kolomafstand"
+   },
+   "col_num": {
+      "message": "Rijen"
+   },
+   "color": {
+      "message": "Kleur"
+   },
+   "color_icon": {
+      "message": "Effen kleur pictogram"
+   },
+   "come_from": {
+      "message": "Van gebruiker"
+   },
+   "comming_soon": {
+      "message": "Binnenkort beschikbaar"
+   },
+   "comming_soon_title": {
+      "message": "Infinity Mobile-versie is onderweg"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Weet u zeker dat u alle geschiedenisrecords wilt wissen?"
+   },
+   "confirm_cover_remote": {
+      "message": "Lokale gegevens worden opgeslagen in een handmatige back-upknooppunt"
+   },
+   "confirm_del_folder": {
+      "message": "Weet u zeker dat u deze map wilt verwijderen?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Weet je zeker dat je de voltooide items wilt verwijderen?"
+   },
+   "confirm_delete_note": {
+      "message": "Bevestig de verwijdering van de notitie?"
+   },
+   "confirm_logout": {
+      "message": "Afmelden"
+   },
+   "confirm_password": {
+      "message": "Bevestig het nieuwe wachtwoord"
+   },
+   "confirm_password_2": {
+      "message": "Wachtwoord bevestigen"
+   },
+   "confirm_recovery_data": {
+      "message": "Cloudgegevens zullen lokale gegevens vervangen. Weet je het zeker in deze actie?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Weet je zeker dat je deze behangbibliotheek wilt verwijderen?"
+   },
+   "confirm_unbind": {
+      "message": "Koppel dit account los?"
+   },
+   "confirm_unbind_email": {
+      "message": "Weet je zeker dat je je e-mail $email$ wilt losmaken?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Weet je zeker dat je je telefoonnummer $phone_number$ wilt losmaken?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Contact ingenieur"
+   },
+   "contact_us": {
+      "message": "Contact"
+   },
+   "copy": {
+      "message": "Kopieer"
+   },
+   "cubic_bezier": {
+      "message": "Terugslaan"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Profielfoto"
+   },
+   "current_browser_not_support": {
+      "message": "De huidige browser ondersteunt geen uitbreidingsbeheer"
+   },
+   "current_no_reminders": {
+      "message": "Geen taken"
+   },
+   "current_node": {
+      "message": "Huidig knooppunt"
+   },
+   "custom": {
+      "message": "Aanpassen"
+   },
+   "custom_icon": {
+      "message": "Pictogram aanpassen"
+   },
+   "custom_layout": {
+      "message": "Lay-out aanpassen"
+   },
+   "custom_site": {
+      "message": "Aangepaste website"
+   },
+   "default": {
+      "message": "Standaard"
+   },
+   "del_folder": {
+      "message": "Verwijderen"
+   },
+   "delete_all_bookmarks": {
+      "message": "Alle bladwijzers onder deze map verwijderen"
+   },
+   "disable_chrome_app": {
+      "message": "Applicatie uitschakelen"
+   },
+   "disable_extension": {
+      "message": "Uitbreidingen uitschakelen"
+   },
+   "do_later": {
+      "message": "Praat er later over"
+   },
+   "done": {
+      "message": "Gereed"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Download CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Download huidige behang"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DUCKDUCKGO richt zich op het importeren van inhoud van grote web 2.0-sites, naast het zijn van een traditionele zoekmachines is de filosofie van de website om de privacy van gebruikers te respecteren, veelbelovend niet te controleren of de inhoud van de zoekopdracht te controleren of te documenteren."
+   },
+   "ease_in": {
+      "message": "Vervagen in"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Voer edge://settings/onStartup in de browseradresbalk in en druk op de toets Enter."
+   },
+   "edge_browser_guide2": {
+      "message": "Klik op de optie geïndicateerd door de pijl in de afbeelding."
+   },
+   "edge_browser_guide3": {
+      "message": "Voer URL https://inftab.com in het pop-upvenster in en klik vervolgens op de knop Toevoegen om de startpagina-instelling te voltooien."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Bewerken"
+   },
+   "edit_avatar": {
+      "message": "Avatar bewerken"
+   },
+   "edit_content": {
+      "message": "Inhoud bewerken"
+   },
+   "edit_icon": {
+      "message": "Pictogram bewerken"
+   },
+   "education": {
+      "message": "Onderwijs en banen"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_code": {
+      "message": "E-mailverificatie"
+   },
+   "email_format_error": {
+      "message": "E-mailformaat is onjuist"
+   },
+   "email_or_phone_number_tips": {
+      "message": "E-mail of mobiel telefoonnummer"
+   },
+   "empty": {
+      "message": "Leeg"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Wilt u de map verwijderen?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Wilt u deze bladwijzer wissen?"
+   },
+   "ensure_logout": {
+      "message": "Weet je zeker dat je wilt uitloggen?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "Vul uw takenlijst in, voeg items toe door op Enter te klikken"
+   },
+   "enter_password_tips": {
+      "message": "Wachtwoordzin opgeven"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Vul het juiste telefoonnummer"
+   },
+   "enter_verification_code_tips": {
+      "message": "Geef de verificatiecode op"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Exporteer back-upgegevens"
+   },
+   "export_local_data_desc": {
+      "message": "Exporteren van huidige lokale gegevens"
+   },
+   "extension": {
+      "message": "Extensies"
+   },
+   "extension_app": {
+      "message": "Extensies"
+   },
+   "extension_des": {
+      "message": "Vriendelijke website-pictogrammen toevoegen, geniet van high-definition cloud drive wallpapers, en snel toegang krijgen tot bladwijzers, weersinformatie, notities, takenlijsten, uitbreidingsbeheer en geschiedenis op een nieuwe tabblad pagina, gekozen door miljoenen gebruikers."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP stelt u in staat om uw nieuwe tabbladpagina aan te passen"
+   },
+   "extension_des_firefox": {
+      "message": "Het nieuwe tabblad gekozen door miljoenen, wat de productiviteit aanzienlijk kan verbeteren. Inclusief webpictogrammen, zoekmachines, hd wallpapers, weer, notities, bladwijzers, takenlijst, geschiedenis, uitbreidingsbeheer, enz."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro stelt u in staat om uw nieuwe tabbladpagina aan te passen"
+   },
+   "extension_mananger": {
+      "message": "Extensies beheren"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Aansluiten bij Facebookgroep"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "female": {
+      "message": "Vrouw"
+   },
+   "filter": {
+      "message": "Filteren"
+   },
+   "finance": {
+      "message": "financiën"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox add-on store"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Invoer about: preferences #home in de adresbalk om de instellingspagina in te voeren."
+   },
+   "firefox_browser_guide2": {
+      "message": "Zoals weergegeven door de pijl in de afbeelding, selecteert u de optie van aangepaste URL's."
+   },
+   "firefox_browser_guide3": {
+      "message": "Voer de URL https://inftab.com in het tekstvak in, de startpagina-instelling is voltooid."
+   },
+   "five_star": {
+      "message": "Geef ons 5 sterren"
+   },
+   "folder": {
+      "message": "Map"
+   },
+   "follow_us": {
+      "message": "Volg ons"
+   },
+   "follow_wechat": {
+      "message": "Volg Infinity Wechat Public-account"
+   },
+   "follow_wechat_desc": {
+      "message": "Let op ons Wechat Public Number (Micro Signal: InfinityDaily), krijg oneindig laatste productdynamica en u kunt meer plezier ontdekken om uit te breiden en website."
+   },
+   "font": {
+      "message": "Lettertypen"
+   },
+   "font_color": {
+      "message": "Kleur lettertype"
+   },
+   "font_size": {
+      "message": "Tekstgrootte"
+   },
+   "food_drink": {
+      "message": "Voedsel"
+   },
+   "forget_password": {
+      "message": "Wachtwoord vergeten"
+   },
+   "format_error": {
+      "message": "Indelingsfout"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Grote hoeveelheid royalty-vrije foto's, Gratis te gebruiken en bijgewerkt dagelijks"
+   },
+   "fri": {
+      "message": "vrijdag"
+   },
+   "fri_min": {
+      "message": "Vrij"
+   },
+   "fully_authorized_to_use": {
+      "message": "Volledig gemachtigd om functies te gebruiken"
+   },
+   "games": {
+      "message": "Gaming en entertainment"
+   },
+   "gamil_notice": {
+      "message": "Gmail-meldingen"
+   },
+   "gender": {
+      "message": "Selecteer geslacht"
+   },
+   "get_app_permission": {
+      "message": "Autoriseren om uw lokale app te krijgen"
+   },
+   "get_cloud_icon": {
+      "message": "Online verwerven"
+   },
+   "give_money": {
+      "message": "Doneren"
+   },
+   "give_money_thanks": {
+      "message": "Uw steun is onze grootste beloning"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Als u van Infinity New Tab-pagina houdt, beoordeelt u onze service of geef ons feedback om ons IGN te helpen."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Als u vragen of suggesties heeft, neem dan contact met ons op."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail Notification Ringtone"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search is een zoekmachine die is ontwikkeld door Google. Het is de grootste, meest invloedrijke zoekmachine op internet"
+   },
+   "have_todo_item": {
+      "message": "Je hebt momenteel een to-do item"
+   },
+   "hide_homepage_btn": {
+      "message": "Verberg instellen als Home-knop"
+   },
+   "hide_icon_name": {
+      "message": "Pictogramnaam verbergen"
+   },
+   "hide_search_button": {
+      "message": "Zoekknop verbergen"
+   },
+   "hide_search_category": {
+      "message": "Zoekcategorie verbergen"
+   },
+   "hide_search_input": {
+      "message": "Zoekvak verbergen"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Verberg instellen als Home-knop"
+   },
+   "hint": {
+      "message": "Fooi"
+   },
+   "history": {
+      "message": "Geschiedenis"
+   },
+   "history_backup_list": {
+      "message": "Geschiedenis back-upknooppuntlijst"
+   },
+   "history_week": {
+      "message": "Zoek naar de geschiedenis binnen een week"
+   },
+   "host_permission": {
+      "message": "Gastrechten"
+   },
+   "hour": {
+      "message": "uur"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Ik wil belonen"
+   },
+   "icon": {
+      "message": "Pictogram"
+   },
+   "icon_added": {
+      "message": "Toegevoegd"
+   },
+   "icon_bg_text": {
+      "message": "Pictogramtekst"
+   },
+   "icon_network_error": {
+      "message": "Netwerkuitzondering, klik om te herladen"
+   },
+   "ignore": {
+      "message": "Negeren"
+   },
+   "img_verify_code": {
+      "message": "Verificatieafbeelding"
+   },
+   "import_data": {
+      "message": "Importeer back-upgegevens"
+   },
+   "import_data_desc": {
+      "message": "Herstel gegevens van back-upbestand"
+   },
+   "import_select_tile": {
+      "message": "Gegevens selecteren"
+   },
+   "infinity_bookmarks": {
+      "message": "Maak je favoriete maphiërarchie af en vind bladwijzers gemakkelijker met Infinity-bladwijzers"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity Featured Anime Wallpapers"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Hoogwaardige Infinity Anime Wallpaper Library"
+   },
+   "infinity_extension": {
+      "message": "Beheer uw $browser$extensies en apps gemakkelijk met Infinity Extension Manager",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Bekijk en beheer snel uw browsergeschiedenis met Infinity History"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Featured Landscape Wallpapers"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Hoogwaardige Infinity Landschap Wallpaper Library"
+   },
+   "infinity_notes": {
+      "message": "Record de inspiraties van het leven snel met Infinity Notes"
+   },
+   "infinity_settings": {
+      "message": "Personaliseer uw Infinity New Tab-pagina met Infinity-instellingen"
+   },
+   "infinity_todos": {
+      "message": "Schik uw taken op volgorde en verbeter uw werkefficiëntie met Infinity To-do-lijst"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Library biedt u rijke en opwindende wallpapers"
+   },
+   "infinity_weather": {
+      "message": "Infinity Weer biedt u weersvoorspellingen van steden over de hele wereld"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "inportdata_desc": {
+      "message": "De geïmporteerde gegevens zijn inconsistent met de lokale gegevens. Selecteer samenvoegen of overschrijven."
+   },
+   "input_and_search": {
+      "message": "Zoeken openen"
+   },
+   "input_city": {
+      "message": "Voer stad/regio in"
+   },
+   "input_new_password": {
+      "message": "Nieuw wachtwoord opgeven"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Gekoppeld"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Gratis foto's voor enig doel"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "De inhoud in het zoekvak behouden"
+   },
+   "label": {
+      "message": "Labels"
+   },
+   "language": {
+      "message": "Taal"
+   },
+   "language_select": {
+      "message": "Taal selecteren"
+   },
+   "last_sync_time": {
+      "message": "LAATSTE SYNC TIJD: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Laatst bijgewerkt"
+   },
+   "layout": {
+      "message": "Opmaak"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Gratis HD Wallpaper Source"
+   },
+   "life_style": {
+      "message": "Leefstijl"
+   },
+   "limit_input_length": {
+      "message": "Tekstlengte buiten limiet"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Lokaal pictogram"
+   },
+   "local_wallpaper2": {
+      "message": "Lokale achtergronden"
+   },
+   "login": {
+      "message": "Inloggen"
+   },
+   "login_abandon_tips": {
+      "message": "De huidige inlogmethode wordt binnenkort verwijderd, bind uw e-mail of andere externe account zo snel mogelijk na aanmelding"
+   },
+   "login_now": {
+      "message": "Log in op uw Infinity-account nu om te genieten van meer rechten"
+   },
+   "login_now_btn": {
+      "message": "Log in"
+   },
+   "login_register": {
+      "message": "Login / Aanmelden"
+   },
+   "loging": {
+      "message": "Inloggen"
+   },
+   "logout": {
+      "message": "Afmelden"
+   },
+   "logout_clear_something": {
+      "message": "Wis gepersonaliseerde instellingen en andere informatie op dit apparaat"
+   },
+   "logout_tips": {
+      "message": "Moet u lokale gegevens wissen voordat u zich afmeldt bij uw account om gegevens van verschillende accounts op dit apparaat te voorkomen?"
+   },
+   "logout_warn": {
+      "message": "Na het uitloggen van het account, worden alle back-upinformatie onder dit account verwijderd. Weet u zeker dat u u wilt afmelden bij dit account? (Afbeelding van notities en aangepaste behangbibliotheken zijn mogelijk niet beschikbaar)"
+   },
+   "male": {
+      "message": "Man"
+   },
+   "manage_backup_node": {
+      "message": "Beheren van geschiedenis back-upknooppunten"
+   },
+   "manul_backup": {
+      "message": "Handmatige backup"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "Dim de behang"
+   },
+   "me": {
+      "message": "Ik"
+   },
+   "merge_cloud_local": {
+      "message": "Combineer lokale en cloudgegevens"
+   },
+   "merge_data": {
+      "message": "Gegevens samenvoegen"
+   },
+   "mini_mode": {
+      "message": "Minimalistische modus"
+   },
+   "mins": {
+      "message": "Min."
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Gebruik op uw websites, thema's, sjablonen, projecten, afdrukmaterialen en kranten. Elke week worden nieuwe wallpapers en video's toegevoegd"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobiele versie"
+   },
+   "modify": {
+      "message": "Gegevens bewerken"
+   },
+   "modify_email": {
+      "message": "E-mail aanpassen"
+   },
+   "modify_password": {
+      "message": "Wachtwoord bewerken"
+   },
+   "modify_phone_number": {
+      "message": "Modify phone number"
+   },
+   "modify_pwd": {
+      "message": "Wachtwoord bewerken"
+   },
+   "modify_success": {
+      "message": "Wijziging gelukt"
+   },
+   "modify_this": {
+      "message": "Bewerken"
+   },
+   "mon": {
+      "message": "maandag"
+   },
+   "mon_min": {
+      "message": "Maa"
+   },
+   "month_1": {
+      "message": "Januari"
+   },
+   "month_10": {
+      "message": "Oktober"
+   },
+   "month_11": {
+      "message": "November"
+   },
+   "month_12": {
+      "message": "December"
+   },
+   "month_2": {
+      "message": "Februari"
+   },
+   "month_3": {
+      "message": "maart"
+   },
+   "month_4": {
+      "message": "April"
+   },
+   "month_5": {
+      "message": "Mei"
+   },
+   "month_6": {
+      "message": "Juni"
+   },
+   "month_7": {
+      "message": "Juli"
+   },
+   "month_8": {
+      "message": "Augustus"
+   },
+   "month_9": {
+      "message": "September"
+   },
+   "more_content_from_site": {
+      "message": "Meer inhoud van deze website"
+   },
+   "most_used_in_chinese": {
+      "message": "De zoekmachine gebruikt het meest door Chinees"
+   },
+   "music_video": {
+      "message": "Muziekvideo"
+   },
+   "my_collection": {
+      "message": "Mijn collectie"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Voer de naam van de website in"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Natuur"
+   },
+   "need_you_permission": {
+      "message": "Toestemming vereist"
+   },
+   "network_error": {
+      "message": "Netwerkfout"
+   },
+   "new_email": {
+      "message": "Nieuwe e-mail"
+   },
+   "new_password": {
+      "message": "Nieuw wachtwoord opgeven"
+   },
+   "new_phone_number": {
+      "message": "Nieuw telefoonnummer"
+   },
+   "new_tab": {
+      "message": "Nieuw tabblad"
+   },
+   "new_tab_web": {
+      "message": "Infinity Homepage"
+   },
+   "news": {
+      "message": "Nieuws"
+   },
+   "next": {
+      "message": "Volgende"
+   },
+   "nickname": {
+      "message": "Bijnaam"
+   },
+   "no_account_register": {
+      "message": "Geen account? Registreer nu."
+   },
+   "no_backup_time": {
+      "message": "Geen"
+   },
+   "no_bookmark_result": {
+      "message": "Geen bladwijzer"
+   },
+   "no_chrome_app": {
+      "message": "U hebt geen $browser$-apps geïnstalleerd",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Geen weersinformatie"
+   },
+   "no_data": {
+      "message": "Geen data"
+   },
+   "no_description": {
+      "message": "Geen beschrijving"
+   },
+   "no_more": {
+      "message": "Niet meer"
+   },
+   "no_more_reminder": {
+      "message": "Niet meer tonen"
+   },
+   "no_permission_text": {
+      "message": "Het wordt aanbevolen om deze toestemming in de browseradresbalk of instellingencentrum te openen en te verlenen."
+   },
+   "no_permission_title": {
+      "message": "De toestemming is nog niet verleend"
+   },
+   "no_permission_to_open_app": {
+      "message": "Geen toestemming om de $browser$-app te openen",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Geen taken"
+   },
+   "no_search_result": {
+      "message": "Geen zoekresultaat"
+   },
+   "no_title": {
+      "message": "Geen titel"
+   },
+   "none": {
+      "message": "Verborgen"
+   },
+   "none_auto_backup": {
+      "message": "Er zijn momenteel geen geplande back-ups"
+   },
+   "none_auto_backup_desc": {
+      "message": "Geplande back-ups start op dezelfde dag dat u informatie over het oneindige wijzigt"
+   },
+   "none_manual_backup": {
+      "message": "Er zijn momenteel geen handmatige back-ups"
+   },
+   "normal_model": {
+      "message": "Standaardmodus"
+   },
+   "not_binding": {
+      "message": "Niet gekoppeld"
+   },
+   "note_title": {
+      "message": "Voer de titel van de Notes in"
+   },
+   "note_upload_img_15": {
+      "message": "Dit beeldformaat mag niet groter zijn dan 15M"
+   },
+   "notes": {
+      "message": "Notities"
+   },
+   "notice": {
+      "message": "Kennisgeving"
+   },
+   "ocean": {
+      "message": "Zee"
+   },
+   "one_day_later": {
+      "message": "Herinner me hier morgen aan"
+   },
+   "one_week_later": {
+      "message": "Herinner me over 1 week"
+   },
+   "only_used_infinity": {
+      "message": "Alleen gebruikt voor interity interne modules"
+   },
+   "opacity": {
+      "message": "Doorzichtigheid icoonen"
+   },
+   "open_all": {
+      "message": "Alles openen"
+   },
+   "open_chrome_app": {
+      "message": "App inschakelen"
+   },
+   "open_extension": {
+      "message": "Schakel extensie in"
+   },
+   "open_folder_icons": {
+      "message": "Alles openen"
+   },
+   "open_new_tab": {
+      "message": "Open de website in het nieuwe tabblad"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Open een bladwijzer link in het nieuwe tabblad"
+   },
+   "open_newtab_history": {
+      "message": "Open geschiedenis in het nieuwe tabblad"
+   },
+   "open_newtab_show_search": {
+      "message": "Open zoekresultaten van derden in het nieuwe tabblad"
+   },
+   "origin_password": {
+      "message": "Huidig wachtwoord"
+   },
+   "other_bookmarks": {
+      "message": "Andere bladwijzers"
+   },
+   "others": {
+      "message": "Overige"
+   },
+   "oversize": {
+      "message": "Grootte kan niet groter zijn dan 2 MB"
+   },
+   "overwrite_data": {
+      "message": "Overschrijf gegevens"
+   },
+   "pagin": {
+      "message": "knop Pagina draaien"
+   },
+   "password": {
+      "message": "Wachtwoord"
+   },
+   "password_dont_empty": {
+      "message": "Het wachtwoord mag niet leeg zijn"
+   },
+   "password_length_low": {
+      "message": "Wachtwoord niet minder dan 6 cijfers"
+   },
+   "password_not_equals": {
+      "message": "Wachtwoorden komen niet overeen"
+   },
+   "password_not_some": {
+      "message": "De ingevoerde wachtwoorden komen niet overeen"
+   },
+   "permission": {
+      "message": "Autoriseren"
+   },
+   "permission_all": {
+      "message": "Autoriseer alles"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Verzoek om toegang te krijgen tot en wijzig uw gegevens op mail.google.com; Verzoek om meldingen te tonen"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail-meldingen"
+   },
+   "permission_gmail_num_content": {
+      "message": "Verzoek om toegang te krijgen tot en wijzig uw gegevens op mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Toegang tot Gmail-hoeveelheid"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Verzoek om toegang te krijgen tot en wijzig uw gegevens op Google.com en suggestie.baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Zoeksuggestie"
+   },
+   "permission_todo_notice_content": {
+      "message": "Vraag de weergavemelding aan"
+   },
+   "permission_todo_notice_title": {
+      "message": "Todo kennisgeving"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Verzoek om toegang te krijgen tot iconen die overeenkomen met websites, en toegang tot en wijzig uw bladwijzers"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Toon bladwijzers bovenop"
+   },
+   "permission_top_useful_content": {
+      "message": "Verzoek om toegang te krijgen tot iconen die overeenkomen met websites, en toegang tot en wijzig uw lijst van meest vaak websites"
+   },
+   "permission_top_useful_title": {
+      "message": "Toon veelgebruikte sites bovenaan"
+   },
+   "permisson_label": {
+      "message": "Rechten"
+   },
+   "phone_number": {
+      "message": "Telefoonnummer"
+   },
+   "photos": {
+      "message": "Afbeeldingen"
+   },
+   "pick_local_wallpaper": {
+      "message": "Selecteer een lokale achtergrond"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Gratis en prachtige foto's die beschikbaar zijn voor elk gebruik"
+   },
+   "placeholder_name": {
+      "message": "Naam"
+   },
+   "please_chose_picture": {
+      "message": "Selecteer Afbeelding"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Voer een bladwijzernaam in"
+   },
+   "please_enter_email": {
+      "message": "E-mailadres invoeren"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Voer de beeldverificatiecode in"
+   },
+   "please_enter_nickname": {
+      "message": "Bijnaam invoeren"
+   },
+   "please_enter_phone": {
+      "message": "Voer het telefoonnummer in"
+   },
+   "please_enter_right_account": {
+      "message": "Voer de juiste e-mail of telefoonnummer in"
+   },
+   "please_enter_text": {
+      "message": "Input Text"
+   },
+   "please_enter_url": {
+      "message": "Typ een URL"
+   },
+   "please_input_bg_text": {
+      "message": "Voer de tekst van het pictogram in"
+   },
+   "please_pre_login": {
+      "message": "Gelieve eerst in te loggen"
+   },
+   "please_re_login": {
+      "message": "Meld je opnieuw aan"
+   },
+   "please_set_your_password": {
+      "message": "Stel een wachtwoord in"
+   },
+   "please_type_link": {
+      "message": "Vul koppeling"
+   },
+   "please_type_right_link": {
+      "message": "Voer het juiste koppelingsadres in"
+   },
+   "please_upload_photos": {
+      "message": "Gelieve de foto te uploaden"
+   },
+   "popular": {
+      "message": "Populair"
+   },
+   "preview": {
+      "message": "Voorbeeld"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Privacy en gegevensverzameling"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Afbeeldingen gegenereerd door aangepast website pictogram"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Afbeeldingen gegenereerd door aangepaste zoekmachine"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Uw geregistreerde e-mailadres, geüploade profielfoto, gekozen bijnaam, niet-duidelijke tekstwachtwoord en andere informatie"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Als u zich aanmeldt met een account van derden, slaan wij uw bijnaam, gender, profielfoto en andere informatie door de derde partij op"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Website icon informatie en zoekmachine-informatie die u hebt toegevoegd"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Weerinformatie in uw regio of weersinformatie op andere gebieden die u instelt"
+   },
+   "privacy_data_item_2_5": {
+      "message": "To-do-lijsten die u hebt gemaakt"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Inhoud van notities die u hebt gemaakt en afbeeldingen geüpload in uw Notes"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Uw huidige wallpaper, wallpaper-instellingen, afbeeldingen die zijn geüpload naar uw lokale achtergrond en afbeeldingen die zijn geüpload naar uw lokale behangbibliotheek"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Verlengingsinstellingen"
+   },
+   "privacy_data_item_3_1": {
+      "message": "De server kan logboeken opslaan die worden gegenereerd tijdens interacties met gebruikers en klanten. Dit record wordt voornamelijk gebruikt om uitzonderingsfouten op te lossen. We zullen dit logboek van tijd tot tijd wissen."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Browser type, taal en versie en schermresolutie"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Is momenteel ingelogd of niet"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Geschat aantal huidige pictogrammen"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Extensies momenteel ingeschakeld (als u uitgebreide managementfuncties gebruikt)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Aantal keren dat deze extensie is geopend"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP-adres en geografische locatie afgeleid van IP-adres"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Website pictogrammen en zoekmachines toegevoegd"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Achtergrond- en uitbreidingsinstellingen"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Verlengingsversie"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Frequentie van het klikken op functieknoppen"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Uitzonderingsfoutmelding"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Open de adreshost van de website"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Huidige zoekmachine host"
+   },
+   "privacy_data_item_5_1": {
+      "message": "We zullen anoniem het aantal keren tellen dat sommige zoekmachines worden gebruikt."
+   },
+   "privacy_data_item_9": {
+      "message": "U moet akkoord gaan met dit privacybeleid voordat u deze extensie kunt gebruiken. Bekijk onze $the_infinity_privacy$ om meer te leren.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Nee, verzamel de anonieme gegevens niet"
+   },
+   "privacy_data_title_1": {
+      "message": "We kunnen afbeeldingen opslaan die tijdens gebruik vrijwillig door gebruikers zijn gegenereerd. De volgende afbeeldingen worden anoniem opgeslagen:"
+   },
+   "privacy_data_title_2": {
+      "message": "Als u zich registreert of inlogt bij uw account, moeten we de volgende identificeerbare gegevens opslaan (hierna aangeduid als gebruikersgegevens) op onze server om gegevensback-up en synchronisatie te voltooien:"
+   },
+   "privacy_data_title_3": {
+      "message": "Serverlog:"
+   },
+   "privacy_data_title_4": {
+      "message": "Het verzamelen van de volgende informatie is optioneel. De informatie wordt anoniem verzameld via Google Analytics Help ons onze producten te verbeteren:"
+   },
+   "privacy_data_title_5": {
+      "message": "Statistische analyse:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Bevestig alstublieft om Infinity New Tab-pagina te verwijderen"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Bevestig om Infinity New Tab Pro te verwijderen"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Infinity New Tab-pagina verwijderen?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Verwijder Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Ja, de anonieme gegevens kunnen worden verzameld in overeenstemming met het Privacybeleid"
+   },
+   "privacy_disagree": {
+      "message": "Niet akkoord"
+   },
+   "privacy_policy": {
+      "message": "privacybeleid"
+   },
+   "privacy_title": {
+      "message": "Privacybeleidovereenkomst"
+   },
+   "profile": {
+      "message": "Persoonlijke informatie"
+   },
+   "pure_color": {
+      "message": "Pure kleur"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ-groep"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Willekeurige achtergronden"
+   },
+   "re_update": {
+      "message": "Opnieuw upgraden"
+   },
+   "read": {
+      "message": "Lezen"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Groot aantal HD-foto's beschikbaar voor persoonlijk en commercieel gebruik, 7 nieuwe wekelijks"
+   },
+   "recently_add": {
+      "message": "Recent toegevoegd"
+   },
+   "recently_use": {
+      "message": "Recent gebruikt"
+   },
+   "recover_error": {
+      "message": "Gegevensherstel mislukt"
+   },
+   "recover_error_version": {
+      "message": "Niet ondersteund data-formaat"
+   },
+   "recover_this": {
+      "message": "Herstellen van dit knooppunt"
+   },
+   "redius": {
+      "message": "Pictogram afgeronde hoeken"
+   },
+   "refresh_qrcode": {
+      "message": "De QR-code is ongeldig, klik op Vernieuwen"
+   },
+   "register": {
+      "message": "Registreren"
+   },
+   "register_back": {
+      "message": "Terug"
+   },
+   "register_get_email_code_error": {
+      "message": "Kon verificatiecode niet ophalen"
+   },
+   "register_now": {
+      "message": "Registreer nu uw Infinity-account om te genieten van meer rechten"
+   },
+   "relative_humidity": {
+      "message": "Relatieve luchtvochtigheid"
+   },
+   "reload": {
+      "message": "Opnieuw proberen"
+   },
+   "reminder_update_text1": {
+      "message": "Voor jou om een ​​betere ervaring te krijgen van het gebruik van Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Het wordt aanbevolen om de browser te upgraden naar de laatste versie, en het wordt aanbevolen om een browser compatibel met Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Foutweergave op pagina"
+   },
+   "remove_account": {
+      "message": "Account verwijderen"
+   },
+   "remove_done": {
+      "message": "Verwijderen voltooid to-do-items"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Alle wallpapers onder deze behangbibliotheek worden samen verwijderd"
+   },
+   "rename_folder": {
+      "message": "Naam wijzigen"
+   },
+   "repair_auto_backup": {
+      "message": "Automatisch back-ups maken van gegevens"
+   },
+   "repair_concat": {
+      "message": "contact details"
+   },
+   "repair_concat_email": {
+      "message": "E-mail: "
+   },
+   "repair_concat_qq": {
+      "message": "Ingenieur qq: "
+   },
+   "repair_data": {
+      "message": "Reparatiegegevens"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Stuur ons het te repareren gegevensbestand via de volgende contactgegevens, en we zullen u zo snel mogelijk helpen de gegevens te herstellen. Probeer geen andere handelingen uit te voeren voordat de monteur het probleem oplost. Dit bestand kan gevoelige informatie bevatten, zoals accounts, deel dit niet aan anderen."
+   },
+   "repair_data_title": {
+      "message": "Verloren of beschadigde gegevens ophalen"
+   },
+   "repair_export_btn": {
+      "message": "Exportgegevens worden gerepareerd"
+   },
+   "repeat_city": {
+      "message": "Je kunt niet opnieuw dezelfde stad toevoegen"
+   },
+   "reqeust_login_message": {
+      "message": "Je moet zijn ingelogd om deze functie te gebruiken"
+   },
+   "request_logout_confirm": {
+      "message": "Je account verwijderen?"
+   },
+   "request_reset_all_settings": {
+      "message": "Weet u zeker dat u de instellingen wilt resetten naar standaardwaarden?"
+   },
+   "reset": {
+      "message": "Resetten"
+   },
+   "reset_password": {
+      "message": "Wachtwoorden resetten"
+   },
+   "reset_password_by_email": {
+      "message": "Reset uw wachtwoord via e-mailverificatie"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Reset uw wachtwoord via e-mail of telefoonnummerverificatie"
+   },
+   "reset_setting": {
+      "message": "Instellingen resetten"
+   },
+   "reset_your_password": {
+      "message": "Stel alstublieft uw wachtwoord opnieuw in"
+   },
+   "restore_setting": {
+      "message": "Instellingen herstellen"
+   },
+   "revovery_data": {
+      "message": "Gegevens herstellen"
+   },
+   "row_gap": {
+      "message": "Regelafstand"
+   },
+   "row_num": {
+      "message": "Kolommen"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Klik op de optie zoals weergegeven door de pijl in de afbeelding."
+   },
+   "safari_browser_guide2": {
+      "message": "Voer in het pop-upvenster de URL https://inftab.com in de kolom voor de startpagina in."
+   },
+   "safari_browser_guide3": {
+      "message": "Klik op de knop onder de URL om de startpagina-instelling te voltooien."
+   },
+   "sat": {
+      "message": "zaterdag"
+   },
+   "sat_min": {
+      "message": "Zat"
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "scale": {
+      "message": "Pictogramgrootte"
+   },
+   "scale_main": {
+      "message": "Schermzoom"
+   },
+   "scale_side": {
+      "message": "Zij kolom Zoom"
+   },
+   "scheduled_backup": {
+      "message": "Planning back-up"
+   },
+   "search": {
+      "message": "Zoeken"
+   },
+   "search_bookmark": {
+      "message": "Zoek in je bladwijzers"
+   },
+   "search_engine": {
+      "message": "Zoekmachine"
+   },
+   "search_engine_error": {
+      "message": "Voer naam van zoekmachine in"
+   },
+   "search_error": {
+      "message": "Laad mislukt"
+   },
+   "search_extension": {
+      "message": "Extensies zoeken"
+   },
+   "search_from": {
+      "message": "Gezocht van: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Zoekpictogram"
+   },
+   "search_input": {
+      "message": "zoekvak"
+   },
+   "search_input_shadow": {
+      "message": "Zoekdoos schaduw"
+   },
+   "search_opacity": {
+      "message": "Onderzoek naar het vakje"
+   },
+   "search_redius": {
+      "message": "Zoekdoos afgeronde hoeken"
+   },
+   "search_result": {
+      "message": "Zoekresultaten"
+   },
+   "search_size": {
+      "message": "Zoekdoos grootte"
+   },
+   "search_suggest": {
+      "message": "Zoeksuggesties tonen"
+   },
+   "search_website": {
+      "message": "Sites zoeken"
+   },
+   "searching": {
+      "message": "Zoeken"
+   },
+   "select_date": {
+      "message": "Datum selecteren"
+   },
+   "select_icon": {
+      "message": "Selecteer het pictogram"
+   },
+   "select_time": {
+      "message": "Tijd selecteren"
+   },
+   "send_success": {
+      "message": "Verificatie-mail verstuurd. Controleer uw inbox"
+   },
+   "set_homepage_desc": {
+      "message": "Installeer de extensie voor browser om van volledige functies te genieten"
+   },
+   "set_homepage_title2": {
+      "message": "Deze functie wordt niet ondersteund in de huidige versie_#_Installeer de browserextensie voor gebruik"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Stel Infinity in als de startpagina voor uw browser"
+   },
+   "set_new_password": {
+      "message": "Stel nieuw wachtwoord in"
+   },
+   "set_remind_time": {
+      "message": "Stel de herinneringstijd in"
+   },
+   "set_setting_default": {
+      "message": "Terugzetten naar standaard"
+   },
+   "set_to_homepage": {
+      "message": "Instellen als startpagina"
+   },
+   "set_top": {
+      "message": "Bovenaan"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "stel bijnaam en avatar in"
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "shadow": {
+      "message": "Pictogrammen schaduw"
+   },
+   "share": {
+      "message": "Delen"
+   },
+   "share_by_user": {
+      "message": "gebruikers delen"
+   },
+   "share_desc": {
+      "message": "Infinity Nieuwe tabblad, een navigatie-extensie gekozen door miljoenen, het meest gebruiksvriendelijke nieuwe tabblad op browser"
+   },
+   "share_title": {
+      "message": "Het is mogelijk het beste nieuwe tabblad op de browser $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Winkelen en groep kopen"
+   },
+   "shortcut_mode": {
+      "message": "Express-modus"
+   },
+   "show_detail": {
+      "message": "Kijk nu"
+   },
+   "show_gamil_unread_number": {
+      "message": "Toon aantal ongelezen e-mails van Gmail op het pictogram"
+   },
+   "show_later": {
+      "message": "Herinner me hier later aan"
+   },
+   "show_name": {
+      "message": "Schermnaam"
+   },
+   "show_reminders_number": {
+      "message": "Toon aantal aan-do's op het pictogram"
+   },
+   "skip": {
+      "message": "Overslaan"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Een plek om foto's te vinden, weer te geven en te delen"
+   },
+   "social": {
+      "message": "Social media en blogs"
+   },
+   "solid_color_wallpaper": {
+      "message": "Enkel kleurenbehang"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Zoekmachine die kan zoeken naar inhoud Geplaatst door WeChat Officiële Accounts"
+   },
+   "sports": {
+      "message": "Sport en reizen"
+   },
+   "start_animation": {
+      "message": "Start animatie"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Zorg voor start-ups, bloggers, uitgevers, websites, ontwerpers, ontwikkelaars, makers en verder met gratis foto's"
+   },
+   "street_photography": {
+      "message": "Straat"
+   },
+   "sun": {
+      "message": "Zondag"
+   },
+   "sun_min": {
+      "message": "zon"
+   },
+   "support": {
+      "message": "Ondersteuning"
+   },
+   "switch_to": {
+      "message": "Overschakelen naar"
+   },
+   "sync_fail": {
+      "message": "Synchroniseren mislukt; probeer opnieuw"
+   },
+   "sync_suncess": {
+      "message": "Synchronisatie compleet"
+   },
+   "sync_type_tips": {
+      "message": "De cloudgegevens en lokale gegevens worden gedetecteerd om inconsistent te zijn. Kies een soort gegevens."
+   },
+   "syncing": {
+      "message": "Bezig met synchroniseren van gegevens..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "U hebt deze $browser$-app niet geïnstalleerd",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Manier om het doel te openen"
+   },
+   "tech": {
+      "message": "Technologie"
+   },
+   "technology": {
+      "message": "Technologie"
+   },
+   "term_of_use": {
+      "message": "Gebruiksvoorwaarden"
+   },
+   "text": {
+      "message": "Tekst"
+   },
+   "text_shadow": {
+      "message": "Schaduw tekst"
+   },
+   "thirt_party": {
+      "message": "Gebruik een login van een externe account"
+   },
+   "thu": {
+      "message": "donderdag"
+   },
+   "thu_min": {
+      "message": "Don"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Open een website en voer \"% S\" in het vak Zoeken om te zoeken. (Met Google als een voorbeeld)"
+   },
+   "tip_question_2": {
+      "message": "2. Kopieer de URL van het zoekresultaat rechtstreeks"
+   },
+   "tip_question_3": {
+      "message": "3. Plak hier de gekopieerde URL en je bent klaar"
+   },
+   "tip_question_title": {
+      "message": "Over het gebruik van \"% S\" om de zoektermen te vervangen"
+   },
+   "to_login": {
+      "message": "Log nu in"
+   },
+   "today": {
+      "message": "Vandaag"
+   },
+   "todo_welcome": {
+      "message": "Welkom bij Infinity New Tab-pagina. Dit is een voorbeeld-to-do-item."
+   },
+   "todos": {
+      "message": "Taken"
+   },
+   "top_bookmark": {
+      "message": "Toon bladwijzers bovenop"
+   },
+   "top_use_ful": {
+      "message": "Toon veelgebruikte sites bovenaan"
+   },
+   "travel": {
+      "message": "Reizen"
+   },
+   "tue": {
+      "message": "dinsdag"
+   },
+   "tue_min": {
+      "message": "Din"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Herinner me over 2 uur"
+   },
+   "type_link": {
+      "message": "Link invoeren"
+   },
+   "type_text": {
+      "message": "Input Text"
+   },
+   "unbind": {
+      "message": "Loskoppelen"
+   },
+   "unbind_btn": {
+      "message": "Ontkoppelen"
+   },
+   "unbind_email": {
+      "message": "Ontkoppel dit e-mailadres"
+   },
+   "unbind_phone_number": {
+      "message": "Ontkoppel uw gsm-nummer"
+   },
+   "unbind_success": {
+      "message": "Met succes verwijderd"
+   },
+   "uninstall_agree": {
+      "message": "Akkoord"
+   },
+   "uninstall_chrome_app": {
+      "message": "App verwijderen"
+   },
+   "uninstall_extension": {
+      "message": "Extensie verwijderen"
+   },
+   "unknown_mistake": {
+      "message": "Onbekende fout"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "World-gerenommeerde wallpapers van hoge kwaliteit"
+   },
+   "unzip_folder_content": {
+      "message": "De map wordt verwijderd en het pictogram wordt bewaard. Weet je het zeker?"
+   },
+   "unzip_folder_title": {
+      "message": "Release"
+   },
+   "update_data": {
+      "message": "Upgrade-gegevens"
+   },
+   "update_data_failure": {
+      "message": "Profiel bijwerken mislukt"
+   },
+   "update_desc_1": {
+      "message": "Als de gegevensconversie tijdens de versie-upgrade is mislukt, kunt u proberen gegevens opnieuw te upgraden."
+   },
+   "update_desc_2": {
+      "message": "Als je het probleem nog steeds meerdere keren niet kunt oplossen, kun je contact opnemen met onze ingenieurs, we zullen proberen je te helpen oplossen."
+   },
+   "update_desc_3": {
+      "message": "Conversiegegevens overschrijft nieuwe versie-gegevens, het wordt aanbevolen dat u een back-up van gegevens maakt voordat u werkt."
+   },
+   "update_error_desc1": {
+      "message": "U kunt proberen opnieuw te upgraden als u sommige gegevens detecteert."
+   },
+   "update_error_desc2": {
+      "message": "Als u meerdere upgrades faalt, kunt u ook klikken op het pictogram \"Instellingen\" in de rechterbovenhoek om te openen - [Mijn] - [Back-up en reparatie]."
+   },
+   "update_now": {
+      "message": "Nu bijwerken"
+   },
+   "update_or_repair_data": {
+      "message": "Upgrade of repareer gegevens"
+   },
+   "upload_avatar_failure": {
+      "message": "Uw avatar-afbeelding kon niet geüpload worden"
+   },
+   "upload_file_error": {
+      "message": "Uploaden van het bestand is mislukt"
+   },
+   "upload_image_error": {
+      "message": "Foto laden mislukt"
+   },
+   "uploading": {
+      "message": "Uploaden..."
+   },
+   "use_cloud": {
+      "message": "Gebruik cloudgegevens"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Voer tekst in en druk op ENTER om toe te voegen"
+   },
+   "use_local": {
+      "message": "Gebruik lokale gegevens"
+   },
+   "use_mobile_screen": {
+      "message": "Gebruik een mobiel apparaat om de QR-code te scannen"
+   },
+   "user_evaluation": {
+      "message": "Evaluatie van de gebruiker"
+   },
+   "username_cannot_empty": {
+      "message": "Gebruikersnaam kan niet leeg zijn"
+   },
+   "verify_password_desc": {
+      "message": "Voer het accountwachtwoord voor uw accountveiligheid in voor uw accountveiligheid"
+   },
+   "verity_code": {
+      "message": "Verificatiecode versturen"
+   },
+   "verity_code_no_value": {
+      "message": "De verificatiecode mag niet leeg zijn"
+   },
+   "videos": {
+      "message": "Videobestanden"
+   },
+   "view": {
+      "message": "Weergave"
+   },
+   "w309": {
+      "message": "Motregen"
+   },
+   "w_100": {
+      "message": "Zonnig"
+   },
+   "w_101": {
+      "message": "Wolkje"
+   },
+   "w_102": {
+      "message": "Weinig bewolking"
+   },
+   "w_103": {
+      "message": "Deels bewolkt"
+   },
+   "w_104": {
+      "message": "Bewolkt"
+   },
+   "w_200": {
+      "message": "Winderig"
+   },
+   "w_201": {
+      "message": "Rustig"
+   },
+   "w_202": {
+      "message": "Licht winderig"
+   },
+   "w_203": {
+      "message": "Matige wind"
+   },
+   "w_204": {
+      "message": "Frisse wind"
+   },
+   "w_205": {
+      "message": "Vrij krachtige wind"
+   },
+   "w_206": {
+      "message": "Harde wind"
+   },
+   "w_207": {
+      "message": "Strakke wind"
+   },
+   "w_208": {
+      "message": "Krachtige wind"
+   },
+   "w_209": {
+      "message": "Stormen"
+   },
+   "w_210": {
+      "message": "Stormachtig"
+   },
+   "w_211": {
+      "message": "Orkaan"
+   },
+   "w_212": {
+      "message": "Tornado"
+   },
+   "w_213": {
+      "message": "Tropische storm"
+   },
+   "w_300": {
+      "message": "Regenbuien"
+   },
+   "w_301": {
+      "message": "Zware regenbui"
+   },
+   "w_302": {
+      "message": "Onweersbuien"
+   },
+   "w_303": {
+      "message": "Zware onweersbui"
+   },
+   "w_304": {
+      "message": "Onweer met natte sneeuw"
+   },
+   "w_305": {
+      "message": "Lichte regen"
+   },
+   "w_306": {
+      "message": "Matige regen"
+   },
+   "w_307": {
+      "message": "Zware regen"
+   },
+   "w_308": {
+      "message": "Er zijn extreme regen"
+   },
+   "w_310": {
+      "message": "Regenbui"
+   },
+   "w_311": {
+      "message": "Zware storm"
+   },
+   "w_312": {
+      "message": "Buitengewone stortbui"
+   },
+   "w_313": {
+      "message": "Aanvriezende regen"
+   },
+   "w_314": {
+      "message": "Lichte regen tot matige regen"
+   },
+   "w_315": {
+      "message": "Gematigd tot zware regen"
+   },
+   "w_316": {
+      "message": "Zware regen tot storm"
+   },
+   "w_317": {
+      "message": "Storm tot zware storm"
+   },
+   "w_318": {
+      "message": "Stortbui tot hevige regen"
+   },
+   "w_399": {
+      "message": "Regen"
+   },
+   "w_400": {
+      "message": "Lichte sneeuwval"
+   },
+   "w_401": {
+      "message": "Matige sneeuwval"
+   },
+   "w_402": {
+      "message": "Zware sneeuwval"
+   },
+   "w_403": {
+      "message": "Sneeuwstorm"
+   },
+   "w_404": {
+      "message": "Winterse neerslag"
+   },
+   "w_405": {
+      "message": "Ijzel"
+   },
+   "w_406": {
+      "message": "Natte sneeuwbuien"
+   },
+   "w_407": {
+      "message": "Sneeuwvlaag"
+   },
+   "w_408": {
+      "message": "Lichte tot matige sneeuwval"
+   },
+   "w_409": {
+      "message": "Matige tot zware sneeuwval"
+   },
+   "w_410": {
+      "message": "Hevig tot sneeuwstorm"
+   },
+   "w_499": {
+      "message": "Sneeuw"
+   },
+   "w_500": {
+      "message": "Mist"
+   },
+   "w_501": {
+      "message": "Mist"
+   },
+   "w_502": {
+      "message": "Droge mist"
+   },
+   "w_503": {
+      "message": "Zand"
+   },
+   "w_504": {
+      "message": "Stof"
+   },
+   "w_507": {
+      "message": "Zandstorm"
+   },
+   "w_508": {
+      "message": "Sterke zandstorm"
+   },
+   "w_509": {
+      "message": "Dichte mist"
+   },
+   "w_510": {
+      "message": "Zeer dichte mist"
+   },
+   "w_511": {
+      "message": "Matige nevel"
+   },
+   "w_512": {
+      "message": "Zware nevel"
+   },
+   "w_513": {
+      "message": "Ernstige nevel"
+   },
+   "w_514": {
+      "message": "Mistig"
+   },
+   "w_515": {
+      "message": "Zware mist"
+   },
+   "w_900": {
+      "message": "Heet"
+   },
+   "w_901": {
+      "message": "Koud"
+   },
+   "w_999": {
+      "message": "Onbekend"
+   },
+   "wallpaper": {
+      "message": "Achtergrond"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Aangepaste kleur toevoegen"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Kan geen afbeelding toevoegen. Probeer het later nog eens."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Lokale behang-app is mislukt. Probeer het later nog eens"
+   },
+   "wallpaper_applying_library": {
+      "message": "Wallpaper Library wordt toegepast..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Behang vernieuwen frequentie"
+   },
+   "wallpaper_choose_library": {
+      "message": "Kies Wallpaper Source"
+   },
+   "wallpaper_choose_single": {
+      "message": "Een achtergrond selecteren"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Selectie wissen"
+   },
+   "wallpaper_cloud": {
+      "message": "Cloud wallpaper"
+   },
+   "wallpaper_collect_current": {
+      "message": "Verzamel huidig ​​behang"
+   },
+   "wallpaper_common_color": {
+      "message": "Voorkomende kleur"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Deze achtergrond verwijderen?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Kan geen lokale achtergrondbibliotheek maken. Probeer het later nog eens."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "De aangepaste behangbibliotheek van de gebruiker overschrijdt de limiet"
+   },
+   "wallpaper_custom_color": {
+      "message": "Aangepaste kleur"
+   },
+   "wallpaper_delete_color": {
+      "message": "Verwijder deze kleur"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Met succes verwijderd"
+   },
+   "wallpaper_delete_file": {
+      "message": "Achtergrond verwijderen"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Kan behang niet verwijderen"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Schakel automatisch behangschakelen uit"
+   },
+   "wallpaper_empty_text": {
+      "message": "Geen data"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Achtergrond kon niet worden opgehaald"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Kan gebruiker behang niet krijgen"
+   },
+   "wallpaper_library": {
+      "message": "Achtergrond bibliotheek"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$'s local Wallpaper Library",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Illegale behang-bibliotheeknaam"
+   },
+   "wallpaper_library_preview": {
+      "message": "Voorbeeld van achtergrond"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Upload maximaal 20 wallpapers. Elk behang mag niet hoger zijn dan 10 m."
+   },
+   "wallpaper_loading": {
+      "message": "Bezig met verwerken..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Je hebt netwerkverbinding nodig om dit te kunnen doen"
+   },
+   "wallpaper_remove_library": {
+      "message": "Deze behangbibliotheek verwijderen"
+   },
+   "wallpaper_sort_default": {
+      "message": "Standaardsortering"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Populariteit"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Geleend op"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Schakel elke 24 uur"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Wallpaper ruilen mislukt"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Werk uw dagelijkse achtergronden bij met Bing. U kunt de schakelfrequentie niet kiezen."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Schakelaar elk 1 uur"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Schakel elke 12 uur"
+   },
+   "wallpaper_switch_success": {
+      "message": "Willekeurig behang is succesvol gewijzigd"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Verander naar volgende behang"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Schakelaar bij het openen van een nieuw tabblad"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Schakelen bij het openen van de pagina"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Bestand uploaden mislukt. Reden: de grootte overschrijdt limiet"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Selecteer een lokale achtergrond"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Ten minste één behang is vereist"
+   },
+   "want_more": {
+      "message": "Geniet direct van meer voordelen"
+   },
+   "weather": {
+      "message": "Weer"
+   },
+   "weather_empty": {
+      "message": "Geen weersinformatie momenteel beschikbaar"
+   },
+   "web_set_home_title": {
+      "message": "Hoe instelt u Infinity als de startpagina"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Websitenaam"
+   },
+   "website_search_replace_char": {
+      "message": "URL (gebruik% s om het zoeken woord te vervangen)"
+   },
+   "wechat": {
+      "message": "\"Wechat \""
+   },
+   "wed": {
+      "message": "woensdag"
+   },
+   "wed_min": {
+      "message": "Woe"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Windkracht"
+   },
+   "wind_mill": {
+      "message": "Geef de willekeurige behangknop in de rechterbenedenhoek weer"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search is een zoekmachine die wordt beheerd door Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex is een van de belangrijkste internetserviceportals in Rusland"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$jaar$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Gisteren"
+   },
+   "you_need_login": {
+      "message": "Log in op het Infinity-account om deze functie te gebruiken"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Uw browse-record wordt hier weergegeven"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

@@ -1,0 +1,2413 @@
+{
+   "360_desc": {
+      "message": "Bezpečný vyhľadávací motor"
+   },
+   "about": {
+      "message": "Informácie"
+   },
+   "about_us": {
+      "message": "O nás"
+   },
+   "account_expired": {
+      "message": "Test Váš účet vypršala, znova sa prihláste"
+   },
+   "account_setting": {
+      "message": "Nastavenia účtu"
+   },
+   "add": {
+      "message": "Pridať"
+   },
+   "add_city": {
+      "message": "Pridať mesto"
+   },
+   "add_first_note": {
+      "message": "Vytvorte svoju prvú poznámku"
+   },
+   "add_icon_success": {
+      "message": "úspešne pridané"
+   },
+   "add_link": {
+      "message": "Pridať odkaz"
+   },
+   "add_new_search_engine": {
+      "message": "Pridajte nový vyhľadávač"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Nová knižnica tapety"
+   },
+   "add_search_engine": {
+      "message": "Pridať vyhľadávač"
+   },
+   "add_success": {
+      "message": "Úspešne pridané"
+   },
+   "add_to_home_site": {
+      "message": "Pridať do domácej stránky"
+   },
+   "add_to_infinity": {
+      "message": "Pridať do Infinity NEW KARTA"
+   },
+   "additional_search_engine": {
+      "message": "Priložený vyhľadávací nástroj"
+   },
+   "air_pressure": {
+      "message": "Tlak"
+   },
+   "all_wallpaper_sources": {
+      "message": "Všetky tapety"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Všetky zdroje tapiet"
+   },
+   "ambiguity": {
+      "message": "zmätenosť"
+   },
+   "animals": {
+      "message": "Zvieratá"
+   },
+   "animation": {
+      "message": "Animácie"
+   },
+   "animation_tips": {
+      "message": "Spustenie animácie môže ovplyvniť hladkosť"
+   },
+   "anime": {
+      "message": "Komiksy"
+   },
+   "any_money": {
+      "message": "Akékoľvek"
+   },
+   "app": {
+      "message": "Aplikácia"
+   },
+   "app_disabled_enable_first": {
+      "message": "Ste túto aplikáciu zakázali. Nechajte nekonečno povoliť túto aplikáciu ako prvý?"
+   },
+   "application": {
+      "message": "Aplikácia"
+   },
+   "apply": {
+      "message": "Použiť"
+   },
+   "architecture": {
+      "message": "Architektúra"
+   },
+   "athletics": {
+      "message": "Šport"
+   },
+   "avatar": {
+      "message": "Vyberte si avatar"
+   },
+   "backing_up": {
+      "message": "Zálohovanie…"
+   },
+   "backup_and_recovery": {
+      "message": "Zálohovanie a obnovenie"
+   },
+   "backup_failed": {
+      "message": "Záloha zlyhala"
+   },
+   "backup_now": {
+      "message": "Zálohovať"
+   },
+   "backup_successful": {
+      "message": "úspešné BackUp"
+   },
+   "backup_tips": {
+      "message": "Udržiavame maximálne 3 manuálne záložné uzly a 3 automatické záložné uzly pre vás"
+   },
+   "backup_with_device": {
+      "message": "Synchronizácia s ostatnými zariadeniami"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Zamerajte sa na zhromažďovanie voľného a vysoko kvalitného fotografovania typu non-galle"
+   },
+   "basic_info": {
+      "message": "Všeobecné informácie"
+   },
+   "bg_color": {
+      "message": "Farba pozadia"
+   },
+   "bg_updating": {
+      "message": "V aktualizácii čakajte ..."
+   },
+   "bind": {
+      "message": "Priradiť"
+   },
+   "bind_success": {
+      "message": "Priradenie úspešné"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing je vyhľadávač vyvinutý spoločnosťou Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Denná knižnica tapety"
+   },
+   "bookmarks": {
+      "message": "Záložky"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ túto vlastnosť nepodporuje",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Zrušiť"
+   },
+   "cancel_login": {
+      "message": "Zrušiť prihlasovanie"
+   },
+   "cancel_remind_time": {
+      "message": "Zrušiť čas pripomenutia"
+   },
+   "cancel_set_top": {
+      "message": "Odopnúť"
+   },
+   "cannot_change_password": {
+      "message": "Prihlásenie prostredníctvom účtu tretej strany nepodporuje zmenu hesla"
+   },
+   "cannot_change_profile": {
+      "message": "Používatelia tretích strán, ktorí sa prihlásia, nemôžu upraviť informácie o profile"
+   },
+   "cannot_download": {
+      "message": "Sťahovanie nie je podporované"
+   },
+   "cannot_empty": {
+      "message": "Nemôže byť prázdne"
+   },
+   "celsius": {
+      "message": "Stupne Celzia"
+   },
+   "change_remind_time": {
+      "message": "Zmeniť čas pripomienok"
+   },
+   "change_wallpaper": {
+      "message": "Zmeniť tapetu"
+   },
+   "check_olddata_desc": {
+      "message": "Zistí sa, že existuje stará verzia starších údajov, ktoré môžu byť aktualizované. Ak potrebujete, pokúste sa aktualizovať tieto údaje"
+   },
+   "choose_sync_type": {
+      "message": "Vyberte údaje o účte"
+   },
+   "chose_from_mypc": {
+      "message": "Vytvorte moju knižnicu tapety"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "Aplikácie $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - rozšírenia"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Vstup chrome://settings/appearance v paneli s adresou a zadajte stránku Nastavenia."
+   },
+   "chrome_browser_guide2": {
+      "message": "Posuňte dole na dole a vyberte možnosť označenú šípkou na obrázku."
+   },
+   "chrome_browser_guide3": {
+      "message": "Zadajte adresu URL https://inftab.com V kontextové okno a potom kliknite na tlačidlo Pridať na dokončenie nastavenia domovskej stránky."
+   },
+   "clear_historys": {
+      "message": "Vymazať históriu"
+   },
+   "col_gap": {
+      "message": "Rozostupy stĺpcov"
+   },
+   "col_num": {
+      "message": "Riadkov"
+   },
+   "color": {
+      "message": "Farba"
+   },
+   "color_icon": {
+      "message": "Ikona pevnej farby"
+   },
+   "come_from": {
+      "message": "Od užívateľa"
+   },
+   "comming_soon": {
+      "message": "Čoskoro prídem"
+   },
+   "comming_soon_title": {
+      "message": "Infinity Mobile verzia je na ceste"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Potvrdzujete, že chcete vymazať všetky záznamy histórie?"
+   },
+   "confirm_cover_remote": {
+      "message": "Miestne údaje sa uložia do manuálneho záložného uzla"
+   },
+   "confirm_del_folder": {
+      "message": "Naozaj chcete odstrániť tento priečinok?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Ste si istý, že chcete odstrániť dokončené položky?"
+   },
+   "confirm_delete_note": {
+      "message": "Potvrdiť vymazanie poznámky?"
+   },
+   "confirm_logout": {
+      "message": "Odhlásiť sa"
+   },
+   "confirm_password": {
+      "message": "Potvrď nové heslo"
+   },
+   "confirm_password_2": {
+      "message": "Potvrďte heslo"
+   },
+   "confirm_recovery_data": {
+      "message": "Údaje o oblakoch nahradia lokálne údaje. Ste si istý, že o tejto akcii?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Ste si istý, že chcete odstrániť túto knižnicu tapety?"
+   },
+   "confirm_unbind": {
+      "message": "Odpojiť?"
+   },
+   "confirm_unbind_email": {
+      "message": "Ste si istý, že chcete odoprieť e-mail $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Ste si istý, že chcete odhlásiť svoje telefónne číslo $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Kontaktný inžinier"
+   },
+   "contact_us": {
+      "message": "Kontaktujte nás"
+   },
+   "copy": {
+      "message": "Kopírovať"
+   },
+   "cubic_bezier": {
+      "message": "Kopni späť"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Profilová fotka"
+   },
+   "current_browser_not_support": {
+      "message": "Aktuálny prehliadač nepodporuje riadenie rozšírenia"
+   },
+   "current_no_reminders": {
+      "message": "Žiadne úlohy"
+   },
+   "current_node": {
+      "message": "Aktuálny uzol"
+   },
+   "custom": {
+      "message": "Prispôsobiť"
+   },
+   "custom_icon": {
+      "message": "Prispôsobiť ikonu"
+   },
+   "custom_layout": {
+      "message": "Prispôsobiť zobrazenie"
+   },
+   "custom_site": {
+      "message": "Vlastné webové stránky"
+   },
+   "default": {
+      "message": "Predvolené"
+   },
+   "del_folder": {
+      "message": "Odstrániť"
+   },
+   "delete_all_bookmarks": {
+      "message": "Vymazať všetky záložky v tomto priečinku"
+   },
+   "disable_chrome_app": {
+      "message": "Zakázať aplikáciu"
+   },
+   "disable_extension": {
+      "message": "Vypnúť rozšírenia"
+   },
+   "do_later": {
+      "message": "Hovorte o tom neskôr"
+   },
+   "done": {
+      "message": "Hotovo"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Stiahnite si CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Stiahnite si aktuálne tapety"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Duckduckgo sa zameriava na import obsahu z hlavných webových stránok Okrem toho, že je tradičné vyhľadávacie nástroje, filozofia webovej stránky je rešpektovať súkromie používateľov, sľubuje, že nebude monitorovať alebo dokumentujte obsah vyhľadávania."
+   },
+   "ease_in": {
+      "message": "Postupné zosvetlenie"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Zadajte edge://settings/onStartup v paneli s adresou prehliadača a potom stlačte kláves ENTER."
+   },
+   "edge_browser_guide2": {
+      "message": "Kliknite na možnosť označenú šípkou na obrázku."
+   },
+   "edge_browser_guide3": {
+      "message": "Zadajte adresu URL https://inftab.com V kontextové okno a potom kliknite na tlačidlo Pridať na dokončenie nastavenia domovskej stránky."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Upraviť"
+   },
+   "edit_avatar": {
+      "message": "Upraviť avatara"
+   },
+   "edit_content": {
+      "message": "Upraviť obsah"
+   },
+   "edit_icon": {
+      "message": "Upraviť ikonu"
+   },
+   "education": {
+      "message": "Vzdelávanie a zamestnanosť"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_code": {
+      "message": "Overenie e-mailu"
+   },
+   "email_format_error": {
+      "message": "Zadaná e-mailová adresa je neplatná"
+   },
+   "email_or_phone_number_tips": {
+      "message": "E-mailové alebo mobilné telefónne číslo"
+   },
+   "empty": {
+      "message": "prázdny"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Potvrdiť vymazanie priečinku?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Naozaj chcete túto záložku vymazať?"
+   },
+   "ensure_logout": {
+      "message": "Naozaj sa chcete odhlásiť?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "vyplniť zoznam úloh, pridať položky kliknutím Enter"
+   },
+   "enter_password_tips": {
+      "message": "Zadajte prístupovú frázu"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Prosím, zadajte správne telefónne číslo"
+   },
+   "enter_verification_code_tips": {
+      "message": "Zadajte overovací kód"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Údaje o exporte"
+   },
+   "export_local_data_desc": {
+      "message": "Export z aktuálnych lokálnych údajov"
+   },
+   "extension": {
+      "message": "Rozšírenia"
+   },
+   "extension_app": {
+      "message": "Rozšírenia"
+   },
+   "extension_des": {
+      "message": "Voľne pridajte ikony webových stránok, vychutnajte si tapety s vysokým rozlíšením cloud cloud a rýchlo prístup k záložkám, informáciám o počasí, poznámky, to-do zoznamu, Riadenie rozšírenia a histórie na novom záložke, ktorú si vybrali milióny užívateľov."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP vám umožňuje prispôsobiť svoju novú stránku"
+   },
+   "extension_des_firefox": {
+      "message": "Výber miliónov používateľov môže výrazne zvýšiť produktivitu.Zahŕňa webové ikony, vyhľadávače, tapety vo vysokom rozlíšení, počasie, poznámky, záložky, položky úloh, históriu, správu rozšírení a ďalšie funkcie."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro vám umožňuje prispôsobiť svoju novú stránku"
+   },
+   "extension_mananger": {
+      "message": "Spravovať rozšírenia"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Pripojiť sa k skupine na Facebooku"
+   },
+   "fahrenheit": {
+      "message": "Stupne Fahrenheita"
+   },
+   "feedback": {
+      "message": "Spätná väzba"
+   },
+   "female": {
+      "message": "Žena"
+   },
+   "filter": {
+      "message": "Filter"
+   },
+   "finance": {
+      "message": "financie"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Doplnkový obchod Firefox"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Vstup about: preferences #home v paneli s adresou zadajte stránku nastavenia."
+   },
+   "firefox_browser_guide2": {
+      "message": "Ako je znázornené šípkou na obrázku, vyberte možnosť vlastných adries URL."
+   },
+   "firefox_browser_guide3": {
+      "message": "Zadajte adresu URL https://inftab.com V textovom poli je nastavenie domovskej stránky dokončené."
+   },
+   "five_star": {
+      "message": "Ohodnoťte 5 hviezdičkami"
+   },
+   "folder": {
+      "message": "Priečinok"
+   },
+   "follow_us": {
+      "message": "Sledujte nás"
+   },
+   "follow_wechat": {
+      "message": "Sledujte verejný účet Infinity Wechat"
+   },
+   "follow_wechat_desc": {
+      "message": "Venujte pozornosť nášmu verejnému číslu Wechat (Micro Signal: InfinityDaily), získajte Infinity Newnity Product Dynamics a môžete objaviť viac zábavy na rozšírenie a webovú stránku."
+   },
+   "font": {
+      "message": "Písma"
+   },
+   "font_color": {
+      "message": "Farba písma"
+   },
+   "font_size": {
+      "message": "Veľkosť textu"
+   },
+   "food_drink": {
+      "message": "Potraviny"
+   },
+   "forget_password": {
+      "message": "Zabudol som heslo"
+   },
+   "format_error": {
+      "message": "Chyba formátu"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Veľké množstvo fotografií zadarmo, bezplatné použitie a aktualizované denne"
+   },
+   "fri": {
+      "message": "Piatok"
+   },
+   "fri_min": {
+      "message": "Pia"
+   },
+   "fully_authorized_to_use": {
+      "message": "Plne oprávnené používať funkcie"
+   },
+   "games": {
+      "message": "Gaming a zábava"
+   },
+   "gamil_notice": {
+      "message": "Upozornenia Gmail"
+   },
+   "gender": {
+      "message": "Vyberte pohlavie"
+   },
+   "get_app_permission": {
+      "message": "Autorizujte, aby ste získali miestnu aplikáciu"
+   },
+   "get_cloud_icon": {
+      "message": "Získať online"
+   },
+   "give_money": {
+      "message": "Prispieť"
+   },
+   "give_money_thanks": {
+      "message": "Vaša podpora je našou najväčšou odmenou"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Ak sa vám páči Infinity Nová záložka, prosím, ohodnoťte našu službu alebo nám poskytnite spätnú väzbu, aby ste nám pomohli zapadať."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Ak máte akékoľvek otázky alebo návrhy, kontaktujte nás."
+   },
+   "gmail_notice_voice": {
+      "message": "Vyzváňanie notifikácie Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Vyhľadávanie Google je vyhľadávač vyvinutý spoločnosťou Google. Je to najväčší, najvplyvnejší vyhľadávač na internete"
+   },
+   "have_todo_item": {
+      "message": "V súčasnosti máte úlohu"
+   },
+   "hide_homepage_btn": {
+      "message": "Skryť sadu ako domovské tlačidlo"
+   },
+   "hide_icon_name": {
+      "message": "Skryť názov ikony"
+   },
+   "hide_search_button": {
+      "message": "Skryť tlačidlo vyhľadávania"
+   },
+   "hide_search_category": {
+      "message": "Skryť kategóriu vyhľadávania"
+   },
+   "hide_search_input": {
+      "message": "Skryť vyhľadávacie pole"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Skryť sadu ako domovské tlačidlo"
+   },
+   "hint": {
+      "message": "Tip"
+   },
+   "history": {
+      "message": "História"
+   },
+   "history_backup_list": {
+      "message": "História Zálohovací uzol Zoznam"
+   },
+   "history_week": {
+      "message": "Hľadať históriu do týždňa"
+   },
+   "host_permission": {
+      "message": "Hostiteľské povolenia"
+   },
+   "hour": {
+      "message": "hodina"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Chcem odmeniť"
+   },
+   "icon": {
+      "message": "Ikona"
+   },
+   "icon_added": {
+      "message": "Pridané"
+   },
+   "icon_bg_text": {
+      "message": "Text ikony"
+   },
+   "icon_network_error": {
+      "message": "Sieťová výnimka, kliknutím načítať znova"
+   },
+   "ignore": {
+      "message": "Ignorovať"
+   },
+   "img_verify_code": {
+      "message": "Overovací obrázok"
+   },
+   "import_data": {
+      "message": "Dovoz údajov o zálohovaní"
+   },
+   "import_data_desc": {
+      "message": "Obnoviť údaje zo záložného súboru"
+   },
+   "import_select_tile": {
+      "message": "Výber dát"
+   },
+   "infinity_bookmarks": {
+      "message": "Sploštenie priečinkov záložky hierarchia a nájsť záložky ľahšie s Infinity Bookmarks"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity predstavoval anime tapety"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Vysoko kvalitné Infinity Anime Wallpaper Library"
+   },
+   "infinity_extension": {
+      "message": "Spravujte rozšírenia chrómu a aplikácie jednoducho s Infinity Extension Manager"
+   },
+   "infinity_history": {
+      "message": "Rýchlo zobraziť a spravovať históriu prehliadača s históriou Infinity"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity predstavoval tapety na plochu"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Kvalitná knižnica Infinity Landscape Knižnica"
+   },
+   "infinity_notes": {
+      "message": "Inšpirácie života rýchlo s nekonečnými poznámkami"
+   },
+   "infinity_settings": {
+      "message": "Prispôsobte si svoju stránku Infinity NEW TAGE s nastaveniami nekonečno"
+   },
+   "infinity_todos": {
+      "message": "Usporiadajte svoje úlohy v poradí a zlepšite svoju efektivitu práce s Infinity To-úloh"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Library vám poskytuje bohaté a vzrušujúce tapety"
+   },
+   "infinity_weather": {
+      "message": "Nekonečné počasie vám poskytuje predpovede počasia miest po celom svete"
+   },
+   "info": {
+      "message": "Informácie"
+   },
+   "inportdata_desc": {
+      "message": "Dovážané údaje nie sú v súlade s miestnymi údajmi. Prosím vyberte zlúčenie alebo prepísanie."
+   },
+   "input_and_search": {
+      "message": "Prejsť na vyhľadávanie"
+   },
+   "input_city": {
+      "message": "Zadajte mesto/región"
+   },
+   "input_new_password": {
+      "message": "Zadajte nové heslo"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Priradené"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Voľné fotografie pre akýkoľvek účel"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Uchovávať obsah v vyhľadávacej kolónke"
+   },
+   "label": {
+      "message": "Menovky"
+   },
+   "language": {
+      "message": "Jazyk"
+   },
+   "language_select": {
+      "message": "Zvoľte jazyk"
+   },
+   "last_sync_time": {
+      "message": "Posledná synchronizovaná doba: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Dátum poslednej aktualizácie"
+   },
+   "layout": {
+      "message": "Rozloženie"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "ZADARMO HD Zdroj tapety"
+   },
+   "life_style": {
+      "message": "Životný štýl"
+   },
+   "limit_input_length": {
+      "message": "Dĺžka textu nad rámec limitu"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Miestna ikona"
+   },
+   "local_wallpaper2": {
+      "message": "Miestne tapety"
+   },
+   "login": {
+      "message": "Prihlásiť sa"
+   },
+   "login_abandon_tips": {
+      "message": "Aktuálny spôsob prihlásenia bude čoskoro odstránený. Zviažte svoj e-mail alebo iný účet tretej strany čo najskôr po prihlásení"
+   },
+   "login_now": {
+      "message": "Prihláste sa do svojho účtu Infinity, aby ste si užívali viac oprávnení"
+   },
+   "login_now_btn": {
+      "message": "Prihlásiť sa"
+   },
+   "login_register": {
+      "message": "Prihlásiť sa / Vytvoriť účet"
+   },
+   "loging": {
+      "message": "Prihlásenie"
+   },
+   "logout": {
+      "message": "Odhlásiť sa"
+   },
+   "logout_clear_something": {
+      "message": "Vymazať personalizované nastavenia a ďalšie informácie v tomto zariadení"
+   },
+   "logout_tips": {
+      "message": "Potrebujete vymazať lokálne údaje predtým, ako sa odhlásite z vášho účtu, aby ste predišli údajom z rôznych účtov v tomto zariadení z pripojenia?"
+   },
+   "logout_warn": {
+      "message": "Po odhlásení z účtu budú všetky informácie o zálohovaní na základe tohto účtu odstránené. Ste si istý, že sa chcete odhlásiť z tohto účtu? (Obrázok poznámok a vlastných knižníc tapety nemusia byť k dispozícii)"
+   },
+   "male": {
+      "message": "Muž"
+   },
+   "manage_backup_node": {
+      "message": "Správa História Zálohovanie uzlov"
+   },
+   "manul_backup": {
+      "message": "Manuálne zálohovanie"
+   },
+   "map": {
+      "message": "Mapy"
+   },
+   "mask_density": {
+      "message": "Stilujte tapetu"
+   },
+   "me": {
+      "message": "Ja"
+   },
+   "merge_cloud_local": {
+      "message": "Kombinovať miestne a cloudové údaje"
+   },
+   "merge_data": {
+      "message": "Zlúčiť údaje"
+   },
+   "mini_mode": {
+      "message": "Minimalistický režim"
+   },
+   "mins": {
+      "message": "min."
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Použite na svojich webových stránkach, témach, šablónach, projektoch, tlačových materiáloch a novinách. Každý týždeň sa pridávajú nové tapety a videá"
+   },
+   "mobile_devices": {
+      "message": "Mobilná verzia Infinity"
+   },
+   "modify": {
+      "message": "Úprava údajov"
+   },
+   "modify_email": {
+      "message": "Upraviť e-mail"
+   },
+   "modify_password": {
+      "message": "Upraviť heslo"
+   },
+   "modify_phone_number": {
+      "message": "Upravte telefónne číslo"
+   },
+   "modify_pwd": {
+      "message": "Upraviť heslo"
+   },
+   "modify_success": {
+      "message": "Zmeniť úspešne"
+   },
+   "modify_this": {
+      "message": "Upraviť"
+   },
+   "mon": {
+      "message": "Pondelok"
+   },
+   "mon_min": {
+      "message": "Pon"
+   },
+   "month_1": {
+      "message": "Január"
+   },
+   "month_10": {
+      "message": "Október"
+   },
+   "month_11": {
+      "message": "November"
+   },
+   "month_12": {
+      "message": "December"
+   },
+   "month_2": {
+      "message": "Február"
+   },
+   "month_3": {
+      "message": "Marec"
+   },
+   "month_4": {
+      "message": "Apríl"
+   },
+   "month_5": {
+      "message": "Máj"
+   },
+   "month_6": {
+      "message": "Jún"
+   },
+   "month_7": {
+      "message": "Júl"
+   },
+   "month_8": {
+      "message": "August"
+   },
+   "month_9": {
+      "message": "September"
+   },
+   "more_content_from_site": {
+      "message": "Viac Obsah z tejto webovej stránky"
+   },
+   "most_used_in_chinese": {
+      "message": "Vyhľadávač používal najviac čínskymi"
+   },
+   "music_video": {
+      "message": "Hudobné video"
+   },
+   "my_collection": {
+      "message": "Moja kolekcia"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Zadajte názov stránky"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Príroda"
+   },
+   "need_you_permission": {
+      "message": "Vyžaduje sa povolenie"
+   },
+   "network_error": {
+      "message": "Chyba siete"
+   },
+   "new_email": {
+      "message": "Nový email"
+   },
+   "new_password": {
+      "message": "Zadajte nové heslo"
+   },
+   "new_phone_number": {
+      "message": "Nové telefónne číslo"
+   },
+   "new_tab": {
+      "message": "Nová karta"
+   },
+   "new_tab_web": {
+      "message": "Infinity Domovská stránka"
+   },
+   "news": {
+      "message": "Správy"
+   },
+   "next": {
+      "message": "Ďalej"
+   },
+   "nickname": {
+      "message": "Prezývka"
+   },
+   "no_account_register": {
+      "message": "Máte vytvorený účet? Vytvorte si teraz."
+   },
+   "no_backup_time": {
+      "message": "Žiadne"
+   },
+   "no_bookmark_result": {
+      "message": "Žiadna záložka"
+   },
+   "no_chrome_app": {
+      "message": "Neinvesinovali ste žiadne aplikácie $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Žiadne údaje o počasí"
+   },
+   "no_data": {
+      "message": "Žiadne údaje"
+   },
+   "no_description": {
+      "message": "Žiadny popis"
+   },
+   "no_more": {
+      "message": "Nie ďalšie"
+   },
+   "no_more_reminder": {
+      "message": "Už nezobrazovať"
+   },
+   "no_permission_text": {
+      "message": "Odporúča sa, aby ste sa pokúsili otvoriť a udeliť toto povolenie v paneli s adresou prehliadača alebo centra nastavení."
+   },
+   "no_permission_title": {
+      "message": "Povolenie zatiaľ nebolo udelené"
+   },
+   "no_permission_to_open_app": {
+      "message": "Žiadne povolenie na otvorenie aplikácie $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Žiadne úlohy"
+   },
+   "no_search_result": {
+      "message": "Žiadne výsledky vyhľadávania"
+   },
+   "no_title": {
+      "message": "Bez názvu"
+   },
+   "none": {
+      "message": "Skryté"
+   },
+   "none_auto_backup": {
+      "message": "V súčasnosti nie sú žiadne naplánované zálohy"
+   },
+   "none_auto_backup_desc": {
+      "message": "Plánované zálohy sa začne v ten istý deň, ktorým upravíte informácie o nekonečno"
+   },
+   "none_manual_backup": {
+      "message": "V súčasnosti nie sú žiadne manuálne zálohy"
+   },
+   "normal_model": {
+      "message": "Štandardný režim"
+   },
+   "not_binding": {
+      "message": "Nepriradené"
+   },
+   "note_title": {
+      "message": "Zadajte názov poznámok"
+   },
+   "note_upload_img_15": {
+      "message": "Táto veľkosť obrázku nemôže prekročiť 15M"
+   },
+   "notes": {
+      "message": "Poznámky"
+   },
+   "notice": {
+      "message": "Upozornenie"
+   },
+   "ocean": {
+      "message": "Oceán"
+   },
+   "one_day_later": {
+      "message": "Pripomenúť zajtra"
+   },
+   "one_week_later": {
+      "message": "Pripomenúť o týždeň"
+   },
+   "only_used_infinity": {
+      "message": "Používa sa len pre INTERNY INTERNY MODULY"
+   },
+   "opacity": {
+      "message": "Priehľadnosť ikon"
+   },
+   "open_all": {
+      "message": "Otvoriť všetko"
+   },
+   "open_chrome_app": {
+      "message": "Povoliť aplikáciu"
+   },
+   "open_extension": {
+      "message": "Povoliť rozšírenie"
+   },
+   "open_folder_icons": {
+      "message": "Otvoriť všetko"
+   },
+   "open_new_tab": {
+      "message": "Otvorte webovú stránku v novej karte"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Otvorený odkaz na záložku v novom záložke"
+   },
+   "open_newtab_history": {
+      "message": "Otvorená história v novej karte"
+   },
+   "open_newtab_show_search": {
+      "message": "Otvorte výsledky vyhľadávania tretích strán v NEW TAB"
+   },
+   "origin_password": {
+      "message": "Pôvodný kľúč"
+   },
+   "other_bookmarks": {
+      "message": "Iné záložky"
+   },
+   "others": {
+      "message": "Ostatné"
+   },
+   "oversize": {
+      "message": "Veľkosť nemôže prekročiť 2 MB"
+   },
+   "overwrite_data": {
+      "message": "Prepísanie dát"
+   },
+   "pagin": {
+      "message": "tlačidlo obrátenia strany"
+   },
+   "password": {
+      "message": "Heslo"
+   },
+   "password_dont_empty": {
+      "message": "Heslo musí byť vyplnené"
+   },
+   "password_length_low": {
+      "message": "Heslo nie menej ako 6 číslic"
+   },
+   "password_not_equals": {
+      "message": "Heslo nie je rovnaké"
+   },
+   "password_not_some": {
+      "message": "Heslá, ktoré ste zadali, sa nezhodujú"
+   },
+   "permission": {
+      "message": "Autorizácia"
+   },
+   "permission_all": {
+      "message": "Autorizovať všetko"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Žiadosť o prístup a úpravu vašich údajov na mail.google.com; Žiadosť o zobrazenie oznámení"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Upozornenia Gmail"
+   },
+   "permission_gmail_num_content": {
+      "message": "Žiadosť o prístup a úpravu vašich údajov na mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Prístup Gmail Množstvo"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Žiadosť o prístup a úpravu vašich údajov na stránke Google.com a navrhnúť .baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Návrhy"
+   },
+   "permission_todo_notice_content": {
+      "message": "Žiadosť o upozornenie na zobrazenie"
+   },
+   "permission_todo_notice_title": {
+      "message": "Oznámenia o náuky"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Žiadosť o prístup k ikonám zodpovedajúcim na navštívených webových stránkach a prístupu a upravte svoje záložky"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Zobraziť záložky na vrchole"
+   },
+   "permission_top_useful_content": {
+      "message": "Žiadosť o prístup k ikonám zodpovedajúcim na navštívených webových stránkach a prístupu a upravovanie zoznamu najčastejšie webových stránok"
+   },
+   "permission_top_useful_title": {
+      "message": "Zobraziť často používané stránky na vrchole"
+   },
+   "permisson_label": {
+      "message": "Povolenia"
+   },
+   "phone_number": {
+      "message": "Telefónne číslo"
+   },
+   "photos": {
+      "message": "Obrázky"
+   },
+   "pick_local_wallpaper": {
+      "message": "Vyberte lokálnu tapetu"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Voľné a krásne fotografie, ktoré sú k dispozícii pre akékoľvek použitie"
+   },
+   "placeholder_name": {
+      "message": "Názov"
+   },
+   "please_chose_picture": {
+      "message": "Prosím, vyberte obrázok"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Zadajte názov záložky"
+   },
+   "please_enter_email": {
+      "message": "Zadajte e-mailovú adresu"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Zadajte kód overovania obrazu"
+   },
+   "please_enter_nickname": {
+      "message": "Zadať prezývku"
+   },
+   "please_enter_phone": {
+      "message": "Zadajte telefónne číslo"
+   },
+   "please_enter_right_account": {
+      "message": "Zadajte správny e-mail alebo telefónne číslo"
+   },
+   "please_enter_text": {
+      "message": "Zadávanie textu"
+   },
+   "please_enter_url": {
+      "message": "Zadajte webovú adresu"
+   },
+   "please_input_bg_text": {
+      "message": "Zadajte text ikony"
+   },
+   "please_pre_login": {
+      "message": "Najprv sa prihláste"
+   },
+   "please_re_login": {
+      "message": "Prihláste sa znova"
+   },
+   "please_set_your_password": {
+      "message": "Définir MotPasse de compte"
+   },
+   "please_type_link": {
+      "message": "Prosím, zadajte odkaz"
+   },
+   "please_type_right_link": {
+      "message": "Zadajte správnu adresu odkazu"
+   },
+   "please_upload_photos": {
+      "message": "Nahrajte obrázok"
+   },
+   "popular": {
+      "message": "Populárne"
+   },
+   "preview": {
+      "message": "Ukážka"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Súkromie a zber údajov"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Obrázky generované podľa ikony prispôsobenej webovej stránky"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Obrázky generované vlastným vyhľadávačom"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Vaša registrovaná e-mailová adresa, nahraný profilový obrázok, zvolená prezývka, bezproblémové textové heslo a ďalšie informácie"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Ak sa prihlásite s účtom tretej strany, uložíme prezývku, pohlavie, profilový obrázok a ďalšie informácie poskytnuté treťou stranou"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Informácie o ikonách webových stránok a informácie o vyhľadávaní"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Informácie o počasí vo vašej oblasti alebo informácie o počasí v iných oblastiach, ktoré ste nastavili"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Vytvorené zoznamy, ktoré ste vytvorili"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Obsah poznámok Vytvorili ste a obrázky nahrané vo vašich poznámkach"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Vaša aktuálna tapeta, nastavenia tapety, obrázky nahrané do miestnej tapety a obrázky nahrané do miestnej knižnice tapety"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Nastavenia rozšírenia"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Server môže ukladať protokoly generované počas interakcií s užívateľmi a klientmi. Tento záznam sa používa hlavne na riešenie chýb výnimiek. Tento denník z času na čas vymažeme."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Typ prehliadača, jazyk a verzia a rozlíšenie obrazovky"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Je momentálne prihlásený alebo nie"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Približný počet aktuálnych ikon"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Momentálne umožnené rozšírenia (ak používate riadenie rozšírenia)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Niekoľkokrát sa toto rozšírenie bolo otvorené"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP adresa a geografická poloha odvodená z IP adresy"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Internetové ikony a vyhľadávače pridali"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Nastavenia tapety a rozšírenia"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Verzia rozšírenia"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Frekvencia kliknutia na funkčné tlačidlá"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Chybové hlásenie výnimiek"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Otvorte adresu webovej stránky"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Súčasný vyhľadávací hostiteľ Host"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Budeme anonymne počítať počet krátkych vyhľadávačov."
+   },
+   "privacy_data_item_9": {
+      "message": "Pred použitím tohto rozšírenia musíte súhlasiť s touto zásadou ochrany osobných údajov. Zobraziť naše $the_infinity_privacy$ a dozviete sa viac.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Nie, nezbierajte anonymné údaje"
+   },
+   "privacy_data_title_1": {
+      "message": "Počas používania môžeme ukladať obrázky vygenerované dobrovoľne. Nasledujúce obrázky sú uložené anonymne:"
+   },
+   "privacy_data_title_2": {
+      "message": "Ak sa zaregistrujete alebo prihláste sa na svoj účet, musíme uložiť nasledujúce identifikovateľné údaje (ďalej len ako používateľské údaje) na našom serveri na dokončenie zálohovania dát a synchronizácia:"
+   },
+   "privacy_data_title_3": {
+      "message": "Denník servera:"
+   },
+   "privacy_data_title_4": {
+      "message": "Zber nasledujúcich informácií je nepovinné. Informácie budú zhromažďované anonymne prostredníctvom služby Google Analytics nám pomáhajú zlepšiť naše produkty:"
+   },
+   "privacy_data_title_5": {
+      "message": "Štatistická analýza:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Potvrďte, prosím, odinštalujte novú stránku Infinity New Karta"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Potvrďte, že odinštalujte Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Odinštalovať Infinity New Karta Stránka?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Odinštalovať Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Áno, anonymné údaje sa môžu zbierať v súlade so zásadami ochrany osobných údajov"
+   },
+   "privacy_disagree": {
+      "message": "Nesúhl."
+   },
+   "privacy_policy": {
+      "message": "Zásady ochrany súkromia"
+   },
+   "privacy_title": {
+      "message": "Dohoda o ochrane osobných údajov"
+   },
+   "profile": {
+      "message": "Osobné informácie"
+   },
+   "pure_color": {
+      "message": "Čistá farba"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Skupina QQ"
+   },
+   "qq_zone": {
+      "message": "Qzona"
+   },
+   "random_wallpaper": {
+      "message": "Náhodné tapety"
+   },
+   "re_update": {
+      "message": "Re-upgrade"
+   },
+   "read": {
+      "message": "Čítať"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Veľké množstvo HD fotografií dostupných pre osobné a komerčné použitie, 7 nových"
+   },
+   "recently_add": {
+      "message": "Nedávno pridané"
+   },
+   "recently_use": {
+      "message": "Nedávno použité"
+   },
+   "recover_error": {
+      "message": "Zrušenie údajov zlyhalo"
+   },
+   "recover_error_version": {
+      "message": "Nie je podporovaný formát údajov"
+   },
+   "recover_this": {
+      "message": "Obnovte z tohto uzla"
+   },
+   "redius": {
+      "message": "Ikona zaoblené rohy"
+   },
+   "refresh_qrcode": {
+      "message": "Kód QR je neplatný, kliknite na položku Obnoviť"
+   },
+   "register": {
+      "message": "Registrovať sa"
+   },
+   "register_back": {
+      "message": "Späť"
+   },
+   "register_get_email_code_error": {
+      "message": "Overovací kód sa nepodarilo získať"
+   },
+   "register_now": {
+      "message": "Zaregistrujte si svoj účet Infinity teraz, aby ste si užívali viac oprávnení"
+   },
+   "relative_humidity": {
+      "message": "Relatívna vlhkosť"
+   },
+   "reload": {
+      "message": "Skúste to znova"
+   },
+   "reminder_update_text1": {
+      "message": "S cieľom zlepšiť svoje skúsenosti v Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Odporúča sa inovovať prehliadač na najnovšiu verziu a tiež sa odporúča používať prehliadač kompatibilný s Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Chyba na stránke"
+   },
+   "remove_account": {
+      "message": "Vymazať účet"
+   },
+   "remove_done": {
+      "message": "Jasné dokončené otázky"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Všetky tapety pod touto knižnicou tapety budú odstránené"
+   },
+   "rename_folder": {
+      "message": "Premenovať"
+   },
+   "repair_auto_backup": {
+      "message": "Automatické zálohovanie údajov"
+   },
+   "repair_concat": {
+      "message": "kontaktné údaje"
+   },
+   "repair_concat_email": {
+      "message": "E-mail: "
+   },
+   "repair_concat_qq": {
+      "message": "Inžinier QQ: "
+   },
+   "repair_data": {
+      "message": "Opravy údajov"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Zašlite nám prosím dátový súbor, ktorý sa má opraviť, pomocou nasledujúcich kontaktných informácií a my vám pomôžeme údaje opraviť čo najskôr. Skôr ako technik vyrieši problém, pokúste sa nevykonať ďalšie operácie. Tento súbor môže obsahovať citlivé informácie, napríklad účty, nikomu ich nezverejňujte."
+   },
+   "repair_data_title": {
+      "message": "Načítajte stratené alebo poškodené údaje"
+   },
+   "repair_export_btn": {
+      "message": "Exportné údaje, ktoré sa majú opraviť"
+   },
+   "repeat_city": {
+      "message": "Nemôžete znova pridať rovnaké mesto"
+   },
+   "reqeust_login_message": {
+      "message": "Ak chcete použiť túto funkciu, musíte sa prihlásiť"
+   },
+   "request_logout_confirm": {
+      "message": "Chcete odstrániť svoj účet?"
+   },
+   "request_reset_all_settings": {
+      "message": "Ste si istý, že chcete obnoviť nastavenia na predvolené hodnoty?"
+   },
+   "reset": {
+      "message": "Resetovať"
+   },
+   "reset_password": {
+      "message": "Obnoviť heslá"
+   },
+   "reset_password_by_email": {
+      "message": "Resetujte svoje heslo prostredníctvom overenia e-mailu"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Obnovte heslo prostredníctvom e-mailu alebo overenia telefónneho čísla"
+   },
+   "reset_setting": {
+      "message": "Resetovať nastavenia"
+   },
+   "reset_your_password": {
+      "message": "Obnovte heslo"
+   },
+   "restore_setting": {
+      "message": "Obnoviť nastavenia"
+   },
+   "revovery_data": {
+      "message": "Obnoviť údaje"
+   },
+   "row_gap": {
+      "message": "Riadkovanie"
+   },
+   "row_num": {
+      "message": "Stĺpcov"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Kliknite na možnosť, ako je znázornené šípkou na obrázku."
+   },
+   "safari_browser_guide2": {
+      "message": "V kontextovom okne zadajte URL https://inftab.com v stĺpci Domovská stránka."
+   },
+   "safari_browser_guide3": {
+      "message": "Ak chcete dokončiť nastavenie domovskej stránky, kliknite na tlačidlo pod adresou URL."
+   },
+   "sat": {
+      "message": "Sobota"
+   },
+   "sat_min": {
+      "message": "Sob"
+   },
+   "save": {
+      "message": "Uložiť"
+   },
+   "scale": {
+      "message": "Veľkosť ikony"
+   },
+   "scale_main": {
+      "message": "Priblíženie obrazovky"
+   },
+   "scale_side": {
+      "message": "Bočný stĺpec ZOOM"
+   },
+   "scheduled_backup": {
+      "message": "Naplánovať zálohovanie"
+   },
+   "search": {
+      "message": "Hľadať"
+   },
+   "search_bookmark": {
+      "message": "Prehľadať záložky"
+   },
+   "search_engine": {
+      "message": "Vyhľadávací nástroj"
+   },
+   "search_engine_error": {
+      "message": "Zadajte názov vyhľadávacieho modulu"
+   },
+   "search_error": {
+      "message": "Naloženie zlyhalo"
+   },
+   "search_extension": {
+      "message": "Hľadať rozšírenia"
+   },
+   "search_from": {
+      "message": "Hľadali sa z: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Ikona vyhľadávania"
+   },
+   "search_input": {
+      "message": "vyhľadávacie pole"
+   },
+   "search_input_shadow": {
+      "message": "Vyhľadávacie pole tieň"
+   },
+   "search_opacity": {
+      "message": "Vyhľadávacie pole opacity"
+   },
+   "search_redius": {
+      "message": "Hľadať box zaoblené rohy"
+   },
+   "search_result": {
+      "message": "Výsledky vyhľadávania"
+   },
+   "search_size": {
+      "message": "Veľkosť vyhľadávania"
+   },
+   "search_suggest": {
+      "message": "Zobrazovať návrhy vyhľadávania"
+   },
+   "search_website": {
+      "message": "Hľadať lokality"
+   },
+   "searching": {
+      "message": "Vyhľadáva sa"
+   },
+   "select_date": {
+      "message": "Vybrať dátum"
+   },
+   "select_icon": {
+      "message": "Vyberte ikonu"
+   },
+   "select_time": {
+      "message": "Vybrať čas"
+   },
+   "send_success": {
+      "message": "Overovací e-mail odoslaný. Skontrolujte doručené správy"
+   },
+   "set_homepage_desc": {
+      "message": "Nainštalujte rozšírenie pre prehliadač, aby ste si mohli vychutnať plné funkcie"
+   },
+   "set_homepage_title2": {
+      "message": "Táto funkcia nie je v aktuálnej verzii podporovaná_#_Pred použitím si prosím nainštalujte rozšírenie prehliadača"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Nastavte Infinity ako domovská stránka pre váš prehliadač"
+   },
+   "set_new_password": {
+      "message": "Nastavenie nového hesla"
+   },
+   "set_remind_time": {
+      "message": "Nastavte čas pripomenutia"
+   },
+   "set_setting_default": {
+      "message": "Obnoviť predvolené nastavenia"
+   },
+   "set_to_homepage": {
+      "message": "Nastaviť ako domovskú stránku"
+   },
+   "set_top": {
+      "message": "Hore"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "Nastavte svoj avatar a prezývku"
+   },
+   "settings": {
+      "message": "Nastavenia"
+   },
+   "shadow": {
+      "message": "Ikony tieň"
+   },
+   "share": {
+      "message": "Zdieľanie"
+   },
+   "share_by_user": {
+      "message": "Zdieľané inými používateľmi"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab, navigačné rozšírenie zvolené miliónmi, najviac užívateľsky prívetivé novej karty na prehliadači"
+   },
+   "share_title": {
+      "message": "Môže to byť najlepšia nová karta v prehľadávači $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Nákupný a nákupný nákup"
+   },
+   "shortcut_mode": {
+      "message": "Expresný režim"
+   },
+   "show_detail": {
+      "message": "Zobraziť teraz"
+   },
+   "show_gamil_unread_number": {
+      "message": "Zobraziť počet neprečítaných e-mailov z gmailu na ikonu"
+   },
+   "show_later": {
+      "message": "Pripomenúť neskôr"
+   },
+   "show_name": {
+      "message": "Názov zobrazenia"
+   },
+   "show_reminders_number": {
+      "message": "Zobraziť počet úloh na ikone"
+   },
+   "skip": {
+      "message": "Preskočiť"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Miesto na vyhľadanie, zobrazenie a zdieľanie fotografií"
+   },
+   "social": {
+      "message": "Sociálne médiá a blogy"
+   },
+   "solid_color_wallpaper": {
+      "message": "Jednorazová tapeta"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Vyhľadávač, ktorý dokáže vyhľadávať obsah, ktorý odoslal oficiálne účty WeChat"
+   },
+   "sports": {
+      "message": "Šport a cestovanie"
+   },
+   "start_animation": {
+      "message": "Spustiť animáciu"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Poskytnite štart-up, bloggery, vydavateľov, webové stránky, dizajnéri, vývojári, tvorcovia a mimo voľných fotografií"
+   },
+   "street_photography": {
+      "message": "Ulice"
+   },
+   "sun": {
+      "message": "Nedeľa"
+   },
+   "sun_min": {
+      "message": "Ned"
+   },
+   "support": {
+      "message": "Podpora"
+   },
+   "switch_to": {
+      "message": "Prepnúť na"
+   },
+   "sync_fail": {
+      "message": "Synchronizácia sa nepodarila, skúste to znova"
+   },
+   "sync_suncess": {
+      "message": "Synchronizácia dokončená."
+   },
+   "sync_type_tips": {
+      "message": "Dáta cloud a miestne údaje sa zistia, že sú nekonzistentné. Vyberte jeden typ údajov."
+   },
+   "syncing": {
+      "message": "Synchronizácia údajov…"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Túto aplikáciu $browser$ ste nenainštalovali",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Spôsob, ako otvoriť cieľ"
+   },
+   "tech": {
+      "message": "Technológia"
+   },
+   "technology": {
+      "message": "Technológia"
+   },
+   "term_of_use": {
+      "message": "Podmienky používania"
+   },
+   "text": {
+      "message": "Text"
+   },
+   "text_shadow": {
+      "message": "Textový tieň"
+   },
+   "thirt_party": {
+      "message": "Použite prihlasovací účet tretej strany"
+   },
+   "thu": {
+      "message": "Štvrtok"
+   },
+   "thu_min": {
+      "message": "Štv"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Otvorte akúkoľvek webovú stránku a zadajte \"% s\" do vyhľadávacieho poľa na vyhľadávanie. (So Google ako príklad)"
+   },
+   "tip_question_2": {
+      "message": "2. Skopírujte adresu URL výsledku vyhľadávania priamo"
+   },
+   "tip_question_3": {
+      "message": "3. Vyberte si skopírovanú adresu URL a urobíte"
+   },
+   "tip_question_title": {
+      "message": "O použití \"% s\" nahradiť vyhľadávacie výrazy"
+   },
+   "to_login": {
+      "message": "Prihlás sa teraz"
+   },
+   "today": {
+      "message": "Dnes"
+   },
+   "todo_welcome": {
+      "message": "Vitajte na stránke Infinity Nová karta. Toto je položka na úlohu."
+   },
+   "todos": {
+      "message": "Úlohy"
+   },
+   "top_bookmark": {
+      "message": "Zobraziť záložky na vrchole"
+   },
+   "top_use_ful": {
+      "message": "Zobraziť často používané stránky na vrchole"
+   },
+   "travel": {
+      "message": "Cestovanie"
+   },
+   "tue": {
+      "message": "Utorok"
+   },
+   "tue_min": {
+      "message": "Ut"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Pripomenúť o 2 hodiny"
+   },
+   "type_link": {
+      "message": "Zadajte odkaz"
+   },
+   "type_text": {
+      "message": "Zadávanie textu"
+   },
+   "unbind": {
+      "message": "Odstrániť"
+   },
+   "unbind_btn": {
+      "message": "Zrušiť priradenie"
+   },
+   "unbind_email": {
+      "message": "Odpojiť túto e-mailovú adresu"
+   },
+   "unbind_phone_number": {
+      "message": "Rozviazať číslo mobilného telefónu"
+   },
+   "unbind_success": {
+      "message": "Odstránenie bolo úspešné"
+   },
+   "uninstall_agree": {
+      "message": "Súhlasím"
+   },
+   "uninstall_chrome_app": {
+      "message": "Odinštalovať aplikáciu"
+   },
+   "uninstall_extension": {
+      "message": "Odstrániť rozšírenie"
+   },
+   "unknown_mistake": {
+      "message": "Neznáma chyba"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Svetovo preslávené vysokokvalitné tapety"
+   },
+   "unzip_folder_content": {
+      "message": "Priečinok bude odstránený a ikona bude uchovávaná. Si si istý?"
+   },
+   "unzip_folder_title": {
+      "message": "Uvoľniť"
+   },
+   "update_data": {
+      "message": "Aktualizovať údaje"
+   },
+   "update_data_failure": {
+      "message": "Aktualizácia profilu zlyhalo"
+   },
+   "update_desc_1": {
+      "message": "Ak sa konverzia dát zlyhala počas aktualizácie verzie, môžete sa pokúsiť znovu aktualizovať údaje."
+   },
+   "update_desc_2": {
+      "message": "Ak stále nemôžete vyriešiť problém viackrát, môžete sa obrátiť na našich inžinierov, pokúsime sa vám pomôcť vyriešiť."
+   },
+   "update_desc_3": {
+      "message": "Konverzné dáta prepíše nové údaje o verzii, odporúča sa, aby ste pred použitím zálohovali údaje."
+   },
+   "update_error_desc1": {
+      "message": "Ak chcete zistiť niektoré údaje, môžete sa pokúsiť znova aktualizovať."
+   },
+   "update_error_desc2": {
+      "message": "Ak zlyháte viac aktualizácií, môžete tiež kliknúť na ikonu \"Nastavenia\" z pravého horného rohu na zadanie - [MY] - [Zálohovanie a opravy]."
+   },
+   "update_now": {
+      "message": "Teraz aktualizovať"
+   },
+   "update_or_repair_data": {
+      "message": "Aktualizácie alebo opravy údajov"
+   },
+   "upload_avatar_failure": {
+      "message": "Odovzdanie obrázka avatara zlyhalo"
+   },
+   "upload_file_error": {
+      "message": "Súbor sa nepodarilo nahrať"
+   },
+   "upload_image_error": {
+      "message": "Nepodarilo sa pridať obrázok"
+   },
+   "uploading": {
+      "message": "Nahráva sa..."
+   },
+   "use_cloud": {
+      "message": "Použite Cloudové údaje"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Zadajte text a stlačte ENTER na pridanie"
+   },
+   "use_local": {
+      "message": "Použite miestne údaje"
+   },
+   "use_mobile_screen": {
+      "message": "Na skenovanie QR kódu použite mobilné zariadenie"
+   },
+   "user_evaluation": {
+      "message": "Hodnotenie používateľa"
+   },
+   "username_cannot_empty": {
+      "message": "Používateľské meno nesmie byť prázdne"
+   },
+   "verify_password_desc": {
+      "message": "Pre zabezpečenie vášho účtu zadajte heslo účtu"
+   },
+   "verity_code": {
+      "message": "Poslať overovací kód"
+   },
+   "verity_code_no_value": {
+      "message": "Overovací kód nemôže byť prázdny"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Zobraziť"
+   },
+   "w309": {
+      "message": "Mrholenie"
+   },
+   "w_100": {
+      "message": "Slnečno"
+   },
+   "w_101": {
+      "message": "Polojasný"
+   },
+   "w_102": {
+      "message": "Pár obláčikov"
+   },
+   "w_103": {
+      "message": "Čiastočne zamračené"
+   },
+   "w_104": {
+      "message": "Pochmúrne"
+   },
+   "w_200": {
+      "message": "Veterno"
+   },
+   "w_201": {
+      "message": "Pokojná"
+   },
+   "w_202": {
+      "message": "Mrazivo"
+   },
+   "w_203": {
+      "message": "Dosť čerstvý vietor"
+   },
+   "w_204": {
+      "message": "Čerstvý vietor"
+   },
+   "w_205": {
+      "message": "Silný vietor"
+   },
+   "w_206": {
+      "message": "Prudký vietor"
+   },
+   "w_207": {
+      "message": "Veľmi silný vietor"
+   },
+   "w_208": {
+      "message": "Víchrica"
+   },
+   "w_209": {
+      "message": "Búrky"
+   },
+   "w_210": {
+      "message": "Búrlivý"
+   },
+   "w_211": {
+      "message": "Hurikán"
+   },
+   "w_212": {
+      "message": "Tornádo"
+   },
+   "w_213": {
+      "message": "Tropická búrka"
+   },
+   "w_300": {
+      "message": "Prehánky"
+   },
+   "w_301": {
+      "message": "Silná prehánka"
+   },
+   "w_302": {
+      "message": "Búrky"
+   },
+   "w_303": {
+      "message": "Silné búrky"
+   },
+   "w_304": {
+      "message": "Búrky s krúpami"
+   },
+   "w_305": {
+      "message": "Slabý dážď"
+   },
+   "w_306": {
+      "message": "Mierny dážď"
+   },
+   "w_307": {
+      "message": "Silný dážď"
+   },
+   "w_308": {
+      "message": "K dispozícii sú extrémne dážď"
+   },
+   "w_310": {
+      "message": "Búrka"
+   },
+   "w_311": {
+      "message": "Silná búrka"
+   },
+   "w_312": {
+      "message": "Mimoriadna búrka"
+   },
+   "w_313": {
+      "message": "Mrznúci dážď"
+   },
+   "w_314": {
+      "message": "Slabý dážď prechádza do mierneho dažďa"
+   },
+   "w_315": {
+      "message": "Mierny dážď prechádza do silného dažďa"
+   },
+   "w_316": {
+      "message": "Silný dážď až búrka"
+   },
+   "w_317": {
+      "message": "Búrka až silná búrka"
+   },
+   "w_318": {
+      "message": "Lejak až silný dážď"
+   },
+   "w_399": {
+      "message": "Dážď"
+   },
+   "w_400": {
+      "message": "Slabé sneženie"
+   },
+   "w_401": {
+      "message": "Mierne sneženie"
+   },
+   "w_402": {
+      "message": "Silné sneženie"
+   },
+   "w_403": {
+      "message": "Snehová búrka"
+   },
+   "w_404": {
+      "message": "Zimné počasie"
+   },
+   "w_405": {
+      "message": "Snehové krúpky"
+   },
+   "w_406": {
+      "message": "Sprchy a slabé sneženie"
+   },
+   "w_407": {
+      "message": "Sneh sprcha"
+   },
+   "w_408": {
+      "message": "Mierne až stredné sneženie"
+   },
+   "w_409": {
+      "message": "Stredné až silné sneženie"
+   },
+   "w_410": {
+      "message": "Silný až fujavica"
+   },
+   "w_499": {
+      "message": "Sneh"
+   },
+   "w_500": {
+      "message": "Mrholenie"
+   },
+   "w_501": {
+      "message": "Hmla"
+   },
+   "w_502": {
+      "message": "Suchá hmla"
+   },
+   "w_503": {
+      "message": "Piesok"
+   },
+   "w_504": {
+      "message": "Prach"
+   },
+   "w_507": {
+      "message": "Piesočná búrka"
+   },
+   "w_508": {
+      "message": "Silná piesočná búrka"
+   },
+   "w_509": {
+      "message": "Hustá hmla"
+   },
+   "w_510": {
+      "message": "Veľmi hustá hmla"
+   },
+   "w_511": {
+      "message": "Mierny opar"
+   },
+   "w_512": {
+      "message": "Silný opar"
+   },
+   "w_513": {
+      "message": "Ťažký opar"
+   },
+   "w_514": {
+      "message": "Hmla"
+   },
+   "w_515": {
+      "message": "Ťažká hmla"
+   },
+   "w_900": {
+      "message": "Horúco"
+   },
+   "w_901": {
+      "message": "Studená"
+   },
+   "w_999": {
+      "message": "Neznáme"
+   },
+   "wallpaper": {
+      "message": "Tapeta"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Pridať vlastnú farbu"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Nepodarilo sa pridať obrázok. Skúste to znova neskôr."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Miestna aplikácia tapety zlyhala. Skúste to znova neskôr"
+   },
+   "wallpaper_applying_library": {
+      "message": "Uplatňovanie knižnice tapetov..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Obnovovacia frekvencia tapety"
+   },
+   "wallpaper_choose_library": {
+      "message": "Vyberte si zdroj tapety"
+   },
+   "wallpaper_choose_single": {
+      "message": "Vyberte si tapetu"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Vymazať výber"
+   },
+   "wallpaper_cloud": {
+      "message": "Mrak tapety"
+   },
+   "wallpaper_collect_current": {
+      "message": "Zbierajte aktuálnu tapetu"
+   },
+   "wallpaper_common_color": {
+      "message": "Common color"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Vymazať túto tapetu?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Nepodarilo sa vytvoriť miestnu knižnicu tapety. Skúste to znova neskôr."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Prispôsobená knižnica tapety používateľa presahuje limit"
+   },
+   "wallpaper_custom_color": {
+      "message": "Vlastná farba"
+   },
+   "wallpaper_delete_color": {
+      "message": "Zmazať túto farbu"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Úspešne vymazané"
+   },
+   "wallpaper_delete_file": {
+      "message": "Odstrániť tapetu"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Nepodarilo sa odstrániť tapetu"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Zakázať automatické prepínanie tapety"
+   },
+   "wallpaper_empty_text": {
+      "message": "Žiadne údaje"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Akvizícia tapety zlyhala"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Nepodarilo sa získať tapetu používateľa"
+   },
+   "wallpaper_library": {
+      "message": "Knižnica tapiet"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$miestne tapety knižnice",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Nelegálne meno knižnice tapety"
+   },
+   "wallpaper_library_preview": {
+      "message": "Náhľad tapety"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Odovzdajte maximálne 20 tapiet. Každá tapeta nesmie prekročiť 10 m."
+   },
+   "wallpaper_loading": {
+      "message": "Spracováva sa…"
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Potrebujete sieťové pripojenie"
+   },
+   "wallpaper_remove_library": {
+      "message": "Odstráňte túto knižnicu tapety"
+   },
+   "wallpaper_sort_default": {
+      "message": "Štandardné triedenie"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Popularita"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Dátum začlenenia"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Prepnite každých 24 hodín"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Výmena tapety zlyhala"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Aktualizujte svoje denné tapety s bingom. Nemôžete zvoliť frekvenciu spínania."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Prepnite každú 1 hodinu"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Prepnite každých 12 hodín"
+   },
+   "wallpaper_switch_success": {
+      "message": "Náhodná tapeta bola úspešne zmenená"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Zmena na ďalšie tapety"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Prepínač pri otváraní novej karty"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Prepínač, keď otvoríte stránku"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Upload súborov zlyhal. Dôvod: Veľkosť presahuje limit"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Vyberte miestne pozadie"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Vyžaduje sa aspoň jedna tapeta"
+   },
+   "want_more": {
+      "message": "Vychutnajte si viac Perkov"
+   },
+   "weather": {
+      "message": "Počasie"
+   },
+   "weather_empty": {
+      "message": "Momentálne nie sú k dispozícii žiadne informácie o počasí"
+   },
+   "web_set_home_title": {
+      "message": "Ako nastaviť Infinity ako domovská stránka"
+   },
+   "website_address": {
+      "message": "Webová adresa"
+   },
+   "website_name": {
+      "message": "Názov webovej stránky"
+   },
+   "website_search_replace_char": {
+      "message": "URL (Použite% s na výmenu vyhľadávacieho slova)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Streda"
+   },
+   "wed_min": {
+      "message": "Str"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Intenzita"
+   },
+   "wind_mill": {
+      "message": "Zobrazte náhodné tlačidlo tapety v pravom dolnom rohu"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search je vyhľadávač prevádzkovaný yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex je jednou z najdôležitejších portálov internetových služieb v Rusku"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$ročník$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Včera"
+   },
+   "you_need_login": {
+      "message": "Ak chcete používať túto funkciu, prihláste sa do účtu Infinity"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Tvoja história prehliadky sa tu zobrazí"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

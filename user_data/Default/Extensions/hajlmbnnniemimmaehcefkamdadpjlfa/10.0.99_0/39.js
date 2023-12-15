@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{835:function(e,t,n){"use strict";n.r(t),n.d(t,"checkUpdated",(function(){return s}));var o=n(6),r=n.n(o);const c=(e,t,n=0)=>{setTimeout(()=>{const o=localStorage.getItem("bg-updating");o?"error"===o?e("error"):Date.now()-(Number(o)||0)>t||n>60?e("timeout"):c(e,t,n+1):e("success")},t/60)},s=e=>new r.a(t=>{c(t,e)})}}]);

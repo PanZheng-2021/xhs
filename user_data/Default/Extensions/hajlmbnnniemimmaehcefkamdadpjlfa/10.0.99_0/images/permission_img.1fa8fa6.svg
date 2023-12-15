@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>在线获取- icon</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="627" rx="6"></rect>
+        <filter x="-6.9%" y="-3.7%" width="113.9%" height="108.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="60" height="60" rx="6"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60" height="60" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="添加-自定义" transform="translate(-162.000000, -370.000000)">
+            <rect fill="#F5F5F5" x="0" y="0" width="420" height="998"></rect>
+            <g id="编组-8" transform="translate(-1.000000, 0.000000)">
+                <rect id="矩形" fill="#F7F7F7" x="0" y="0" width="421" height="998"></rect>
+                <g id="编组-4备份" transform="translate(181.000000, 358.000000)" fill="#FFFFFF">
+                    <rect id="矩形" x="0" y="12" width="220" height="118" rx="6"></rect>
+                </g>
+            </g>
+            <g id="编组-22" transform="translate(29.000000, 163.000000)">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="在线获取" transform="translate(117.000000, 192.000000)">
+                    <use id="矩形" stroke="#DADCE0" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" stroke-dasharray="4" xlink:href="#path-3"></use>
+                    <g id="在线获取--icon" transform="translate(18.000000, 19.000000)" fill="#C3C3C3" fill-rule="nonzero">
+                        <path d="M12,0 C15.1288537,0 17.8207015,2.0654491 18.6991063,4.96310369 L18.773,5.228 L18.8922293,5.25961844 C20.6566522,5.75380089 22.1613973,6.92788025 23.0747992,8.5198304 L23.207333,8.7617242 C23.4631299,9.25119983 23.2736959,9.85536258 22.7842202,10.1111595 C22.2947446,10.3669564 21.6905818,10.1775223 21.4347849,9.6880467 C20.7029638,8.28768327 19.3453756,7.30367202 17.7755787,7.06042717 C17.3451177,6.99372592 17.007354,6.65605184 16.9405384,6.2256086 C16.5652627,3.80798571 14.4733267,2 12,2 C9.52673548,2 7.43487642,3.80788798 7.06042717,6.22442127 C6.99372592,6.65488225 6.65605184,6.99264603 6.2256086,7.05946162 C3.80798571,7.43473733 2,9.52667334 2,12 C2,14.6887547 4.12230671,16.8818181 6.78311038,16.9953805 L7,17 L14.6181429,17 C15.1704277,17 15.6181429,17.4477153 15.6181429,18 C15.6181429,18.5128358 15.2321027,18.9355072 14.7347641,18.9932723 L14.6181429,19 L7,19 C3.13400675,19 8.41993142e-13,15.8659932 8.41993142e-13,12 C8.41993142e-13,8.87114634 2.0654491,6.17929853 4.96310369,5.30089367 L5.227,5.226 L5.23260023,5.20595773 C6.00951078,2.25939265 8.64425927,0.112443569 11.7535676,0.00428087163 L12,0 Z" id="路径"></path>
+                        <path d="M20,11 C22.209139,11 24,12.790861 24,15 C24,15.7372165 23.8005629,16.4278519 23.4526988,17.0208964 L24.7237556,18.2928932 C25.1142799,18.6834175 25.1142799,19.3165825 24.7237556,19.7071068 C24.3632716,20.0675907 23.7960405,20.0953203 23.4037493,19.7902954 L23.309542,19.7071068 L22.0420589,18.4401978 C21.4443077,18.7957807 20.7460028,19 20,19 C17.790861,19 16,17.209139 16,15 C16,12.790861 17.790861,11 20,11 Z M20,13 C18.8954305,13 18,13.8954305 18,15 C18,16.1045695 18.8954305,17 20,17 C21.1045695,17 22,16.1045695 22,15 C22,13.8954305 21.1045695,13 20,13 Z" id="形状结合"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

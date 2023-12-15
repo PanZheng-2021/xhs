@@ -1,0 +1,2413 @@
+{
+   "360_desc": {
+      "message": "सुरक्षा खोज इंजन"
+   },
+   "about": {
+      "message": "इसके बारे में"
+   },
+   "about_us": {
+      "message": "हमारे बारे में"
+   },
+   "account_expired": {
+      "message": "अपने खाते का परीक्षण समाप्त हो गया है, कृपया फिर से लॉग इन करें"
+   },
+   "account_setting": {
+      "message": "खाता सेटिंग"
+   },
+   "add": {
+      "message": "जोड़ें"
+   },
+   "add_city": {
+      "message": "नगर शामिल करें"
+   },
+   "add_first_note": {
+      "message": "अपना पहला नोट लें"
+   },
+   "add_icon_success": {
+      "message": "सफलतापूर्वक जोड़ा गया"
+   },
+   "add_link": {
+      "message": "लिंक जोड़ें"
+   },
+   "add_new_search_engine": {
+      "message": "एक नया खोज इंजन जोड़ें"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "नया वालपेपर लाइब्रेरी"
+   },
+   "add_search_engine": {
+      "message": "सर्च इंजन जोड़ें"
+   },
+   "add_success": {
+      "message": "सफलतापूर्वक जोड़ा गया"
+   },
+   "add_to_home_site": {
+      "message": "होमपेज में जोड़ें"
+   },
+   "add_to_infinity": {
+      "message": "इन्फिनिटी न्यू टैब पेज में जोड़ें"
+   },
+   "additional_search_engine": {
+      "message": "संलग्न खोज इंजन"
+   },
+   "air_pressure": {
+      "message": "दबाव"
+   },
+   "all_wallpaper_sources": {
+      "message": "सभी वॉलपेपर"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "वॉलपेपर के सभी स्रोत"
+   },
+   "ambiguity": {
+      "message": "ब्लर"
+   },
+   "animals": {
+      "message": "Ζώα"
+   },
+   "animation": {
+      "message": "एनिमेशन"
+   },
+   "animation_tips": {
+      "message": "प्रारंभिक एनीमेशन चिकनीता को प्रभावित कर सकता है"
+   },
+   "anime": {
+      "message": "कॉमिक्स"
+   },
+   "any_money": {
+      "message": "कोई भी"
+   },
+   "app": {
+      "message": "अनुप्रयोग"
+   },
+   "app_disabled_enable_first": {
+      "message": "आपने इस ऐप को अक्षम कर दिया है। इस ऐप को पहले सक्षम करने के लिए अनंत की अनुमति दें?"
+   },
+   "application": {
+      "message": "ऐप्स "
+   },
+   "apply": {
+      "message": "लागू करें"
+   },
+   "architecture": {
+      "message": "वास्तुकला"
+   },
+   "athletics": {
+      "message": "खेल"
+   },
+   "avatar": {
+      "message": "अवतार चुनें"
+   },
+   "backing_up": {
+      "message": "बैकअप ले रहा है…"
+   },
+   "backup_and_recovery": {
+      "message": "बैकअप और रिकवरी"
+   },
+   "backup_failed": {
+      "message": "बैकअप विफल"
+   },
+   "backup_now": {
+      "message": "अभी बैक अप लें"
+   },
+   "backup_successful": {
+      "message": "सफल बैकअप"
+   },
+   "backup_tips": {
+      "message": "हम आपके लिए अधिकतम 3 मैन्युअल बैकअप नोड्स और 3 स्वचालित बैकअप नोड्स रखते हैं"
+   },
+   "backup_with_device": {
+      "message": "अन्य उपकरणों के साथ सिंक करें"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "मुक्त और उच्च गुणवत्ता वाले गैर-गैलरी प्रकार फोटोग्राफी एकत्र करने पर ध्यान केंद्रित करें"
+   },
+   "basic_info": {
+      "message": "सामान्य जानकारी"
+   },
+   "bg_color": {
+      "message": "बैकग्राउंड का रंग"
+   },
+   "bg_updating": {
+      "message": "अपग्रेड में, कृपया प्रतीक्षा करें ..."
+   },
+   "bind": {
+      "message": "संबद्ध करें"
+   },
+   "bind_success": {
+      "message": "संबद्ध सफल रहा"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "बिंग माइक्रोसॉफ्ट द्वारा विकसित एक खोज इंजन है"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "दैनिक बिंग वॉलपेपर पुस्तकालय"
+   },
+   "bookmarks": {
+      "message": "बुकमार्क"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ ब्राउज़र इस सुविधा का समर्थन नहीं करता",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "रद्द करें"
+   },
+   "cancel_login": {
+      "message": "साइन इन रद्द करें"
+   },
+   "cancel_remind_time": {
+      "message": "अनुस्मारक समय रद्द करें"
+   },
+   "cancel_set_top": {
+      "message": "पिन निकालें"
+   },
+   "cannot_change_password": {
+      "message": "यदि आप तीसरे पक्ष के खाते के साथ लॉग इन करते हैं तो आप पासवर्ड नहीं बदल सकते हैं"
+   },
+   "cannot_change_profile": {
+      "message": "तृतीय-पक्ष उपयोगकर्ता जो लॉग इन करते हैं, प्रोफ़ाइल जानकारी को संशोधित नहीं कर सकते"
+   },
+   "cannot_download": {
+      "message": "डाउनलोड समर्थित नहीं हैं"
+   },
+   "cannot_empty": {
+      "message": "रिक्त नहीं हो सकता"
+   },
+   "celsius": {
+      "message": "सेल्सियस"
+   },
+   "change_remind_time": {
+      "message": "अनुस्मारक समय बदलें"
+   },
+   "change_wallpaper": {
+      "message": "वॉलपेपर बदल दो"
+   },
+   "check_olddata_desc": {
+      "message": "यह पता चला है कि विरासत डेटा का एक पुराना संस्करण है, जिसे अपग्रेड किया जा सकता है। यदि आपको इस डेटा को अपग्रेड करने का प्रयास करने की आवश्यकता है"
+   },
+   "choose_sync_type": {
+      "message": "खाता डेटा चुनें"
+   },
+   "chose_from_mypc": {
+      "message": "मेरी वॉलपेपर लाइब्रेरी बनाएं"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$ ऐप्स",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "क्रोम वेब स्टोर - एक्सटेंशन"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "पता बार में chrome://settings/appearance इनपुट करें और सेटिंग पृष्ठ दर्ज करें।"
+   },
+   "chrome_browser_guide2": {
+      "message": "नीचे तक नीचे स्लाइड करें और आकृति में तीर द्वारा इंगित विकल्प का चयन करें।"
+   },
+   "chrome_browser_guide3": {
+      "message": "यूआरएल https://inftab.com पॉप-अप विंडो में दर्ज करें, और उसके बाद होम पेज सेटिंग को पूरा करने के लिए जोड़ें बटन पर क्लिक करें।"
+   },
+   "clear_historys": {
+      "message": "इतिहास साफ़ करें"
+   },
+   "col_gap": {
+      "message": "स्तंभों के बीच की दूरी"
+   },
+   "col_num": {
+      "message": "पंक्तियों"
+   },
+   "color": {
+      "message": "रंग"
+   },
+   "color_icon": {
+      "message": "ठोस रंग आइकन"
+   },
+   "come_from": {
+      "message": "उपयोगकर्ता से"
+   },
+   "comming_soon": {
+      "message": "जल्दी ही आगमन"
+   },
+   "comming_soon_title": {
+      "message": "Infinity मोबाइल संस्करण रास्ते में है"
+   },
+   "confirm": {
+      "message": "ठीक है"
+   },
+   "confirm_clear_all_history": {
+      "message": "क्या आप सभी इतिहास साफ करना चाहते हैं?"
+   },
+   "confirm_cover_remote": {
+      "message": "स्थानीय डेटा को मैन्युअल बैकअप नोड में सहेजा जाएगा"
+   },
+   "confirm_del_folder": {
+      "message": "क्या आप वाकई इस फ़ोल्डर को हटाना चाहते हैं?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "क्या आप वाकई पूर्ण आइटम को हटाना चाहते हैं?"
+   },
+   "confirm_delete_note": {
+      "message": "नोट हटाने की पुष्टि करें?"
+   },
+   "confirm_logout": {
+      "message": "लॉग आउट करें"
+   },
+   "confirm_password": {
+      "message": "नया पासवर्ड कंफर्म करें"
+   },
+   "confirm_password_2": {
+      "message": "पासवर्ड की पुष्टि करें"
+   },
+   "confirm_recovery_data": {
+      "message": "क्लाउड डेटा स्थानीय डेटा को प्रतिस्थापित करेगा। क्या आप इस कार्रवाई के बारे में निश्चित हैं?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "क्या आप वाकई इस वॉलपेपर लाइब्रेरी को हटाना चाहते हैं?"
+   },
+   "confirm_unbind": {
+      "message": "यह खाता डिस्कनेक्ट करें?"
+   },
+   "confirm_unbind_email": {
+      "message": "क्या आप सुनिश्चित हैं कि आप अपने ईमेल को $email$ को अनबाइंड करना चाहते हैं?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "क्या आप सुनिश्चित है कि $phone_number$ को अबाइन्ड करना है?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "संपर्क इंजीनियर"
+   },
+   "contact_us": {
+      "message": "हमसे संपर्क करें"
+   },
+   "copy": {
+      "message": "कॉपी बनाएं"
+   },
+   "cubic_bezier": {
+      "message": "किक बैक"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "प्रोफ़ाइल तस्वीर"
+   },
+   "current_browser_not_support": {
+      "message": "वर्तमान ब्राउज़र विस्तार प्रबंधन का समर्थन नहीं करता है"
+   },
+   "current_no_reminders": {
+      "message": "टास्क लिस्ट खाली है"
+   },
+   "current_node": {
+      "message": "वर्तमान नोड"
+   },
+   "custom": {
+      "message": "पसंद के मुताबिक बनाएं"
+   },
+   "custom_icon": {
+      "message": "चिह्न अनुकूलित करें"
+   },
+   "custom_layout": {
+      "message": "लेआउट कस्टमाइज़ करें"
+   },
+   "custom_site": {
+      "message": "कस्टम वेबसाइट"
+   },
+   "default": {
+      "message": "सामान्य"
+   },
+   "del_folder": {
+      "message": "मिटाएं"
+   },
+   "delete_all_bookmarks": {
+      "message": "इस फ़ोल्डर के नीचे सभी पुस्तकचिह्न मिटाएँ"
+   },
+   "disable_chrome_app": {
+      "message": "एप्लीकेशन अक्षम करें"
+   },
+   "disable_extension": {
+      "message": "एक्सटेंशन अक्षम करें"
+   },
+   "do_later": {
+      "message": "इसके बारे में बाद में बात करें"
+   },
+   "done": {
+      "message": "हो गया"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "CRX डाउनलोड करें"
+   },
+   "download_current_wallpaper": {
+      "message": "वर्तमान वॉलपेपर डाउनलोड करें"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Duckduckgo प्रमुख वेब 2.0 साइटों से सामग्री आयात करने पर केंद्रित है इसके अलावा पारंपरिक खोज इंजन होने के अलावा वेबसाइट का दर्शन उपयोगकर्ताओं की गोपनीयता का सम्मान करना है, खोज सामग्री की निगरानी या दस्तावेज़ न करने का वादा किया जाता है।"
+   },
+   "ease_in": {
+      "message": "में फीका"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "edge://settings/onStartup ब्राउज़र पता बार में दर्ज करें, फिर Enter कुंजी दबाएं"
+   },
+   "edge_browser_guide2": {
+      "message": "आकृति में तीर द्वारा इंडीकेट विकल्प पर क्लिक करें।"
+   },
+   "edge_browser_guide3": {
+      "message": "Inserisci URL https://inftab.com Nella finestra pop-up, quindi fare clic sul pulsante Aggiungi per completare l'impostazione della pagina iniziale."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "बदलाव करें"
+   },
+   "edit_avatar": {
+      "message": "अवतार संपादित करें"
+   },
+   "edit_content": {
+      "message": "सामग्री संपादित करें"
+   },
+   "edit_icon": {
+      "message": "आइकन संपादित करें"
+   },
+   "education": {
+      "message": "शिक्षा और नौकरियां"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_code": {
+      "message": "इमेल परीक्षण कोड"
+   },
+   "email_format_error": {
+      "message": "ईमेल स्वरूप गलत है"
+   },
+   "email_or_phone_number_tips": {
+      "message": "ईमेल या मोबाइल फोन नंबर"
+   },
+   "empty": {
+      "message": "खाली"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "क्या आप सचमुच यह फोल्डर हटाना चाहते हैं?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "क्या आप इस बुकमार्क को हटाना चाहते हैं?"
+   },
+   "ensure_logout": {
+      "message": "क्या आप वाकई लॉगआउट होना चाहते हैं?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "अपने कार्य सूची में भरें, प्रविष्टि को क्लिक करें वस्तु जोड़ें"
+   },
+   "enter_password_tips": {
+      "message": "पासफ़्रेज़ डालें"
+   },
+   "enter_valid_phone_tips": {
+      "message": "सही फोन नंबर दर्ज करें"
+   },
+   "enter_verification_code_tips": {
+      "message": "कृपया पुष्टि कोड डालें"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "निर्यात बैकअप डेटा"
+   },
+   "export_local_data_desc": {
+      "message": "वर्तमान स्थानीय डेटा से निर्यात करें"
+   },
+   "extension": {
+      "message": "एक्‍सटेंशन"
+   },
+   "extension_app": {
+      "message": "एक्‍सटेंशन"
+   },
+   "extension_des": {
+      "message": "स्वतंत्र रूप से वेबसाइट आइकन जोड़ें, हाई-डेफिनिशन क्लाउड ड्राइव वॉलपेपर का आनंद लें, और लाखों उपयोगकर्ताओं द्वारा चुने गए नए टैब पेज पर बुकमार्क, मौसम की जानकारी, नोट्स, टू-डू सूचियों, विस्तार प्रबंधन और इतिहास तक पहुंचें।"
+   },
+   "extension_des_app": {
+      "message": "इन्फिनिटी न्यू टैब एपीपी आपको अपने नए टैब पेज को अनुकूलित करने की अनुमति देता है"
+   },
+   "extension_des_firefox": {
+      "message": "यह नया टैब वेब आइकन, सर्च इंजन, हाई-डेफिनिशन वॉलपेपर, मौसम, नोट्स, बुकमार्क, टू-डू आइटम, इतिहास, एक्सटेंशन प्रबंधन और अन्य कार्यों सहित"
+   },
+   "extension_des_pro": {
+      "message": "इन्फिनिटी न्यू टैब प्रो आपको अपने नए टैब पेज को कस्टमाइज़ करने की अनुमति देता है"
+   },
+   "extension_mananger": {
+      "message": "एक्‍सटेंशन प्रबंधित करें"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "फेसबुक"
+   },
+   "facebook_group": {
+      "message": "फेसबुक ग्रूप में शामिल हों"
+   },
+   "fahrenheit": {
+      "message": "फ़ारेनहाइट"
+   },
+   "feedback": {
+      "message": "सुझाव"
+   },
+   "female": {
+      "message": "महिला"
+   },
+   "filter": {
+      "message": "फ़िल्टर"
+   },
+   "finance": {
+      "message": "वित्त"
+   },
+   "firefox": {
+      "message": "फायरफॉक्स"
+   },
+   "firefox_app_store": {
+      "message": "फ़ायरफ़ॉक्स ऐड-ऑन स्टोर"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "इनपुट about: preferences #home सेटिंग पृष्ठ में सेटिंग पृष्ठ दर्ज करने के लिए।"
+   },
+   "firefox_browser_guide2": {
+      "message": "जैसा कि तीर द्वारा तराजू द्वारा दिखाया गया है, कस्टम यूआरएल का विकल्प चुनें।"
+   },
+   "firefox_browser_guide3": {
+      "message": "यूआरएल https://inftab.com टेक्स्ट बॉक्स में, होम पेज सेटअप पूरा हो गया है।"
+   },
+   "five_star": {
+      "message": "5 सितारा रेटिंग दें"
+   },
+   "folder": {
+      "message": "फ़ोल्डर"
+   },
+   "follow_us": {
+      "message": "हमारा अनुसरण करें"
+   },
+   "follow_wechat": {
+      "message": "इन्फिनिटी वीचैट पब्लिक अकाउंट का पालन करें"
+   },
+   "follow_wechat_desc": {
+      "message": "हमारे वीचैट पब्लिक नंबर (माइक्रो सिग्नल: इन्फिनिटी डेली) पर ध्यान दें, अनंतता नवीनतम उत्पाद गतिशीलता प्राप्त करें, और आप विस्तार और वेबसाइट के लिए और अधिक मजेदार खोज सकते हैं।"
+   },
+   "font": {
+      "message": "फ़ॉन्ट"
+   },
+   "font_color": {
+      "message": "फ़ॉन्ट रंग"
+   },
+   "font_size": {
+      "message": "फ़ॉन्ट आकार"
+   },
+   "food_drink": {
+      "message": "भोजन"
+   },
+   "forget_password": {
+      "message": "पासवर्ड भूल गए"
+   },
+   "format_error": {
+      "message": "फ़ॉर्मेट त्रुटि"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "बड़ी मात्रा में रॉयल्टी मुक्त तस्वीरें, दैनिक उपयोग और अद्यतन करने के लिए स्वतंत्र"
+   },
+   "fri": {
+      "message": "शुक्रवार"
+   },
+   "fri_min": {
+      "message": "शुक्र"
+   },
+   "fully_authorized_to_use": {
+      "message": "कार्यों का उपयोग करने के लिए पूरी तरह से अधिकृत"
+   },
+   "games": {
+      "message": "गेमिंग और मनोरंजन"
+   },
+   "gamil_notice": {
+      "message": "जीमेल सूचनाएं"
+   },
+   "gender": {
+      "message": "लिंग चुनें"
+   },
+   "get_app_permission": {
+      "message": "अपने स्थानीय ऐप प्राप्त करने के लिए अधिकृत"
+   },
+   "get_cloud_icon": {
+      "message": "ऑनलाइन प्राप्त करें"
+   },
+   "give_money": {
+      "message": "दान दें"
+   },
+   "give_money_thanks": {
+      "message": "आपका समर्थन हमारा सबसे बड़ा इनाम है"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "यदि आपको इन्फिनिटी न्यू टैब पेज पसंद है, तो कृपया हमारी सेवा को रेट करें या हमें आईजीएन की सहायता के लिए प्रतिक्रिया दें।"
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "यदि आपके कोई प्रश्न या सुझाव हैं, तो कृपया हमसे संपर्क करें।"
+   },
+   "gmail_notice_voice": {
+      "message": "जीमेल अधिसूचना रिंगटोन"
+   },
+   "google": {
+      "message": "गूगल"
+   },
+   "google_desc": {
+      "message": "Google खोज Google द्वारा विकसित एक खोज इंजन है। यह इंटरनेट पर सबसे बड़ा, सबसे प्रभावशाली खोज इंजन है"
+   },
+   "have_todo_item": {
+      "message": "आपके पास वर्तमान में एक टू-डू आइटम है"
+   },
+   "hide_homepage_btn": {
+      "message": "होम बटन के रूप में सेट करें"
+   },
+   "hide_icon_name": {
+      "message": "आइकन नाम छुपाएं"
+   },
+   "hide_search_button": {
+      "message": "खोज बटन छुपाएं"
+   },
+   "hide_search_category": {
+      "message": "खोज श्रेणी छुपाएं"
+   },
+   "hide_search_input": {
+      "message": "खोज बॉक्स छुपाएं"
+   },
+   "hide_set_homepage_btn": {
+      "message": "होम बटन के रूप में सेट करें"
+   },
+   "hint": {
+      "message": "सलाह"
+   },
+   "history": {
+      "message": "इतिहास"
+   },
+   "history_backup_list": {
+      "message": "इतिहास बैकअप नोड सूची"
+   },
+   "history_week": {
+      "message": "एक सप्ताह में इतिहास के लिए खोजें"
+   },
+   "host_permission": {
+      "message": "होस्ट अनुमतियाँ"
+   },
+   "hour": {
+      "message": "घंटा"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "वेब"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "मैं इनाम देना चाहता हूं"
+   },
+   "icon": {
+      "message": "आइकॉन"
+   },
+   "icon_added": {
+      "message": "जोड़ा गया"
+   },
+   "icon_bg_text": {
+      "message": "आइकन टेक्स्ट"
+   },
+   "icon_network_error": {
+      "message": "नेटवर्क अपवाद, पुनः लोड करने के लिए क्लिक करें"
+   },
+   "ignore": {
+      "message": "ध्यान न दें"
+   },
+   "img_verify_code": {
+      "message": "सत्यापन चित्र"
+   },
+   "import_data": {
+      "message": "बैकअप डेटा आयात करें"
+   },
+   "import_data_desc": {
+      "message": "बैकअप फ़ाइल से डेटा पुनर्प्राप्त करें"
+   },
+   "import_select_tile": {
+      "message": "डेटा चुनें"
+   },
+   "infinity_bookmarks": {
+      "message": "अपने बुकमार्क फ़ोल्डर पदानुक्रम को फ़्लैट करें और इन्फिनिटी बुकमार्क्स के साथ बुकमार्क को आसानी से ढूंढें"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "इन्फिनिटी में एनीम वॉलपेपर फीचर्ड"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "उच्च गुणवत्ता वाले अनंत एनीम वॉलपेपर लाइब्रेरी"
+   },
+   "infinity_extension": {
+      "message": "इन्फिनिटी एक्सटेंशन मैनेजर के साथ आसानी से अपने क्रोम एक्सटेंशन और ऐप्स को प्रबंधित करें"
+   },
+   "infinity_history": {
+      "message": "अनंत इतिहास के साथ अपने ब्राउज़र इतिहास को त्वरित रूप से देखें और प्रबंधित करें"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "इन्फिनिटी फीचर्ड लैंडस्केप वॉलपेपर"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "उच्च गुणवत्ता वाले इन्फिनिटी लैंडस्केप वॉलपेपर लाइब्रेरी"
+   },
+   "infinity_notes": {
+      "message": "अनंत नोटों के साथ जल्दी जीवन की प्रेरणाएँ रिकॉर्ड करें"
+   },
+   "infinity_settings": {
+      "message": "अनंतता सेटिंग्स के साथ अपने अनंत टैब पेज को वैयक्तिकृत करें"
+   },
+   "infinity_todos": {
+      "message": "अपने कार्यों को व्यवस्थित करें और इन्फिनिटी टू-डू सूची के साथ अपनी कार्यकुशलता में सुधार करें"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity वॉलपेपर लाइब्रेरी, आपको समृद्ध, अद्भुत वॉलपेपर प्रदान करता है"
+   },
+   "infinity_weather": {
+      "message": "अनंत मौसम आपको दुनिया भर के शहरों के मौसम पूर्वानुमान प्रदान करता है"
+   },
+   "info": {
+      "message": "जानकारी"
+   },
+   "inportdata_desc": {
+      "message": "आयात किया गया डाटा स्थानीय डाटा के साथ संवेदन नहीं है. कृपया मिलाएँ या अधिलेखन चुनें."
+   },
+   "input_and_search": {
+      "message": "खोज दर्ज करें"
+   },
+   "input_city": {
+      "message": "शहर/क्षेत्र में प्रवेश करें"
+   },
+   "input_new_password": {
+      "message": "नया पासवर्ड डालें"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "संबंधित"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "किसी भी उद्देश्य के लिए मुफ्त तस्वीरें"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "खोज बक्से सामग्री रखें"
+   },
+   "label": {
+      "message": "लेबिल"
+   },
+   "language": {
+      "message": "भाषा"
+   },
+   "language_select": {
+      "message": "भाषा चुनें"
+   },
+   "last_sync_time": {
+      "message": "अंतिम सिंक समय: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "पिछली बार अपडेट किया गया"
+   },
+   "layout": {
+      "message": "लेआउट"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "मुफ्त एचडी वॉलपेपर स्रोत"
+   },
+   "life_style": {
+      "message": "बॉलीवुड"
+   },
+   "limit_input_length": {
+      "message": "सीमा से परे पाठ की लंबाई"
+   },
+   "linkedin": {
+      "message": "लिंक्डइन"
+   },
+   "local_icon": {
+      "message": "स्थानीय आइकन"
+   },
+   "local_wallpaper2": {
+      "message": "स्थानीय वॉलपेपर"
+   },
+   "login": {
+      "message": "साइन इन करें"
+   },
+   "login_abandon_tips": {
+      "message": "वर्तमान लॉगिन विधि जल्द ही हटा दी जाएगी, कृपया लॉगिन के बाद जितनी जल्दी हो सके अपने ईमेल या अन्य तृतीय-पक्ष खाते को बाध्य करें"
+   },
+   "login_now": {
+      "message": "अधिक अनुमतियों का आनंद लेने के लिए अपने अनंत खाते में लॉग इन करें"
+   },
+   "login_now_btn": {
+      "message": "साइन इन"
+   },
+   "login_register": {
+      "message": "लॉगिन करें/साइन-अप करें"
+   },
+   "loging": {
+      "message": "प्रवेश किया जा रहा है..."
+   },
+   "logout": {
+      "message": "लॉग आउट करें"
+   },
+   "logout_clear_something": {
+      "message": "इस डिवाइस पर व्यक्तिगत सेटिंग्स और अन्य जानकारी साफ़ करें"
+   },
+   "logout_tips": {
+      "message": "कनेक्ट करने से विभिन्न खातों से डेटा को रोकने के लिए क्या आपको अपने खाते से लॉग आउट करने से पहले स्थानीय डेटा को साफ़ करने की आवश्यकता है?"
+   },
+   "logout_warn": {
+      "message": "खाते से लॉग आउट करने के बाद, इस खाते के तहत सभी बैकअप जानकारी हटा दी जाएगी। क्या आप वाकई इस खाते से लॉग आउट करना चाहते हैं? (नोट्स और कस्टम वॉलपेपर पुस्तकालयों की तस्वीर उपलब्ध नहीं हो सकती है)"
+   },
+   "male": {
+      "message": "पुरुष"
+   },
+   "manage_backup_node": {
+      "message": "इतिहास बैकअप नोड्स प्रबंधित करें"
+   },
+   "manul_backup": {
+      "message": "बैकअप मैनुअल"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "वॉलपेपर मंद करो"
+   },
+   "me": {
+      "message": "मैं"
+   },
+   "merge_cloud_local": {
+      "message": "स्थानीय और बादल डेटा को मिलाएं"
+   },
+   "merge_data": {
+      "message": "डेटा मर्ज करें"
+   },
+   "mini_mode": {
+      "message": "न्यूनतावादी विधा"
+   },
+   "mins": {
+      "message": "मिनट"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "अपनी वेबसाइटों, थीम, टेम्पलेट्स, प्रोजेक्ट्स, प्रिंटिंग सामग्री, और समाचार पत्रों में उपयोग करें। हर हफ्ते नए वॉलपेपर और वीडियो जोड़े जाते हैं"
+   },
+   "mobile_devices": {
+      "message": "Infinity मोबाइल संस्करण"
+   },
+   "modify": {
+      "message": "जानकारी संशोधित करें"
+   },
+   "modify_email": {
+      "message": "ईमेल में सुधार करें"
+   },
+   "modify_password": {
+      "message": "पासवर्ड में बदलाव करें"
+   },
+   "modify_phone_number": {
+      "message": "फ़ोन नंबर संशोधित करें"
+   },
+   "modify_pwd": {
+      "message": "पासवर्ड में बदलाव करें"
+   },
+   "modify_success": {
+      "message": "सफलतापूर्वक बदला गया"
+   },
+   "modify_this": {
+      "message": "संपादित करें"
+   },
+   "mon": {
+      "message": "सोमवार"
+   },
+   "mon_min": {
+      "message": "सोम"
+   },
+   "month_1": {
+      "message": "जनवरी"
+   },
+   "month_10": {
+      "message": "अक्टूबर"
+   },
+   "month_11": {
+      "message": "नवम्बर"
+   },
+   "month_12": {
+      "message": "दिसम्बर"
+   },
+   "month_2": {
+      "message": "फ़रवरी"
+   },
+   "month_3": {
+      "message": "मार्च"
+   },
+   "month_4": {
+      "message": "अप्रैल"
+   },
+   "month_5": {
+      "message": "मई"
+   },
+   "month_6": {
+      "message": "जून"
+   },
+   "month_7": {
+      "message": "जुलाई"
+   },
+   "month_8": {
+      "message": "अगस्त"
+   },
+   "month_9": {
+      "message": "सितम्बर"
+   },
+   "more_content_from_site": {
+      "message": "इस वेबसाइट से अधिक सामग्री"
+   },
+   "most_used_in_chinese": {
+      "message": "खोज इंजन ने चीनी द्वारा सबसे अधिक उपयोग किया"
+   },
+   "music_video": {
+      "message": "संगीत वीडियो"
+   },
+   "my_collection": {
+      "message": "मेरा संकलन"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "कृपया वेबसाइट का नाम दर्ज करें"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "प्रकृति"
+   },
+   "need_you_permission": {
+      "message": "अनुमति आवश्यक है"
+   },
+   "network_error": {
+      "message": "नेटवर्क गड़बड़ी"
+   },
+   "new_email": {
+      "message": "नई ईमेल"
+   },
+   "new_password": {
+      "message": "नया पासवर्ड डालें"
+   },
+   "new_phone_number": {
+      "message": "नया फोन नंबर"
+   },
+   "new_tab": {
+      "message": "नया टैब"
+   },
+   "new_tab_web": {
+      "message": "Infinity होमपेज"
+   },
+   "news": {
+      "message": "समाचार"
+   },
+   "next": {
+      "message": "अगला"
+   },
+   "nickname": {
+      "message": "प्रचलित नाम"
+   },
+   "no_account_register": {
+      "message": "क्या आपका कोई खाता नहीं है? साइन अप करें"
+   },
+   "no_backup_time": {
+      "message": "कुछ नहीं"
+   },
+   "no_bookmark_result": {
+      "message": "कोई बुकमार्क नहीं"
+   },
+   "no_chrome_app": {
+      "message": "आपने कोई भी $browser$ ऐप इंस्टॉल नहीं किया है",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "कोई मौसम डेटा नहीं"
+   },
+   "no_data": {
+      "message": "कोई डाटा उपलब्ध नहीं"
+   },
+   "no_description": {
+      "message": "कोई वर्णन नहीं"
+   },
+   "no_more": {
+      "message": "और नहीं है"
+   },
+   "no_more_reminder": {
+      "message": "दोबारा न दिखाएँ।"
+   },
+   "no_permission_text": {
+      "message": "यह अनुशंसा की जाती है कि आप ब्राउज़र पता बार या सेटिंग्स केंद्र में इस अनुमति को खोलने और अनुदान करने का प्रयास करें।"
+   },
+   "no_permission_title": {
+      "message": "अनुमति अभी तक नहीं दी गई है"
+   },
+   "no_permission_to_open_app": {
+      "message": "$browser$ ऐप्स खोलने की अनुमति नहीं",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "टास्क लिस्ट खाली है"
+   },
+   "no_search_result": {
+      "message": "कोई खोज परिणाम नहीं"
+   },
+   "no_title": {
+      "message": "कोई शीर्षक नहीं"
+   },
+   "none": {
+      "message": "छिपा हुआ"
+   },
+   "none_auto_backup": {
+      "message": "वर्तमान में कोई अनुसूचित बैकअप नहीं हैं"
+   },
+   "none_auto_backup_desc": {
+      "message": "अनुसूचित बैकअप उसी दिन शुरू हो जाएंगे जो आप अनंत पर जानकारी को संशोधित करेंगे"
+   },
+   "none_manual_backup": {
+      "message": "वर्तमान में कोई मैन्युअल बैकअप नहीं हैं"
+   },
+   "normal_model": {
+      "message": "मानक मोड"
+   },
+   "not_binding": {
+      "message": "संबंधित नहीं"
+   },
+   "note_title": {
+      "message": "नोट का नाम दर्ज करें।"
+   },
+   "note_upload_img_15": {
+      "message": "यह छवि आकार 15M से अधिक नहीं हो सकता"
+   },
+   "notes": {
+      "message": "टिप्पणियाँ"
+   },
+   "notice": {
+      "message": "सूचना"
+   },
+   "ocean": {
+      "message": "महासागर"
+   },
+   "one_day_later": {
+      "message": "मुझे कल याद दिलाएँ"
+   },
+   "one_week_later": {
+      "message": "एक हफ्ते बाद मुझे याद दिलाएं"
+   },
+   "only_used_infinity": {
+      "message": "केवल इन्फिनिटी आंतरिक मॉड्यूल के लिए उपयोग किया जाता है"
+   },
+   "opacity": {
+      "message": "चिह्न पारदर्शिता"
+   },
+   "open_all": {
+      "message": "सभी बुकमार्क खोलें"
+   },
+   "open_chrome_app": {
+      "message": "ऐप्लिकेशन चालू करें"
+   },
+   "open_extension": {
+      "message": "एक्सटेंशन सक्षम करें"
+   },
+   "open_folder_icons": {
+      "message": "सभी बुकमार्क खोलें"
+   },
+   "open_new_tab": {
+      "message": "नई टैब में वेबसाइट खोलें"
+   },
+   "open_newtab_bookmarks": {
+      "message": "नए टैब में बुकमार्क किए गए लिंक खोलें"
+   },
+   "open_newtab_history": {
+      "message": "नए टैब में खुला इतिहास"
+   },
+   "open_newtab_show_search": {
+      "message": "नए टैब में तृतीय-पक्ष खोज परिणाम खोलें"
+   },
+   "origin_password": {
+      "message": "वर्तमान पासवर्ड"
+   },
+   "other_bookmarks": {
+      "message": "अन्य बुकमार्क"
+   },
+   "others": {
+      "message": "अन्य"
+   },
+   "oversize": {
+      "message": "आकार 2MB से बढ़ नहीं सकता"
+   },
+   "overwrite_data": {
+      "message": "डेटा अधिलेखित करें"
+   },
+   "pagin": {
+      "message": "पेज बटन"
+   },
+   "password": {
+      "message": "पासवर्ड"
+   },
+   "password_dont_empty": {
+      "message": "पासवर्ड रिक्‍त नहीं हो सकता"
+   },
+   "password_length_low": {
+      "message": "पासवर्ड 6 अंक से कम नहीं"
+   },
+   "password_not_equals": {
+      "message": "पासवर्ड मेल नहीं खाता"
+   },
+   "password_not_some": {
+      "message": "प्रविष्ट किये गये पासवर्ड मेल नहीं खा रहे हैं"
+   },
+   "permission": {
+      "message": "अधिकृत करें"
+   },
+   "permission_all": {
+      "message": "सभी को अधिकृत करें"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Mail.google.com पर अपने डेटा को एक्सेस और संशोधित करने का अनुरोध; सूचनाएं दिखाने का अनुरोध"
+   },
+   "permission_gmail_notice_title": {
+      "message": "जीमेल सूचनाएं"
+   },
+   "permission_gmail_num_content": {
+      "message": "Mail.google.com पर अपने डेटा को एक्सेस और संशोधित करने का अनुरोध करें"
+   },
+   "permission_gmail_num_title": {
+      "message": "जीमेल मात्रा तक पहुंचें"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Google.com और सुझाव पर अपने डेटा को एक्सेस और संशोधित करने का अनुरोध .baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "सुझाव देखिए"
+   },
+   "permission_todo_notice_content": {
+      "message": "प्रदर्शन सूचना निवेदित करें"
+   },
+   "permission_todo_notice_title": {
+      "message": "करने के लिए सूचनाएं"
+   },
+   "permission_top_bookmark_content": {
+      "message": "वेबसाइटों के अनुरूप आइकन तक पहुंचने का अनुरोध, और अपने बुकमार्क्स का उपयोग और संशोधित करें"
+   },
+   "permission_top_bookmark_title": {
+      "message": "शीर्ष पर बुकमार्क दिखाएं"
+   },
+   "permission_top_useful_content": {
+      "message": "वेबसाइटों के अनुरूप आइकन तक पहुंचने का अनुरोध, और सबसे अधिक वेबसाइटों की अपनी सूची का उपयोग और संशोधित करें"
+   },
+   "permission_top_useful_title": {
+      "message": "शीर्ष पर अक्सर उपयोग की जाने वाली साइटें दिखाएं"
+   },
+   "permisson_label": {
+      "message": "अनुमतियां"
+   },
+   "phone_number": {
+      "message": "फ़ोन नंबर"
+   },
+   "photos": {
+      "message": "इमेज"
+   },
+   "pick_local_wallpaper": {
+      "message": "एक स्थानीय वॉलपेपर का चयन करें"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "नि: शुल्क और सुंदर तस्वीरें जो किसी भी उपयोग के लिए उपलब्ध हैं"
+   },
+   "placeholder_name": {
+      "message": "नाम"
+   },
+   "please_chose_picture": {
+      "message": "कृपया छवि का चयन करें"
+   },
+   "please_enter_bookmark_name": {
+      "message": "कृपया एक बुकमार्क नाम दर्ज करें"
+   },
+   "please_enter_email": {
+      "message": "ईमेल पता दर्ज करें"
+   },
+   "please_enter_img_verify_code": {
+      "message": "कृपया छवि सत्यापन कोड दर्ज करें"
+   },
+   "please_enter_nickname": {
+      "message": "उपनाम दर्ज करें"
+   },
+   "please_enter_phone": {
+      "message": "कृपया फोन नंबर डालें"
+   },
+   "please_enter_right_account": {
+      "message": "कृपया सही ईमेल या फ़ोन नंबर दर्ज करें"
+   },
+   "please_enter_text": {
+      "message": "इनपुट टेक्स्ट"
+   },
+   "please_enter_url": {
+      "message": "URL लिखें"
+   },
+   "please_input_bg_text": {
+      "message": "कृपया आइकन टेक्स्ट दर्ज करें"
+   },
+   "please_pre_login": {
+      "message": "कृपया पहले लॉग इन करें"
+   },
+   "please_re_login": {
+      "message": "कृपया पुनः साइन इन करें"
+   },
+   "please_set_your_password": {
+      "message": "कृपया एक पासवर्ड सेट करें"
+   },
+   "please_type_link": {
+      "message": "लिंक डालें"
+   },
+   "please_type_right_link": {
+      "message": "कृपया सही लिंक पता दर्ज करें"
+   },
+   "please_upload_photos": {
+      "message": "कृपया एक छवि अपलोड करें"
+   },
+   "popular": {
+      "message": "लोकप्रिय"
+   },
+   "preview": {
+      "message": "झलक देखें"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "गोपनीयता और डेटा संग्रह"
+   },
+   "privacy_data_item_1_1": {
+      "message": "अनुकूलित वेबसाइट आइकन द्वारा उत्पन्न छवियां"
+   },
+   "privacy_data_item_1_2": {
+      "message": "अनुकूलित खोज इंजन द्वारा उत्पन्न छवियां"
+   },
+   "privacy_data_item_2_1": {
+      "message": "आपका पंजीकृत ईमेल पता, अपलोड किया गया प्रोफ़ाइल चित्र, चुना गया उपनाम, गैर-सादा पाठ पासवर्ड, और अन्य जानकारी"
+   },
+   "privacy_data_item_2_2": {
+      "message": "यदि आप किसी तृतीय-पक्ष खाते से लॉग इन करते हैं, तो हम आपके उपनाम, लिंग, प्रोफ़ाइल चित्र, और तीसरे पक्ष द्वारा प्रदान की जाने वाली अन्य जानकारी स्टोर करेंगे"
+   },
+   "privacy_data_item_2_3": {
+      "message": "वेबसाइट आइकन जानकारी और खोज इंजन जानकारी जो आपने जोड़ा है"
+   },
+   "privacy_data_item_2_4": {
+      "message": "आपके द्वारा निर्धारित अन्य क्षेत्रों में आपके क्षेत्र या मौसम की जानकारी में मौसम की जानकारी"
+   },
+   "privacy_data_item_2_5": {
+      "message": "आपके द्वारा बनाई गई सूची"
+   },
+   "privacy_data_item_2_6": {
+      "message": "आपके द्वारा बनाए गए नोट्स की सामग्री और आपके नोट्स में अपलोड की गई छवियां"
+   },
+   "privacy_data_item_2_7": {
+      "message": "आपका वर्तमान वॉलपेपर, वॉलपेपर सेटिंग्स, आपके स्थानीय वॉलपेपर पर अपलोड की गई छवियां, और आपकी स्थानीय वॉलपेपर लाइब्रेरी पर अपलोड की गई छवियां"
+   },
+   "privacy_data_item_2_8": {
+      "message": "एक्सटेंशन सेटिंग्स"
+   },
+   "privacy_data_item_3_1": {
+      "message": "सर्वर उपयोगकर्ताओं और ग्राहकों के साथ बातचीत के दौरान उत्पन्न लॉग स्टोर कर सकता है। यह रिकॉर्ड मुख्य रूप से अपवाद त्रुटियों का निवारण करने के लिए उपयोग किया जाता है। हम समय-समय पर इस लॉग को साफ़ कर देंगे।"
+   },
+   "privacy_data_item_4_1": {
+      "message": "ब्राउज़र प्रकार, भाषा, और संस्करण, और स्क्रीन संकल्प"
+   },
+   "privacy_data_item_4_10": {
+      "message": "वर्तमान में लॉग इन है या नहीं"
+   },
+   "privacy_data_item_4_11": {
+      "message": "वर्तमान आइकन की अनुमानित संख्या"
+   },
+   "privacy_data_item_4_12": {
+      "message": "वर्तमान में सक्षम एक्सटेंशन (यदि एक्सटेंशन प्रबंधन का उपयोग करते हैं)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "इस विस्तार को खोला गया है"
+   },
+   "privacy_data_item_4_2": {
+      "message": "आईपी पते और भौगोलिक स्थान आईपी पते से प्राप्त हुआ"
+   },
+   "privacy_data_item_4_3": {
+      "message": "वेबसाइट आइकन और खोज इंजन जोड़े गए"
+   },
+   "privacy_data_item_4_4": {
+      "message": "वॉलपेपर और विस्तार सेटिंग्स"
+   },
+   "privacy_data_item_4_5": {
+      "message": "विस्तार संस्करण"
+   },
+   "privacy_data_item_4_6": {
+      "message": "फ़ंक्शन बटन पर क्लिक करने की आवृत्ति"
+   },
+   "privacy_data_item_4_7": {
+      "message": "अपवाद त्रुटि संदेश"
+   },
+   "privacy_data_item_4_8": {
+      "message": "वेब साइट का पता होस्ट खोलें"
+   },
+   "privacy_data_item_4_9": {
+      "message": "वर्तमान खोज इंजन होस्ट"
+   },
+   "privacy_data_item_5_1": {
+      "message": "हम गुमनाम रूप से कुछ खोज इंजनों का उपयोग करने की संख्या की गणना करेंगे।"
+   },
+   "privacy_data_item_9": {
+      "message": "इस एक्सटेंशन का उपयोग करने से पहले आपको इस गोपनीयता नीति से सहमत होना चाहिए। अधिक जानने के लिए हमारी $the_infinity_privacy$ देखें।",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "नहीं, अज्ञात डेटा एकत्र न करें"
+   },
+   "privacy_data_title_1": {
+      "message": "हम उपयोग के दौरान उपयोगकर्ताओं द्वारा स्वेच्छा से उत्पन्न छवियों को स्टोर कर सकते हैं। निम्नलिखित छवियों को गुमनाम रूप से संग्रहीत किया जाता है:"
+   },
+   "privacy_data_title_2": {
+      "message": "यदि आप अपने खाते में पंजीकरण या लॉगिन करते हैं, तो हमें डेटा बैकअप और सिंक्रनाइज़ेशन को पूरा करने के लिए हमारे सर्वर पर निम्नलिखित पहचान योग्य डेटा (बाद में उपयोगकर्ता डेटा के रूप में संदर्भित) को स्टोर करने की आवश्यकता है:"
+   },
+   "privacy_data_title_3": {
+      "message": "सर्वर लॉग:"
+   },
+   "privacy_data_title_4": {
+      "message": "निम्नलिखित जानकारी का संग्रह वैकल्पिक है। जानकारी Google Analytics के माध्यम से गुमनाम रूप से एकत्र की जाएगी हमारे उत्पादों को बेहतर बनाने में हमारी सहायता करें:"
+   },
+   "privacy_data_title_5": {
+      "message": "सांख्यिकीय विश्लेषण:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "कृपया अनंत नया टैब पृष्ठ अनइंस्टॉल करने की पुष्टि करें"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "कृपया अनंत अनंत नए टैब प्रो को अनइंस्टॉल करने की पुष्टि करें"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "अनंत नया टैब पेज अनइंस्टॉल करें?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "अनंत अनंत नया टैब प्रो अनइंस्टॉल करें?"
+   },
+   "privacy_data_yes": {
+      "message": "हां, अनाम डेटा गोपनीयता नीति के अनुसार एकत्र किया जा सकता है"
+   },
+   "privacy_disagree": {
+      "message": "असहमत"
+   },
+   "privacy_policy": {
+      "message": "गोपनीयता नीति"
+   },
+   "privacy_title": {
+      "message": "गोपनीयता नीति समझौता"
+   },
+   "profile": {
+      "message": "व्यक्तिगत जानकारी"
+   },
+   "pure_color": {
+      "message": "शुद्ध रंग"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ समूह"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "यादृच्छिक वॉलपेपर"
+   },
+   "re_update": {
+      "message": "फिर से अपग्रेड करना"
+   },
+   "read": {
+      "message": "पढ़िए"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "व्यक्तिगत और वाणिज्यिक उपयोग के लिए उपलब्ध एचडी फोटो की बड़ी मात्रा, हर हफ्ते 7 नए"
+   },
+   "recently_add": {
+      "message": "हाल ही में जोड़े गए"
+   },
+   "recently_use": {
+      "message": "हाल ही में प्रयुक्त"
+   },
+   "recover_error": {
+      "message": "डेटा रिकवरी विफल"
+   },
+   "recover_error_version": {
+      "message": "समर्थित डेटा प्रारूप नहीं"
+   },
+   "recover_this": {
+      "message": "इस नोड से पुनर्प्राप्त करें"
+   },
+   "redius": {
+      "message": "आइकन गोल कॉर्नर"
+   },
+   "refresh_qrcode": {
+      "message": "QR कोड अमान्य है, ताज़ा करें पर क्लिक करें"
+   },
+   "register": {
+      "message": "रजिस्टर करें"
+   },
+   "register_back": {
+      "message": "पाछे जाएँ"
+   },
+   "register_get_email_code_error": {
+      "message": "सत्यापन कोड प्राप्त करने में विफल"
+   },
+   "register_now": {
+      "message": "अधिक अनुमतियों का आनंद लेने के लिए अब अपने अनंत खाते को पंजीकृत करें"
+   },
+   "relative_humidity": {
+      "message": "सापेक्षिक आर्द्रता"
+   },
+   "reload": {
+      "message": "पुनः प्रयास करें"
+   },
+   "reminder_update_text1": {
+      "message": "Infinity में अपने अनुभव को बेहतर बनाने के लिए"
+   },
+   "reminder_update_text2": {
+      "message": "ब्राउज़र को नवीनतम संस्करण में अपग्रेड करने की अनुशंसा की जाती है, और Infinityके साथ संगत ब्राउज़र का उपयोग करने की अनुशंसा की जाती है।"
+   },
+   "reminder_update_title": {
+      "message": "पृष्ठ पर त्रुटि प्रदर्शित करें"
+   },
+   "remove_account": {
+      "message": "खाता हटाएँ"
+   },
+   "remove_done": {
+      "message": "पूरा किया गया कार्य वस्तु मिटाएँ"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "इस वॉलपेपर लाइब्रेरी के तहत सभी वॉलपेपर एक साथ हटा दिए जाएंगे"
+   },
+   "rename_folder": {
+      "message": "नाम बदलें"
+   },
+   "repair_auto_backup": {
+      "message": "स्वचालित रूप से डेटा का बैकअप लेना"
+   },
+   "repair_concat": {
+      "message": "संपर्क विवरण"
+   },
+   "repair_concat_email": {
+      "message": "ईमेल: "
+   },
+   "repair_concat_qq": {
+      "message": "अभियंता क्यू क्यू: "
+   },
+   "repair_data": {
+      "message": "मरम्मत डेटा"
+   },
+   "repair_data_desc_contnet": {
+      "message": "कृपया हमें निम्न संपर्क जानकारी के माध्यम से मरम्मत के लिए डेटा फ़ाइल भेजें, और हम जितनी जल्दी हो सके डेटा को सुधारने में आपकी सहायता करेंगे। इससे पहले कि इंजीनियर समस्या का समाधान करे, कृपया कोशिश करें कि अन्य ऑपरेशन न करें। इस फ़ाइल में खातों जैसी संवेदनशील जानकारी हो सकती है, कृपया इसे दूसरों के सामने प्रकट न करें।"
+   },
+   "repair_data_title": {
+      "message": "खोए या क्षतिग्रस्त डेटा को पुनः प्राप्त करें"
+   },
+   "repair_export_btn": {
+      "message": "निर्यात करने के लिए निर्यात डेटा"
+   },
+   "repeat_city": {
+      "message": "आप एक ही शहर को फिर से नहीं जोड़ सकते"
+   },
+   "reqeust_login_message": {
+      "message": "प्रवेश किए हुए होने पर ही आप इस सुविधा का उपयोग कर पाएंगे"
+   },
+   "request_logout_confirm": {
+      "message": "आपका खाता मिटाएँ?"
+   },
+   "request_reset_all_settings": {
+      "message": "क्या आप वाकई सेटिंग्स को डिफ़ॉल्ट मानों पर रीसेट करना चाहते हैं?"
+   },
+   "reset": {
+      "message": "रीसेट करें"
+   },
+   "reset_password": {
+      "message": "एप्लि ताला पासवर्ड रीसेट करें"
+   },
+   "reset_password_by_email": {
+      "message": "ईमेल सत्यापन के माध्यम से अपना पासवर्ड रीसेट करें"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "ईमेल या फोन नंबर सत्यापन के माध्यम से अपना पासवर्ड रीसेट करें"
+   },
+   "reset_setting": {
+      "message": "सेटिंग रीसेट करें"
+   },
+   "reset_your_password": {
+      "message": "कृपया अपना पासवर्ड रीसेट करें"
+   },
+   "restore_setting": {
+      "message": "सेटिंग फिर से स्थापित करें"
+   },
+   "revovery_data": {
+      "message": "डाटा रीस्टोर करें"
+   },
+   "row_gap": {
+      "message": "पंक्ति दूरी"
+   },
+   "row_num": {
+      "message": "स्तंभ संख्या"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "आकृति में तीर द्वारा दिखाए गए विकल्प पर क्लिक करें।"
+   },
+   "safari_browser_guide2": {
+      "message": "पॉप-अप विंडो में, होम पेज कॉलम में URL https://inftab.com इनपुट करें।"
+   },
+   "safari_browser_guide3": {
+      "message": "होम पेज सेटिंग को पूरा करने के लिए URL के नीचे दिए गए बटन पर क्लिक करें।"
+   },
+   "sat": {
+      "message": "शनिवार"
+   },
+   "sat_min": {
+      "message": "शनि"
+   },
+   "save": {
+      "message": "सेव करें"
+   },
+   "scale": {
+      "message": "आइकन आकार"
+   },
+   "scale_main": {
+      "message": "स्क्रीन ज़ूम"
+   },
+   "scale_side": {
+      "message": "साइड कॉलम ज़ूम"
+   },
+   "scheduled_backup": {
+      "message": "अनुसूची बैकअप"
+   },
+   "search": {
+      "message": "खोजें"
+   },
+   "search_bookmark": {
+      "message": "अपने बुकमार्क में खोजें"
+   },
+   "search_engine": {
+      "message": "सर्च इंजन"
+   },
+   "search_engine_error": {
+      "message": "खोज इंजन का नाम दर्ज करें"
+   },
+   "search_error": {
+      "message": "लोड विफल हो गया"
+   },
+   "search_extension": {
+      "message": "एक्सटेंशन खोजें"
+   },
+   "search_from": {
+      "message": "से खोजा गया: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "खोज आइकन"
+   },
+   "search_input": {
+      "message": "खोज बॉक्स"
+   },
+   "search_input_shadow": {
+      "message": "खोज बॉक्स छाया"
+   },
+   "search_opacity": {
+      "message": "खोज बॉक्स अस्पष्टता"
+   },
+   "search_redius": {
+      "message": "खोज बॉक्स गोलाकार कोनों"
+   },
+   "search_result": {
+      "message": "खोज परिणाम"
+   },
+   "search_size": {
+      "message": "खोज बॉक्स आकार"
+   },
+   "search_suggest": {
+      "message": "खोज सलाह दिखाएँ"
+   },
+   "search_website": {
+      "message": "अनुसंधान क्षेत्र"
+   },
+   "searching": {
+      "message": "खोज रहा है"
+   },
+   "select_date": {
+      "message": "दिनांक का चयन करें"
+   },
+   "select_icon": {
+      "message": "आइकन का चयन करें"
+   },
+   "select_time": {
+      "message": "समय का चयन करें"
+   },
+   "send_success": {
+      "message": "सत्यापन ईमेल भेजी गई। कृपया अपने इनबॉक्स की जाँच करें"
+   },
+   "set_homepage_desc": {
+      "message": "पूर्ण सुविधाओं का आनंद लेने के लिए ब्राउज़र के लिए एक्सटेंशन इंस्टॉल करें"
+   },
+   "set_homepage_title2": {
+      "message": "यह सुविधा वर्तमान संस्करण में समर्थित नहीं है_#_कृपया उपयोग करने से पहले ब्राउज़र एक्सटेंशन स्थापित करें"
+   },
+   "set_infinity_to_homepage": {
+      "message": "अपने ब्राउज़र के लिए होमपेज के रूप में Infinity सेट करें"
+   },
+   "set_new_password": {
+      "message": "नया पासवर्ड सेट करें"
+   },
+   "set_remind_time": {
+      "message": "अनुस्‍मारक समय सेट करें"
+   },
+   "set_setting_default": {
+      "message": "सुनिश्चित चनय"
+   },
+   "set_to_homepage": {
+      "message": "मुखपृष्ठ के रूप में स्थित"
+   },
+   "set_top": {
+      "message": "शीर्ष पर"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "उपनाम और अवतार सेट करें"
+   },
+   "settings": {
+      "message": "सेटिंग"
+   },
+   "shadow": {
+      "message": "प्रतीक छाया"
+   },
+   "share": {
+      "message": "शेयर करें"
+   },
+   "share_by_user": {
+      "message": "उपयोगकर्ता शेयर करते हैं"
+   },
+   "share_desc": {
+      "message": "Infinity नया टैब, लाखों द्वारा चुने गए एक नेविगेशन एक्सटेंशन, ब्राउज़र पर सबसे उपयोगकर्ता के अनुकूल नया टैब"
+   },
+   "share_title": {
+      "message": "$browser$ ब्राउजर पर यह सबसे अच्छा नया टैब हो सकता है",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "खरीदारी और समूह खरीद"
+   },
+   "shortcut_mode": {
+      "message": "एक्सप्रेस मोड"
+   },
+   "show_detail": {
+      "message": "अभी देखो"
+   },
+   "show_gamil_unread_number": {
+      "message": "आइकन पर जीमेल से अपठित ईमेल की संख्या दिखाएं"
+   },
+   "show_later": {
+      "message": "कृपया मुझे थोड़ी देर बाद में याद दिलाये"
+   },
+   "show_name": {
+      "message": "Display name"
+   },
+   "show_reminders_number": {
+      "message": "आइकन पर टू-डू की संख्या दिखाएं"
+   },
+   "skip": {
+      "message": "अभी नहीं"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "फोटो खोजने, प्रदर्शित करने और साझा करने के लिए एक जगह"
+   },
+   "social": {
+      "message": "सोशल मीडिया और ब्लॉग"
+   },
+   "solid_color_wallpaper": {
+      "message": "एकल रंग वॉलपेपर"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "खोज इंजन जो WeChat आधिकारिक खातों द्वारा पोस्ट की गई सामग्री की खोज कर सकता है"
+   },
+   "sports": {
+      "message": "खेल और यात्रा"
+   },
+   "start_animation": {
+      "message": "एनीमेशन शुरू करें"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "मुफ्त फोटो के साथ स्टार्ट-अप, ब्लॉगर्स, प्रकाशक, वेबसाइटें, डिजाइनर, डेवलपर्स, निर्माता और परे प्रदान करें"
+   },
+   "street_photography": {
+      "message": "सड़क"
+   },
+   "sun": {
+      "message": "रविवार"
+   },
+   "sun_min": {
+      "message": "रविवार"
+   },
+   "support": {
+      "message": "सहायता"
+   },
+   "switch_to": {
+      "message": "में स्विच करें"
+   },
+   "sync_fail": {
+      "message": "सिंकिंग विफल, कृपया पुनः प्रयास करें"
+   },
+   "sync_suncess": {
+      "message": "सिंक पूरा।"
+   },
+   "sync_type_tips": {
+      "message": "क्लाउड डेटा और स्थानीय डेटा असंगत होने के लिए पता चला है। कृपया एक प्रकार का डेटा चुनें।"
+   },
+   "syncing": {
+      "message": "डेटा सिंक हो रहा है..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "आपने यह $browser$ ऐप इंस्टॉल नहीं किया है",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "लक्ष्य खोलने का तरीका"
+   },
+   "tech": {
+      "message": "प्रौद्योगिकी"
+   },
+   "technology": {
+      "message": "तकनीक"
+   },
+   "term_of_use": {
+      "message": "उपयोग की शर्तें"
+   },
+   "text": {
+      "message": "पाठ"
+   },
+   "text_shadow": {
+      "message": "पाठ की छाया"
+   },
+   "thirt_party": {
+      "message": "तृतीय-पक्ष खाता लॉगिन का उपयोग करें"
+   },
+   "thu": {
+      "message": "गुरूवार"
+   },
+   "thu_min": {
+      "message": "गुरु"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. किसी भी वेबसाइट को खोलें और खोज बॉक्स में \"% s\" दर्ज करें। (Google के साथ एक उदाहरण के रूप में)"
+   },
+   "tip_question_2": {
+      "message": "2. सीधे खोज परिणाम के यूआरएल की प्रतिलिपि बनाएँ"
+   },
+   "tip_question_3": {
+      "message": "3. यहां कॉपी किए गए यूआरएल को पेस्ट करें और आप कर रहे हैं"
+   },
+   "tip_question_title": {
+      "message": "खोज शब्दों को बदलने के लिए \"% s\" का उपयोग करने के बारे में"
+   },
+   "to_login": {
+      "message": "अभी लॉगिन करें"
+   },
+   "today": {
+      "message": "आज"
+   },
+   "todo_welcome": {
+      "message": "इन्फिनिटी न्यू टैब पेज में आपका स्वागत है। यह एक नमूना करने के लिए आइटम है।"
+   },
+   "todos": {
+      "message": "नियोजित कार्य"
+   },
+   "top_bookmark": {
+      "message": "शीर्ष पर बुकमार्क दिखाएं"
+   },
+   "top_use_ful": {
+      "message": "शीर्ष पर अक्सर उपयोग की जाने वाली साइटें दिखाएं"
+   },
+   "travel": {
+      "message": "यात्रा"
+   },
+   "tue": {
+      "message": "मंगलवार"
+   },
+   "tue_min": {
+      "message": "मंगल"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "2 घंटे बाद मुझे याद दिलाएं"
+   },
+   "type_link": {
+      "message": "इनपुट लिंक"
+   },
+   "type_text": {
+      "message": "इनपुट टेक्स्ट"
+   },
+   "unbind": {
+      "message": "हटाएं"
+   },
+   "unbind_btn": {
+      "message": "असंबद्ध करें"
+   },
+   "unbind_email": {
+      "message": "मेलबॉक्स को अनबाइंड करना"
+   },
+   "unbind_phone_number": {
+      "message": "मोबाइल फोन नंबर बाध्यकारी अनलॉक करें"
+   },
+   "unbind_success": {
+      "message": "सफलतापूर्वक हटाया गया"
+   },
+   "uninstall_agree": {
+      "message": "सहमत"
+   },
+   "uninstall_chrome_app": {
+      "message": "एप्लिकेशन अनइंस्‍टॉल करें"
+   },
+   "uninstall_extension": {
+      "message": "एक्सटेंशन निकालें"
+   },
+   "unknown_mistake": {
+      "message": "अज्ञात गड़बड़ी"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "विश्व प्रसिद्ध उच्च गुणवत्ता वाले वॉलपेपर"
+   },
+   "unzip_folder_content": {
+      "message": "फ़ोल्डर हटा दिया जाएगा और आइकन रखा जाएगा। क्या आपको यकीन है?"
+   },
+   "unzip_folder_title": {
+      "message": "रिलीज़ करें"
+   },
+   "update_data": {
+      "message": "डेटा अपग्रेड करें"
+   },
+   "update_data_failure": {
+      "message": "प्रोफाइल अपडेट विफल हुआ"
+   },
+   "update_desc_1": {
+      "message": "यदि संस्करण रूपांतरण संस्करण अपग्रेड के दौरान विफल हुआ, तो आप डेटा को फिर से अपग्रेड करने का प्रयास कर सकते हैं।"
+   },
+   "update_desc_2": {
+      "message": "यदि आप अभी भी कई बार समस्या का समाधान नहीं कर सकते हैं, तो आप हमारे इंजीनियरों से संपर्क कर सकते हैं, हम आपको हल करने में मदद करने की कोशिश करेंगे।"
+   },
+   "update_desc_3": {
+      "message": "रूपांतरण डेटा नए संस्करण डेटा को ओवरराइट करता है, यह अनुशंसा की जाती है कि आप संचालित करने से पहले डेटा का बैक अप लें।"
+   },
+   "update_error_desc1": {
+      "message": "यदि आप कुछ डेटा का पता लगाते हैं तो आप फिर से अपग्रेड करने का प्रयास कर सकते हैं।"
+   },
+   "update_error_desc2": {
+      "message": "यदि आप एकाधिक अपग्रेड में विफल होते हैं, तो आप ऊपरी दाएं कोने से \"सेटिंग्स\" आइकन भी दर्ज करने के लिए क्लिक कर सकते हैं - [मेरा] - [बैकअप और मरम्मत]।"
+   },
+   "update_now": {
+      "message": "अभी अपडेट करें"
+   },
+   "update_or_repair_data": {
+      "message": "डेटा को अपग्रेड या मरम्मत करें"
+   },
+   "upload_avatar_failure": {
+      "message": "आपके अवतार चित्र को अपलोड करने में विफल"
+   },
+   "upload_file_error": {
+      "message": "फाइल अपलोड करने में असफल"
+   },
+   "upload_image_error": {
+      "message": "छवि अपलोड करने में विफल"
+   },
+   "uploading": {
+      "message": "अपलोड कर रहा है..."
+   },
+   "use_cloud": {
+      "message": "क्लाउड डेटा का उपयोग करें"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "पाठ दर्ज करें और जोड़ने के लिए ENTER दबाएँ"
+   },
+   "use_local": {
+      "message": "स्थानीय डेटा का उपयोग करें"
+   },
+   "use_mobile_screen": {
+      "message": "QR कोड को स्कैन करने के लिए एक मोबाइल डिवाइस का उपयोग करें"
+   },
+   "user_evaluation": {
+      "message": "उपयोगकर्ता समीक्षाएँ"
+   },
+   "username_cannot_empty": {
+      "message": "उपयोगकर्ता का नाम रिक्त नहीं हो सकता"
+   },
+   "verify_password_desc": {
+      "message": "आपके खाते की सुरक्षा के लिए, कृपया खाता पासवर्ड दर्ज करें"
+   },
+   "verity_code": {
+      "message": "सत्यापन कोड भेजें"
+   },
+   "verity_code_no_value": {
+      "message": "सत्यापन कोड भरा जाना चाहिए"
+   },
+   "videos": {
+      "message": "वीडियो"
+   },
+   "view": {
+      "message": "देखें"
+   },
+   "w309": {
+      "message": "बूंदा बांदी"
+   },
+   "w_100": {
+      "message": "खिली धूप"
+   },
+   "w_101": {
+      "message": "शेडी"
+   },
+   "w_102": {
+      "message": "कुछ बादल"
+   },
+   "w_103": {
+      "message": "आंशिक रूप से बादल"
+   },
+   "w_104": {
+      "message": "उदास"
+   },
+   "w_200": {
+      "message": "हवा"
+   },
+   "w_201": {
+      "message": "शांत रहें"
+   },
+   "w_202": {
+      "message": "समीरिक"
+   },
+   "w_203": {
+      "message": "मध्यम हवा"
+   },
+   "w_204": {
+      "message": "ताजा हवा"
+   },
+   "w_205": {
+      "message": "तेज़ हवा"
+   },
+   "w_206": {
+      "message": "प्रचंड हवा"
+   },
+   "w_207": {
+      "message": "प्रचंड हवा"
+   },
+   "w_208": {
+      "message": "जोरदार आंधी"
+   },
+   "w_209": {
+      "message": "तूफान"
+   },
+   "w_210": {
+      "message": "तूफानी"
+   },
+   "w_211": {
+      "message": "तूफान"
+   },
+   "w_212": {
+      "message": "बवंडर"
+   },
+   "w_213": {
+      "message": "उष्णकटिबंधीय तूफान"
+   },
+   "w_300": {
+      "message": "फुहारें"
+   },
+   "w_301": {
+      "message": "भारी बारिश शावर"
+   },
+   "w_302": {
+      "message": "गरज के साथ तूफान"
+   },
+   "w_303": {
+      "message": "भारी गरज बौछार"
+   },
+   "w_304": {
+      "message": "आंधी-तूफान ओलों के साथ"
+   },
+   "w_305": {
+      "message": "हल्की वर्षा"
+   },
+   "w_306": {
+      "message": "औसत वर्षा"
+   },
+   "w_307": {
+      "message": "भारी वर्षा"
+   },
+   "w_308": {
+      "message": "चरम बारिश कर रहे हैं"
+   },
+   "w_310": {
+      "message": "आंधी"
+   },
+   "w_311": {
+      "message": "भारी तूफान"
+   },
+   "w_312": {
+      "message": "असाधारण आंधी"
+   },
+   "w_313": {
+      "message": "बेहद सर्द बारिश"
+   },
+   "w_314": {
+      "message": "हल्की वर्षा से मध्यम बारिश बदला"
+   },
+   "w_315": {
+      "message": "मध्यम वर्षा से भारी वर्षा बदला"
+   },
+   "w_316": {
+      "message": "भारी वर्षा से आंधी"
+   },
+   "w_317": {
+      "message": "आंधी से लेकर भारी तूफान"
+   },
+   "w_318": {
+      "message": "मूसलधार बारिश से भारी आंधी"
+   },
+   "w_399": {
+      "message": "बारिश"
+   },
+   "w_400": {
+      "message": "हल्का हिमपात"
+   },
+   "w_401": {
+      "message": "औसत हिमपात"
+   },
+   "w_402": {
+      "message": "भारी बर्फबारी"
+   },
+   "w_403": {
+      "message": "हिम तूफान"
+   },
+   "w_404": {
+      "message": "सर्दी मिश्रित"
+   },
+   "w_405": {
+      "message": "ओले के साथ वर्षा"
+   },
+   "w_406": {
+      "message": "बारिश प्लस बर्फ"
+   },
+   "w_407": {
+      "message": "स्नो शॉवर"
+   },
+   "w_408": {
+      "message": "हल्की से मध्यम बर्फबारी"
+   },
+   "w_409": {
+      "message": "मध्यम से भारी बर्फबारी"
+   },
+   "w_410": {
+      "message": "भारी से बर्फानी तूफान"
+   },
+   "w_499": {
+      "message": "बर्फ"
+   },
+   "w_500": {
+      "message": "कोहरा"
+   },
+   "w_501": {
+      "message": "कोहरा"
+   },
+   "w_502": {
+      "message": "सूखा कोहरा"
+   },
+   "w_503": {
+      "message": "बालू"
+   },
+   "w_504": {
+      "message": "धूल"
+   },
+   "w_507": {
+      "message": "रेत तूफान"
+   },
+   "w_508": {
+      "message": "भीषण रेतीली आंधी"
+   },
+   "w_509": {
+      "message": "घना कोहरा"
+   },
+   "w_510": {
+      "message": "गहरा घना कोहरा"
+   },
+   "w_511": {
+      "message": "मध्यम धुंध"
+   },
+   "w_512": {
+      "message": "बहुत अधिक धुंध"
+   },
+   "w_513": {
+      "message": "गंभीर धुंध"
+   },
+   "w_514": {
+      "message": "धुंधभरा"
+   },
+   "w_515": {
+      "message": "गंभीर कोहरा"
+   },
+   "w_900": {
+      "message": "गरम"
+   },
+   "w_901": {
+      "message": "ठंड"
+   },
+   "w_999": {
+      "message": "अज्ञात"
+   },
+   "wallpaper": {
+      "message": "वॉलपेपर"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "कस्टम रंग जोड़ें"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "छवि जोड़ने में विफल। बाद में पुन: प्रयास करें।"
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "स्थानीय वॉलपेपर ऐप विफल रहा। बाद में पुन: प्रयास करें"
+   },
+   "wallpaper_applying_library": {
+      "message": "वॉलपेपर लाइब्रेरी लागू करना..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "वॉलपेपर ताज़ा आवृत्ति"
+   },
+   "wallpaper_choose_library": {
+      "message": "वॉलपेपर स्रोत चुनें"
+   },
+   "wallpaper_choose_single": {
+      "message": "एक वॉलपेपर का चयन करें"
+   },
+   "wallpaper_clear_filter": {
+      "message": "चुने गए को साफ़ करें"
+   },
+   "wallpaper_cloud": {
+      "message": "क्लाउड वॉलपेपर"
+   },
+   "wallpaper_collect_current": {
+      "message": "वर्तमान वॉलपेपर ले लीजिए"
+   },
+   "wallpaper_common_color": {
+      "message": "आम रंग"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "इस वॉलपेपर को हटाएँ?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "स्थानीय वॉलपेपर लाइब्रेरी बनाने में विफल। बाद में पुन: प्रयास करें।"
+   },
+   "wallpaper_create_library_limit": {
+      "message": "उपयोगकर्ता की अनुकूलित वॉलपेपर लाइब्रेरी सीमा से अधिक है"
+   },
+   "wallpaper_custom_color": {
+      "message": "कस्टम रंग"
+   },
+   "wallpaper_delete_color": {
+      "message": "इस रंग को हटाएं"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "सफलतापूर्वक हटाया गया"
+   },
+   "wallpaper_delete_file": {
+      "message": "वॉलपेपर हटाएं"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "वॉलपेपर को हटाने में विफल"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "स्वचालित वॉलपेपर स्विचिंग अक्षम करें"
+   },
+   "wallpaper_empty_text": {
+      "message": "कोई डाटा उपलब्ध नहीं"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "वॉलपेपर पाना विफल"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "उपयोगकर्ता वॉलपेपर प्राप्त करने में विफल"
+   },
+   "wallpaper_library": {
+      "message": "वॉलपेपर लाइब्रेरी"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$ की स्थानीय वॉलपेपर लाइब्रेरी",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "अवैध वॉलपेपर पुस्तकालय का नाम"
+   },
+   "wallpaper_library_preview": {
+      "message": "वॉलपेपर पूर्वावलोकन"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "अधिकतम 20 वॉलपेपर अपलोड करें। प्रत्येक वॉलपेपर 10 मीटर से अधिक नहीं होना चाहिए।"
+   },
+   "wallpaper_loading": {
+      "message": "प्रगतिपर…"
+   },
+   "wallpaper_no_network_connect": {
+      "message": "इसके लिए नेटवर्क कनेक्शन की ज़रूरत होगी"
+   },
+   "wallpaper_remove_library": {
+      "message": "इस वॉलपेपर लाइब्रेरी को हटा दें"
+   },
+   "wallpaper_sort_default": {
+      "message": "डिफ़ॉल्ट सॉर्टिंग"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "प्रजातिकता"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "समावेशन की तारीख"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "हर 24 घंटे स्विच करें"
+   },
+   "wallpaper_switch_failure": {
+      "message": "वॉलपेपर पलट-फेर विफल हुआ"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "अपने दैनिक वॉलपेपर को बिंग के साथ अपडेट करें। आप स्विचिंग आवृत्ति का चयन नहीं कर सकते हैं।"
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "हर 1 घंटे स्विच करें"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "हर 12 घंटे स्विच करें"
+   },
+   "wallpaper_switch_success": {
+      "message": "यादृच्छिक वॉलपेपर सफलतापूर्वक बदल गया"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "अगले वॉलपेपर में बदलें"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "एक नया टैब खोलते समय स्विच करें"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "पृष्ठ खोलते समय स्विच करें"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "फ़ाइल अपलोड विफल। कारण: आकार सीमा से अधिक है"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "एक स्थानीय पृष्ठभूमि का चयन करें"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "कम से कम एक वॉलपेपर की आवश्यकता है"
+   },
+   "want_more": {
+      "message": "तुरंत अधिक भत्ते का आनंद लें"
+   },
+   "weather": {
+      "message": "मौसम"
+   },
+   "weather_empty": {
+      "message": "वर्तमान में कोई मौसम जानकारी उपलब्ध नहीं है"
+   },
+   "web_set_home_title": {
+      "message": "होमपेज के रूप में Infinity कैसे सेट करें"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "वेबसाइट का नाम"
+   },
+   "website_search_replace_char": {
+      "message": "यूआरएल (खोज शब्द को बदलने के लिए% s का उपयोग करें)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "बुधवार"
+   },
+   "wed_min": {
+      "message": "बुध"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "हवा"
+   },
+   "wind_mill": {
+      "message": "निचले दाएं कोने में यादृच्छिक वॉलपेपर बटन प्रदर्शित करें"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "याहू"
+   },
+   "yahoo_desc": {
+      "message": "याहू खोज एक खोज इंजन है जो याहू द्वारा संचालित है"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex रूस में सबसे महत्वपूर्ण इंटरनेट सेवा पोर्टल में से एक है"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$वर्ष$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "बीता कल"
+   },
+   "you_need_login": {
+      "message": "आपको पहले इन्फिनिटी खाता में साइन करना चाहिए"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "आपका ब्राउज़िंग इतिहास यहाँ दिखाया जाएगा"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

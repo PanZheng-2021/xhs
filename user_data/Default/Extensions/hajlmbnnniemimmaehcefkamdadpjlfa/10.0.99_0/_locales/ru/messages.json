@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Безопасная поисковая система"
+   },
+   "about": {
+      "message": "О программе"
+   },
+   "about_us": {
+      "message": "О нас"
+   },
+   "account_expired": {
+      "message": "Срок действия вашей учетной записи истек, пожалуйста, войдите снова"
+   },
+   "account_setting": {
+      "message": "Настройки аккаунта"
+   },
+   "add": {
+      "message": "Добавить"
+   },
+   "add_city": {
+      "message": "Добавить город"
+   },
+   "add_first_note": {
+      "message": "Создайте свою первую заметку"
+   },
+   "add_icon_success": {
+      "message": "успешно добавлен"
+   },
+   "add_link": {
+      "message": "Добавить ссылку"
+   },
+   "add_new_search_engine": {
+      "message": "Добавить новую систему поиска"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Новые обои Библиотека"
+   },
+   "add_search_engine": {
+      "message": "Добавить поисковую систему"
+   },
+   "add_success": {
+      "message": "Добавлено успешно"
+   },
+   "add_to_home_site": {
+      "message": "Добавить на домашнюю страницу"
+   },
+   "add_to_infinity": {
+      "message": "Добавить на страницу Infinity New Tab"
+   },
+   "additional_search_engine": {
+      "message": "Прикрепленная поисковая система"
+   },
+   "air_pressure": {
+      "message": "Давление"
+   },
+   "all_wallpaper_sources": {
+      "message": "Все обои"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Все источники фонов"
+   },
+   "ambiguity": {
+      "message": "Определение фона"
+   },
+   "animals": {
+      "message": "Животные"
+   },
+   "animation": {
+      "message": "Анимация"
+   },
+   "animation_tips": {
+      "message": "Запуск анимации может повлиять на плавность"
+   },
+   "anime": {
+      "message": "Комиксы"
+   },
+   "any_money": {
+      "message": "Любой вариант"
+   },
+   "app": {
+      "message": "Приложение"
+   },
+   "app_disabled_enable_first": {
+      "message": "Вы отключили это приложение. Разрешить Infinity сначала включить это приложение?"
+   },
+   "application": {
+      "message": "Приложение"
+   },
+   "apply": {
+      "message": "Применить"
+   },
+   "architecture": {
+      "message": "Архитектура"
+   },
+   "athletics": {
+      "message": "Спорт"
+   },
+   "avatar": {
+      "message": "Выбрать аватар"
+   },
+   "backing_up": {
+      "message": "Резервное копирование…"
+   },
+   "backup_and_recovery": {
+      "message": "Резервное копирование и восстановление"
+   },
+   "backup_failed": {
+      "message": "Не удалось выполнить резервное копирование"
+   },
+   "backup_now": {
+      "message": "Начать загрузку"
+   },
+   "backup_successful": {
+      "message": "Успешное Резервное Копирование"
+   },
+   "backup_tips": {
+      "message": "Мы храним для вас максимум 3 узла ручного резервного копирования и 3 узла автоматического резервного копирования"
+   },
+   "backup_with_device": {
+      "message": "Синхронизировать с другими устройствами"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Упор на сбор бесплатных и высококачественных фотографий не из галерей"
+   },
+   "basic_info": {
+      "message": "Общая информация"
+   },
+   "bg_color": {
+      "message": "Цвет фона"
+   },
+   "bg_updating": {
+      "message": "В модернизации, пожалуйста, подождите ..."
+   },
+   "bind": {
+      "message": "Привязать"
+   },
+   "bind_success": {
+      "message": "Привязка выполнена"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing — это поисковая система, разработанная Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Ежедневная библиотека фонов Bing"
+   },
+   "bookmarks": {
+      "message": "Закладки"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ не поддерживает эту функцию",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "cancel_login": {
+      "message": "Отменить вход"
+   },
+   "cancel_remind_time": {
+      "message": "Отменить время напоминания"
+   },
+   "cancel_set_top": {
+      "message": "Отменить закрепление"
+   },
+   "cannot_change_password": {
+      "message": "Сторонний логин не может изменить пароль"
+   },
+   "cannot_change_profile": {
+      "message": "Сторонние пользователи, которые входят в систему, не могут изменять информацию профиля"
+   },
+   "cannot_download": {
+      "message": "Скачивание не поддерживается"
+   },
+   "cannot_empty": {
+      "message": "Не может быть пустым"
+   },
+   "celsius": {
+      "message": "По Цельсию"
+   },
+   "change_remind_time": {
+      "message": "Изменить время напоминания"
+   },
+   "change_wallpaper": {
+      "message": "Изменить обои"
+   },
+   "check_olddata_desc": {
+      "message": "Обнаружено, что существует старая версия устаревших данных, которые могут быть обновлены. Если вам нужно, вы пытаетесь обновить эти данные"
+   },
+   "choose_sync_type": {
+      "message": "Выбрать учётные данные"
+   },
+   "chose_from_mypc": {
+      "message": "Создать библиотеку обоев"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "Приложения $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Веб-магазин Chrome"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Введите chrome://settings/appearance в адресной строке и введите страницу настроек."
+   },
+   "chrome_browser_guide2": {
+      "message": "Сдвиньте вниз до нижней части и выберите опцию, указанную стрелкой на рисунке."
+   },
+   "chrome_browser_guide3": {
+      "message": "Введите URL https://inftab.com во всплывающем окне, а затем нажмите кнопку «Добавить», чтобы завершить настройку домашней страницы."
+   },
+   "clear_historys": {
+      "message": "Удалить историю"
+   },
+   "col_gap": {
+      "message": "Интервал между столбцами"
+   },
+   "col_num": {
+      "message": "Ряды"
+   },
+   "color": {
+      "message": "Цвет"
+   },
+   "color_icon": {
+      "message": "Сплошной цвет значок"
+   },
+   "come_from": {
+      "message": "От пользователя"
+   },
+   "comming_soon": {
+      "message": "Скоро на вашем экране"
+   },
+   "comming_soon_title": {
+      "message": "Мобильная версия Infinity уже в пути"
+   },
+   "confirm": {
+      "message": "ОК"
+   },
+   "confirm_clear_all_history": {
+      "message": "Действительно удалить все записи в журнале?"
+   },
+   "confirm_cover_remote": {
+      "message": "Локальные данные будут сохранены в узел ручного резервного копирования"
+   },
+   "confirm_del_folder": {
+      "message": "Вы действительно хотите удалить эту папку?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Вы уверены, что хотите удалить выполненные пункты?"
+   },
+   "confirm_delete_note": {
+      "message": "Подтвердить удаление заметки?"
+   },
+   "confirm_logout": {
+      "message": "Выйти"
+   },
+   "confirm_password": {
+      "message": "Подтвердите новый пароль"
+   },
+   "confirm_password_2": {
+      "message": "Подтвердите пароль"
+   },
+   "confirm_recovery_data": {
+      "message": "Облачные данные заменят локальные данные. Вы подтверждаете это действие?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Вы уверены, что хотите удалить эту библиотеку обоев?"
+   },
+   "confirm_unbind": {
+      "message": "Отключить этот аккаунт?"
+   },
+   "confirm_unbind_email": {
+      "message": "Нужно ли отменить привязку к электронной почте $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Укажите номер телефона $phone_number$ Удалить привязку?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Контактный инженер"
+   },
+   "contact_us": {
+      "message": "Связь с нами"
+   },
+   "copy": {
+      "message": "Копировать"
+   },
+   "cubic_bezier": {
+      "message": "Отскок"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Фотография профиля"
+   },
+   "current_browser_not_support": {
+      "message": "Текущий браузер не поддерживает управление расширениями"
+   },
+   "current_no_reminders": {
+      "message": "Нет задач"
+   },
+   "current_node": {
+      "message": "Текущий узел"
+   },
+   "custom": {
+      "message": "Настроить"
+   },
+   "custom_icon": {
+      "message": "Настроить значок"
+   },
+   "custom_layout": {
+      "message": "Настроить макет"
+   },
+   "custom_site": {
+      "message": "Индивидуальный веб-сайт"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "del_folder": {
+      "message": "Удалить"
+   },
+   "delete_all_bookmarks": {
+      "message": "Удалить все закладки в этой папке"
+   },
+   "disable_chrome_app": {
+      "message": "Отключить приложение"
+   },
+   "disable_extension": {
+      "message": "Отключить расширения"
+   },
+   "do_later": {
+      "message": "поговорить об этом позже"
+   },
+   "done": {
+      "message": "Готово"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Загрузить CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Скачать фон"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo сосредоточен на импорте содержимого из главных сайтов Web 2.0, кроме традиционных поисковых систем. Философия этого сайта — уважение конфиденциальности пользователей и обещание не отслеживать и не сохранять их поисковые запросы"
+   },
+   "ease_in": {
+      "message": "Появление"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Дополнительный компонент Edge"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Введите edge://settings/onStartup В адресной строке браузера, затем нажмите клавишу Enter."
+   },
+   "edge_browser_guide2": {
+      "message": "Нажмите на опцию, указанную стрелкой на рисунке."
+   },
+   "edge_browser_guide3": {
+      "message": "Введите URL https://inftab.com во всплывающем окне, а затем нажмите кнопку «Добавить», чтобы завершить настройку домашней страницы."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Изменить"
+   },
+   "edit_avatar": {
+      "message": "Изменить аватар"
+   },
+   "edit_content": {
+      "message": "Изменить содержимое"
+   },
+   "edit_icon": {
+      "message": "Редактировать значок"
+   },
+   "education": {
+      "message": "Обучение и работа"
+   },
+   "email": {
+      "message": "Электронная почта"
+   },
+   "email_code": {
+      "message": "Код подтверждения почты"
+   },
+   "email_format_error": {
+      "message": "Неверный формат e-mail"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Электронная почта или номер мобильного телефона"
+   },
+   "empty": {
+      "message": "пустой"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Удалить папку?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Вы действительно хотите удалить эту закладку?"
+   },
+   "ensure_logout": {
+      "message": "Вы действительно хотите выйти из системы?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "Заполните свой список задач, нажав ввод"
+   },
+   "enter_password_tips": {
+      "message": "Введите кодовую фразу"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Пожалуйста введите правильный номер телефона"
+   },
+   "enter_verification_code_tips": {
+      "message": "Введите код подтверждения"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Данные резервного копирования экспорта"
+   },
+   "export_local_data_desc": {
+      "message": "Экспорт из текущих локальных данных"
+   },
+   "extension": {
+      "message": "Расширения"
+   },
+   "extension_app": {
+      "message": "Расширения"
+   },
+   "extension_des": {
+      "message": "Свободно добавляйте значки веб-сайтов, пользуйтесь обоями высокого разрешения с облачного диска, а также быстро получайте доступ к закладкам, информации о погоде, заметкам, спискам дел, управлению расширениями и истории на странице приложения New Tab, избранного миллионами пользователей."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP позволяет вам настраивать вашу страницу New Tab"
+   },
+   "extension_des_firefox": {
+      "message": "Эта новая вкладка предоставляет такие функции, как веб-значки, поисковые системы, обои, погода, заметки, закладки, задачи и история."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro позволяет вам настраивать вашу страницу New Tab"
+   },
+   "extension_mananger": {
+      "message": "Управление расширениями"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Вступите в группу на Facebook"
+   },
+   "fahrenheit": {
+      "message": "По Фаренгейту"
+   },
+   "feedback": {
+      "message": "Отзыв"
+   },
+   "female": {
+      "message": "женский"
+   },
+   "filter": {
+      "message": "Фильтр"
+   },
+   "finance": {
+      "message": "финансы"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Магазин дополнений Firefox"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Вход about: preferences #home в адресной строке, чтобы ввести страницу настройки."
+   },
+   "firefox_browser_guide2": {
+      "message": "Как показано на стрелке на рисунке, выберите опцию пользовательских URL."
+   },
+   "firefox_browser_guide3": {
+      "message": "Введите URL https://inftab.com в текстовом поле, настройка домашней страницы завершена."
+   },
+   "five_star": {
+      "message": "Оценить на 5 звёзд"
+   },
+   "folder": {
+      "message": "Папка"
+   },
+   "follow_us": {
+      "message": "Подписаться"
+   },
+   "follow_wechat": {
+      "message": "Следуйте Infinity Wechat Public Account"
+   },
+   "follow_wechat_desc": {
+      "message": "Обратите внимание на наше общественное число WeChat (Micro Signal: InfinityDaily), получить бесконечность последнюю динамику продукта, и вы можете узнать больше удовольствия для расширения и веб-сайта."
+   },
+   "font": {
+      "message": "Шрифты"
+   },
+   "font_color": {
+      "message": "Цвет шрифта"
+   },
+   "font_size": {
+      "message": "Размер текста"
+   },
+   "food_drink": {
+      "message": "Еда"
+   },
+   "forget_password": {
+      "message": "Забыли пароль"
+   },
+   "format_error": {
+      "message": "Ошибка формата"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Большое количество фото, доступных бесплатно — свободное использование и ежедневные обновления"
+   },
+   "fri": {
+      "message": "Пятница"
+   },
+   "fri_min": {
+      "message": "ПТ"
+   },
+   "fully_authorized_to_use": {
+      "message": "Полностью авторизовано для использования функций"
+   },
+   "games": {
+      "message": "Игры и развлечения"
+   },
+   "gamil_notice": {
+      "message": "Уведомления Gmail"
+   },
+   "gender": {
+      "message": "Укажите пол"
+   },
+   "get_app_permission": {
+      "message": "Авторизуйтесь, чтобы получить ваше локальное приложение"
+   },
+   "get_cloud_icon": {
+      "message": "Приобрести онлайн"
+   },
+   "give_money": {
+      "message": "Пожертвовать"
+   },
+   "give_money_thanks": {
+      "message": "Ваша поддержка — наша самая большая награда"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Если вам нравится страница Infinity New Tab, оцените наш сервис или оставьте отзыв, чтобы помочь нам стать лучше."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Если у вас есть какие-либо вопросы или предложения, пожалуйста, свяжитесь с нами."
+   },
+   "gmail_notice_voice": {
+      "message": "Рингтон уведомлений Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search — это поисковая система, разработанная Google. Это самая большая и влиятельная поисковая система в интернете"
+   },
+   "have_todo_item": {
+      "message": "У вас сейчас есть элемент списка дел"
+   },
+   "hide_homepage_btn": {
+      "message": "Скрыть набор как домашняя кнопка"
+   },
+   "hide_icon_name": {
+      "message": "Скрывать название иконки"
+   },
+   "hide_search_button": {
+      "message": "Скрыть кнопку поиска"
+   },
+   "hide_search_category": {
+      "message": "Скрыть поисковую категорию"
+   },
+   "hide_search_input": {
+      "message": "Скрыть поле поиска"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Скрыть набор как домашняя кнопка"
+   },
+   "hint": {
+      "message": "Совет"
+   },
+   "history": {
+      "message": "История"
+   },
+   "history_backup_list": {
+      "message": "Список узлов резервного копирования истории"
+   },
+   "history_week": {
+      "message": "Поиск в истории за неделю"
+   },
+   "host_permission": {
+      "message": "Разрешения узла"
+   },
+   "hour": {
+      "message": "ч."
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Веб-сайт"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Я хочу отправить совет"
+   },
+   "icon": {
+      "message": "Значок"
+   },
+   "icon_added": {
+      "message": "Добавлено"
+   },
+   "icon_bg_text": {
+      "message": "Текст значка"
+   },
+   "icon_network_error": {
+      "message": "Исключение сети. Нажмите, чтобы перезагрузить"
+   },
+   "ignore": {
+      "message": "Пропустить"
+   },
+   "img_verify_code": {
+      "message": "Проверка изображения"
+   },
+   "import_data": {
+      "message": "Импорт резервных данных"
+   },
+   "import_data_desc": {
+      "message": "Восстановить данные из файла резервного копирования"
+   },
+   "import_select_tile": {
+      "message": "Выбор данных"
+   },
+   "infinity_bookmarks": {
+      "message": "Упорядочьте иерархию папки закладок и легче находите закладки с помощью Infinity Bookmarks"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Представленные Infinity обои аниме"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Библиотека высококачественных обоев аниме Infinity"
+   },
+   "infinity_extension": {
+      "message": "Управляйте вашими расширениями $browser$ и приложениями легко с помощью Infinity Extension Manager",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Быстро просматривайте и управляйте историей вашего браузера с помощью Infinity History"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Представленные Infinity обои с пейзажами"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Библиотека высококачественных обоев с пейзажами Infinity"
+   },
+   "infinity_notes": {
+      "message": "Записывайте вдохновения жизни быстро с помощью Infinity Notes"
+   },
+   "infinity_settings": {
+      "message": "Персонализируйте вашу страницу Infinity New Tab с помощью Infinity Settings"
+   },
+   "infinity_todos": {
+      "message": "Упорядочьте ваши задачи и повысьте эффективность вашей работы с помощью Infinity To-do List"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Library предоставляет вам богатые и интересные обои"
+   },
+   "infinity_weather": {
+      "message": "Infinity Weather предоставляет вам прогнозы погоды в городах по всему миру"
+   },
+   "info": {
+      "message": "Информация"
+   },
+   "inportdata_desc": {
+      "message": "Импорт данных и локальных данных не совпадает, выберите объединить или заменить их."
+   },
+   "input_and_search": {
+      "message": "Введите искомое"
+   },
+   "input_city": {
+      "message": "Войти Город/Регион"
+   },
+   "input_new_password": {
+      "message": "Введите новый пароль"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Привязано"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Бесплатные фото для любых видов использования"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Сохранить содержимое в поле поиска"
+   },
+   "label": {
+      "message": "Ярлыки"
+   },
+   "language": {
+      "message": "Язык"
+   },
+   "language_select": {
+      "message": "Выберите язык"
+   },
+   "last_sync_time": {
+      "message": "Время последней синхронизации: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Последнее обновление"
+   },
+   "layout": {
+      "message": "Раскладка"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Источник бесплатных фонов в высоком разрешении"
+   },
+   "life_style": {
+      "message": "Стиль жизни"
+   },
+   "limit_input_length": {
+      "message": "Длина текста за пределами предела"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Локальный значок"
+   },
+   "local_wallpaper2": {
+      "message": "Местные обоиs"
+   },
+   "login": {
+      "message": "Вход"
+   },
+   "login_abandon_tips": {
+      "message": "текущий способ входа в систему будет вскоре удален, пожалуйста, свяжите вашу электронную почту или другую учётную запись третьей стороны как можно скорее после входа в систему"
+   },
+   "login_now": {
+      "message": "Войдите в вашу учетную запись Infinity сейчас, чтобы использовать больше разрешений"
+   },
+   "login_now_btn": {
+      "message": "Войти"
+   },
+   "login_register": {
+      "message": "Вход / Регистрация"
+   },
+   "loging": {
+      "message": "Вход"
+   },
+   "logout": {
+      "message": "Выйти"
+   },
+   "logout_clear_something": {
+      "message": "Очистить индивидуальные настройки и другую информацию на данном устройстве"
+   },
+   "logout_tips": {
+      "message": "Вам нужно очистить локальные данные перед выходом из вашей учётной записи, чтобы не допустить объединения данных различных учётных записей на данном устройстве?"
+   },
+   "logout_warn": {
+      "message": "После выхода из учётной записи вся дублирующая информация в данной учетной записи будет удалена. Вы уверены, что хотите выйти из этой учётной записи?(Изображение заметок и пользовательских библиотек обоев может быть недоступны)"
+   },
+   "male": {
+      "message": "мужской"
+   },
+   "manage_backup_node": {
+      "message": "Управление узлами резервного копирования истории"
+   },
+   "manul_backup": {
+      "message": "Резервное копирование вручную"
+   },
+   "map": {
+      "message": "Карты"
+   },
+   "mask_density": {
+      "message": "Прозрачность фона"
+   },
+   "me": {
+      "message": "Вы"
+   },
+   "merge_cloud_local": {
+      "message": "Объединить локальные и облачные данные"
+   },
+   "merge_data": {
+      "message": "Объединить данные"
+   },
+   "mini_mode": {
+      "message": "Минималистический стиль"
+   },
+   "mins": {
+      "message": "Мин"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Используйте на своих сайтах, в темах, шаблонах, проектах, печатных материалах и газетах. Каждую неделю мы добавляем новые фоны и видео"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobile-версия"
+   },
+   "modify": {
+      "message": "Изменение данных"
+   },
+   "modify_email": {
+      "message": "Изменить электронную почту"
+   },
+   "modify_password": {
+      "message": "Изменить пароль"
+   },
+   "modify_phone_number": {
+      "message": "Изменить номер телефона"
+   },
+   "modify_pwd": {
+      "message": "Изменить пароль"
+   },
+   "modify_success": {
+      "message": "Успешно изменено"
+   },
+   "modify_this": {
+      "message": "Изменить"
+   },
+   "mon": {
+      "message": "Понедельник"
+   },
+   "mon_min": {
+      "message": "ПН"
+   },
+   "month_1": {
+      "message": "Январь"
+   },
+   "month_10": {
+      "message": "Октябрь"
+   },
+   "month_11": {
+      "message": "Ноябрь"
+   },
+   "month_12": {
+      "message": "Декабрь"
+   },
+   "month_2": {
+      "message": "Февраль"
+   },
+   "month_3": {
+      "message": "Март"
+   },
+   "month_4": {
+      "message": "Апрель"
+   },
+   "month_5": {
+      "message": "Май"
+   },
+   "month_6": {
+      "message": "Июнь"
+   },
+   "month_7": {
+      "message": "Июль"
+   },
+   "month_8": {
+      "message": "Август"
+   },
+   "month_9": {
+      "message": "Сентябрь"
+   },
+   "more_content_from_site": {
+      "message": "Больше контента с этого веб-сайта"
+   },
+   "most_used_in_chinese": {
+      "message": "Поисковая система, которая в основном используется в Китае"
+   },
+   "music_video": {
+      "message": "Музыка и видео"
+   },
+   "my_collection": {
+      "message": "Моя коллекция"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Новая вкладка Infinity"
+   },
+   "name_app": {
+      "message": "Новая вкладка Infinity (APP)"
+   },
+   "name_error": {
+      "message": "Укажите название сайта"
+   },
+   "name_pro": {
+      "message": "Новая вкладка Infinity (про)"
+   },
+   "nature": {
+      "message": "Природа."
+   },
+   "need_you_permission": {
+      "message": "Требуется разрешение"
+   },
+   "network_error": {
+      "message": "Ошибка сети"
+   },
+   "new_email": {
+      "message": "Новая эл. почта"
+   },
+   "new_password": {
+      "message": "Введите новый пароль"
+   },
+   "new_phone_number": {
+      "message": "Новый номер телефона"
+   },
+   "new_tab": {
+      "message": "Новая вкладка"
+   },
+   "new_tab_web": {
+      "message": "Infinity Домашняя страница"
+   },
+   "news": {
+      "message": "Новости"
+   },
+   "next": {
+      "message": "Далее"
+   },
+   "nickname": {
+      "message": "Псевдоним"
+   },
+   "no_account_register": {
+      "message": "Не имеете аккаунта? Подпишитесь прямо сейчас."
+   },
+   "no_backup_time": {
+      "message": "Нет"
+   },
+   "no_bookmark_result": {
+      "message": "Нет закладки"
+   },
+   "no_chrome_app": {
+      "message": "Вы не установили какие-либо приложения $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Нет данных о погоде"
+   },
+   "no_data": {
+      "message": "Нет данных"
+   },
+   "no_description": {
+      "message": "Нет описания"
+   },
+   "no_more": {
+      "message": "Пусто"
+   },
+   "no_more_reminder": {
+      "message": "Не показывать снова"
+   },
+   "no_permission_text": {
+      "message": "Рекомендуется, чтобы вы попытаетесь открыть и предоставить это разрешение в адресной строке браузера или центра настроек."
+   },
+   "no_permission_title": {
+      "message": "разрешение еще не выдано"
+   },
+   "no_permission_to_open_app": {
+      "message": "Нет разрешения на открытие приложения $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Нет задач"
+   },
+   "no_search_result": {
+      "message": "Ничего не найдено"
+   },
+   "no_title": {
+      "message": "Без названия"
+   },
+   "none": {
+      "message": "Скрыто"
+   },
+   "none_auto_backup": {
+      "message": "Сейчас нет запланированных резервных копирований"
+   },
+   "none_auto_backup_desc": {
+      "message": "Запланированные резервные копирования начнутся в тот же день, когда вы измените информацию на Infinity"
+   },
+   "none_manual_backup": {
+      "message": "Сейчас нет ручных резервных копирований"
+   },
+   "normal_model": {
+      "message": "Стандартный режим"
+   },
+   "not_binding": {
+      "message": "Не привязано"
+   },
+   "note_title": {
+      "message": "Введите заголовок"
+   },
+   "note_upload_img_15": {
+      "message": "Этот размер изображения не может превышать 15M"
+   },
+   "notes": {
+      "message": "Заметки"
+   },
+   "notice": {
+      "message": "Примечание"
+   },
+   "ocean": {
+      "message": "Океан"
+   },
+   "one_day_later": {
+      "message": "Напомнить завтра"
+   },
+   "one_week_later": {
+      "message": "Напомнить через неделю"
+   },
+   "only_used_infinity": {
+      "message": "Используется только для внутренних модулей Infinity"
+   },
+   "opacity": {
+      "message": "Прозрачность иконок"
+   },
+   "open_all": {
+      "message": "Открыть все"
+   },
+   "open_chrome_app": {
+      "message": "Включить приложение"
+   },
+   "open_extension": {
+      "message": "Включить расширение"
+   },
+   "open_folder_icons": {
+      "message": "Открыть все"
+   },
+   "open_new_tab": {
+      "message": "Открывать сайт в новой вкладке"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Открывать закладку в новой вкладке"
+   },
+   "open_newtab_history": {
+      "message": "Открывать историю в новой вкладке"
+   },
+   "open_newtab_show_search": {
+      "message": "Открывать сторонние результаты поиска в новой вкладке"
+   },
+   "origin_password": {
+      "message": "Текущий пароль"
+   },
+   "other_bookmarks": {
+      "message": "Другие закладки"
+   },
+   "others": {
+      "message": "Другое"
+   },
+   "oversize": {
+      "message": "Размер не может превышать 2 Мб"
+   },
+   "overwrite_data": {
+      "message": "Переписывать данные"
+   },
+   "pagin": {
+      "message": "Кнопка переворачивания страницы"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "password_dont_empty": {
+      "message": "Поле пароля не может быть пустым"
+   },
+   "password_length_low": {
+      "message": "Пароль не менее 6 цифр"
+   },
+   "password_not_equals": {
+      "message": "Пароли не совпадают"
+   },
+   "password_not_some": {
+      "message": "Введенные пароли не совпадают"
+   },
+   "permission": {
+      "message": "Авторизация"
+   },
+   "permission_all": {
+      "message": "Авторизовать всех"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Запросите доступ и изменение ваших данных на mail.google.com; запросите отображение уведомлений"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Уведомления Gmail"
+   },
+   "permission_gmail_num_content": {
+      "message": "Запросите доступ и изменение ваших данных на mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Доступ к количеству gmail"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Запросите доступ и изменение ваших данных на google.com и suggestion.baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Предлагаемый вариант"
+   },
+   "permission_todo_notice_content": {
+      "message": "Запросить отображение уведомления"
+   },
+   "permission_todo_notice_title": {
+      "message": "Уведомление о задачах"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Запросите доступ к значкам, соответствующим посещенным веб-сайтам, а также получите доступ и измените ваши закладки"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Показать закладки сверху"
+   },
+   "permission_top_useful_content": {
+      "message": "Запросите доступ к значкам, соответствующим посещенным веб-сайтам, и получите доступ и измените ваш список наиболее часто посещаемых веб-сайтов"
+   },
+   "permission_top_useful_title": {
+      "message": "Показать часто используемые сайты сверху"
+   },
+   "permisson_label": {
+      "message": "Разрешения"
+   },
+   "phone_number": {
+      "message": "Номер телефона"
+   },
+   "photos": {
+      "message": "Картинки"
+   },
+   "pick_local_wallpaper": {
+      "message": "Выберите локальный фон"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Бесплатные и красивые фотографии, доступные для любого типа использования"
+   },
+   "placeholder_name": {
+      "message": "Название"
+   },
+   "please_chose_picture": {
+      "message": "Выберите изображение"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Пожалуйста, введите название закладки"
+   },
+   "please_enter_email": {
+      "message": "Введите e-mail адрес"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Введите код с картинки"
+   },
+   "please_enter_nickname": {
+      "message": "Введите никнейм"
+   },
+   "please_enter_phone": {
+      "message": "Введите номер телефона"
+   },
+   "please_enter_right_account": {
+      "message": "Пожалуйста, введите правильный адрес электронной почты или номера телефона"
+   },
+   "please_enter_text": {
+      "message": "Ввод текста"
+   },
+   "please_enter_url": {
+      "message": "Введите URL"
+   },
+   "please_input_bg_text": {
+      "message": "Пожалуйста, введите текст значка"
+   },
+   "please_pre_login": {
+      "message": "Сначала выполните вход"
+   },
+   "please_re_login": {
+      "message": "Войдите еще раз."
+   },
+   "please_set_your_password": {
+      "message": "Пожалуйста, установите пароль."
+   },
+   "please_type_link": {
+      "message": "Пожалуйста, введите ссылку"
+   },
+   "please_type_right_link": {
+      "message": "Введите правильный адрес ссылки"
+   },
+   "please_upload_photos": {
+      "message": "Добавьте фотографию"
+   },
+   "popular": {
+      "message": "Популярные"
+   },
+   "preview": {
+      "message": "Предварительный просмотр"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Конфиденциальность и сбор данных"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Изображения, созданные с помощью настраиваемого значка веб-сайта"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Изображения, созданные с помощью настраиваемой поисковой системы"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Ваш зарегистрированный адрес электронной почты, загруженное изображение профиля, выбранный псевдоним, пароль не в виде обычного текста и другую информацию"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Если вы входите в систему с помощью учетной записи третьей стороны, мы сохраняем ваш псевдоним, пол, изображение профиля и другую информацию, предоставленную третьей стороной"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Добавленную вами информацию о значке веб-сайта и поисковой системе"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Информацию о погоде в вашей области или информацию о погоде в других установленных вами областях"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Созданные вами списки дел"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Содержание созданных вами заметок и изображения, загруженные в ваши заметки"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Ваши текущие обои, настройки обоев, изображения, загруженные в ваши локальные обои, а также изображения, загруженные в вашу локальную библиотеку обоев"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Настройки расширений"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Сервер может хранить журналы, созданные во время взаимодействия с пользователями и клиентами. Эта запись, главным образом, используется для поиска и устранения ошибок исключения. Время от времени мы очищаем этот журнал. "
+   },
+   "privacy_data_item_4_1": {
+      "message": "Тип браузера, язык и версия, а также разрешение экрана"
+   },
+   "privacy_data_item_4_10": {
+      "message": "В настоящее время вошел в систему или нет"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Приблизительное количество текущих иконок"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Расширения в настоящее время включены (если вы используете расширенные функции управления)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Количество раз, когда это расширение было открыто"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP-адрес и географическое местоположение, получаемое на основе IP-адреса"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Добавленные значки веб-сайтов и поисковые системы"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Обои и настройки расширений"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Версия расширения"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Частота нажимания на функциональные кнопки"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Сообщение об ошибке исключения"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Откройте адрес хоста веб-сайта"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Текущий поисковый хост"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Мы будем анонимно подсчитать количество раз, когда используются некоторые поисковые системы."
+   },
+   "privacy_data_item_9": {
+      "message": "Вы должны согласиться с этой политикой конфиденциальности, прежде чем вы сможете пользоваться этим расширением. Просмотрите нашу $the_infinity_privacy$, чтобы узнать больше.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Нет, не собирать анонимные данные"
+   },
+   "privacy_data_title_1": {
+      "message": "Мы можем хранить изображения во время пользования, созданные по своему желанию пользователями. Следующие изображения хранятся анонимно:"
+   },
+   "privacy_data_title_2": {
+      "message": "Если вы регистрируетесь или входите в вашу учётную запись, нам необходимо хранить на нашем сервере следующие идентифицируемые данные (далее именуемые как данные пользователя) для выполнения резервного копирования данных и синхронизации:"
+   },
+   "privacy_data_title_3": {
+      "message": "Журнал сервера:"
+   },
+   "privacy_data_title_4": {
+      "message": "Сбор следующей информации не является обязательным. Информация будет собираться анонимно через Google Analytics, что поможет нам улучшить наши продукты:"
+   },
+   "privacy_data_title_5": {
+      "message": "Статистический анализ:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Подтвердите, чтобы удалить страницу Infinity New Tab"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Подтвердите, чтобы удалить Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Удалить страницу Infinity New Tab?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Удалить Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Да, анонимные данные могут собираться в соответствии с политикой конфиденциальности"
+   },
+   "privacy_disagree": {
+      "message": "Не согласен"
+   },
+   "privacy_policy": {
+      "message": "Политика конфиденциальности"
+   },
+   "privacy_title": {
+      "message": "Соглашение о конфиденциальности"
+   },
+   "profile": {
+      "message": "Личная информация"
+   },
+   "pure_color": {
+      "message": "Чистый цвет"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Группа QQ"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Случайные обои"
+   },
+   "re_update": {
+      "message": "Повторное обновление"
+   },
+   "read": {
+      "message": "Читать"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Для персонального и коммерческого использования доступно большое количество фотографий в высоком разрешении, и каждую неделю мы добавляем 7 новых"
+   },
+   "recently_add": {
+      "message": "Недавно добавленные"
+   },
+   "recently_use": {
+      "message": "Недавние"
+   },
+   "recover_error": {
+      "message": "Неудалось восстановление данных"
+   },
+   "recover_error_version": {
+      "message": "Не поддерживается формат данных"
+   },
+   "recover_this": {
+      "message": "Восстановить из этого узла"
+   },
+   "redius": {
+      "message": "Круглые края иконок"
+   },
+   "refresh_qrcode": {
+      "message": "QR-код недействителен, нажмите Обновить"
+   },
+   "register": {
+      "message": "Регистрация"
+   },
+   "register_back": {
+      "message": "Вернуться"
+   },
+   "register_get_email_code_error": {
+      "message": "Сбой получения кода подтверждения"
+   },
+   "register_now": {
+      "message": "Зарегистрируйте вашу учетную запись Infinity сейчас, чтобы использовать больше разрешений"
+   },
+   "relative_humidity": {
+      "message": "Относительная влажность"
+   },
+   "reload": {
+      "message": "Повторить"
+   },
+   "reminder_update_text1": {
+      "message": "Для вас, чтобы получить лучший опыт использования Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Рекомендуется обновить ваш браузер до последней версии, рекомендую браузер, совместимый с Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Дисплей ошибки на странице"
+   },
+   "remove_account": {
+      "message": "Удалить аккаунт"
+   },
+   "remove_done": {
+      "message": "Удалить выполненные пункты списка дел"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Все обои в этой библиотеке обоев будут удалены вместе"
+   },
+   "rename_folder": {
+      "message": "Переименовать"
+   },
+   "repair_auto_backup": {
+      "message": "Автоматическое резервное копирование данных"
+   },
+   "repair_concat": {
+      "message": "Контактная информация"
+   },
+   "repair_concat_email": {
+      "message": "Электронная почта: "
+   },
+   "repair_concat_qq": {
+      "message": "Инженер QQ: "
+   },
+   "repair_data": {
+      "message": "Ремонт данных"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Отправьте нам файл данных для восстановления по следующей контактной информации, и мы поможем вам восстановить данные как можно скорее. Прежде чем инженер решит проблему, постарайтесь не выполнять другие операции. Этот файл может содержать конфиденциальную информацию, такую ​​как учетные записи, пожалуйста, не раскрывайте ее другим лицам."
+   },
+   "repair_data_title": {
+      "message": "Восстановить утерянные или поврежденные данные"
+   },
+   "repair_export_btn": {
+      "message": "Экспорт данных для ремонта"
+   },
+   "repeat_city": {
+      "message": "Вы не можете снова добавить тот же самый город"
+   },
+   "reqeust_login_message": {
+      "message": "Чтобы воспользоваться этой функцией, вам необходимо войти в систему"
+   },
+   "request_logout_confirm": {
+      "message": "Удалить ваш аккаунт?"
+   },
+   "request_reset_all_settings": {
+      "message": "Вы действительно хотите задать настройки по-умолчанию?"
+   },
+   "reset": {
+      "message": "Сбросить"
+   },
+   "reset_password": {
+      "message": "Сбросить пароль"
+   },
+   "reset_password_by_email": {
+      "message": "Смените ваш пароль путем подтверждения по электронной почте"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Сбросьте свой пароль через проверку электронной почты или номера телефона"
+   },
+   "reset_setting": {
+      "message": "Сбросить настройки"
+   },
+   "reset_your_password": {
+      "message": "Смените ваш пароль"
+   },
+   "restore_setting": {
+      "message": "Восстановить настройки"
+   },
+   "revovery_data": {
+      "message": "Восстановить данные"
+   },
+   "row_gap": {
+      "message": "Межстрочный интервал"
+   },
+   "row_num": {
+      "message": "Колонки"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Нажмите на опцию, как показано стрелкой на рисунке."
+   },
+   "safari_browser_guide2": {
+      "message": "Во всплывающем окне введите URL https://inftab.com в столбце домашней страницы."
+   },
+   "safari_browser_guide3": {
+      "message": "Нажмите кнопку под URL-адресом, чтобы завершить настройку домашней страницы."
+   },
+   "sat": {
+      "message": "Суббота"
+   },
+   "sat_min": {
+      "message": "СБ"
+   },
+   "save": {
+      "message": "Сохранить"
+   },
+   "scale": {
+      "message": "Размер значка"
+   },
+   "scale_main": {
+      "message": "увеличение экрана"
+   },
+   "scale_side": {
+      "message": "Увеличение боковой колонки"
+   },
+   "scheduled_backup": {
+      "message": "Планировщик"
+   },
+   "search": {
+      "message": "Поиск"
+   },
+   "search_bookmark": {
+      "message": "Искать в закладках"
+   },
+   "search_engine": {
+      "message": "Поисковая система"
+   },
+   "search_engine_error": {
+      "message": "Введите имя поисковой системы"
+   },
+   "search_error": {
+      "message": "Ошибка загрузки"
+   },
+   "search_extension": {
+      "message": "Поиск по расширениям"
+   },
+   "search_from": {
+      "message": "Поиск выполняется с: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "значок поиска"
+   },
+   "search_input": {
+      "message": "Окно поиска"
+   },
+   "search_input_shadow": {
+      "message": "Тень поля поиска"
+   },
+   "search_opacity": {
+      "message": "Непрозрачность окна поиска"
+   },
+   "search_redius": {
+      "message": "Круглые края поля поиска"
+   },
+   "search_result": {
+      "message": "Результаты поиска"
+   },
+   "search_size": {
+      "message": "Размер поля поиска"
+   },
+   "search_suggest": {
+      "message": "Поисковые предложения"
+   },
+   "search_website": {
+      "message": "Поиск сайтов"
+   },
+   "searching": {
+      "message": "Выполняется поиск"
+   },
+   "select_date": {
+      "message": "Выбрать дату"
+   },
+   "select_icon": {
+      "message": "Выберите значок"
+   },
+   "select_time": {
+      "message": "Выберите время"
+   },
+   "send_success": {
+      "message": "Вам отправлено сообщение по эл. почте. Проверьте почтовый ящик"
+   },
+   "set_homepage_desc": {
+      "message": "Установите расширение браузера, чтобы насладиться полными функциями"
+   },
+   "set_homepage_title2": {
+      "message": "Эта функция не поддерживается в текущей версии_#_Перед использованием установите расширение для браузера"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Установите Infinity как домашняя страница для вашего браузера"
+   },
+   "set_new_password": {
+      "message": "Настройка нового пароля"
+   },
+   "set_remind_time": {
+      "message": "Установите время напоминания"
+   },
+   "set_setting_default": {
+      "message": "Восстановить умолчания"
+   },
+   "set_to_homepage": {
+      "message": "Установить как домашнюю страницу"
+   },
+   "set_top": {
+      "message": "Сверху"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "установить псевдоним и аватар"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "shadow": {
+      "message": "Тень иконок"
+   },
+   "share": {
+      "message": "Отправка"
+   },
+   "share_by_user": {
+      "message": "То, чем поделились другие пользователи"
+   },
+   "share_desc": {
+      "message": "Новая вкладка Infinity, расширение для навигации, которое выбрали миллионы, и самая удобная для пользователя новая вкладка для Chrome"
+   },
+   "share_title": {
+      "message": "Это может быть лучший новый тег в браузере $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Шопинг и групповые покупки"
+   },
+   "shortcut_mode": {
+      "message": "Экспресс‑режим"
+   },
+   "show_detail": {
+      "message": "Смотри сейчас"
+   },
+   "show_gamil_unread_number": {
+      "message": "Показывать на иконке число непрочитанных писем в Gmail"
+   },
+   "show_later": {
+      "message": "Напомнить позже"
+   },
+   "show_name": {
+      "message": "Отображаемое имя"
+   },
+   "show_reminders_number": {
+      "message": "Показывать число задач на иконке"
+   },
+   "skip": {
+      "message": "Пропустить"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Место, где можно искать, показывать и делиться фотографиями"
+   },
+   "social": {
+      "message": "Соцсети и блоги"
+   },
+   "solid_color_wallpaper": {
+      "message": "Одноцветный фон"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Поисковая система, которая может искать содержимое, опубликованное официальными аккаунтами Wechat"
+   },
+   "sports": {
+      "message": "Спорт и путешествия"
+   },
+   "start_animation": {
+      "message": "Начните анимацию"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Предоставление бесплатных фотографий стартапам, блогерам, издателям, вебсайтам, дизайнерам, разработчикам, создателям и многим другим"
+   },
+   "street_photography": {
+      "message": "Улица"
+   },
+   "sun": {
+      "message": "Воскресенье"
+   },
+   "sun_min": {
+      "message": "Вс"
+   },
+   "support": {
+      "message": "Помощь"
+   },
+   "switch_to": {
+      "message": "Переключиться на"
+   },
+   "sync_fail": {
+      "message": "Синхронизация не удалась. Повторить попытку"
+   },
+   "sync_suncess": {
+      "message": "Синхронизация завершена."
+   },
+   "sync_type_tips": {
+      "message": "Обнаружено несоответствие облачных данных и локальных данных. Выберите один тип данных."
+   },
+   "syncing": {
+      "message": "Синхронизация данных…"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "У вас не установленных приложений для $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Способ открыть цель"
+   },
+   "tech": {
+      "message": "Технология"
+   },
+   "technology": {
+      "message": "Технологии"
+   },
+   "term_of_use": {
+      "message": "Условия использования"
+   },
+   "text": {
+      "message": "Текст"
+   },
+   "text_shadow": {
+      "message": "Тень текста"
+   },
+   "thirt_party": {
+      "message": "Используйте логин стороннего аккаунта"
+   },
+   "thu": {
+      "message": "Четверг"
+   },
+   "thu_min": {
+      "message": "ЧТ"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Откройте какой-либо веб-сайт и введите “%s” в поле поиска для выполнения поиска. (Например, с помощью Google)"
+   },
+   "tip_question_2": {
+      "message": "2. Скопируйте URL-адрес результата поиска напрямую"
+   },
+   "tip_question_3": {
+      "message": "3. Вставьте скопированный URL-адрес здесь и у вас всё готово"
+   },
+   "tip_question_title": {
+      "message": "Об использовании “%s” для замены условий поиска"
+   },
+   "to_login": {
+      "message": "Войти"
+   },
+   "today": {
+      "message": "Сегодня"
+   },
+   "todo_welcome": {
+      "message": "Добро пожаловать на страницу Infinity New Tab. Это образец элемента списка дел."
+   },
+   "todos": {
+      "message": "Задачи"
+   },
+   "top_bookmark": {
+      "message": "Показать закладки сверху"
+   },
+   "top_use_ful": {
+      "message": "Показать часто используемые сайты сверху"
+   },
+   "travel": {
+      "message": "Путешествия"
+   },
+   "tue": {
+      "message": "Вторник"
+   },
+   "tue_min": {
+      "message": "ВТ"
+   },
+   "twitter": {
+      "message": "Твиттер"
+   },
+   "two_hours_later": {
+      "message": "Напомните мне через 2 часа"
+   },
+   "type_link": {
+      "message": "Введите ссылку"
+   },
+   "type_text": {
+      "message": "Ввод текста"
+   },
+   "unbind": {
+      "message": "Удалить"
+   },
+   "unbind_btn": {
+      "message": "Отменить привязку"
+   },
+   "unbind_email": {
+      "message": "Отменить привязку почтового ящика"
+   },
+   "unbind_phone_number": {
+      "message": "снять номер телефона"
+   },
+   "unbind_success": {
+      "message": "Успешно удалено"
+   },
+   "uninstall_agree": {
+      "message": "Принимаю"
+   },
+   "uninstall_chrome_app": {
+      "message": "Удалить приложение"
+   },
+   "uninstall_extension": {
+      "message": "Удалить расширение"
+   },
+   "unknown_mistake": {
+      "message": "Неизвестная ошибка"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Знаменитые качественные фоны"
+   },
+   "unzip_folder_content": {
+      "message": "Папка будет удалена, а значок будет сохранен. Вы уверены?"
+   },
+   "unzip_folder_title": {
+      "message": "Освобождено"
+   },
+   "update_data": {
+      "message": "Обновлять данные"
+   },
+   "update_data_failure": {
+      "message": "Обновление профиля Ошибка"
+   },
+   "update_desc_1": {
+      "message": "Если преобразование данных не удалось во время обновления версии, вы можете попытаться повторно обновить данные."
+   },
+   "update_desc_2": {
+      "message": "Если вы все еще не можете решить проблему несколько раз, вы можете связаться с нашими инженерами, мы постараемся помочь вам решить."
+   },
+   "update_desc_3": {
+      "message": "Данные преобразования перезаписывают новые данные версии, рекомендуется резервное копирование данных, прежде чем работать."
+   },
+   "update_error_desc1": {
+      "message": "Вы можете попытаться повторно обновить, если вы обнаружите некоторые данные."
+   },
+   "update_error_desc2": {
+      "message": "Если вы не пройдете несколько обновлений, вы также можете щелкнуть значок «Настройки» из верхнего правого угла, чтобы войти - [My] - [Резервное копирование и ремонт]."
+   },
+   "update_now": {
+      "message": "Обновить"
+   },
+   "update_or_repair_data": {
+      "message": "Обновление или ремонт данных"
+   },
+   "upload_avatar_failure": {
+      "message": "Сбой выгрузки аватара"
+   },
+   "upload_file_error": {
+      "message": "Не удалось загрузить файл"
+   },
+   "upload_image_error": {
+      "message": "Ошибка при загрузке фото"
+   },
+   "uploading": {
+      "message": "Выгрузка..."
+   },
+   "use_cloud": {
+      "message": "Использовать облачные данные"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Введите текст и нажмите Enter, чтобы добавить"
+   },
+   "use_local": {
+      "message": "Использовать локальные данные"
+   },
+   "use_mobile_screen": {
+      "message": "Используйте мобильное устройство для сканирования QR-кода"
+   },
+   "user_evaluation": {
+      "message": "Комментарий пользователя"
+   },
+   "username_cannot_empty": {
+      "message": "Поле имени пользователя не должно быть пустым"
+   },
+   "verify_password_desc": {
+      "message": "Для вашей учетной записи, пожалуйста, введите пароль учетной записи"
+   },
+   "verity_code": {
+      "message": "Отправить код подтверждения"
+   },
+   "verity_code_no_value": {
+      "message": "Поле кода верификации не может быть пустым"
+   },
+   "videos": {
+      "message": "Видео"
+   },
+   "view": {
+      "message": "Посмотреть"
+   },
+   "w309": {
+      "message": "Морось"
+   },
+   "w_100": {
+      "message": "Солнечно"
+   },
+   "w_101": {
+      "message": "Тучка"
+   },
+   "w_102": {
+      "message": "слегка облачно"
+   },
+   "w_103": {
+      "message": "Малооблачно"
+   },
+   "w_104": {
+      "message": "Пасмурно"
+   },
+   "w_200": {
+      "message": "Ветрено"
+   },
+   "w_201": {
+      "message": "Спокойный"
+   },
+   "w_202": {
+      "message": "Свежо"
+   },
+   "w_203": {
+      "message": "Умеренный"
+   },
+   "w_204": {
+      "message": "Свежий"
+   },
+   "w_205": {
+      "message": "Сильный"
+   },
+   "w_206": {
+      "message": "Крепкий"
+   },
+   "w_207": {
+      "message": "Сильный ветер"
+   },
+   "w_208": {
+      "message": "Шторм"
+   },
+   "w_209": {
+      "message": "Ураганы"
+   },
+   "w_210": {
+      "message": "Штормовой"
+   },
+   "w_211": {
+      "message": "Ураган"
+   },
+   "w_212": {
+      "message": "Торнадо"
+   },
+   "w_213": {
+      "message": "Тропический шторм"
+   },
+   "w_300": {
+      "message": "Ливни"
+   },
+   "w_301": {
+      "message": "Сильный дождь"
+   },
+   "w_302": {
+      "message": "Грозы"
+   },
+   "w_303": {
+      "message": "Сильные грозы"
+   },
+   "w_304": {
+      "message": "Грозы с дождем и снегом"
+   },
+   "w_305": {
+      "message": "Небольшой дождь"
+   },
+   "w_306": {
+      "message": "Умеренный дождь"
+   },
+   "w_307": {
+      "message": "Сильный дождь"
+   },
+   "w_308": {
+      "message": "Есть крайняя дождь"
+   },
+   "w_310": {
+      "message": "Ливень"
+   },
+   "w_311": {
+      "message": "Сильная буря"
+   },
+   "w_312": {
+      "message": "Очень сильный ливень"
+   },
+   "w_313": {
+      "message": "Гололёд"
+   },
+   "w_314": {
+      "message": "Небольшой дождь, переходящий в умеренный"
+   },
+   "w_315": {
+      "message": "Умеренный дождь, переходящий в сильный"
+   },
+   "w_316": {
+      "message": "От сильного дождя до бури"
+   },
+   "w_317": {
+      "message": "Буря или сильная буря"
+   },
+   "w_318": {
+      "message": "От шторма до сильной бури"
+   },
+   "w_399": {
+      "message": "Дождь"
+   },
+   "w_400": {
+      "message": "Небольшой снег"
+   },
+   "w_401": {
+      "message": "Умеренный снегопад"
+   },
+   "w_402": {
+      "message": "Сильный снегопад"
+   },
+   "w_403": {
+      "message": "Снежная буря"
+   },
+   "w_404": {
+      "message": "Снег с дождем"
+   },
+   "w_405": {
+      "message": "Мокрый снег"
+   },
+   "w_406": {
+      "message": "Ливень со снегом"
+   },
+   "w_407": {
+      "message": "Сильный снегопад"
+   },
+   "w_408": {
+      "message": "От небольшого до умеренного снегопада"
+   },
+   "w_409": {
+      "message": "От умеренного до сильного снегопада"
+   },
+   "w_410": {
+      "message": "От сильного снегопада до метели"
+   },
+   "w_499": {
+      "message": "Снег"
+   },
+   "w_500": {
+      "message": "Туман"
+   },
+   "w_501": {
+      "message": "Туман"
+   },
+   "w_502": {
+      "message": "Сухой туман"
+   },
+   "w_503": {
+      "message": "Песок"
+   },
+   "w_504": {
+      "message": "Пыль"
+   },
+   "w_507": {
+      "message": "Песчаная буря"
+   },
+   "w_508": {
+      "message": "Сильная пыльная буря"
+   },
+   "w_509": {
+      "message": "Густой туман"
+   },
+   "w_510": {
+      "message": "Очень плотный туман"
+   },
+   "w_511": {
+      "message": "Дымка"
+   },
+   "w_512": {
+      "message": "Сильная дымка"
+   },
+   "w_513": {
+      "message": "Сильная дымка"
+   },
+   "w_514": {
+      "message": "Туман"
+   },
+   "w_515": {
+      "message": "Сильной туман"
+   },
+   "w_900": {
+      "message": "Жарко"
+   },
+   "w_901": {
+      "message": "Холодно"
+   },
+   "w_999": {
+      "message": "Неизвестно"
+   },
+   "wallpaper": {
+      "message": "Обои"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Добавить пользовательский цвет"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Не удалось добавить изображение. Повторите попытку позже."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Не удалось запустить локальное приложение обоев. Повторите попытку позже"
+   },
+   "wallpaper_applying_library": {
+      "message": "Обои Библиотека включена..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Частота смены обоев"
+   },
+   "wallpaper_choose_library": {
+      "message": "Выберите источник обоев"
+   },
+   "wallpaper_choose_single": {
+      "message": "Выбор обоев"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Отменить выбор"
+   },
+   "wallpaper_cloud": {
+      "message": "Облако обои"
+   },
+   "wallpaper_collect_current": {
+      "message": "Собирать текущие обои"
+   },
+   "wallpaper_common_color": {
+      "message": "Выборочный цвет"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Удалить эти обои?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Не удалось создать локальную библиотеку обоев. Повторите попытку позже."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Настраиваемая пользовательская библиотека обоев превышает лимит"
+   },
+   "wallpaper_custom_color": {
+      "message": "Собственный цвет"
+   },
+   "wallpaper_delete_color": {
+      "message": "Удалить этот цвет"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Успешно удалено"
+   },
+   "wallpaper_delete_file": {
+      "message": "Удалить фоновый рисунок"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Не удалось удалить обои"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Отключить автоматическое переключение обоев"
+   },
+   "wallpaper_empty_text": {
+      "message": "Нет данных"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Не удалось получить обои"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Не удалось получить пользовательские обои"
+   },
+   "wallpaper_library": {
+      "message": "Библиотека обоев"
+   },
+   "wallpaper_library_desc": {
+      "message": "Локальная библиотека обоев пользователя $user$",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Недопустимое имя библиотеки обоев"
+   },
+   "wallpaper_library_preview": {
+      "message": "Просмотр обоев"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Загрузите не более 20 обоев. Каждые обои не должны превышать 10 Мб."
+   },
+   "wallpaper_loading": {
+      "message": "Обработка..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Для этого необходимо подключение к Интернету"
+   },
+   "wallpaper_remove_library": {
+      "message": "Удалить эту библиотеку обоев"
+   },
+   "wallpaper_sort_default": {
+      "message": "Стандартная сортировка"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Популярность"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Дата включения"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Переключаться каждые 24 часа"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Не удалось изменить фон"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Обновляйте ваши ежедневные обои с помощью Bing. Вы не можете выбрать эту частоту переключения."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Переключаться каждый 1 час"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Переключаться каждые 12 часов"
+   },
+   "wallpaper_switch_success": {
+      "message": "Фон успешно изменен"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Переключиться на следующий фон"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Переключатель при открытии новой вкладки"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Переключатель при открытии страницы"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Не удалось загрузить файл. Причина: размер превышает лимит"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Выберите изображение со своего компьютера в качестве фона"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Требуются хотя бы одни обои"
+   },
+   "want_more": {
+      "message": "Наслаждайтесь мгновенными плюсами"
+   },
+   "weather": {
+      "message": "Погода"
+   },
+   "weather_empty": {
+      "message": "В настоящее время нет информации о погоде"
+   },
+   "web_set_home_title": {
+      "message": "Как установить Infinity как домашняя страница"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Имя веб-сайта"
+   },
+   "website_search_replace_char": {
+      "message": "Url ( используйте %s для замены поискового слова)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Среда"
+   },
+   "wed_min": {
+      "message": "СР"
+   },
+   "welcome_infinity": {
+      "message": "Добро пожаловать в Infinity"
+   },
+   "wind_force": {
+      "message": "Сила ветра"
+   },
+   "wind_mill": {
+      "message": "Показать кнопку случайной смены фона в правом нижнем углу"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search — это поисковая система под управлением Yahoo"
+   },
+   "yandex": {
+      "message": "Яндекс"
+   },
+   "yandex_desc": {
+      "message": "Яндекс — один из самых важных порталов в России"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$год$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Вчера"
+   },
+   "you_need_login": {
+      "message": "Сначала вы должны войти на счёт Infinity"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "ваши исторические записи будут показаны здесь"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

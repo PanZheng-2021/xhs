@@ -1,0 +1,2423 @@
+{
+   "360_desc": {
+      "message": "安全搜索引擎"
+   },
+   "about": {
+      "message": "關於"
+   },
+   "about_us": {
+      "message": "關於我們"
+   },
+   "account_expired": {
+      "message": "檢測到您的賬號已過期，請重新登錄"
+   },
+   "account_setting": {
+      "message": "帳戶設定"
+   },
+   "add": {
+      "message": "新增"
+   },
+   "add_city": {
+      "message": "添加城市"
+   },
+   "add_first_note": {
+      "message": "快來添加第一條筆記吧"
+   },
+   "add_icon_success": {
+      "message": "添加成功"
+   },
+   "add_link": {
+      "message": "新增連結"
+   },
+   "add_new_search_engine": {
+      "message": "添加新的搜尋引擎"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "新建壁紙庫"
+   },
+   "add_search_engine": {
+      "message": "新增搜尋引擎"
+   },
+   "add_success": {
+      "message": "新增成功"
+   },
+   "add_to_home_site": {
+      "message": "添加到主頁"
+   },
+   "add_to_infinity": {
+      "message": "添加Infinity新分頁"
+   },
+   "additional_search_engine": {
+      "message": "附加搜尋"
+   },
+   "air_pressure": {
+      "message": "氣壓"
+   },
+   "all_wallpaper_sources": {
+      "message": "全部壁纸"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "所有壁紙源"
+   },
+   "ambiguity": {
+      "message": "模糊度"
+   },
+   "animals": {
+      "message": "動物"
+   },
+   "animation": {
+      "message": "轉場動畫"
+   },
+   "animation_tips": {
+      "message": "開啟動畫將可能影響流暢性"
+   },
+   "anime": {
+      "message": "漫畫"
+   },
+   "any_money": {
+      "message": "隨意"
+   },
+   "app": {
+      "message": "應用程式"
+   },
+   "app_disabled_enable_first": {
+      "message": "此應用被您禁用，允許Infinity先啟用此應用嗎？"
+   },
+   "application": {
+      "message": "應用程式"
+   },
+   "apply": {
+      "message": "套用"
+   },
+   "architecture": {
+      "message": "建築"
+   },
+   "athletics": {
+      "message": "運動"
+   },
+   "avatar": {
+      "message": "選擇頭像"
+   },
+   "backing_up": {
+      "message": "正在備份…"
+   },
+   "backup_and_recovery": {
+      "message": "備份與恢復"
+   },
+   "backup_failed": {
+      "message": "備份失敗"
+   },
+   "backup_now": {
+      "message": "立即備份"
+   },
+   "backup_successful": {
+      "message": "備份成功"
+   },
+   "backup_tips": {
+      "message": "我們至多為您保留3個手動備份節點與3個自動備份節點"
+   },
+   "backup_with_device": {
+      "message": "與其他設備保持同步"
+   },
+   "baidu": {
+      "message": "百度"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "以收集免費、高畫質且非圖庫性質的攝影相片為主"
+   },
+   "basic_info": {
+      "message": "一般資訊"
+   },
+   "bg_color": {
+      "message": "背景顏色"
+   },
+   "bg_updating": {
+      "message": "升級中，請稍等…"
+   },
+   "bind": {
+      "message": "關聯"
+   },
+   "bind_success": {
+      "message": "關聯成功"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "必應是一款由微軟公司推出的網絡搜尋引擎"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "bing每日壁紙庫"
+   },
+   "bookmarks": {
+      "message": "書籤"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$瀏覽器不支持該功能",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancel_login": {
+      "message": "取消登入"
+   },
+   "cancel_remind_time": {
+      "message": "取消提醒時間"
+   },
+   "cancel_set_top": {
+      "message": "移除釘選"
+   },
+   "cannot_change_password": {
+      "message": "第三方登錄用戶無法修改密碼"
+   },
+   "cannot_change_profile": {
+      "message": "第三方登錄使用者不能修改個人資料"
+   },
+   "cannot_download": {
+      "message": "不支援下載功能"
+   },
+   "cannot_empty": {
+      "message": "不能為空"
+   },
+   "celsius": {
+      "message": "攝氏"
+   },
+   "change_remind_time": {
+      "message": "修改提醒時間"
+   },
+   "change_wallpaper": {
+      "message": "更換壁紙"
+   },
+   "check_olddata_desc": {
+      "message": "檢測到有一份舊版本遺留數據，可能是升級失敗導致，如果有需要您可以嘗試重新升級這份數據"
+   },
+   "choose_sync_type": {
+      "message": "選擇帳號數據"
+   },
+   "chose_from_mypc": {
+      "message": "新建我的壁紙庫"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$ 應用程式",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome 線上應用程式商店"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "在地址欄輸入 chrome://settings/appearance，回車進入設定頁面;"
+   },
+   "chrome_browser_guide2": {
+      "message": "往下滑動到底部，在【起始畫面】一欄裏選擇【開啟某個特定網頁或一組網頁】，再選中【新增網頁】；"
+   },
+   "chrome_browser_guide3": {
+      "message": "在彈窗裡輸入 Infinity 主頁的網址 https://inftab.com，點擊【新增】，主頁設置完成。"
+   },
+   "clear_historys": {
+      "message": "清除歷史記錄"
+   },
+   "col_gap": {
+      "message": "欄間距"
+   },
+   "col_num": {
+      "message": "行"
+   },
+   "color": {
+      "message": "色彩"
+   },
+   "color_icon": {
+      "message": "純色圖標"
+   },
+   "come_from": {
+      "message": "來自用戶"
+   },
+   "comming_soon": {
+      "message": "即將上線"
+   },
+   "comming_soon_title": {
+      "message": "Infinity移動版正在快馬加鞭的路上"
+   },
+   "confirm": {
+      "message": "確定"
+   },
+   "confirm_clear_all_history": {
+      "message": "確認清除所有歷史記錄？"
+   },
+   "confirm_cover_remote": {
+      "message": "本地數據將保存至手動備份節點"
+   },
+   "confirm_del_folder": {
+      "message": "資料夾將被删除，確定嗎？"
+   },
+   "confirm_delete_done_todos": {
+      "message": "確認删除已完成的事項？"
+   },
+   "confirm_delete_note": {
+      "message": "確認删除當前筆記？"
+   },
+   "confirm_logout": {
+      "message": "登出"
+   },
+   "confirm_password": {
+      "message": "確認新密碼"
+   },
+   "confirm_password_2": {
+      "message": "確認密碼"
+   },
+   "confirm_recovery_data": {
+      "message": "雲端資料將覆蓋本地數據，確定嗎？"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "確認删除該壁紙庫嗎？"
+   },
+   "confirm_unbind": {
+      "message": "確認解除綁定吗？"
+   },
+   "confirm_unbind_email": {
+      "message": "確定要郵箱$email$解除綁定嗎？",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "確定要將手機號$phone_number$解除綁定嗎？",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "聯繫工程師"
+   },
+   "contact_us": {
+      "message": "聯絡我們"
+   },
+   "copy": {
+      "message": "複製"
+   },
+   "cubic_bezier": {
+      "message": "回彈"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "個人資料相片"
+   },
+   "current_browser_not_support": {
+      "message": "當前瀏覽器不支持擴展管理"
+   },
+   "current_no_reminders": {
+      "message": "暫無待辦事項"
+   },
+   "current_node": {
+      "message": "當前節點"
+   },
+   "custom": {
+      "message": "自訂"
+   },
+   "custom_icon": {
+      "message": "自訂圖示"
+   },
+   "custom_layout": {
+      "message": "自訂佈局"
+   },
+   "custom_site": {
+      "message": "自定義網站"
+   },
+   "default": {
+      "message": "預設"
+   },
+   "del_folder": {
+      "message": "刪除"
+   },
+   "delete_all_bookmarks": {
+      "message": "該資料夾下的子書籤將一併刪除"
+   },
+   "disable_chrome_app": {
+      "message": "停用應用"
+   },
+   "disable_extension": {
+      "message": "禁用擴展"
+   },
+   "do_later": {
+      "message": "稍後再說"
+   },
+   "done": {
+      "message": "完成"
+   },
+   "douban": {
+      "message": "豆瓣"
+   },
+   "download_crx": {
+      "message": "下載CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "下載當前壁紙"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo強調在傳統搜尋引擎的基礎上引入各大Web 2.0網站的內容。其辦站哲學主張維護使用者的隱私權，並承諾不監控、不記錄使用者的搜尋內容。"
+   },
+   "ease_in": {
+      "message": "淡入"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge外接程式"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "在瀏覽器地址欄輸入 edge://settings/on Startup，回車進入設定頁面。"
+   },
+   "edge_browser_guide2": {
+      "message": "在【啟動時】这一栏中选择【開啟這些頁面】，再点击后侧的【新增頁面】按钮。"
+   },
+   "edge_browser_guide3": {
+      "message": "在彈窗裡輸入 Infinity 主頁的網址 https://inftab.com，點擊【新增】，主頁設置完成。"
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "編輯"
+   },
+   "edit_avatar": {
+      "message": "編輯大頭貼"
+   },
+   "edit_content": {
+      "message": "編輯內容"
+   },
+   "edit_icon": {
+      "message": "編輯圖示"
+   },
+   "education": {
+      "message": "教育與招聘"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_code": {
+      "message": "郵箱驗證碼"
+   },
+   "email_format_error": {
+      "message": "郵箱格式不正確"
+   },
+   "email_or_phone_number_tips": {
+      "message": "郵箱或手機號碼"
+   },
+   "empty": {
+      "message": "空"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "確認刪除該文件夾?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "確認删除該書簽？"
+   },
+   "ensure_logout": {
+      "message": "確認退出帳號？"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "輸入待辦事項按回車添加"
+   },
+   "enter_password_tips": {
+      "message": "輸入通關密語"
+   },
+   "enter_valid_phone_tips": {
+      "message": "請輸入正確的手機號"
+   },
+   "enter_verification_code_tips": {
+      "message": "請輸入驗證碼"
+   },
+   "exfans": {
+      "message": "擴展迷"
+   },
+   "export_local_data": {
+      "message": "導出備份數據"
+   },
+   "export_local_data_desc": {
+      "message": "從當前本地數據導出"
+   },
+   "extension": {
+      "message": "擴展管理"
+   },
+   "extension_app": {
+      "message": "擴充功能"
+   },
+   "extension_des": {
+      "message": "百萬用戶選擇的新標籤頁，自由添加網站圖標，雲端高清桌面，快速訪問書簽、天氣、筆記、待辦事項、擴展管理與歷史記錄。"
+   },
+   "extension_des_app": {
+      "message": "Infinity新分頁APP讓你可以自定義你的新分頁"
+   },
+   "extension_des_firefox": {
+      "message": "數百萬人選擇的新分頁，可以極大地提高生產力。支持自定義添加網頁圖標、搜尋引擎、高清桌面，以及天氣、筆記、書簽、待辦事項、歷史記錄、擴展管理等小組件。"
+   },
+   "extension_des_pro": {
+      "message": "Infinity新分頁Pro讓你可以自定義你的新分頁"
+   },
+   "extension_mananger": {
+      "message": "管理擴充功能"
+   },
+   "extfans": {
+      "message": "Extfans擴展迷"
+   },
+   "facebook": {
+      "message": "臉書"
+   },
+   "facebook_group": {
+      "message": "Facebook群組"
+   },
+   "fahrenheit": {
+      "message": "華氏"
+   },
+   "feedback": {
+      "message": "意見回饋"
+   },
+   "female": {
+      "message": "女性"
+   },
+   "filter": {
+      "message": "篩選"
+   },
+   "finance": {
+      "message": "金融"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox附加組件"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "在地址欄輸入 about:preferences#home，回車進入設定頁面。"
+   },
+   "firefox_browser_guide2": {
+      "message": "點擊【首頁與新視窗】後面的下拉欄，在下拉式功能表中選中【自訂網址】。"
+   },
+   "firefox_browser_guide3": {
+      "message": "在文本框中輸入 Infinity 主頁的網址 https://inftab.com，主頁設置完成。"
+   },
+   "five_star": {
+      "message": "五星好評"
+   },
+   "folder": {
+      "message": "資料夾"
+   },
+   "follow_us": {
+      "message": "關注我們"
+   },
+   "follow_wechat": {
+      "message": "關注Infinity微信公眾號"
+   },
+   "follow_wechat_desc": {
+      "message": "關注我們的微信公眾號（微訊號：infinitydaily），獲取Infinity最新產品動態，還能帶你發現更多好玩有趣的擴展和網站。"
+   },
+   "font": {
+      "message": "字型"
+   },
+   "font_color": {
+      "message": "字型顏色"
+   },
+   "font_size": {
+      "message": "字體大小"
+   },
+   "food_drink": {
+      "message": "美食"
+   },
+   "forget_password": {
+      "message": "忘記密碼"
+   },
+   "format_error": {
+      "message": "格式錯誤"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "大量免版税照片，任意使用，每日更新"
+   },
+   "fri": {
+      "message": "星期五"
+   },
+   "fri_min": {
+      "message": "五"
+   },
+   "fully_authorized_to_use": {
+      "message": "授權以使用完整功能"
+   },
+   "games": {
+      "message": "遊戲與娛樂"
+   },
+   "gamil_notice": {
+      "message": "Gmail郵件通知"
+   },
+   "gender": {
+      "message": "選取性別"
+   },
+   "get_app_permission": {
+      "message": "授權以獲取您的本地應用"
+   },
+   "get_cloud_icon": {
+      "message": "在線獲取"
+   },
+   "give_money": {
+      "message": "贊助"
+   },
+   "give_money_thanks": {
+      "message": "您的支持是對我們極大的肯定"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "如果您喜歡Infinity新分頁，請給我們打分或者反饋幫助我們進行優化。。"
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "如果您有任何問題或建議，請聯繫我們進行反饋。"
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail郵件通知鈴聲"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google搜索是由Google公司推出的一個互聯網搜索引擎，它是互聯網上最大、影響最廣泛的搜索引擎"
+   },
+   "have_todo_item": {
+      "message": "您當前有一個待辦事項"
+   },
+   "hide_homepage_btn": {
+      "message": "隱藏設為主頁按鈕"
+   },
+   "hide_icon_name": {
+      "message": "隱藏圖標名稱"
+   },
+   "hide_search_button": {
+      "message": "隱藏搜索按鈕"
+   },
+   "hide_search_category": {
+      "message": "隱藏搜索類別"
+   },
+   "hide_search_input": {
+      "message": "隱藏搜尋框"
+   },
+   "hide_set_homepage_btn": {
+      "message": "隱藏設為主頁"
+   },
+   "hint": {
+      "message": "提示"
+   },
+   "history": {
+      "message": "歷史記錄"
+   },
+   "history_backup_list": {
+      "message": "歷史備份節點清單"
+   },
+   "history_week": {
+      "message": "搜索一周內歷史記錄"
+   },
+   "host_permission": {
+      "message": "Host許可權"
+   },
+   "hour": {
+      "message": "時"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "網站"
+   },
+   "i_taobao": {
+      "message": "愛淘寶"
+   },
+   "i_want_to_reward": {
+      "message": "我要打赏"
+   },
+   "icon": {
+      "message": "圖示"
+   },
+   "icon_added": {
+      "message": "已新增"
+   },
+   "icon_bg_text": {
+      "message": "圖標文字"
+   },
+   "icon_network_error": {
+      "message": "網絡錯誤，點擊重新加載"
+   },
+   "ignore": {
+      "message": "略過"
+   },
+   "img_verify_code": {
+      "message": "照片驗證碼"
+   },
+   "import_data": {
+      "message": "導入備份數據"
+   },
+   "import_data_desc": {
+      "message": "從備份文件恢復數據"
+   },
+   "import_select_tile": {
+      "message": "選取資料"
+   },
+   "infinity_bookmarks": {
+      "message": "Infinity書簽，扁平化您的書簽資料夾層級，更方便的查找書簽"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity精選動漫壁紙"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "高品質的infinity動漫壁紙庫"
+   },
+   "infinity_extension": {
+      "message": "Infinity擴展管理，簡單明瞭的管理您的$browser$擴展和App",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Infinity歷史記錄，快速查看和管理您瀏覽器的歷史記錄"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity精選風景壁紙"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "高品質的infinity風景壁紙庫"
+   },
+   "infinity_notes": {
+      "message": "Infinity筆記，快速記錄您的生活靈感"
+   },
+   "infinity_settings": {
+      "message": "Infinity設定，對您的Infinity新標籤頁進行個性化設定"
+   },
+   "infinity_todos": {
+      "message": "Infinity待辦事項，將您的任務安排的井然有序，提高您的工作效率"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity壁紙庫，為您提供豐富、精彩的桌面"
+   },
+   "infinity_weather": {
+      "message": "Infinity天氣，為您提供全球都市的天氣預報"
+   },
+   "info": {
+      "message": "資訊"
+   },
+   "inportdata_desc": {
+      "message": "導入數據和本地數據不一致，請選擇合併或者覆蓋。"
+   },
+   "input_and_search": {
+      "message": "輸入並搜尋"
+   },
+   "input_city": {
+      "message": "輸入城市/地區"
+   },
+   "input_new_password": {
+      "message": "輸入新密碼"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "已關聯"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "免费照片，任意使用"
+   },
+   "jindong_shopping": {
+      "message": "京東商城"
+   },
+   "keep_search_input": {
+      "message": "保留搜索框内容"
+   },
+   "label": {
+      "message": "標籤"
+   },
+   "language": {
+      "message": "語言"
+   },
+   "language_select": {
+      "message": "語言選擇"
+   },
+   "last_sync_time": {
+      "message": "上次同步時間：$time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "上次更新日期"
+   },
+   "layout": {
+      "message": "配置"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "免费的高清壁纸源"
+   },
+   "life_style": {
+      "message": "生活方式"
+   },
+   "limit_input_length": {
+      "message": "文字長度超出限制"
+   },
+   "linkedin": {
+      "message": "領英"
+   },
+   "local_icon": {
+      "message": "本地圖標"
+   },
+   "local_wallpaper2": {
+      "message": "本地壁紙"
+   },
+   "login": {
+      "message": "登入"
+   },
+   "login_abandon_tips": {
+      "message": "當前的登入管道將很快被删除，請在登入後儘快綁定您的電子郵件或其他協力廠商帳戶"
+   },
+   "login_now": {
+      "message": "現在登入你的Infinity帳號，享受更多許可權"
+   },
+   "login_now_btn": {
+      "message": "立即登入"
+   },
+   "login_register": {
+      "message": "登入 | 入會"
+   },
+   "loging": {
+      "message": "登入中"
+   },
+   "logout": {
+      "message": "登出"
+   },
+   "logout_clear_something": {
+      "message": "清除此設備上的個性化設定等資訊"
+   },
+   "logout_tips": {
+      "message": "在您退出帳號前是否需要清除本地數據，以防止此設備不同帳號數據串聯"
+   },
+   "logout_warn": {
+      "message": "删除帳號之後，此帳號下的所有備份資訊均會被清除，是否確認删除此帳號？（筆記和自定義壁紙庫的圖片可能會不可用）"
+   },
+   "male": {
+      "message": "男性"
+   },
+   "manage_backup_node": {
+      "message": "管理歷史備份節點"
+   },
+   "manul_backup": {
+      "message": "手動備份"
+   },
+   "map": {
+      "message": "地圖"
+   },
+   "mask_density": {
+      "message": "遮罩濃度"
+   },
+   "me": {
+      "message": "我的"
+   },
+   "merge_cloud_local": {
+      "message": "合併本地和雲端數據"
+   },
+   "merge_data": {
+      "message": "合併資料"
+   },
+   "mini_mode": {
+      "message": "極簡主義模式"
+   },
+   "mins": {
+      "message": "分鐘"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "在你的網站，主題，範本，項目，印刷資料，報刊等處使用，每週都有新的桌面和視屏加入"
+   },
+   "mobile_devices": {
+      "message": "Infinity 移動版"
+   },
+   "modify": {
+      "message": "編輯內容"
+   },
+   "modify_email": {
+      "message": "修改電子郵件"
+   },
+   "modify_password": {
+      "message": "修改密碼"
+   },
+   "modify_phone_number": {
+      "message": "修改手機號"
+   },
+   "modify_pwd": {
+      "message": "修改密碼"
+   },
+   "modify_success": {
+      "message": "成功變更"
+   },
+   "modify_this": {
+      "message": "編輯"
+   },
+   "mon": {
+      "message": "星期一"
+   },
+   "mon_min": {
+      "message": "一"
+   },
+   "month_1": {
+      "message": "一月"
+   },
+   "month_10": {
+      "message": "十月"
+   },
+   "month_11": {
+      "message": "十一月"
+   },
+   "month_12": {
+      "message": "十二月"
+   },
+   "month_2": {
+      "message": "二月"
+   },
+   "month_3": {
+      "message": "三月"
+   },
+   "month_4": {
+      "message": "四月"
+   },
+   "month_5": {
+      "message": "五月"
+   },
+   "month_6": {
+      "message": "六月"
+   },
+   "month_7": {
+      "message": "七月"
+   },
+   "month_8": {
+      "message": "八月"
+   },
+   "month_9": {
+      "message": "九月"
+   },
+   "more_content_from_site": {
+      "message": "來自該網站的更多內容"
+   },
+   "most_used_in_chinese": {
+      "message": "中國人用的最多的搜尋引擎"
+   },
+   "music_video": {
+      "message": "音樂錄影帶"
+   },
+   "my_collection": {
+      "message": "我的收藏"
+   },
+   "n_360": {
+      "message": "360搜索"
+   },
+   "name": {
+      "message": "Infinity 新分頁"
+   },
+   "name_app": {
+      "message": "Infinity 新分頁 （APP）"
+   },
+   "name_error": {
+      "message": "請輸入網站名稱"
+   },
+   "name_pro": {
+      "message": "Infinity 新分頁 （Pro）"
+   },
+   "nature": {
+      "message": "自然"
+   },
+   "need_you_permission": {
+      "message": "以下功能需要您的授權"
+   },
+   "network_error": {
+      "message": "網路錯誤"
+   },
+   "new_email": {
+      "message": "新郵箱"
+   },
+   "new_password": {
+      "message": "輸入新密碼"
+   },
+   "new_phone_number": {
+      "message": "新手機號"
+   },
+   "new_tab": {
+      "message": "新增分頁"
+   },
+   "new_tab_web": {
+      "message": "Infinity 主頁"
+   },
+   "news": {
+      "message": "新聞"
+   },
+   "next": {
+      "message": "繼續"
+   },
+   "nickname": {
+      "message": "暱稱"
+   },
+   "no_account_register": {
+      "message": "還沒有賬號？現在註冊"
+   },
+   "no_backup_time": {
+      "message": "無"
+   },
+   "no_bookmark_result": {
+      "message": "沒有任何書籤"
+   },
+   "no_chrome_app": {
+      "message": "當前暫無$browser$應用",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "沒有當前城市天氣數據"
+   },
+   "no_data": {
+      "message": "尚無數據"
+   },
+   "no_description": {
+      "message": "沒有描述"
+   },
+   "no_more": {
+      "message": "沒有更多了"
+   },
+   "no_more_reminder": {
+      "message": "不再顯示"
+   },
+   "no_permission_text": {
+      "message": "建議您嘗試前往瀏覽器位址列或設置中心開啟並授予該許可權。"
+   },
+   "no_permission_title": {
+      "message": "暫未授予該許可權"
+   },
+   "no_permission_to_open_app": {
+      "message": "沒有打開$browser$應用的許可權",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "暫無待辦事項"
+   },
+   "no_search_result": {
+      "message": "暫無搜尋結果"
+   },
+   "no_title": {
+      "message": "無標題"
+   },
+   "none": {
+      "message": "不顯示"
+   },
+   "none_auto_backup": {
+      "message": "當前暫無定時備份"
+   },
+   "none_auto_backup_desc": {
+      "message": "定時備份將在您對infinity進行修改的當天備份"
+   },
+   "none_manual_backup": {
+      "message": "當前暫無手動備份"
+   },
+   "normal_model": {
+      "message": "標準模式"
+   },
+   "not_binding": {
+      "message": "未關聯"
+   },
+   "note_title": {
+      "message": "輸入記事標題"
+   },
+   "note_upload_img_15": {
+      "message": "圖片不能超過15M"
+   },
+   "notes": {
+      "message": "筆記"
+   },
+   "notice": {
+      "message": "聲明"
+   },
+   "ocean": {
+      "message": "海洋"
+   },
+   "one_day_later": {
+      "message": "明天提醒我"
+   },
+   "one_week_later": {
+      "message": "一周後提醒我"
+   },
+   "only_used_infinity": {
+      "message": "僅作用於Infinity內部模塊"
+   },
+   "opacity": {
+      "message": "圖標不透明度"
+   },
+   "open_all": {
+      "message": "開啟全部"
+   },
+   "open_chrome_app": {
+      "message": "啟用應用程式"
+   },
+   "open_extension": {
+      "message": "啟用延伸功能"
+   },
+   "open_folder_icons": {
+      "message": "開啟全部"
+   },
+   "open_new_tab": {
+      "message": "在新分頁中打開網站"
+   },
+   "open_newtab_bookmarks": {
+      "message": "在新分頁中打開書簽連結"
+   },
+   "open_newtab_history": {
+      "message": "在新分頁中打開歷史記錄"
+   },
+   "open_newtab_show_search": {
+      "message": "在新分頁中打開第三方搜尋結果"
+   },
+   "origin_password": {
+      "message": "原始密碼"
+   },
+   "other_bookmarks": {
+      "message": "其他書簽"
+   },
+   "others": {
+      "message": "其他"
+   },
+   "oversize": {
+      "message": "大小不能超過2M"
+   },
+   "overwrite_data": {
+      "message": "覆蓋資料"
+   },
+   "pagin": {
+      "message": "翻頁按鈕"
+   },
+   "password": {
+      "message": "密碼"
+   },
+   "password_dont_empty": {
+      "message": "密碼不可為空"
+   },
+   "password_length_low": {
+      "message": "密碼不能少於6位數"
+   },
+   "password_not_equals": {
+      "message": "密碼不相同"
+   },
+   "password_not_some": {
+      "message": "兩次密碼輸入不壹致"
+   },
+   "permission": {
+      "message": "授權"
+   },
+   "permission_all": {
+      "message": "授權全部"
+   },
+   "permission_gmail_notice_content": {
+      "message": "請求讀取和更改您在mail.google.com上的數據；請求顯示通知"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail郵件通知"
+   },
+   "permission_gmail_num_content": {
+      "message": "請求讀取和更改您在mail.google.com上的數據"
+   },
+   "permission_gmail_num_title": {
+      "message": "Gmail數量讀取"
+   },
+   "permission_serch_suggest_content": {
+      "message": "請求讀取和更改您在google.com和suggestion.baidu.com上的數據"
+   },
+   "permission_serch_suggest_title": {
+      "message": "搜尋建議"
+   },
+   "permission_todo_notice_content": {
+      "message": "請求顯示通知"
+   },
+   "permission_todo_notice_title": {
+      "message": "待辦事項通知"
+   },
+   "permission_top_bookmark_content": {
+      "message": "請求讀取您訪問過的網站對應的圖標，讀取和更改您的書簽"
+   },
+   "permission_top_bookmark_title": {
+      "message": "頂部顯示書簽"
+   },
+   "permission_top_useful_content": {
+      "message": "請求讀取您訪問過的網站對應的圖標，讀取和更改您最常訪問的網站清單"
+   },
+   "permission_top_useful_title": {
+      "message": "頂部顯示常用網站"
+   },
+   "permisson_label": {
+      "message": "權限"
+   },
+   "phone_number": {
+      "message": "手機號碼"
+   },
+   "photos": {
+      "message": "圖片"
+   },
+   "pick_local_wallpaper": {
+      "message": "選擇本地壁紙"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "可以任意使用的漂亮的免費照片"
+   },
+   "placeholder_name": {
+      "message": "名稱"
+   },
+   "please_chose_picture": {
+      "message": "請選擇圖片"
+   },
+   "please_enter_bookmark_name": {
+      "message": "請輸入書簽名稱"
+   },
+   "please_enter_email": {
+      "message": "請輸入郵箱"
+   },
+   "please_enter_img_verify_code": {
+      "message": "请输入图片验证码"
+   },
+   "please_enter_nickname": {
+      "message": "輸入暱稱"
+   },
+   "please_enter_phone": {
+      "message": "請輸入手機號碼"
+   },
+   "please_enter_right_account": {
+      "message": "請輸入正確的郵箱或者手機號"
+   },
+   "please_enter_text": {
+      "message": "請輸入文字"
+   },
+   "please_enter_url": {
+      "message": "請輸入網站地址"
+   },
+   "please_input_bg_text": {
+      "message": "請輸入圖標文字"
+   },
+   "please_pre_login": {
+      "message": "請先登入"
+   },
+   "please_re_login": {
+      "message": "請重新登入"
+   },
+   "please_set_your_password": {
+      "message": "請設置妳的登錄密碼"
+   },
+   "please_type_link": {
+      "message": "請輸入連結"
+   },
+   "please_type_right_link": {
+      "message": "請輸入正確的連結"
+   },
+   "please_upload_photos": {
+      "message": "請上傳圖片"
+   },
+   "popular": {
+      "message": "受歡迎"
+   },
+   "preview": {
+      "message": "預覽"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "隱私和數據收集說明"
+   },
+   "privacy_data_item_1_1": {
+      "message": "自定義網站圖標生成的圖片"
+   },
+   "privacy_data_item_1_2": {
+      "message": "自定義搜尋引擎生成的圖片"
+   },
+   "privacy_data_item_2_1": {
+      "message": "您注册所使用的的郵箱，上傳的頭像，設定的昵稱，以及非明文密碼等資訊"
+   },
+   "privacy_data_item_2_2": {
+      "message": "如果您使用第三方帳號登入，我們會存儲第三方提供的您的昵稱、性別、頭像等資訊"
+   },
+   "privacy_data_item_2_3": {
+      "message": "您添加的網站圖標資訊和搜尋引擎資訊"
+   },
+   "privacy_data_item_2_4": {
+      "message": "您所在地區的天氣資訊或您設定的其他地區的天氣資訊"
+   },
+   "privacy_data_item_2_5": {
+      "message": "您創建的待辦事項"
+   },
+   "privacy_data_item_2_6": {
+      "message": "您創建的筆記內容以及筆記內容中上傳的圖片"
+   },
+   "privacy_data_item_2_7": {
+      "message": "您的當前壁紙、壁紙設置項、本地壁紙上傳的圖片和本地壁紙庫中上傳的圖片"
+   },
+   "privacy_data_item_2_8": {
+      "message": "擴展的設定項"
+   },
+   "privacy_data_item_3_1": {
+      "message": "服務器可能會存儲與用戶客戶端互動過程中產生的日誌記錄，此記錄主要用作幫助排查异常錯誤，我們會不定期清除此日誌記錄。"
+   },
+   "privacy_data_item_4_1": {
+      "message": "瀏覽器型號、語言與版本、螢幕解析度"
+   },
+   "privacy_data_item_4_10": {
+      "message": "當前是否登陸"
+   },
+   "privacy_data_item_4_11": {
+      "message": "當前圖標的大致數量"
+   },
+   "privacy_data_item_4_12": {
+      "message": "當前已啟用的擴展（如果使用擴展管理功能）"
+   },
+   "privacy_data_item_4_13": {
+      "message": "本擴展打開的次數"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP地址以及由IP地址推導出來的地理位置"
+   },
+   "privacy_data_item_4_3": {
+      "message": "添加的網站圖標與搜尋引擎"
+   },
+   "privacy_data_item_4_4": {
+      "message": "壁紙和擴展的設置項"
+   },
+   "privacy_data_item_4_5": {
+      "message": "擴展版本"
+   },
+   "privacy_data_item_4_6": {
+      "message": "功能按鈕被點擊的次數"
+   },
+   "privacy_data_item_4_7": {
+      "message": "异常錯誤資訊"
+   },
+   "privacy_data_item_4_8": {
+      "message": "打開網站的地址host"
+   },
+   "privacy_data_item_4_9": {
+      "message": "當前的搜尋引擎host"
+   },
+   "privacy_data_item_5_1": {
+      "message": "我們會匿名統計部分搜尋引擎的使用次數。"
+   },
+   "privacy_data_item_9": {
+      "message": "您必須同意此隱私政策，才可以使用該擴展，您也可以查看我們的$the_infinity_privacy$以瞭解更多。",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "不，不收集這些匿名數據"
+   },
+   "privacy_data_title_1": {
+      "message": "我們可能會存儲用戶使用過程中主動生成的圖片，以下圖片是匿名化存儲的："
+   },
+   "privacy_data_title_2": {
+      "message": "如果您注册或者登入您的帳號，我們需要將您的以下可識別身份的數據（以下稱為用戶數據）存儲在我們的服務器上以實現備份資料和同步功能："
+   },
+   "privacy_data_title_3": {
+      "message": "服務器日誌："
+   },
+   "privacy_data_title_4": {
+      "message": "以下資訊收集是可選的，並將以匿名的管道通過Google Analytics進行收集，以幫助我們更好的改進產品："
+   },
+   "privacy_data_title_5": {
+      "message": "統計分析："
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "請確認您將要卸載Infinity新分頁"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "請確認您將要卸載Infinity新分頁Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "卸載Infinity新分頁？"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "卸載Infinity新分頁Pro？"
+   },
+   "privacy_data_yes": {
+      "message": "是的，可以根據隱私政策收集這些匿名數據"
+   },
+   "privacy_disagree": {
+      "message": "不同意"
+   },
+   "privacy_policy": {
+      "message": "隱私政策"
+   },
+   "privacy_title": {
+      "message": "隱私政策協議"
+   },
+   "profile": {
+      "message": "個人資訊"
+   },
+   "pure_color": {
+      "message": "純色"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ群"
+   },
+   "qq_zone": {
+      "message": "QQ空間"
+   },
+   "random_wallpaper": {
+      "message": "隨機桌面"
+   },
+   "re_update": {
+      "message": "重新升級"
+   },
+   "read": {
+      "message": "閱讀"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "可以給個人和商業使用的大量高清的照片，每週新增7張"
+   },
+   "recently_add": {
+      "message": "最近添加"
+   },
+   "recently_use": {
+      "message": "最近使用"
+   },
+   "recover_error": {
+      "message": "數據恢復失敗"
+   },
+   "recover_error_version": {
+      "message": "不支持的數據格式"
+   },
+   "recover_this": {
+      "message": "從此節點恢復"
+   },
+   "redius": {
+      "message": "圖標圓角"
+   },
+   "refresh_qrcode": {
+      "message": "二維碼已失效，點擊刷新"
+   },
+   "register": {
+      "message": "註冊"
+   },
+   "register_back": {
+      "message": "返回上一層"
+   },
+   "register_get_email_code_error": {
+      "message": "獲取驗證碼失敗"
+   },
+   "register_now": {
+      "message": "現在註冊你的Infinity帳號，享受更多許可權"
+   },
+   "relative_humidity": {
+      "message": "相對濕度"
+   },
+   "reload": {
+      "message": "點擊重試"
+   },
+   "reminder_update_text1": {
+      "message": "為了您獲得Infinity更好的使用體驗"
+   },
+   "reminder_update_text2": {
+      "message": "建議將瀏覽器陞級到最新版本，推薦使用相容Infinity的瀏覽器"
+   },
+   "reminder_update_title": {
+      "message": "頁面存在錯誤顯示"
+   },
+   "remove_account": {
+      "message": "刪除帳戶"
+   },
+   "remove_done": {
+      "message": "清除已完成的待辦事項"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "該壁紙庫下的所有壁纸將一併删除"
+   },
+   "rename_folder": {
+      "message": "重新命名"
+   },
+   "repair_auto_backup": {
+      "message": "正在自動備份數據"
+   },
+   "repair_concat": {
+      "message": "聯繫方式"
+   },
+   "repair_concat_email": {
+      "message": "電子郵箱："
+   },
+   "repair_concat_qq": {
+      "message": "工程師 QQ："
+   },
+   "repair_data": {
+      "message": "修復數據"
+   },
+   "repair_data_desc_contnet": {
+      "message": "請將待修復數據文件通過以下聯繫方式發給我們，我們會盡快幫您修復數據。工程師解決問題前，請盡量不要進行其他操作。此文件可能包含賬戶等敏感信息，請勿洩漏給其他人。"
+   },
+   "repair_data_title": {
+      "message": "找回丟失或損壞的數據"
+   },
+   "repair_export_btn": {
+      "message": "導出待修復的數據"
+   },
+   "repeat_city": {
+      "message": "不能重複添加都市"
+   },
+   "reqeust_login_message": {
+      "message": "此功能需要登入之後使用"
+   },
+   "request_logout_confirm": {
+      "message": "確認删除帳號？"
+   },
+   "request_reset_all_settings": {
+      "message": "是否確認重置所有設定？"
+   },
+   "reset": {
+      "message": "重設"
+   },
+   "reset_password": {
+      "message": "重置密碼"
+   },
+   "reset_password_by_email": {
+      "message": "通過郵箱驗證重新設定您的密碼"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "通過郵箱或手機號驗證重新設定您的密碼"
+   },
+   "reset_setting": {
+      "message": "重設設定"
+   },
+   "reset_your_password": {
+      "message": "重新設定您的密碼"
+   },
+   "restore_setting": {
+      "message": "還原設定"
+   },
+   "revovery_data": {
+      "message": "恢復數據"
+   },
+   "row_gap": {
+      "message": "行距"
+   },
+   "row_num": {
+      "message": "列"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "单击瀏覽器左上角的【Safari】，選擇【偏好設定】。"
+   },
+   "safari_browser_guide2": {
+      "message": "在彈出的視窗下，找到【首頁】選項，輸入 Infinity 主頁的網址 https://inftab.com。"
+   },
+   "safari_browser_guide3": {
+      "message": "點擊【將目前網頁設為首頁】，主頁設定完成。"
+   },
+   "sat": {
+      "message": "星期六"
+   },
+   "sat_min": {
+      "message": "六"
+   },
+   "save": {
+      "message": "儲存"
+   },
+   "scale": {
+      "message": "圖示大小"
+   },
+   "scale_main": {
+      "message": "荧幕縮放"
+   },
+   "scale_side": {
+      "message": "側邊欄縮放"
+   },
+   "scheduled_backup": {
+      "message": "定時備份"
+   },
+   "search": {
+      "message": "搜尋"
+   },
+   "search_bookmark": {
+      "message": "搜尋書籤"
+   },
+   "search_engine": {
+      "message": "搜尋引擎"
+   },
+   "search_engine_error": {
+      "message": "請輸入搜尋引擎名稱"
+   },
+   "search_error": {
+      "message": "加載失敗"
+   },
+   "search_extension": {
+      "message": "搜尋擴充功能"
+   },
+   "search_from": {
+      "message": "搜尋自：$site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "搜尋圖示"
+   },
+   "search_input": {
+      "message": "搜尋框"
+   },
+   "search_input_shadow": {
+      "message": "搜尋框陰影"
+   },
+   "search_opacity": {
+      "message": "搜尋框不透明度"
+   },
+   "search_redius": {
+      "message": "搜尋框圓角"
+   },
+   "search_result": {
+      "message": "搜尋結果"
+   },
+   "search_size": {
+      "message": "搜尋框大小"
+   },
+   "search_suggest": {
+      "message": "顯示搜尋建議"
+   },
+   "search_website": {
+      "message": "搜尋網站"
+   },
+   "searching": {
+      "message": "搜尋中"
+   },
+   "select_date": {
+      "message": "選擇日期"
+   },
+   "select_icon": {
+      "message": "選擇圖標"
+   },
+   "select_time": {
+      "message": "選取時間"
+   },
+   "send_success": {
+      "message": "已發送，請查收"
+   },
+   "set_homepage_desc": {
+      "message": "推薦您安裝瀏覽器擴充功能_#_體驗完整功能"
+   },
+   "set_homepage_title2": {
+      "message": "當前版本不支持該操作_#_請安裝瀏覽器擴充功能後使用"
+   },
+   "set_infinity_to_homepage": {
+      "message": "將Infinity設為主頁_#_讓你的主頁更加生動有趣"
+   },
+   "set_new_password": {
+      "message": "設定新密碼"
+   },
+   "set_remind_time": {
+      "message": "設定提醒時間"
+   },
+   "set_setting_default": {
+      "message": "恢復默認設置"
+   },
+   "set_to_homepage": {
+      "message": "設為首頁"
+   },
+   "set_top": {
+      "message": "置頂"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "設定您的頭像和昵稱"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "shadow": {
+      "message": "圖標陰影"
+   },
+   "share": {
+      "message": "分享"
+   },
+   "share_by_user": {
+      "message": "用戶分享"
+   },
+   "share_desc": {
+      "message": "Infinity新分頁，數百萬人選擇的導航類擴展，瀏覽器上最好用的新分頁"
+   },
+   "share_title": {
+      "message": "可能是$browser$瀏覽器上最好用的新分頁",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "購物與團購"
+   },
+   "shortcut_mode": {
+      "message": "快速模式"
+   },
+   "show_detail": {
+      "message": "立即查看"
+   },
+   "show_gamil_unread_number": {
+      "message": "在圖標上顯示未讀Gmail郵件數量"
+   },
+   "show_later": {
+      "message": "稍後提醒我"
+   },
+   "show_name": {
+      "message": "顯示名稱"
+   },
+   "show_reminders_number": {
+      "message": "在圖標上顯示待辦事項數量"
+   },
+   "skip": {
+      "message": "略過"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "一個尋找，展示，分享照片的地方"
+   },
+   "social": {
+      "message": "社交與部落格"
+   },
+   "solid_color_wallpaper": {
+      "message": "純色壁紙"
+   },
+   "sougou": {
+      "message": "搜狗"
+   },
+   "sougou_desc": {
+      "message": "能搜微信公眾號內容的搜尋引擎"
+   },
+   "sports": {
+      "message": "體育與旅行"
+   },
+   "start_animation": {
+      "message": "啟動動畫"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "為創業公司，博主，出版者，網站，設計師，開發者，創造者，以及更多人提供的免費照片"
+   },
+   "street_photography": {
+      "message": "街頭"
+   },
+   "sun": {
+      "message": "周天"
+   },
+   "sun_min": {
+      "message": "日"
+   },
+   "support": {
+      "message": "支援"
+   },
+   "switch_to": {
+      "message": "切換為"
+   },
+   "sync_fail": {
+      "message": "同步失敗，請重試"
+   },
+   "sync_suncess": {
+      "message": "同步處理完成！"
+   },
+   "sync_type_tips": {
+      "message": "檢測到雲端數據和本地數據不一致，請選擇使用其中某一項數據"
+   },
+   "syncing": {
+      "message": "正在同步數據..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "您還沒有安裝此$browser$應用",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "目標打開方式"
+   },
+   "tech": {
+      "message": "數碼科技"
+   },
+   "technology": {
+      "message": "科技資訊"
+   },
+   "term_of_use": {
+      "message": "使用條款"
+   },
+   "text": {
+      "message": "文字"
+   },
+   "text_shadow": {
+      "message": "文字陰影"
+   },
+   "thirt_party": {
+      "message": "使用第三方登錄"
+   },
+   "thu": {
+      "message": "星期四"
+   },
+   "thu_min": {
+      "message": "四"
+   },
+   "tian_mao": {
+      "message": "天猫精選"
+   },
+   "tip_question_1": {
+      "message": "1.打開任意網站，在搜尋框中輸入“%s”進行搜尋。（以Google示例）"
+   },
+   "tip_question_2": {
+      "message": "2.直接複製搜尋結果的網址"
+   },
+   "tip_question_3": {
+      "message": "3.將複製的網址粘貼到此處即可"
+   },
+   "tip_question_title": {
+      "message": "正在使用 '%s' 的搜尋字"
+   },
+   "to_login": {
+      "message": "去登入"
+   },
+   "today": {
+      "message": "今天"
+   },
+   "todo_welcome": {
+      "message": "歡迎使用Infinity新標籤頁，這是一條示例待辦事項。"
+   },
+   "todos": {
+      "message": "待辦事項"
+   },
+   "top_bookmark": {
+      "message": "在頂部顯示書簽"
+   },
+   "top_use_ful": {
+      "message": "在頂部顯示常用網站"
+   },
+   "travel": {
+      "message": "旅行"
+   },
+   "tue": {
+      "message": "星期二"
+   },
+   "tue_min": {
+      "message": "二"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "2小時後提醒我"
+   },
+   "type_link": {
+      "message": "輸入連結"
+   },
+   "type_text": {
+      "message": "請輸入文字"
+   },
+   "unbind": {
+      "message": "解綁"
+   },
+   "unbind_btn": {
+      "message": "解除綁定"
+   },
+   "unbind_email": {
+      "message": "郵箱解綁"
+   },
+   "unbind_phone_number": {
+      "message": "手機號解綁"
+   },
+   "unbind_success": {
+      "message": "解綁成功"
+   },
+   "uninstall_agree": {
+      "message": "同意"
+   },
+   "uninstall_chrome_app": {
+      "message": "卸載應用"
+   },
+   "uninstall_extension": {
+      "message": "移除擴充功能"
+   },
+   "unknown_mistake": {
+      "message": "未知的錯誤"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "全球知名的高品質壁紙"
+   },
+   "unzip_folder_content": {
+      "message": "資料夾將被删除，圖標會保留，確定嗎？"
+   },
+   "unzip_folder_title": {
+      "message": "釋放"
+   },
+   "update_data": {
+      "message": "升級數據"
+   },
+   "update_data_failure": {
+      "message": "更新資料失敗"
+   },
+   "update_desc_1": {
+      "message": "如果版本升級過程中出現數據轉換失敗的情況，您可以嘗試重新升級數據。"
+   },
+   "update_desc_2": {
+      "message": "如果您多次嘗試仍不能解決問題，您可以聯繫我們的工程師，我們會盡量幫您解決。"
+   },
+   "update_desc_3": {
+      "message": "轉換數據會覆蓋新版本數據，建議您操作之前先備份數據。"
+   },
+   "update_error_desc1": {
+      "message": "檢測到部分數據可能出現損壞，您可以嘗試重新升級；"
+   },
+   "update_error_desc2": {
+      "message": "如果多次升級失敗，您也可以從右上角點擊“$btn$”圖標進入-【我的】-【備份與修復】中修復數據。",
+      "placeholders": {
+         "btn": {
+            "content": "$1"
+         }
+      }
+   },
+   "update_now": {
+      "message": "現在升級​​"
+   },
+   "update_or_repair_data": {
+      "message": "升級或修復數據"
+   },
+   "upload_avatar_failure": {
+      "message": "頭像上傳失敗"
+   },
+   "upload_file_error": {
+      "message": "檔案上傳失敗"
+   },
+   "upload_image_error": {
+      "message": "圖片上傳失敗"
+   },
+   "uploading": {
+      "message": "正在上傳..."
+   },
+   "use_cloud": {
+      "message": "使用雲端數據"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "輸入文字並按回車添加"
+   },
+   "use_local": {
+      "message": "使用本地數據"
+   },
+   "use_mobile_screen": {
+      "message": "使用移動設備掃描二維碼"
+   },
+   "user_evaluation": {
+      "message": "用戶評價"
+   },
+   "username_cannot_empty": {
+      "message": "用戶名不能為空"
+   },
+   "verify_password_desc": {
+      "message": "For your account security, please enter the account password"
+   },
+   "verity_code": {
+      "message": "發送驗證碼"
+   },
+   "verity_code_no_value": {
+      "message": "驗證碼不可空白"
+   },
+   "videos": {
+      "message": "影片"
+   },
+   "view": {
+      "message": "檢視"
+   },
+   "w309": {
+      "message": "细雨"
+   },
+   "w_100": {
+      "message": "晴"
+   },
+   "w_101": {
+      "message": "多雲"
+   },
+   "w_102": {
+      "message": "少雲"
+   },
+   "w_103": {
+      "message": "晴間多雲"
+   },
+   "w_104": {
+      "message": "陰天"
+   },
+   "w_200": {
+      "message": "有風"
+   },
+   "w_201": {
+      "message": "沉靜"
+   },
+   "w_202": {
+      "message": "微風"
+   },
+   "w_203": {
+      "message": "和風"
+   },
+   "w_204": {
+      "message": "清風"
+   },
+   "w_205": {
+      "message": "強風"
+   },
+   "w_206": {
+      "message": "疾風"
+   },
+   "w_207": {
+      "message": "大風"
+   },
+   "w_208": {
+      "message": "烈風"
+   },
+   "w_209": {
+      "message": "風暴"
+   },
+   "w_210": {
+      "message": "狂爆風"
+   },
+   "w_211": {
+      "message": "颶風"
+   },
+   "w_212": {
+      "message": "龍捲風"
+   },
+   "w_213": {
+      "message": "熱帶風暴"
+   },
+   "w_300": {
+      "message": "驟雨"
+   },
+   "w_301": {
+      "message": "大陣雨"
+   },
+   "w_302": {
+      "message": "雷暴"
+   },
+   "w_303": {
+      "message": "大雷陣雨"
+   },
+   "w_304": {
+      "message": "雷雨冰雹"
+   },
+   "w_305": {
+      "message": "小雨"
+   },
+   "w_306": {
+      "message": "中雨"
+   },
+   "w_307": {
+      "message": "大雨"
+   },
+   "w_308": {
+      "message": "極端降雨"
+   },
+   "w_310": {
+      "message": "暴雨"
+   },
+   "w_311": {
+      "message": "大暴雨"
+   },
+   "w_312": {
+      "message": "特大暴雨"
+   },
+   "w_313": {
+      "message": "凍雨天氣"
+   },
+   "w_314": {
+      "message": "小雨轉中雨"
+   },
+   "w_315": {
+      "message": "中雨轉大雨"
+   },
+   "w_316": {
+      "message": "大到暴雨"
+   },
+   "w_317": {
+      "message": "豪雨到大暴雨"
+   },
+   "w_318": {
+      "message": "大暴雨到特大豪雨"
+   },
+   "w_399": {
+      "message": "有雨"
+   },
+   "w_400": {
+      "message": "小雪"
+   },
+   "w_401": {
+      "message": "中雪"
+   },
+   "w_402": {
+      "message": "大雪"
+   },
+   "w_403": {
+      "message": "暴風雪"
+   },
+   "w_404": {
+      "message": "雨雪交雜"
+   },
+   "w_405": {
+      "message": "雨雪天氣"
+   },
+   "w_406": {
+      "message": "陣雨夾雪"
+   },
+   "w_407": {
+      "message": "陣雪"
+   },
+   "w_408": {
+      "message": "小到中雪"
+   },
+   "w_409": {
+      "message": "中到大雪"
+   },
+   "w_410": {
+      "message": "大到暴雪"
+   },
+   "w_499": {
+      "message": "下雪"
+   },
+   "w_500": {
+      "message": "薄霧"
+   },
+   "w_501": {
+      "message": "霧"
+   },
+   "w_502": {
+      "message": "霾"
+   },
+   "w_503": {
+      "message": "沙塵"
+   },
+   "w_504": {
+      "message": "灰塵"
+   },
+   "w_507": {
+      "message": "沙塵暴"
+   },
+   "w_508": {
+      "message": "強沙塵暴"
+   },
+   "w_509": {
+      "message": "濃霧"
+   },
+   "w_510": {
+      "message": "強濃霧"
+   },
+   "w_511": {
+      "message": "中度霾"
+   },
+   "w_512": {
+      "message": "重度霾害"
+   },
+   "w_513": {
+      "message": "嚴重霾"
+   },
+   "w_514": {
+      "message": "有霧"
+   },
+   "w_515": {
+      "message": "特強濃霧"
+   },
+   "w_900": {
+      "message": "熱"
+   },
+   "w_901": {
+      "message": "冷"
+   },
+   "w_999": {
+      "message": "未知"
+   },
+   "wallpaper": {
+      "message": "桌布"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "添加自定義顏色"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "添加圖片失敗，可稍後再次嘗試"
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "本地壁纸應用失敗，可稍後再次嘗試"
+   },
+   "wallpaper_applying_library": {
+      "message": "正在應用壁紙庫…"
+   },
+   "wallpaper_auto_options_text": {
+      "message": "桌布更換頻率"
+   },
+   "wallpaper_choose_library": {
+      "message": "選擇壁纸源"
+   },
+   "wallpaper_choose_single": {
+      "message": "選擇單張桌面"
+   },
+   "wallpaper_clear_filter": {
+      "message": "清除選擇"
+   },
+   "wallpaper_cloud": {
+      "message": "雲端壁紙"
+   },
+   "wallpaper_collect_current": {
+      "message": "收藏當前壁紙"
+   },
+   "wallpaper_common_color": {
+      "message": "通用顏色"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "確認删除該壁纸嗎？"
+   },
+   "wallpaper_create_library_error": {
+      "message": "創建本地壁紙庫失敗，可稍後再次嘗試"
+   },
+   "wallpaper_create_library_limit": {
+      "message": "用戶自定義壁紙庫超出限制"
+   },
+   "wallpaper_custom_color": {
+      "message": "自定義顏色"
+   },
+   "wallpaper_delete_color": {
+      "message": "删除該顏色"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "刪除成功"
+   },
+   "wallpaper_delete_file": {
+      "message": "删除該桌面"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "删除壁纸失败"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "禁止自動更換壁纸"
+   },
+   "wallpaper_empty_text": {
+      "message": "尚無數據"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "獲取用戶壁紙庫失敗"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "獲取用戶壁紙失敗"
+   },
+   "wallpaper_library": {
+      "message": "桌布集"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$的本地壁紙庫",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "壁紙庫名字非法"
+   },
+   "wallpaper_library_preview": {
+      "message": "預覽背景"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "最多上傳20張，單張大小不超過10M"
+   },
+   "wallpaper_loading": {
+      "message": "正在處理中..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "需要連接網絡才能應用此設定"
+   },
+   "wallpaper_remove_library": {
+      "message": "删除該壁紙庫"
+   },
+   "wallpaper_sort_default": {
+      "message": "默認排序"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "熱度"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "收錄時間"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "每隔24小時更換"
+   },
+   "wallpaper_switch_failure": {
+      "message": "壁紙切換失敗"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "跟隨Bing官網更新每日壁纸，不可選擇更換頻率"
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "每隔1小時更換"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "每隔12小時更換"
+   },
+   "wallpaper_switch_success": {
+      "message": "壁紙切換成功"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "切換到下一張桌面"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "打開新分頁切換"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "打開頁面切換"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "文件上傳失敗，原因：大小超過限制"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "從我的電腦選取壁紙"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "至少需要一张壁纸"
+   },
+   "want_more": {
+      "message": "即刻享受更多特權"
+   },
+   "weather": {
+      "message": "天氣"
+   },
+   "weather_empty": {
+      "message": "當前暫無城市天氣"
+   },
+   "web_set_home_title": {
+      "message": "如何將 Infinity 設定為您的主頁"
+   },
+   "website_address": {
+      "message": "網站地址"
+   },
+   "website_name": {
+      "message": "網站名稱"
+   },
+   "website_search_replace_char": {
+      "message": "網址 （用 %s 代替搜尋字詞 ）"
+   },
+   "wechat": {
+      "message": "微信"
+   },
+   "wed": {
+      "message": "星期三"
+   },
+   "wed_min": {
+      "message": "三"
+   },
+   "welcome_infinity": {
+      "message": "歡迎使用Infinity"
+   },
+   "wind_force": {
+      "message": "風力"
+   },
+   "wind_mill": {
+      "message": "在右下角顯示隨機桌面按鈕"
+   },
+   "xie_cheng": {
+      "message": "攜程網"
+   },
+   "xin_lang_weibo": {
+      "message": "微博"
+   },
+   "yahoo": {
+      "message": "雅虎"
+   },
+   "yahoo_desc": {
+      "message": "雅虎搜索是一個由Yahoo！運營的互聯網搜尋引擎"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex是俄羅斯重要網路服務門戶之一"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$年$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "昨天"
+   },
+   "you_need_login": {
+      "message": "該功能需登入 Infinity 帳號後使用"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "您的搜索歷史記錄將出現在這裡"
+   },
+   "zhifubao": {
+      "message": "支付寶"
+   }
+}

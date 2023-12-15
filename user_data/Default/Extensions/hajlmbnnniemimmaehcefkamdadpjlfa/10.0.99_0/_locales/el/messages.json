@@ -1,0 +1,2413 @@
+{
+   "360_desc": {
+      "message": "Ασφαλής μηχανή αναζήτησης"
+   },
+   "about": {
+      "message": "Σχετικά με"
+   },
+   "about_us": {
+      "message": "Σχετικά με εμάς"
+   },
+   "account_expired": {
+      "message": "Δοκιμάστε το λογαριασμό σας έχει λήξει, παρακαλούμε συνδεθείτε ξανά"
+   },
+   "account_setting": {
+      "message": "Ρυθμίσεις λογαριασμού"
+   },
+   "add": {
+      "message": "Προσθήκη"
+   },
+   "add_city": {
+      "message": "Προσθήκη πόλης"
+   },
+   "add_first_note": {
+      "message": "Κρατήστε την πρώτη σας σημείωση"
+   },
+   "add_icon_success": {
+      "message": "προστέθηκε με επιτυχία"
+   },
+   "add_link": {
+      "message": "Προσθήκη συνδέσμου"
+   },
+   "add_new_search_engine": {
+      "message": "Προσθήκη νέας μηχανής αναζήτησης"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Νέα βιβλιοθήκη ταπετσαρίας"
+   },
+   "add_search_engine": {
+      "message": "Προσθήκη μηχανής αναζήτησης"
+   },
+   "add_success": {
+      "message": "Επιτυχής προσθήκη"
+   },
+   "add_to_home_site": {
+      "message": "Προσθήκη στην αρχική σελίδα"
+   },
+   "add_to_infinity": {
+      "message": "Προσθέστε στη νέα σελίδα καρτέλας Infinity"
+   },
+   "additional_search_engine": {
+      "message": "Συνημμένη μηχανή αναζήτησης"
+   },
+   "air_pressure": {
+      "message": "Πίεση"
+   },
+   "all_wallpaper_sources": {
+      "message": "Όλη ταπετσαρία"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Όλες οι πηγές ταπετσαριών"
+   },
+   "ambiguity": {
+      "message": "Θόλωμα"
+   },
+   "animals": {
+      "message": "Ζώα"
+   },
+   "animation": {
+      "message": "Κινούμενες εικόνες"
+   },
+   "animation_tips": {
+      "message": "Η αρχική κινούμενη εικόνα μπορεί να επηρεάσει την ομαλότητα"
+   },
+   "anime": {
+      "message": "Κόμικς"
+   },
+   "any_money": {
+      "message": "Οποιοδήποτε"
+   },
+   "app": {
+      "message": "Εφαρμογή"
+   },
+   "app_disabled_enable_first": {
+      "message": "Έχετε απενεργοποιήσει αυτήν την εφαρμογή. Αφήστε το άπειρο να ενεργοποιήσετε πρώτα αυτήν την εφαρμογή;"
+   },
+   "application": {
+      "message": "Εφαρμογή"
+   },
+   "apply": {
+      "message": "Εφαρμογή"
+   },
+   "architecture": {
+      "message": "Αρχιτεκτονική"
+   },
+   "athletics": {
+      "message": "Σπορ"
+   },
+   "avatar": {
+      "message": "Επιλέξτε Avatar"
+   },
+   "backing_up": {
+      "message": "Δημιουργία αντιγράφου ασφαλείας…"
+   },
+   "backup_and_recovery": {
+      "message": "Δημιουργία αντιγράφων ασφαλείας και ανάκτησης"
+   },
+   "backup_failed": {
+      "message": "Δημιουργία αντιγράφων ασφαλείας απέτυχε"
+   },
+   "backup_now": {
+      "message": "Δημιουργία αντιγράφων ασφαλείας τώρα"
+   },
+   "backup_successful": {
+      "message": "Επιτυχής δημιουργία αντιγράφων ασφαλείας"
+   },
+   "backup_tips": {
+      "message": "Διατηρούμε μέγιστο αριθμό 3 χειροκίνητων αντιγράφων ασφαλείας και 3 αυτόματοι αντιγράφους για εσάς"
+   },
+   "backup_with_device": {
+      "message": "Συγχρονισμός με άλλες συσκευές"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Εστίαση στη συλλογή ελεύθερης και υψηλής ποιότητας μη γκαλερί τύπου τύπου"
+   },
+   "basic_info": {
+      "message": "Γενικές πληροφορίες"
+   },
+   "bg_color": {
+      "message": "Χρώμα φόντου"
+   },
+   "bg_updating": {
+      "message": "Στην αναβάθμιση, παρακαλώ περιμένετε ..."
+   },
+   "bind": {
+      "message": "Συσχέτιση"
+   },
+   "bind_success": {
+      "message": "Επιτυχής συσχετισμός"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Το Bing είναι μια μηχανή αναζήτησης που αναπτύχθηκε από τη Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Καθημερινή βιβλιοθήκη ταπετσαρίας Bing"
+   },
+   "bookmarks": {
+      "message": "Σελιδοδείκτες"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "Ο $browser$ δεν υποστηρίζει αυτή τη λειτουργία",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "cancel_login": {
+      "message": "Ακύρωση σύνδεσης"
+   },
+   "cancel_remind_time": {
+      "message": "Ακύρωση χρόνου υπενθύμισης"
+   },
+   "cancel_set_top": {
+      "message": "Κατάργ. καρφίτσας"
+   },
+   "cannot_change_password": {
+      "message": "Δεν μπορείτε να αλλάξετε τον κωδικό πρόσβασης εάν συνδεθείτε με λογαριασμό τρίτου μέρους"
+   },
+   "cannot_change_profile": {
+      "message": "Οι χρήστες τρίτων που συνδέονται δεν μπορούν να τροποποιήσουν τις πληροφορίες προφίλ"
+   },
+   "cannot_download": {
+      "message": "Οι λήψεις δεν υποστηρίζονται"
+   },
+   "cannot_empty": {
+      "message": "Δεν μπορεί να είναι κενό"
+   },
+   "celsius": {
+      "message": "Κελσίου"
+   },
+   "change_remind_time": {
+      "message": "Αλλαγή χρόνου υπενθύμισης"
+   },
+   "change_wallpaper": {
+      "message": "Αλλαγή ταπετσαρίας"
+   },
+   "check_olddata_desc": {
+      "message": "Εντοπίζεται ότι υπάρχει μια παλιά έκδοση των παλαιών δεδομένων, οι οποίες μπορεί να αναβαθμιστούν. Εάν χρειάζεστε να προσπαθήσετε να αναβαθμίσετε αυτά τα δεδομένα"
+   },
+   "choose_sync_type": {
+      "message": "Επιλέξτε δεδομένα λογαριασμού"
+   },
+   "chose_from_mypc": {
+      "message": "Δημιουργήστε τη βιβλιοθήκη ταπετσαρίας μου"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "Εφαρμογές $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - επεκτάσεις"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Εισάγετε chrome://settings/appearance στη γραμμή διευθύνσεων για να εισάγετε τη σελίδα ρύθμισης."
+   },
+   "chrome_browser_guide2": {
+      "message": "Σύρετε προς τα κάτω προς τα κάτω και επιλέξτε την επιλογή που υποδεικνύεται από το βέλος στο σχήμα."
+   },
+   "chrome_browser_guide3": {
+      "message": "Εισαγάγετε τη διεύθυνση URL https://inftab.com στο αναδυόμενο παράθυρο και, στη συνέχεια, κάντε κλικ στο κουμπί Προσθήκη για να ολοκληρώσετε τη ρύθμιση Αρχική σελίδα."
+   },
+   "clear_historys": {
+      "message": "Διαγραφή ιστορικού"
+   },
+   "col_gap": {
+      "message": "Απόσταση στηλών"
+   },
+   "col_num": {
+      "message": "Σειρές"
+   },
+   "color": {
+      "message": "Χρώμα"
+   },
+   "color_icon": {
+      "message": "Εικονίδιο στερεού χρώματος"
+   },
+   "come_from": {
+      "message": "Από τον χρήστη"
+   },
+   "comming_soon": {
+      "message": "Σύντομα κοντά σας"
+   },
+   "comming_soon_title": {
+      "message": "Το Infinity Mobile Version βρίσκεται στο δρόμο"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Επιβεβ. ότι θέλετε να εκκαθ. όλες οι εγγραφές ιστορικού;"
+   },
+   "confirm_cover_remote": {
+      "message": "Τα τοπικά δεδομένα θα αποθηκευτούν σε έναν χειροκίνητο αντίγραφο ασφαλείας"
+   },
+   "confirm_del_folder": {
+      "message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον φάκελο;"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε τα ολοκληρωμένα στοιχεία;"
+   },
+   "confirm_delete_note": {
+      "message": "Επιβεβαίωση διαγραφής σημείωσης;"
+   },
+   "confirm_logout": {
+      "message": "Αποσύνδεση"
+   },
+   "confirm_password": {
+      "message": "Επιβεβαίωση νέου κωδικού"
+   },
+   "confirm_password_2": {
+      "message": "Επιβεβαίωση κωδικού πρόσβασης"
+   },
+   "confirm_recovery_data": {
+      "message": "Τα δεδομένα σύννεφων θα αντικαταστήσουν τα τοπικά δεδομένα. Είστε σίγουροι για αυτή τη δράση;"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτή τη βιβλιοθήκη ταπετσαρίας;"
+   },
+   "confirm_unbind": {
+      "message": "Αποσύνδεση αυτού του λογαριασμού;"
+   },
+   "confirm_unbind_email": {
+      "message": "Προσδιορίστε εάν θα στείλετε το γραμματοκιβώτιο $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Είστε βέβαιοι ότι θέλετε να αποσυμπίετε τον αριθμό τηλεφώνου σας $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Επαφής μηχανικός"
+   },
+   "contact_us": {
+      "message": "Επικοινωνία"
+   },
+   "copy": {
+      "message": "Αντιγραφή"
+   },
+   "cubic_bezier": {
+      "message": "Στριμώχνω"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Φωτογραφία προφίλ"
+   },
+   "current_browser_not_support": {
+      "message": "Το τρέχον πρόγραμμα περιήγησης δεν υποστηρίζει τη διαχείριση επέκτασης"
+   },
+   "current_no_reminders": {
+      "message": "Στοιχεία μη εκκρεμών εργασιών"
+   },
+   "current_node": {
+      "message": "Τρέχων κόμβος"
+   },
+   "custom": {
+      "message": "Προσαρμογή"
+   },
+   "custom_icon": {
+      "message": "Προσαρμογή εικονιδίου"
+   },
+   "custom_layout": {
+      "message": "Προσαρμογή διάταξης"
+   },
+   "custom_site": {
+      "message": "Προσαρμοσμένη ιστοσελίδα"
+   },
+   "default": {
+      "message": "Προεπιλογή"
+   },
+   "del_folder": {
+      "message": "Διαγραφή"
+   },
+   "delete_all_bookmarks": {
+      "message": "Διαγράψτε όλους τους σελιδοδείκτες βάσει αυτού του φακέλου"
+   },
+   "disable_chrome_app": {
+      "message": "Απενεργοποίηση εφαρμογής"
+   },
+   "disable_extension": {
+      "message": "Απενεργοποιήστε τις επεκτάσεις"
+   },
+   "do_later": {
+      "message": "Μιλήστε αργότερα"
+   },
+   "done": {
+      "message": "Ολοκληρώθηκε"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Κατεβάστε το CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Κατεβάστε ταπετσαρία"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Το DuckDuckgo επικεντρώνεται στην εισαγωγή περιεχομένων από μεγάλες τοποθεσίες Web 2.0 εκτός από την παραδοσιακή μηχανές αναζήτησης, η φιλοσοφία της ιστοσελίδας είναι να σέβεται την ιδιωτικότητα των χρηστών, υποσχόμενος να μην παρακολουθεί ή να τεκμηριώνει τα περιεχόμενα αναζήτησης."
+   },
+   "ease_in": {
+      "message": "Ξεθωριάζω"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Εισάγετε edge://settings/onStartup στη γραμμή διευθύνσεων του περιηγητή και πιέστε το enter."
+   },
+   "edge_browser_guide2": {
+      "message": "Κάντε κλικ στην επιλογή που σχετίζεται με το βέλος στο σχήμα."
+   },
+   "edge_browser_guide3": {
+      "message": "Εισαγάγετε τη διεύθυνση URL https://inftab.com στο αναδυόμενο παράθυρο και, στη συνέχεια, κάντε κλικ στο κουμπί Προσθήκη για να ολοκληρώσετε τη ρύθμιση Αρχική σελίδα."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Επεξεργασία"
+   },
+   "edit_avatar": {
+      "message": "Επεξ. άβαταρ"
+   },
+   "edit_content": {
+      "message": "Επεξεργασία περιεχομένου"
+   },
+   "edit_icon": {
+      "message": "Επεξεργασία εικονιδίου"
+   },
+   "education": {
+      "message": "Εκπαίδευση και θέσεις εργασίας"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_code": {
+      "message": "Κωδικός επαλήθευσης Email"
+   },
+   "email_format_error": {
+      "message": "Η μορφή email είναι εσφαλμένη"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Αριθμός ηλεκτρονικού ταχυδρομείου ή κινητού τηλεφώνου"
+   },
+   "empty": {
+      "message": "Αδειάζω"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Επιβεβαιώστε για να διαγράψετε το φάκελο;"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Θέλετε να διαγράψετε αυτό το σελιδοδείκτη?"
+   },
+   "ensure_logout": {
+      "message": "Are you sure you want to log out?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "Συμπληρώστε τη λίστα εργασιών σας, προσθέστε αντικείμενα κάνοντας κλικ στο Enter"
+   },
+   "enter_password_tips": {
+      "message": "Εισαγωγή φράσης πρόσβασης"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Παρακαλώ εισάγετε τον σωστό αριθμό τηλεφώνου"
+   },
+   "enter_verification_code_tips": {
+      "message": "Εισαγάγετε τον κωδικό επαλήθευσης"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Εξαγωγή δεδομένων αντιγράφων ασφαλείας"
+   },
+   "export_local_data_desc": {
+      "message": "Εξαγωγή από τα τρέχοντα τοπικά δεδομένα"
+   },
+   "extension": {
+      "message": "Επεκτάσεις"
+   },
+   "extension_app": {
+      "message": "Επεκτάσεις"
+   },
+   "extension_des": {
+      "message": "Προσθέστε ελεύθερα εικονίδια ιστοσελίδων, απολαύστε ταπετσαρίες υψηλής ευκρίνειας και γρήγορης πρόσβασης σελιδοδεικτών, πληροφορίες καιρικές συνθήκες, σημειώσεις, λίστες,"
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP σας επιτρέπει να προσαρμόσετε τη νέα σελίδα καρτέλας"
+   },
+   "extension_des_firefox": {
+      "message": "Εκατομμύρια άνθρωποι επιλέγουν νέες καρτέλες, Παρέχει εικονίδιο ιστού, μηχανή αναζήτησης, ταπετσαρία, καιρό και άλλες λειτουργίες"
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro σας επιτρέπει να προσαρμόσετε τη νέα σελίδα καρτέλας"
+   },
+   "extension_mananger": {
+      "message": "Διαχείριση επεκτάσεων"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Συμμετοχή στην ομάδα του Facebook"
+   },
+   "fahrenheit": {
+      "message": "Φαρενάιτ"
+   },
+   "feedback": {
+      "message": "Σχόλια"
+   },
+   "female": {
+      "message": "Γυναίκα"
+   },
+   "filter": {
+      "message": "Φίλτρο"
+   },
+   "finance": {
+      "message": "χρηματοδότηση"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox Add-On Store"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Είσοδος about: preferences #home Στη γραμμή διευθύνσεων για να μπείτε στη σελίδα ρύθμισης."
+   },
+   "firefox_browser_guide2": {
+      "message": "Όπως φαίνεται από το βέλος στο σχήμα, επιλέξτε την επιλογή των προσαρμοσμένων διευθύνσεων URL."
+   },
+   "firefox_browser_guide3": {
+      "message": "Εισαγάγετε τη διεύθυνση URL https://inftab.com Στο πλαίσιο κειμένου, η εγκατάσταση της αρχικής σελίδας είναι πλήρης."
+   },
+   "five_star": {
+      "message": "Αξιολογήστε με 5 αστέρια"
+   },
+   "folder": {
+      "message": "Φάκελος"
+   },
+   "follow_us": {
+      "message": "Ακολούθησέ μας"
+   },
+   "follow_wechat": {
+      "message": "Ακολουθήστε τον δημόσιο λογαριασμό Infinity Wechat"
+   },
+   "follow_wechat_desc": {
+      "message": "Δώστε προσοχή στο δημόσιο αριθμό WeChat (Micro Signal: InfinityDaily), Get Infinity Τελευταία δυναμική προϊόντων και μπορείτε να ανακαλύψετε περισσότερη διασκέδαση για να επεκταθείτε και την ιστοσελίδα."
+   },
+   "font": {
+      "message": "Γραμματοσειρές"
+   },
+   "font_color": {
+      "message": "Χρώμα γραμματοσειράς"
+   },
+   "font_size": {
+      "message": "Μέγεθος κειμένου"
+   },
+   "food_drink": {
+      "message": "Φαγητό"
+   },
+   "forget_password": {
+      "message": "Ξεχάσατε τον Κωδικό"
+   },
+   "format_error": {
+      "message": "Σφάλμα μορφής"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Μεγάλη ποσότητα royalty free φωτογραφίες, δωρεάν για χρήση και ενημέρωση καθημερινά"
+   },
+   "fri": {
+      "message": "Παρασκευή"
+   },
+   "fri_min": {
+      "message": "Παρασκευή"
+   },
+   "fully_authorized_to_use": {
+      "message": "Πλήρως εξουσιοδοτημένο να χρησιμοποιεί λειτουργίες"
+   },
+   "games": {
+      "message": "Παιχνίδια και Διασκέδαση"
+   },
+   "gamil_notice": {
+      "message": "Ειδοποιήσεις Gmail"
+   },
+   "gender": {
+      "message": "Επιλογή φύλου"
+   },
+   "get_app_permission": {
+      "message": "Εξουσιοδοτήστε να πάρετε την τοπική εφαρμογή σας"
+   },
+   "get_cloud_icon": {
+      "message": "Να αποκτήσουν online"
+   },
+   "give_money": {
+      "message": "Δωρίστε"
+   },
+   "give_money_thanks": {
+      "message": "Η υποστήριξή σας είναι η μεγαλύτερη ανταμοιβή μας"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Εάν σας αρέσει η νέα σελίδα καρτέλας Infinity, αξιολογήστε την υπηρεσία μας ή δώστε ανατροφοδότηση για να μας βοηθήσετε."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Εάν έχετε οποιεσδήποτε ερωτήσεις ή προτάσεις, παρακαλούμε επικοινωνήστε μαζί μας."
+   },
+   "gmail_notice_voice": {
+      "message": "Ήχος κουδουνίσματος ειδοποίησης Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Η αναζήτηση Google είναι μια μηχανή αναζήτησης που αναπτύχθηκε από την Google. Είναι η μεγαλύτερη, πιο σημαντική μηχανή αναζήτησης στο Διαδίκτυο"
+   },
+   "have_todo_item": {
+      "message": "Επί του παρόντος έχετε ένα αντικείμενο εργασίας"
+   },
+   "hide_homepage_btn": {
+      "message": "Απόκρυψη ορίστε ως κουμπί στο σπίτι"
+   },
+   "hide_icon_name": {
+      "message": "Απόκρυψη ονομασίας εικονιδίου"
+   },
+   "hide_search_button": {
+      "message": "Απόκρυψη κουμπιού αναζήτησης"
+   },
+   "hide_search_category": {
+      "message": "Απόκρυψη κατηγορίας αναζήτησης"
+   },
+   "hide_search_input": {
+      "message": "Απόκρυψη κουτιού αναζήτησης"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Απόκρυψη ορίστε ως κουμπί στο σπίτι"
+   },
+   "hint": {
+      "message": "Συμβουλή"
+   },
+   "history": {
+      "message": "Ιστορικό"
+   },
+   "history_backup_list": {
+      "message": "Ιστορικό Λίστα αντιγράφων ασφαλείας"
+   },
+   "history_week": {
+      "message": "Αναζήτηση ιστορικού μέσα σε μια εβδομάδα"
+   },
+   "host_permission": {
+      "message": "Δικαιώματα υποδοχής"
+   },
+   "hour": {
+      "message": "ώρα"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Ίντερνετ"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Θέλω να ανταμείψω"
+   },
+   "icon": {
+      "message": "Εικονίδιο"
+   },
+   "icon_added": {
+      "message": "Προστέθηκε"
+   },
+   "icon_bg_text": {
+      "message": "Κείμενο εικονιδίου"
+   },
+   "icon_network_error": {
+      "message": "Σφάλμα δικτύου, κάντε κλικ για επαναφορά"
+   },
+   "ignore": {
+      "message": "Παράβλεψη"
+   },
+   "img_verify_code": {
+      "message": "Εικόνα επαλήθευσης"
+   },
+   "import_data": {
+      "message": "Εισαγωγή δεδομένων αντιγράφων ασφαλείας"
+   },
+   "import_data_desc": {
+      "message": "Ανάκτηση δεδομένων από το αρχείο αντιγράφων ασφαλείας"
+   },
+   "import_select_tile": {
+      "message": "Επιλογή δεδομένων"
+   },
+   "infinity_bookmarks": {
+      "message": "Συμπληρώστε την ιεραρχία φακέλου του σελιδοδείκτη και βρείτε σελιδοδείκτες πιο εύκολα με τους Bookmarks Infinity"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity Προτεινόμενα ταπετσαρίες Anime"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Βιβλιοθήκη ταπετσαρίας υψηλής ποιότητας άπειρη"
+   },
+   "infinity_extension": {
+      "message": "Διαχειριστείτε τις επεκτάσεις και τις εφαρμογές σας εύκολα με τον διαχειριστή επέκτασης Infinity"
+   },
+   "infinity_history": {
+      "message": "Γρήγορη προβολή και διαχείριση του ιστορικού του προγράμματος περιήγησης με την ιστορία του άπειρου"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Προτεινόμενα ταπετσαρίες τοπίου"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Βιβλιοθήκη ταπετσαρίας υψηλής ποιότητας"
+   },
+   "infinity_notes": {
+      "message": "Καταγράψτε τις εμπνεύσεις της ζωής γρήγορα με σημειώσεις άπειρων"
+   },
+   "infinity_settings": {
+      "message": "Προσαρμογή της νέας σελίδας καρτέλας άπειρων με τις ρυθμίσεις άπειρων"
+   },
+   "infinity_todos": {
+      "message": "Τοποθετήστε τις εργασίες σας για να βελτιώσετε και να βελτιώσετε την αποδοτικότητα της εργασίας σας με λίστα με το άπειρο"
+   },
+   "infinity_wallpaper": {
+      "message": "Η βιβλιοθήκη ταπετσαρίας Infinity σας παρέχει πλούσιες και συναρπαστικές ταπετσαρίες"
+   },
+   "infinity_weather": {
+      "message": "Το Infinity Weather σας παρέχει τις καιρικές προβλέψεις πόλεων σε όλο τον κόσμο"
+   },
+   "info": {
+      "message": "Πληροφορίες"
+   },
+   "inportdata_desc": {
+      "message": "Τα εισαγόμενα δεδομένα δεν είναι συμβατά με τα τοπικά δεδομένα. Παρακαλώ επιλέξτε συγχώνευση ή αντικατάσταση."
+   },
+   "input_and_search": {
+      "message": "Εισαγωγή αναζήτησης"
+   },
+   "input_city": {
+      "message": "Εισάγετε μια πόλη/περιοχή"
+   },
+   "input_new_password": {
+      "message": "Εισαγωγή νέου κωδικού πρόσβασης"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Συσχετίστηκε"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Δωρεάν φωτογραφίες για οποιοδήποτε σκοπό"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Διατηρήστε το περιεχόμενο στο πλαίσιο αναζήτησης"
+   },
+   "label": {
+      "message": "Ετικέτες"
+   },
+   "language": {
+      "message": "Γλώσσα"
+   },
+   "language_select": {
+      "message": "Επιλογή γλώσσας"
+   },
+   "last_sync_time": {
+      "message": "Τελευταία ώρα συγχρονισμού: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Τελευταία ενημέρωση"
+   },
+   "layout": {
+      "message": "Διάταξη"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Δωρεάν πηγή ταπετσαρίας HD"
+   },
+   "life_style": {
+      "message": "ΤΡΟΠΟΣ ΖΩΗΣ"
+   },
+   "limit_input_length": {
+      "message": "Μήκος κειμένου πέρα ​​από το όριο"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Τοπικό εικονίδιο"
+   },
+   "local_wallpaper2": {
+      "message": "Τοπικές ταπετσαρίες"
+   },
+   "login": {
+      "message": "Σύνδεση"
+   },
+   "login_abandon_tips": {
+      "message": "Η τρέχουσα μέθοδος σύνδεσης θα καταργηθεί σύντομα, δεσμεύστε το email σας ή άλλο λογαριασμό τρίτου μέρους το συντομότερο δυνατό μετά τη σύνδεση"
+   },
+   "login_now": {
+      "message": "Συνδεθείτε στο λογαριασμό σας Infinity τώρα για να απολαύσετε περισσότερα δικαιώματα"
+   },
+   "login_now_btn": {
+      "message": "Σύνδεση"
+   },
+   "login_register": {
+      "message": "Σύνδεση / Εγγραφή"
+   },
+   "loging": {
+      "message": "Σύνδεση"
+   },
+   "logout": {
+      "message": "Αποσύνδεση"
+   },
+   "logout_clear_something": {
+      "message": "Καθαρές εξατομικευμένες ρυθμίσεις και άλλες πληροφορίες σχετικά με αυτή τη συσκευή"
+   },
+   "logout_tips": {
+      "message": "Χρειάζεται να καταργήσετε τα τοπικά δεδομένα προτού αποσυνδεθείτε από το λογαριασμό σας για να αποφύγετε τη σύνδεση δεδομένων από διαφορετικούς λογαριασμούς σε αυτή τη συσκευή από τη σύνδεση;"
+   },
+   "logout_warn": {
+      "message": "Αφού συνδεθείτε από το λογαριασμό, όλες οι πληροφορίες δημιουργίας αντιγράφων ασφαλείας βάσει αυτού του λογαριασμού θα διαγραφούν. Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε από αυτόν τον λογαριασμό; (η εικόνα των σημειώσεων και οι προσαρμοσμένες βιβλιοθήκες ταπετσαρίας ενδέχεται να μην είναι διαθέσιμες)"
+   },
+   "male": {
+      "message": "Άνδρας"
+   },
+   "manage_backup_node": {
+      "message": "Διαχειριστείτε τους κόμβους δημιουργίας ιστορικών"
+   },
+   "manul_backup": {
+      "message": "Χειροκίνητη δημιουργία αντιγράφου ασφαλείας"
+   },
+   "map": {
+      "message": "Χάρτες"
+   },
+   "mask_density": {
+      "message": "Μείωση της ταπετσαρίας"
+   },
+   "me": {
+      "message": "Εγώ"
+   },
+   "merge_cloud_local": {
+      "message": "Συνδυάστε τα τοπικά και τα δεδομένα σύννεφων"
+   },
+   "merge_data": {
+      "message": "Συγχώνευση δεδομένων"
+   },
+   "mini_mode": {
+      "message": "Μινιμαλιστική λειτουργία"
+   },
+   "mins": {
+      "message": "Λεπτά"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Χρήση στους ιστοτόπους, θέματα, πρότυπα, έργα, εκτύπωση και εφημερίδες. Κάθε εβδομάδα νέοι ταπετσαρίες και βίντεο προστίθενται"
+   },
+   "mobile_devices": {
+      "message": "Infinity Κινητή-έκδοση"
+   },
+   "modify": {
+      "message": "Επεξεργασία στοιχείων"
+   },
+   "modify_email": {
+      "message": "Τροποποίηση email"
+   },
+   "modify_password": {
+      "message": "Επεξεργασία κωδικού πρόσβασης"
+   },
+   "modify_phone_number": {
+      "message": "Τροποποιήστε τον αριθμό τηλεφώνου"
+   },
+   "modify_pwd": {
+      "message": "Επεξεργασία κωδικού πρόσβασης"
+   },
+   "modify_success": {
+      "message": "Επιτυχής αλλαγή"
+   },
+   "modify_this": {
+      "message": "Επεξεργασία"
+   },
+   "mon": {
+      "message": "Δευτέρα"
+   },
+   "mon_min": {
+      "message": "Δευτέρα"
+   },
+   "month_1": {
+      "message": "Ιανουάριος"
+   },
+   "month_10": {
+      "message": "Οκτώβριος"
+   },
+   "month_11": {
+      "message": "Νοέμβριος"
+   },
+   "month_12": {
+      "message": "Δεκέμβριος"
+   },
+   "month_2": {
+      "message": "Φεβρουάριος"
+   },
+   "month_3": {
+      "message": "Μάρτιος"
+   },
+   "month_4": {
+      "message": "Απρίλιος"
+   },
+   "month_5": {
+      "message": "Μάϊος"
+   },
+   "month_6": {
+      "message": "Ιούνιος"
+   },
+   "month_7": {
+      "message": "Ιούλιος"
+   },
+   "month_8": {
+      "message": "Αύγουστος"
+   },
+   "month_9": {
+      "message": "Σεπτέμβριος"
+   },
+   "more_content_from_site": {
+      "message": "Περισσότερο περιεχόμενο από αυτόν τον ιστότοπο"
+   },
+   "most_used_in_chinese": {
+      "message": "Η μηχανή αναζήτησης χρησιμοποίησε τα περισσότερα από τους Κινέζους"
+   },
+   "music_video": {
+      "message": "Μουσικό βίντεο"
+   },
+   "my_collection": {
+      "message": "Η συλλογή μου"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Εισαγάγετε το όνομα του ιστότοπου"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Φύση"
+   },
+   "need_you_permission": {
+      "message": "Απαιτείται άδεια"
+   },
+   "network_error": {
+      "message": "Σφάλμα δικτύου"
+   },
+   "new_email": {
+      "message": "Νέα θυρίδα"
+   },
+   "new_password": {
+      "message": "Εισαγωγή νέου κωδικού πρόσβασης"
+   },
+   "new_phone_number": {
+      "message": "Νέος αριθμός τηλεφώνου"
+   },
+   "new_tab": {
+      "message": "Νέα καρτέλα"
+   },
+   "new_tab_web": {
+      "message": "Infinity Αρχική σελίδα"
+   },
+   "news": {
+      "message": "Ειδήσεις"
+   },
+   "next": {
+      "message": "Επόμενο"
+   },
+   "nickname": {
+      "message": "Ψευδώνυμο"
+   },
+   "no_account_register": {
+      "message": "Δεν έχετε λογαριασμό; Εγγραφή τώρα."
+   },
+   "no_backup_time": {
+      "message": "Καμία"
+   },
+   "no_bookmark_result": {
+      "message": "Κανένας σελιδοδείκτης"
+   },
+   "no_chrome_app": {
+      "message": "Δεν έχετε εγκαταστήσει την εφαρμογή $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Δεν υπάρχουν δεδομένα για τον καιρό"
+   },
+   "no_data": {
+      "message": "Δεν υπάρχουν στοιχεία"
+   },
+   "no_description": {
+      "message": "Καμία περιγραφή"
+   },
+   "no_more": {
+      "message": "Τέλος"
+   },
+   "no_more_reminder": {
+      "message": "Να μην εμφαν. ξανά αυτό το μήνυμα"
+   },
+   "no_permission_text": {
+      "message": "Συνιστάται να προσπαθήσετε να ανοίξετε και να παραχωρήσετε αυτήν την άδεια στη γραμμή διεύθυνσης του προγράμματος περιήγησης ή στο κέντρο ρυθμίσεων."
+   },
+   "no_permission_title": {
+      "message": "Η άδεια δεν έχει χορηγηθεί ακόμη"
+   },
+   "no_permission_to_open_app": {
+      "message": "Δεν υπάρχει άδεια για ανοιχτή εφαρμογή $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Στοιχεία μη εκκρεμών εργασιών"
+   },
+   "no_search_result": {
+      "message": "Κανένα αποτέλεσμα αναζήτησης"
+   },
+   "no_title": {
+      "message": "Χωρίς τίτλο"
+   },
+   "none": {
+      "message": "Κρυμμένα"
+   },
+   "none_auto_backup": {
+      "message": "Δεν υπάρχουν σήμερα προγραμματισμένα αντίγραφα ασφαλείας"
+   },
+   "none_auto_backup_desc": {
+      "message": "Τα προγραμματισμένα αντίγραφα ασφαλείας θα ξεκινήσουν την ίδια ημέρα που τροποποιείτε πληροφορίες σχετικά με το Infinity"
+   },
+   "none_manual_backup": {
+      "message": "Επί του παρόντος δεν υπάρχουν χειροκίνητα αντίγραφα ασφαλείας"
+   },
+   "normal_model": {
+      "message": "Στάνταρ λειτουργία"
+   },
+   "not_binding": {
+      "message": "Δεν συσχετίστηκε"
+   },
+   "note_title": {
+      "message": "Εισάγετε τίτλο σημείωσης"
+   },
+   "note_upload_img_15": {
+      "message": "Το μέγεθος αυτής της εικόνας δεν μπορεί να υπερβεί 15M"
+   },
+   "notes": {
+      "message": "Σημειώσεις"
+   },
+   "notice": {
+      "message": "Ειδοποίηση"
+   },
+   "ocean": {
+      "message": "ωκεανός"
+   },
+   "one_day_later": {
+      "message": "Υπενθύμιση αύριο"
+   },
+   "one_week_later": {
+      "message": "Υπενθύμιση σε 1 εβδομάδα"
+   },
+   "only_used_infinity": {
+      "message": "Χρησιμοποιείται μόνο για εσωτερικές μονάδες άπειρων"
+   },
+   "opacity": {
+      "message": "Διαφάνεια εικονιδίου"
+   },
+   "open_all": {
+      "message": "Άνοιγμα όλων"
+   },
+   "open_chrome_app": {
+      "message": "Ενεργοποίηση εφαρμογής"
+   },
+   "open_extension": {
+      "message": "Ενεργοποίηση επέκτασης"
+   },
+   "open_folder_icons": {
+      "message": "Άνοιγμα όλων"
+   },
+   "open_new_tab": {
+      "message": "Ανοίξτε την ιστοσελίδα σε νέα καρτέλα"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Ανοίξτε τη σελιδοδείκτη σύνδεση σε νέα καρτέλα"
+   },
+   "open_newtab_history": {
+      "message": "Ανοίξτε το ιστορικό σε νέα καρτέλα"
+   },
+   "open_newtab_show_search": {
+      "message": "Ανοίξτε τα αποτελέσματα αναζήτησης τρίτου μέρους σε νέα καρτέλα"
+   },
+   "origin_password": {
+      "message": "Τρέχων κωδικός"
+   },
+   "other_bookmarks": {
+      "message": "Άλλοι σελιδοδείκτες"
+   },
+   "others": {
+      "message": "Άλλα"
+   },
+   "oversize": {
+      "message": "Το μέγεθος δεν μπορεί να υπερβαίνει τα 2MB"
+   },
+   "overwrite_data": {
+      "message": "Δεδομένα επικάλυψης"
+   },
+   "pagin": {
+      "message": "Κουμπί σελίδων"
+   },
+   "password": {
+      "message": "Κωδικός πρόσβασης"
+   },
+   "password_dont_empty": {
+      "message": "Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός"
+   },
+   "password_length_low": {
+      "message": "Κωδικός πρόσβασης όχι λιγότερο από 6 ψηφία"
+   },
+   "password_not_equals": {
+      "message": "Οι κωδικοί πρόσβασης δεν είναι ίδιοι"
+   },
+   "password_not_some": {
+      "message": "Οι δύο κωδικοί πρόσβασης είναι ασυνεπείς"
+   },
+   "permission": {
+      "message": "Εξουσιοδότηση"
+   },
+   "permission_all": {
+      "message": "Επιτρέπουν όλα"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Αίτηση πρόσβασης και τροποποίηση των δεδομένων σας στο mail.google.com; Αίτηση εμφάνισης ειδοποιήσεων"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Ειδοποιήσεις Gmail"
+   },
+   "permission_gmail_num_content": {
+      "message": "Αίτηση πρόσβασης και τροποποίηση των δεδομένων σας στο mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Πρόσβαση σε ποσότητα gmail"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Ζητήστε να αποκτήσετε πρόσβαση και να τροποποιήσετε τα δεδομένα σας στο Google.com και την πρόταση.Baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Προτάσεις αναζήτησης"
+   },
+   "permission_todo_notice_content": {
+      "message": "Αίτηση ειδοποίησης οθόνης"
+   },
+   "permission_todo_notice_title": {
+      "message": "Ειδοποιήσεις για πράξεις"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Αίτηση πρόσβασης σε εικονίδια που αντιστοιχούν σε ιστοσελίδες που επισκέπτονται και έχουν πρόσβαση και τροποποιήστε τους σελιδοδείκτες σας"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Εμφάνιση σελιδοδεικτών στην κορυφή"
+   },
+   "permission_top_useful_content": {
+      "message": "Αίτηση πρόσβασης σε εικονίδια που αντιστοιχούν σε ιστοσελίδες που επισκέπτονται και αποκτήστε πρόσβαση και τροποποιήστε τη λίστα των πιο συχνά ιστοσελίδων"
+   },
+   "permission_top_useful_title": {
+      "message": "Εμφάνιση συχνά χρησιμοποιούμενων ιστότοπων στην κορυφή"
+   },
+   "permisson_label": {
+      "message": "Άδειες"
+   },
+   "phone_number": {
+      "message": "Αριθμός τηλεφώνου"
+   },
+   "photos": {
+      "message": "Εικόνες"
+   },
+   "pick_local_wallpaper": {
+      "message": "Επιλέξτε τοπική ταπετσαρία"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Δωρεάν και όμορφες φωτογραφίες που είναι διαθέσιμες για οποιαδήποτε χρήση"
+   },
+   "placeholder_name": {
+      "message": "Όνομα"
+   },
+   "please_chose_picture": {
+      "message": "Επιλέξτε Εικόνα"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Εισαγάγετε ένα όνομα σελιδοδείκτη"
+   },
+   "please_enter_email": {
+      "message": "Εισάγετε διεύθυνση e-mail"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Εισαγάγετε τον κωδικό επαλήθευσης εικόνας"
+   },
+   "please_enter_nickname": {
+      "message": "Εισαγωγή ψευδώνυμου"
+   },
+   "please_enter_phone": {
+      "message": "Εισαγάγετε τον αριθμό τηλεφώνου"
+   },
+   "please_enter_right_account": {
+      "message": "Εισαγάγετε το σωστό email ή τον αριθμό τηλεφώνου"
+   },
+   "please_enter_text": {
+      "message": "Κείμενο εισόδου"
+   },
+   "please_enter_url": {
+      "message": "Πληκτρολογήστε μια διεύθυνση URL"
+   },
+   "please_input_bg_text": {
+      "message": "Εισαγάγετε το κείμενο εικονιδίων"
+   },
+   "please_pre_login": {
+      "message": "Συνδεθείτε πρώτα"
+   },
+   "please_re_login": {
+      "message": "Συνδεθείτε ξανά"
+   },
+   "please_set_your_password": {
+      "message": "Παρακαλώ ορίστε έναν κωδικό"
+   },
+   "please_type_link": {
+      "message": "Παρακαλώ εισάγετε το σύνδεσμο"
+   },
+   "please_type_right_link": {
+      "message": "Εισαγάγετε τη σωστή διεύθυνση σύνδεσης"
+   },
+   "please_upload_photos": {
+      "message": "Ανεβάστε μια φωτογραφία"
+   },
+   "popular": {
+      "message": "Δημοφιλή"
+   },
+   "preview": {
+      "message": "Προεπισκόπηση"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Απόρρητο και προστασία δεδομένων"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Εικόνες που παράγονται από προσαρμοσμένο εικονίδιο ιστότοπου"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Εικόνες που παράγονται από προσαρμοσμένη μηχανή αναζήτησης"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Η εγγεγραμμένη διεύθυνσή σας ηλεκτρονικού ταχυδρομείου, η απεικόνιση της εικόνας προφίλ, που επιλέγεται ψευδώνυμο, μη απλό κωδικό κειμένου και άλλες πληροφορίες"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Εάν συνδεθείτε με λογαριασμό τρίτου μέρους, θα αποθηκεύσουμε το ψευδώνυμό σας, το φύλο, την εικόνα προφίλ και άλλες πληροφορίες που παρέχονται από το τρίτο μέρος"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Πληροφορίες εικονιδίου ιστοτόπου και πληροφορίες μηχανών αναζήτησης που προσθέσατε"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Πληροφορίες για τις καιρικές συνθήκες στην περιοχή ή στις καιρικές πληροφορίες σε άλλες περιοχές που ορίζετε"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Οι απαριθμοί που δημιουργήσατε"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Περιεχόμενα των σημειώσεων που δημιουργήσατε και οι εικόνες που μεταφορτώνονται στις σημειώσεις σας"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Η τρέχουσα ταπετσαρία σας, οι ρυθμίσεις ταπετσαρίας, οι εικόνες που μεταφορτώνονται στην τοπική ταπετσαρία σας και οι εικόνες που μεταφορτώθηκαν στην τοπική βιβλιοθήκη ταπετσαρίας σας"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Ρυθμίσεις επέκτασης"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Ο διακομιστής μπορεί να αποθηκεύει τα αρχεία καταγραφής που δημιουργούνται κατά τη διάρκεια των αλληλεπιδράσεων με τους χρήστες και τους πελάτες. Αυτό το αρχείο χρησιμοποιείται κυρίως για την αντιμετώπιση προβλημάτων σφάλματος εξαίρεσης. Θα καθαρίσουμε αυτό το ημερολόγιο από καιρό σε καιρό."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Τύπος προγράμματος περιήγησης, γλώσσα και έκδοση και ανάλυση οθόνης"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Αυτήν τη στιγμή είναι συνδεδεμένη ή όχι"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Κατά προσέγγιση Αριθμός σημερινών εικονιδίων"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Επί του παρόντος ενεργοποιημένες επεκτάσεις (εάν χρησιμοποιείτε διαχείριση επέκτασης)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Αριθμός φορές που έχει ανοίξει αυτή η επέκταση"
+   },
+   "privacy_data_item_4_2": {
+      "message": "Διεύθυνση IP και γεωγραφική θέση που προέρχεται από τη διεύθυνση IP"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Τα εικονίδια ιστοσελίδων και οι μηχανές αναζήτησης προστέθηκαν"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Ρυθμίσεις ταπετσαρίας και επέκτασης"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Έκδοση επέκτασης"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Συχνότητα κλικ σε κουμπιά λειτουργίας"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Μήνυμα σφάλματος εξαίρεσης"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Ανοίξτε τον κεντρικό υπολογιστή διεύθυνσης της ιστοσελίδας"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Τρέχον κεντρικό υπολογιστή αναζήτησης"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Θα μετρήσουμε ανώνυμα τον αριθμό των φορών που χρησιμοποιούνται ορισμένες μηχανές αναζήτησης."
+   },
+   "privacy_data_item_9": {
+      "message": "Πρέπει να συμφωνείτε με αυτή την πολιτική απορρήτου προτού μπορέσετε να χρησιμοποιήσετε αυτήν την επέκταση. Δείτε το $the_infinity_privacy$ για να μάθετε περισσότερα.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Όχι, μην συλλέγετε τα ανώνυμα δεδομένα"
+   },
+   "privacy_data_title_1": {
+      "message": "Μπορούμε να αποθηκεύουμε εικόνες που δημιουργούνται οικειοθελώς από χρήστες κατά τη χρήση. Οι παρακάτω εικόνες αποθηκεύονται ανώνυμα:"
+   },
+   "privacy_data_title_2": {
+      "message": "Εάν εγγραφείτε ή συνδεθείτε στο λογαριασμό σας, πρέπει να αποθηκεύσουμε τα ακόλουθα αναγνωρίσιμα δεδομένα (εφεξής που αναφέρονται ως δεδομένα χρήστη) στον διακομιστή μας για να ολοκληρώσουμε το αντίγραφο ασφαλείας και συγχρονισμό δεδομένων:"
+   },
+   "privacy_data_title_3": {
+      "message": "Σύνδεση διακομιστή:"
+   },
+   "privacy_data_title_4": {
+      "message": "Η συλλογή των παρακάτω πληροφοριών είναι προαιρετική. Οι πληροφορίες θα συλλέγονται ανώνυμα μέσω του Google Analytics να μας βοηθήσει να βελτιώσουμε τα προϊόντα μας:"
+   },
+   "privacy_data_title_5": {
+      "message": "Στατιστική ανάλυση:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Επιβεβαιώστε για να απεγκαταστήσετε τη νέα σελίδα καρτέλας Infinity"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Επιβεβαιώστε για να απεγκαταστήσετε το Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Καταργήστε την εγκατάσταση της New Page Tab Infinity;"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Καταργήστε την εγκατάσταση του Infinity New Tab Pro;"
+   },
+   "privacy_data_yes": {
+      "message": "Ναι, τα ανώνυμα δεδομένα μπορούν να συλλεχθούν σύμφωνα με την πολιτική απορρήτου"
+   },
+   "privacy_disagree": {
+      "message": "Δεν συμφωνώ"
+   },
+   "privacy_policy": {
+      "message": "Πολιτική απορρήτου"
+   },
+   "privacy_title": {
+      "message": "Συμφωνία Πολιτικής Απορρήτου"
+   },
+   "profile": {
+      "message": "Προσωπικές πληροφορίες"
+   },
+   "pure_color": {
+      "message": "Καθαρό χρώμα"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Ομάδα QQ"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Τυχαία ταπετσαρίες"
+   },
+   "re_update": {
+      "message": "Αναβάθμιση"
+   },
+   "read": {
+      "message": "Ανάγνωση"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Μεγάλη ποσότητα φωτογραφιών HD διαθέσιμες για προσωπική και εμπορική χρήση, 7 νέες κάθε εβδομάδα"
+   },
+   "recently_add": {
+      "message": "Πρόσφατη προσθήκη"
+   },
+   "recently_use": {
+      "message": "Χρησιμοποιήθηκαν πρόσφατα"
+   },
+   "recover_error": {
+      "message": "Η ανάκτηση δεδομένων απέτυχε"
+   },
+   "recover_error_version": {
+      "message": "Δεν υποστηρίζεται μορφή δεδομένων"
+   },
+   "recover_this": {
+      "message": "Ανάκτηση από αυτόν τον κόμβο"
+   },
+   "redius": {
+      "message": "Στρογγυλεμένες γωνίες εικονιδίου"
+   },
+   "refresh_qrcode": {
+      "message": "Ο κώδικας QR δεν είναι έγκυρος, κάντε κλικ στην επιλογή Ανανέωση"
+   },
+   "register": {
+      "message": "Εγγραφή"
+   },
+   "register_back": {
+      "message": "Πίσω"
+   },
+   "register_get_email_code_error": {
+      "message": "Απέτυχε η λήψη του κωδικού επαλήθευσης"
+   },
+   "register_now": {
+      "message": "Καταχωρίστε τον λογαριασμό σας Infinity τώρα για να απολαύσετε περισσότερα δικαιώματα"
+   },
+   "relative_humidity": {
+      "message": "Σχετική υγρασία"
+   },
+   "reload": {
+      "message": "Προσπαθήστε ξανά"
+   },
+   "reminder_update_text1": {
+      "message": "Για να πάρετε μια καλύτερη εμπειρία από τη χρήση Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Συνιστάται η αναβάθμιση του περιηγητή στην τελευταία έκδοση, και συνιστάται η χρήση ενός περιηγητή συμβατού με Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Εμφάνιση σφάλματος στη σελίδα"
+   },
+   "remove_account": {
+      "message": "Διαγραφή λογαριασμού"
+   },
+   "remove_done": {
+      "message": "Αφαίρεση ολοκληρωμένων αντικειμένων εργασιών"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Όλοι οι ταπετσαρίες κάτω από αυτή τη βιβλιοθήκη ταπετσαρίας θα αφαιρεθούν μαζί"
+   },
+   "rename_folder": {
+      "message": "Μετονομασία"
+   },
+   "repair_auto_backup": {
+      "message": "Αυτόματη δημιουργία αντιγράφων ασφαλείας δεδομένων"
+   },
+   "repair_concat": {
+      "message": "στοιχεία επικοινωνίας"
+   },
+   "repair_concat_email": {
+      "message": "ΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ: "
+   },
+   "repair_concat_qq": {
+      "message": "Μηχανικός QQ: "
+   },
+   "repair_data": {
+      "message": "Επισκευή δεδομένων"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Στείλτε μας το αρχείο δεδομένων για επισκευή μέσω των παρακάτω στοιχείων επικοινωνίας και θα σας βοηθήσουμε να επιδιορθώσετε τα δεδομένα το συντομότερο δυνατό. Προτού ο μηχανικός επιλύσει το πρόβλημα, προσπαθήστε να μην εκτελέσετε άλλες εργασίες. Αυτό το αρχείο μπορεί να περιέχει ευαίσθητες πληροφορίες, όπως λογαριασμούς. Μην το αποκαλύπτετε σε άλλους."
+   },
+   "repair_data_title": {
+      "message": "Ανάκτηση χαμένων ή κατεστραμμένων δεδομένων"
+   },
+   "repair_export_btn": {
+      "message": "Εξαγωγή δεδομένων που πρέπει να επισκευαστούν"
+   },
+   "repeat_city": {
+      "message": "Δεν μπορείτε να προσθέσετε ξανά την ίδια πόλη"
+   },
+   "reqeust_login_message": {
+      "message": "Πρέπει να έχετε συνδεθεί για να χρησιμοποιήσετε αυτήν τη δυνατότητα"
+   },
+   "request_logout_confirm": {
+      "message": "Διαγράψτε το λογαριασμό σας;"
+   },
+   "request_reset_all_settings": {
+      "message": "Είστε βέβαιοι ότι θέλετε να επαναφέρετε τις ρυθμίσεις στις προεπιλεγμένες τιμές;"
+   },
+   "reset": {
+      "message": "Επαναφορά"
+   },
+   "reset_password": {
+      "message": "Επαναφορά κωδικών"
+   },
+   "reset_password_by_email": {
+      "message": "Επαναφέρετε τον κωδικό πρόσβασής σας μέσω της επαλήθευσης ηλεκτρονικού ταχυδρομείου"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Επαναφέρετε τον κωδικό πρόσβασής σας μέσω της επαλήθευσης του ηλεκτρονικού ταχυδρομείου ή του αριθμού τηλεφώνου"
+   },
+   "reset_setting": {
+      "message": "Επαναφορά ρυθμίσεων"
+   },
+   "reset_your_password": {
+      "message": "Παρακαλώ επαναφέρατε τον κωδικό πρόσβασής σας"
+   },
+   "restore_setting": {
+      "message": "Επαναφορά ρυθμίσεων"
+   },
+   "revovery_data": {
+      "message": "Επαναφορά δεδομένων"
+   },
+   "row_gap": {
+      "message": "Διάστιχο"
+   },
+   "row_num": {
+      "message": "Στήλες"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Κάντε κλικ στην επιλογή όπως φαίνεται από το βέλος στο σχήμα."
+   },
+   "safari_browser_guide2": {
+      "message": "Στο αναδυόμενο παράθυρο, εισάγετε τη διεύθυνση URL https://inftab.com στη στήλη Αρχική Σελίδα."
+   },
+   "safari_browser_guide3": {
+      "message": "Κάντε κλικ στο κουμπί κάτω από τη διεύθυνση URL για να ολοκληρώσετε τη ρύθμιση της αρχικής σελίδας."
+   },
+   "sat": {
+      "message": "Σάββατο"
+   },
+   "sat_min": {
+      "message": "Σάββατο"
+   },
+   "save": {
+      "message": "Αποθήκευση"
+   },
+   "scale": {
+      "message": "Μέγεθος εικονιδίου"
+   },
+   "scale_main": {
+      "message": "μεγέθυνση οθόνης"
+   },
+   "scale_side": {
+      "message": "Πλευρική στήλη ζουμ"
+   },
+   "scheduled_backup": {
+      "message": "Προγραμματισμός αντιγράφων ασφαλείας"
+   },
+   "search": {
+      "message": "Αναζήτηση"
+   },
+   "search_bookmark": {
+      "message": "Αναζήτηση στους σελιδοδείκτες"
+   },
+   "search_engine": {
+      "message": "Μηχανή αναζήτησης"
+   },
+   "search_engine_error": {
+      "message": "Εισάγετε όνομα μηχανής αναζήτησης"
+   },
+   "search_error": {
+      "message": "Η φόρτωση απέτυχε"
+   },
+   "search_extension": {
+      "message": "Αναζήτηση επεκτάσεων"
+   },
+   "search_from": {
+      "message": "Έψαξε από: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Εικονίδιο αναζητήσης"
+   },
+   "search_input": {
+      "message": "πλαίσιο αναζήτησης"
+   },
+   "search_input_shadow": {
+      "message": "Σκιά μαθήματος αναζήτησης"
+   },
+   "search_opacity": {
+      "message": "Αδιάβροχο πλαίσιο αναζήτησης"
+   },
+   "search_redius": {
+      "message": "Κουτί αναζήτησης στρογγυλεμένες γωνίες"
+   },
+   "search_result": {
+      "message": "Αποτελέσματα αναζήτησης"
+   },
+   "search_size": {
+      "message": "Μέγεθος πλαισίου αναζήτησης"
+   },
+   "search_suggest": {
+      "message": "Εμφάνιση προτάσεων αναζήτησης"
+   },
+   "search_website": {
+      "message": "Αναζήτηση για τοποθεσίες"
+   },
+   "searching": {
+      "message": "Αναζήτηση"
+   },
+   "select_date": {
+      "message": "Επιλογή ημερομηνίας"
+   },
+   "select_icon": {
+      "message": "Επιλέξτε εικονίδιο"
+   },
+   "select_time": {
+      "message": "Επιλέξτε ώρα"
+   },
+   "send_success": {
+      "message": "Εστάλη e-mail επαλήθευσης. Ελέγξτε τα εισερχόμενά σας"
+   },
+   "set_homepage_desc": {
+      "message": "Εγκαταστήστε την επέκταση για το πρόγραμμα περιήγησης για να απολαύσετε πλήρη χαρακτηριστικά"
+   },
+   "set_homepage_title2": {
+      "message": "Αυτή η λειτουργία δεν υποστηρίζεται στην τρέχουσα έκδοση_#_Παρακαλώ εγκαταστήστε την επέκταση του προγράμματος περιήγησης πριν από τη χρήση"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Ορίστε Infinity ως αρχική σελίδα για το πρόγραμμα περιήγησής σας"
+   },
+   "set_new_password": {
+      "message": "Ορισμός νέου κωδικού πρόσβασης"
+   },
+   "set_remind_time": {
+      "message": "Ορίστε την ώρα για την υπενθύμιση"
+   },
+   "set_setting_default": {
+      "message": "Επαναφορά προεπιλογών"
+   },
+   "set_to_homepage": {
+      "message": "Ορισμός ως αρχική σελίδα"
+   },
+   "set_top": {
+      "message": "Στο πάνω μέρος"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "ορίστε ψευδώνυμο και avatar"
+   },
+   "settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "shadow": {
+      "message": "Εικονίδια σκιά"
+   },
+   "share": {
+      "message": "Κοινοποίηση"
+   },
+   "share_by_user": {
+      "message": "οι χρήστες μοιράζονται"
+   },
+   "share_desc": {
+      "message": "Infinity Νέα καρτέλα, μια επέκταση πλοήγησης επιλεγμένη από εκατομμύρια, η πιο φιλική προς το χρήστη νέα καρτέλα στο περιηγητή"
+   },
+   "share_title": {
+      "message": "Μπορεί να είναι η καλύτερη νέα καρτέλα στο πρόγραμμα περιήγησης $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Αγορά και ομαδική αγορά"
+   },
+   "shortcut_mode": {
+      "message": "Λειτουργία εξπρές"
+   },
+   "show_detail": {
+      "message": "Προβολή τώρα"
+   },
+   "show_gamil_unread_number": {
+      "message": "Εμφάνιση αριθμού μη αναγνωσμένων email του Gmail στο εικονίδιο"
+   },
+   "show_later": {
+      "message": "Υπενθύμιση αργότερα"
+   },
+   "show_name": {
+      "message": "Εμφάνιση ονόματος"
+   },
+   "show_reminders_number": {
+      "message": "Εμφάνιση αριθμού εκκρεμοτήτων στο εικονίδιο"
+   },
+   "skip": {
+      "message": "Παράβλεψη"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Ένα μέρος για να βρείτε, να προβάλλετε και να μοιραστείτε φωτογραφίες"
+   },
+   "social": {
+      "message": "Κοινωνικά μέσα και blogs"
+   },
+   "solid_color_wallpaper": {
+      "message": "Ενιαία χρώματα ταπετσαρία"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Μηχανή αναζήτησης που μπορεί να αναζητήσει περιεχόμενα που δημοσιεύτηκε από τους επίσημους λογαριασμούς WeChat"
+   },
+   "sports": {
+      "message": "Αθλητισμός και ταξίδια"
+   },
+   "start_animation": {
+      "message": "Έναρξη κίνησης"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Παρέχετε εκκίνηση, bloggers, εκδότες, ιστοσελίδες, σχεδιαστές, προγραμματιστές, δημιουργούς και πέρα από τις δωρεάν φωτογραφίες"
+   },
+   "street_photography": {
+      "message": "Δρόμος"
+   },
+   "sun": {
+      "message": "Κυριακή"
+   },
+   "sun_min": {
+      "message": "Κυρ"
+   },
+   "support": {
+      "message": "Υποστήριξη"
+   },
+   "switch_to": {
+      "message": "Μεταβείτε σε"
+   },
+   "sync_fail": {
+      "message": "Ο συγχρονισμός απέτυχε. Προσπαθήστε ξανά"
+   },
+   "sync_suncess": {
+      "message": "Ο συγχρονισμός ολοκληρώθηκε."
+   },
+   "sync_type_tips": {
+      "message": "Τα δεδομένα Cloud και τα τοπικά δεδομένα ανιχνεύονται ότι είναι ασυνεπείς. Επιλέξτε ένα είδος δεδομένων."
+   },
+   "syncing": {
+      "message": "Συγχρονισμός δεδομένων..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Δεν έχετε εγκαταστήσει αυτή την εφαρμογή $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Τρόπος ανοίγματος στόχου"
+   },
+   "tech": {
+      "message": "Τεχνολογία"
+   },
+   "technology": {
+      "message": "Τεχνολογία"
+   },
+   "term_of_use": {
+      "message": "Όροι Χρήσης"
+   },
+   "text": {
+      "message": "Κείμενο"
+   },
+   "text_shadow": {
+      "message": "Σκιά κειμένου"
+   },
+   "thirt_party": {
+      "message": "Χρησιμοποιήστε σύνδεση από λογαριασμό τρίτου"
+   },
+   "thu": {
+      "message": "Πέμπτη"
+   },
+   "thu_min": {
+      "message": "Πέμπτη"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Ανοίξτε οποιοδήποτε ιστότοπο και εισάγετε \"% S\" στο πλαίσιο αναζήτησης για αναζήτηση. (Με το Google ως παράδειγμα)"
+   },
+   "tip_question_2": {
+      "message": "2. Αντιγράψτε άμεσα τη διεύθυνση URL του αποτελέσματος αναζήτησης"
+   },
+   "tip_question_3": {
+      "message": "3. Επικολλήστε την αντιγραφή URL εδώ και έχετε τελειώσει"
+   },
+   "tip_question_title": {
+      "message": "Για τη χρήση του \"% S\" για να αντικαταστήσετε τους όρους αναζήτησης"
+   },
+   "to_login": {
+      "message": "Συνδεθείτε τώρα"
+   },
+   "today": {
+      "message": "Σήμερα"
+   },
+   "todo_welcome": {
+      "message": "Καλώς ήλθατε στη σελίδα καρτέλας Infinity. Αυτό είναι ένα δείγμα που σχετίζεται με το στοιχείο."
+   },
+   "todos": {
+      "message": "Λίστα εργασιών"
+   },
+   "top_bookmark": {
+      "message": "Εμφάνιση σελιδοδεικτών στην κορυφή"
+   },
+   "top_use_ful": {
+      "message": "Εμφάνιση συχνά χρησιμοποιούμενων ιστότοπων στην κορυφή"
+   },
+   "travel": {
+      "message": "Ταξίδια"
+   },
+   "tue": {
+      "message": "Τρίτη"
+   },
+   "tue_min": {
+      "message": "Τρίτη"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Υπενθύμιση σε 2 ώρες"
+   },
+   "type_link": {
+      "message": "Εισαγωγή συνδέσμου"
+   },
+   "type_text": {
+      "message": "Κείμενο εισόδου"
+   },
+   "unbind": {
+      "message": "Διαγραφή"
+   },
+   "unbind_btn": {
+      "message": "Κατάργηση συσχέτισης"
+   },
+   "unbind_email": {
+      "message": "Λύσε το γραμματοκιβώτιο"
+   },
+   "unbind_phone_number": {
+      "message": "Απελευθερώστε τον αριθμό κινητού τηλεφώνου"
+   },
+   "unbind_success": {
+      "message": "Επιτυχής διαγραφή"
+   },
+   "uninstall_agree": {
+      "message": "Συμφωνώ"
+   },
+   "uninstall_chrome_app": {
+      "message": "Κατάργηση εγκατάστασης εφαρμογής"
+   },
+   "uninstall_extension": {
+      "message": "Κατάργηση επέκτασης"
+   },
+   "unknown_mistake": {
+      "message": "Άγνωστο σφάλμα"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Παγκόσμια-φημισμένα υψηλής ποιότητας ταπετσαρίες"
+   },
+   "unzip_folder_content": {
+      "message": "Ο φάκελος θα διαγραφεί και το εικονίδιο θα διατηρηθεί. Είσαι σίγουρος?"
+   },
+   "unzip_folder_title": {
+      "message": "Έκδοση"
+   },
+   "update_data": {
+      "message": "Αναβαθμίστε τα δεδομένα"
+   },
+   "update_data_failure": {
+      "message": "Ενημέρωση προφίλ απέτυχε"
+   },
+   "update_desc_1": {
+      "message": "Εάν η μετατροπή δεδομένων απέτυχε κατά τη διάρκεια της αναβάθμισης της έκδοσης, μπορείτε να δοκιμάσετε να αναβαθμίσετε τα δεδομένα."
+   },
+   "update_desc_2": {
+      "message": "Εάν εξακολουθείτε να μην μπορείτε να λύσετε το πρόβλημα πολλές φορές, μπορείτε να επικοινωνήσετε με τους μηχανικούς μας, θα προσπαθήσουμε να σας βοηθήσουμε να λύσετε."
+   },
+   "update_desc_3": {
+      "message": "Τα δεδομένα μετατροπής αντικαθιστούν δεδομένα νέας έκδοσης, συνιστάται να δημιουργήσετε αντίγραφα ασφαλείας των δεδομένων πριν λειτουργήσετε."
+   },
+   "update_error_desc1": {
+      "message": "Μπορείτε να δοκιμάσετε να αναβαθμίσετε εάν εντοπίσετε ορισμένα δεδομένα."
+   },
+   "update_error_desc2": {
+      "message": "Εάν αποτύχετε πολλαπλές αναβαθμίσεις, μπορείτε επίσης να κάνετε κλικ στο εικονίδιο \"Ρυθμίσεις\" από την επάνω δεξιά γωνία για να εισέλθετε - [MY] - [Backup and Repair]."
+   },
+   "update_now": {
+      "message": "Ενημέρωση τώρα"
+   },
+   "update_or_repair_data": {
+      "message": "Αναβάθμιση ή επισκευή δεδομένων"
+   },
+   "upload_avatar_failure": {
+      "message": "Απέτυχε η φόρτωση της εικόνας άβαταρ"
+   },
+   "upload_file_error": {
+      "message": "Αποτυχία μεταφόρτωσης αρχείου"
+   },
+   "upload_image_error": {
+      "message": "Δεν καταφέραμε να ανεβάσουμε την εικόνα σας"
+   },
+   "uploading": {
+      "message": "Αποστολή..."
+   },
+   "use_cloud": {
+      "message": "Χρησιμοποιήστε δεδομένα σύννεφων"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Εισαγάγετε κείμενο και πατήστε Enter για να προσθέσετε"
+   },
+   "use_local": {
+      "message": "Χρησιμοποιήστε τοπικά δεδομένα"
+   },
+   "use_mobile_screen": {
+      "message": "Χρησιμοποιήστε μια κινητή συσκευή για να σαρώσετε τον κώδικα QR"
+   },
+   "user_evaluation": {
+      "message": "Αξιολόγηση χρήστη"
+   },
+   "username_cannot_empty": {
+      "message": "Tο όνομα χρήστη δεν μπορεί να είναι κενό"
+   },
+   "verify_password_desc": {
+      "message": "Για την ασφάλεια του λογαριασμού σας, εισάγετε τον κωδικό πρόσβασης λογαριασμού"
+   },
+   "verity_code": {
+      "message": "Αποστολή κωδικού επαλήθευσης"
+   },
+   "verity_code_no_value": {
+      "message": "Ο κωδικός επαλήθευσης δεν μπορεί να είναι κενός"
+   },
+   "videos": {
+      "message": "Βίντεο"
+   },
+   "view": {
+      "message": "Προβολή"
+   },
+   "w309": {
+      "message": "Ψιλοβρέχει"
+   },
+   "w_100": {
+      "message": "Ηλιοφάνεια"
+   },
+   "w_101": {
+      "message": "Συννεφιασμένος"
+   },
+   "w_102": {
+      "message": "Λίγα Σύννεφα"
+   },
+   "w_103": {
+      "message": "Αίθριος"
+   },
+   "w_104": {
+      "message": "Καταθλιπτικός"
+   },
+   "w_200": {
+      "message": "Άνεμοι"
+   },
+   "w_201": {
+      "message": "Ήρεμο"
+   },
+   "w_202": {
+      "message": "Δροσερός"
+   },
+   "w_203": {
+      "message": "Μέτρια αύρα"
+   },
+   "w_204": {
+      "message": "Μέτριος άνεμος"
+   },
+   "w_205": {
+      "message": "Ισχυρός άνεμος"
+   },
+   "w_206": {
+      "message": "Σφοδρός άνεμος"
+   },
+   "w_207": {
+      "message": "Ισχυροί άνεμοι"
+   },
+   "w_208": {
+      "message": "Πολύ θυελλώδης άνεμος"
+   },
+   "w_209": {
+      "message": "Kαταιγίδες"
+   },
+   "w_210": {
+      "message": "Θύελλα"
+   },
+   "w_211": {
+      "message": "Τυφώνας"
+   },
+   "w_212": {
+      "message": "Ανεμοστρόβιλος"
+   },
+   "w_213": {
+      "message": "Τροπική καταιγίδα"
+   },
+   "w_300": {
+      "message": "Σποραδικές βροχές"
+   },
+   "w_301": {
+      "message": "Βαριά βροχόπτωση"
+   },
+   "w_302": {
+      "message": "Καταιγίδες"
+   },
+   "w_303": {
+      "message": "Μεγάλες καταιγίδες"
+   },
+   "w_304": {
+      "message": "Καταιγίδες με χαλάζι"
+   },
+   "w_305": {
+      "message": "Ελαφρά βροχόπτωση"
+   },
+   "w_306": {
+      "message": "Μέτρια βροχόπτωση"
+   },
+   "w_307": {
+      "message": "Δυνατή βροχόπτωση"
+   },
+   "w_308": {
+      "message": "Υπάρχουν ακραίες βροχοπτώσεις"
+   },
+   "w_310": {
+      "message": "Νεροποντή"
+   },
+   "w_311": {
+      "message": "Σφοδρή καταιγίδα"
+   },
+   "w_312": {
+      "message": "Ασυνήθιστη νεροποντή"
+   },
+   "w_313": {
+      "message": "Χιονόνερο"
+   },
+   "w_314": {
+      "message": "Ελαφρά βροχόπτωση προς Μέτρια βροχόπτωση"
+   },
+   "w_315": {
+      "message": "Μέτρια προς Βαριά βροχόπτωση"
+   },
+   "w_316": {
+      "message": "Έντονη βροχή προς καταιγίδα"
+   },
+   "w_317": {
+      "message": "Καταιγίδα έως πολύ έντονη καταιγίδα"
+   },
+   "w_318": {
+      "message": "Νεροποντή προς βαριά καταιγίδα"
+   },
+   "w_399": {
+      "message": "Βροχή"
+   },
+   "w_400": {
+      "message": "Ελαφρά χιονόπτωση"
+   },
+   "w_401": {
+      "message": "Μέτρια χιονόπτωση"
+   },
+   "w_402": {
+      "message": "Βαριά χιονόπτωση"
+   },
+   "w_403": {
+      "message": "Χιονοθύελλα"
+   },
+   "w_404": {
+      "message": "Χιονόνερο"
+   },
+   "w_405": {
+      "message": "Χιονόνερο"
+   },
+   "w_406": {
+      "message": "Βροχή μικρής διάρκειας με πιθανότητα χιονόνερου"
+   },
+   "w_407": {
+      "message": "Χιόνι ντους"
+   },
+   "w_408": {
+      "message": "Ελαφριά προς μέτρια χιονόπτωση"
+   },
+   "w_409": {
+      "message": "Μέτρια προς βαριά χιονόπτωση"
+   },
+   "w_410": {
+      "message": "Βαριά προς χιονοθύελλα"
+   },
+   "w_499": {
+      "message": "Χιόνι"
+   },
+   "w_500": {
+      "message": "Ομίχλη"
+   },
+   "w_501": {
+      "message": "Ομίχλη"
+   },
+   "w_502": {
+      "message": "Ξηρή ομίχλη"
+   },
+   "w_503": {
+      "message": "Άμμος"
+   },
+   "w_504": {
+      "message": "Σκόνη"
+   },
+   "w_507": {
+      "message": "Αμμοθύελλα"
+   },
+   "w_508": {
+      "message": "Έντονη αμμοθύελλα"
+   },
+   "w_509": {
+      "message": "Πυκνή ομίχλη"
+   },
+   "w_510": {
+      "message": "Πολύ πυκνή ομίχλη"
+   },
+   "w_511": {
+      "message": "Μέτρια αιθαλομίχλη"
+   },
+   "w_512": {
+      "message": "Έντονη ομίχλη"
+   },
+   "w_513": {
+      "message": "Σοβαρή αιθαλομίχλη"
+   },
+   "w_514": {
+      "message": "Ομιχλώδης"
+   },
+   "w_515": {
+      "message": "Σοβαρή ομίχλη"
+   },
+   "w_900": {
+      "message": "Ζέστη"
+   },
+   "w_901": {
+      "message": "Κρύο"
+   },
+   "w_999": {
+      "message": "Άγνωστο"
+   },
+   "wallpaper": {
+      "message": "Ταπετσαρία"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Προσθήκη προσαρμοσμένου χρώματος"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Αποτυχία προσθήκης εικόνας. Προσπαθήστε ξανά αργότερα."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Η εφαρμογή τοπικής ταπετσαρίας απέτυχε. Προσπαθήστε ξανά αργότερα"
+   },
+   "wallpaper_applying_library": {
+      "message": "Ενεργοποίηση βιβλιοθήκης ταπετσαρίας..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Συχνότητα ανανέωσης ταπετσαρίας"
+   },
+   "wallpaper_choose_library": {
+      "message": "Επιλέξτε πηγή ταπετσαρίας"
+   },
+   "wallpaper_choose_single": {
+      "message": "Επιλέξτε μια ταπετσαρία"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Διαγραφή επιλογής"
+   },
+   "wallpaper_cloud": {
+      "message": "Ταπετσαρία"
+   },
+   "wallpaper_collect_current": {
+      "message": "Συλλέξτε την τρέχουσα ταπετσαρία"
+   },
+   "wallpaper_common_color": {
+      "message": "Κοινή χρώμα"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Διαγραφή αυτής της ταπετσαρίας;"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Αποτυχία δημιουργίας τοπικής βιβλιοθήκης ταπετσαρίας. Προσπαθήστε ξανά αργότερα."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Η προσαρμοσμένη βιβλιοθήκη ταπετσαρίας του χρήστη υπερβαίνει το όριο"
+   },
+   "wallpaper_custom_color": {
+      "message": "Προσαρμοσμένο χρώμα"
+   },
+   "wallpaper_delete_color": {
+      "message": "Διαγραφή αυτό το χρώμα"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Επιτυχής διαγραφή"
+   },
+   "wallpaper_delete_file": {
+      "message": "Διαγραφή ταπετσαρίας"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Αποτυχία διαγραφής ταπετσαρίας"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Απενεργοποιήστε την αυτόματη εναλλαγή ταπετσαρίας"
+   },
+   "wallpaper_empty_text": {
+      "message": "Δεν υπάρχουν στοιχεία"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Η απόκτηση ταπετσαρίας απέτυχε"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Αποτυχία λήψης ταπετσαρίας χρηστών"
+   },
+   "wallpaper_library": {
+      "message": "Βιβλιοθήκη ταπετσαριών"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$ τοπική βιβλιοθήκη ταπετσαρίας",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Παράνομη ονομασία βιβλιοθήκης ταπετσαρίας"
+   },
+   "wallpaper_library_preview": {
+      "message": "Προεπισκόπηση ταπετσαρίας"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Μεταφορτώστε το πολύ 20 ταπετσαρίες. Κάθε ταπετσαρία δεν πρέπει να υπερβαίνει τα 10 μέτρα."
+   },
+   "wallpaper_loading": {
+      "message": "Επεξεργασία..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Χρειάζεται σύνδεση δικτύου για να γίνει αυτό"
+   },
+   "wallpaper_remove_library": {
+      "message": "Καταργήστε αυτή τη βιβλιοθήκη ταπετσαρίας"
+   },
+   "wallpaper_sort_default": {
+      "message": "Προεπιλεγμένο είδος"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Δημοτικότητα"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Ημερομηνία συμπερίληψης"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Διακόπτης κάθε 24 ώρες"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Η ταπετσαρία αντικατάστασης απέτυχε"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Ενημερώστε τις καθημερινές σας ταπετσαρίες με το Bing. Δεν μπορείτε να επιλέξετε τη συχνότητα εναλλαγής."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Διακόπτης κάθε 1 ώρα"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Διακόπτης κάθε 12 ώρες"
+   },
+   "wallpaper_switch_success": {
+      "message": "Τυχαία ταπετσαρία άλλαξε με επιτυχία"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Αλλαγή στην επόμενη ταπετσαρία"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Διακόπτης κατά το άνοιγμα μιας νέας καρτέλας"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Όταν ανοίξετε τη σελίδα"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Η μεταφόρτωση αρχείων απέτυχε. Αιτιολογία: Το μέγεθος υπερβαίνει το όριο"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Επιλέξτε ένα τοπικό υπόβαθρο"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Απαιτείται τουλάχιστον μία ταπετσαρία"
+   },
+   "want_more": {
+      "message": "Απολαύστε περισσότερα προνόμια αμέσως"
+   },
+   "weather": {
+      "message": "Καιρός"
+   },
+   "weather_empty": {
+      "message": "Δεν υπάρχουν διαθέσιμες πληροφορίες για τον καιρό"
+   },
+   "web_set_home_title": {
+      "message": "Πώς να ορίσετε Infinity ως αρχική σελίδα"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Όνομα ιστοτόπου"
+   },
+   "website_search_replace_char": {
+      "message": "URL (χρησιμοποιήστε% s για να αντικαταστήσετε τη λέξη αναζήτησης)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Τετάρτη"
+   },
+   "wed_min": {
+      "message": "Τετάρτη"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Ένταση"
+   },
+   "wind_mill": {
+      "message": "Εμφάνιση πλήκτρου τυχαίας αλλαγής ταπετσαρίας στην κάτω δεξιά γωνία"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Η αναζήτηση Yahoo είναι μια μηχανή αναζήτησης που λειτουργεί από το Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Το Yandex είναι μία από τις πιο σημαντικές πύλες υπηρεσιών Διαδικτύου στη Ρωσία"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$έτος$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Χθες"
+   },
+   "you_need_login": {
+      "message": "Πρέπει να μπεις στον λογαριασμό Infinity πρώτα"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Το αρχείο περιήγησης θα εμφανιστεί εδώ"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

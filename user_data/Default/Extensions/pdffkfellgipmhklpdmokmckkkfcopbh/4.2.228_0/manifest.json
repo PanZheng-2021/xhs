@@ -1,0 +1,52 @@
+{
+   "author": "Adguard Software Ltd",
+   "background": {
+      "page": "pages/background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "assets/icons/green-19.png",
+         "38": "assets/icons/green-38.png"
+      },
+      "default_popup": "pages/popup.html",
+      "default_title": "__MSG_name__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "pages/content-script-start.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "pages/content-script-end.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": false,
+      "js": [ "pages/thankyou.js" ],
+      "matches": [ "*://*.adguard.com/*/thankyou.html*", "*://*.adguard.info/*/thankyou.html*", "*://*.adguard.app/*/thankyou.html*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'sha256-Bm6SGASuSJ/y5W6tMmcnxeShdKrQ2QtIV2mH1Oh8qho='; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "devtools_page": "pages/devtools.html",
+   "icons": {
+      "128": "assets/icons/green-128.png",
+      "16": "assets/icons/green-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo1utaRodoqhWHAz8QvH9F4JiZATJ3OeR+hN31hKBX1wYU5jMZs2ztks2A3yQUz1wQ2/VErgI2KLh86a2qginh0HW7f0/JMHc/z4/I0aKgGWyY+fpStEOBa46VkszgMm2/AEPrP5SXf5jpFv8BrIgC2c4lD1Owwo/5k7LXiLzgb+9+JklWaMPNsOf1veZ483az2opisN+Fmhn2BcNQ0cEqAGWkNSWKawT+8ZrxviwOYlVUNfWUYA2Y3NKOjABp5YLvAVsH1xSFxeKQySE6PKVvS/+AxwJQXL1XLO5YqROSO8iWihGfDHOQ1UBznebKCmKiuhgyVm6bv2kaRUp0BjjAQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "79.0",
+   "name": "__MSG_name__",
+   "optional_permissions": [ "privacy" ],
+   "options_page": "pages/options.html",
+   "permissions": [ "tabs", "\u003Call_urls>", "webRequest", "webRequestBlocking", "webNavigation", "storage", "unlimitedStorage", "contextMenus", "cookies" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "4.2.228",
+   "web_accessible_resources": [ "/web-accessible-resources/*" ]
+}

@@ -1,0 +1,722 @@
+{
+   "buttonApply": {
+      "message": "Apply"
+   },
+   "buttonCancel": {
+      "message": "Откажи"
+   },
+   "buttonCheckForUpdates": {
+      "message": "Провери ажурирања"
+   },
+   "buttonClose": {
+      "message": "Затвори"
+   },
+   "buttonDisable": {
+      "message": "Онемогући"
+   },
+   "buttonEdit": {
+      "message": "Уреди"
+   },
+   "buttonEditClickHint": {
+      "message": "You can also Right-click, Ctrl-click, Wheel-click on the script name."
+   },
+   "buttonEmptyRecycleBin": {
+      "message": "Empty recycle bin now!"
+   },
+   "buttonEnable": {
+      "message": "Омогући"
+   },
+   "buttonExportData": {
+      "message": "Извези као zip"
+   },
+   "buttonHome": {
+      "message": "Почетна страница"
+   },
+   "buttonImportData": {
+      "message": "Увези из zip датотеке"
+   },
+   "buttonInstallFromURL": {
+      "message": "Инсталирај са адресе"
+   },
+   "buttonNew": {
+      "message": "Нова скрипта"
+   },
+   "buttonOK": {
+      "message": "У реду"
+   },
+   "buttonRecycleBin": {
+      "message": "Recycle Bin"
+   },
+   "buttonRemove": {
+      "message": "Уклони"
+   },
+   "buttonReplace": {
+      "message": "Замени"
+   },
+   "buttonReplaceAll": {
+      "message": "Све"
+   },
+   "buttonReset": {
+      "message": "Reset"
+   },
+   "buttonRestore": {
+      "message": "Restore"
+   },
+   "buttonSave": {
+      "message": "Сачувај"
+   },
+   "buttonSaveClose": {
+      "message": "Сачувај и затвори"
+   },
+   "buttonSaved": {
+      "message": "Saved"
+   },
+   "buttonShowEditorState": {
+      "message": "Show editor state"
+   },
+   "buttonSupport": {
+      "message": "Страница подршке"
+   },
+   "buttonUndo": {
+      "message": "Undo"
+   },
+   "buttonUpdate": {
+      "message": "Update"
+   },
+   "buttonUpdateAll": {
+      "message": "Провери ажурирања за све"
+   },
+   "buttonVacuum": {
+      "message": "Избриши базу података"
+   },
+   "buttonVacuumed": {
+      "message": "Подаци су избрисани"
+   },
+   "buttonVacuuming": {
+      "message": "Брисање података..."
+   },
+   "confirmManualUpdate": {
+      "message": "Auto-update is disabled for this script!\nClick OK to update it anyway."
+   },
+   "confirmNotSaved": {
+      "message": "Измене нису сачуване!\nКликните на ОК да бисте их одбацили или на откажи за наставак."
+   },
+   "descBlacklist": {
+      "message": "Адресе које се подударају у овом списку неће убацити скрипта"
+   },
+   "descCustomCSS": {
+      "message": "Прилагођени CSS за страницу подешавања и страница за инсталирање скрипти. Ако нисте сигурни чему служи, молимо не уређујте."
+   },
+   "descEditorOptions": {
+      "message": "Custom options for CodeMirror and addons in JSON object like \u003Ccode>{\"indentUnit\":2, \"smartIndent\":true}\u003C/code> however note that some of them may not work in Violentmonkey. See \u003Ca href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">full list\u003C/a>."
+   },
+   "editHelpDocumention": {
+      "message": "Documentation on userscript metadata block and \u003Ccode>GM\u003C/code> API:"
+   },
+   "editHelpKeyboard": {
+      "message": "Keyboard shortcuts:"
+   },
+   "editHowToHint": {
+      "message": "Use another editor?"
+   },
+   "editLabelMeta": {
+      "message": "Прилагођени метаподаци"
+   },
+   "editLabelSettings": {
+      "message": "Подешавања скрипти"
+   },
+   "editLongLine": {
+      "message": "Line is too long"
+   },
+   "editLongLineTooltip": {
+      "message": "This line is too long so its text is collapsed to avoid delays when editing.\nYou can adjust the limit in advanced settings, for example:\n\"maxDisplayLength\": 20000"
+   },
+   "editNavCode": {
+      "message": "Код"
+   },
+   "editNavSettings": {
+      "message": "Подешавања"
+   },
+   "editNavValues": {
+      "message": "Values"
+   },
+   "editValueAllHint": {
+      "message": "Show/edit the entire script value storage"
+   },
+   "extDescription": {
+      "message": "An open source userscript manager that supports a lot of browsers"
+   },
+   "extName": {
+      "message": "Violentmonkey"
+   },
+   "failureReasonBlacklisted": {
+      "message": "Blacklisted in Violentmonkey's settings"
+   },
+   "failureReasonNoninjectable": {
+      "message": "Violentmonkey cannot run userscripts in this page\n(common examples: browser UI, an extension, blocked via policies, a search engine site in Opera)"
+   },
+   "fileInstallBlocked": {
+      "message": "There are several methods to install or track edits in a local file: \u003C1> Drag'n'drop the file into an open Violentmonkey page or popup, including this one. \u003C2> Install a local HTTP server for this file and open it via http://localhost. \u003C3> Enable \"Allow access to file URLs\" in details for Violentmonkey in chrome://extensions page. This is dangerous because any userscript may read any local file."
+   },
+   "filterAlphabeticalOrder": {
+      "message": "алфабету"
+   },
+   "filterExecutionOrder": {
+      "message": "реду извршења"
+   },
+   "filterLastUpdateOrder": {
+      "message": "last update time"
+   },
+   "filterScopeAll": {
+      "message": "All"
+   },
+   "filterScopeCode": {
+      "message": "Code"
+   },
+   "filterScopeName": {
+      "message": "Name"
+   },
+   "filterSize": {
+      "message": "size"
+   },
+   "genericError": {
+      "message": "Error"
+   },
+   "genericOff": {
+      "message": "off"
+   },
+   "genericOn": {
+      "message": "on"
+   },
+   "genericUseGlobal": {
+      "message": "use global setting"
+   },
+   "headerRecycleBin": {
+      "message": "Recycle Bin"
+   },
+   "helpForLocalFile": {
+      "message": "Show the instruction for drag'n'dropped local scripts"
+   },
+   "hintInputURL": {
+      "message": "Унесите адресу:"
+   },
+   "hintRecycleBin": {
+      "message": "Scripts removed are listed here and will be kept for 7 days."
+   },
+   "hintUseDownloadURL": {
+      "message": "Користи @downloadURL"
+   },
+   "hintVacuum": {
+      "message": "Одбаци вишак и поново учитај недостајуће податке у кеш."
+   },
+   "install": {
+      "message": "Install"
+   },
+   "installFrom": {
+      "message": "Инсталирај са $1"
+   },
+   "installOptionTrackTooltip": {
+      "message": "The source file tab should be kept open in Firefox 68 and newer."
+   },
+   "labelAdvanced": {
+      "message": "Advanced"
+   },
+   "labelAllowUpdate": {
+      "message": "Дозволи ажурирања"
+   },
+   "labelAuthor": {
+      "message": "Аутор:"
+   },
+   "labelAutoReloadCurrentTab": {
+      "message": "Поново учитај тренутну картицу након укључивања/искључивања скрипте из менија"
+   },
+   "labelAutoUpdate": {
+      "message": "Check for script updates every $1 day(s), use 0 to disable"
+   },
+   "labelBackup": {
+      "message": "Backup"
+   },
+   "labelBadge": {
+      "message": "Display on badge: "
+   },
+   "labelBadgeColors": {
+      "message": "Badge colors: "
+   },
+   "labelBadgeNone": {
+      "message": "none"
+   },
+   "labelBadgeTotal": {
+      "message": "number of running scripts"
+   },
+   "labelBadgeUnique": {
+      "message": "number of unique running scripts"
+   },
+   "labelBlacklist": {
+      "message": "Црна листа"
+   },
+   "labelContributors": {
+      "message": "Contributors"
+   },
+   "labelCurrentLang": {
+      "message": "Тренутни језик:"
+   },
+   "labelCustomCSS": {
+      "message": "Прилагођени стил"
+   },
+   "labelDownloadURL": {
+      "message": "Адреса преузимања:"
+   },
+   "labelEditValue": {
+      "message": "Editing script value"
+   },
+   "labelEditValueAll": {
+      "message": "Editing script storage"
+   },
+   "labelEditor": {
+      "message": "Editor"
+   },
+   "labelEnabledScriptsOnly": {
+      "message": "enabled scripts only"
+   },
+   "labelExclude": {
+      "message": "Правила изузимања"
+   },
+   "labelExcludeMatch": {
+      "message": "@правила изузимања"
+   },
+   "labelExportScriptData": {
+      "message": "Извези податке скрипти"
+   },
+   "labelExposeStatus": {
+      "message": "Expose installed version on userscript catalog sites: $1"
+   },
+   "labelFastFirefoxInject": {
+      "message": "Alternative $1 mode in Firefox"
+   },
+   "labelFastFirefoxInjectHint": {
+      "message": "An alternative injection method for \u003Cdocument-start> scripts since Firefox 59, faster than the default mode. Similarly to \"Synchronous page mode\" it also increases memory consumption, so you may want to disable it if your scripts work correctly without this option."
+   },
+   "labelFeedback": {
+      "message": "Повратне информације"
+   },
+   "labelFilterSort": {
+      "message": "Сортирај по $1"
+   },
+   "labelGeneral": {
+      "message": "Опште"
+   },
+   "labelHelpTranslate": {
+      "message": "Help with translation"
+   },
+   "labelHomepage": {
+      "message": "Homepage"
+   },
+   "labelHomepageURL": {
+      "message": "Адреса почетне странице:"
+   },
+   "labelImportScriptData": {
+      "message": "Import script data"
+   },
+   "labelImportSettings": {
+      "message": "Увези подешавања"
+   },
+   "labelInclude": {
+      "message": "Правила обухватања"
+   },
+   "labelInjectionMode": {
+      "message": "Injection mode: "
+   },
+   "labelInstall": {
+      "message": "Инсталирање скрипте"
+   },
+   "labelKeepOriginal": {
+      "message": "Задржи оригинал"
+   },
+   "labelLastUpdatedAt": {
+      "message": "Last updated at $1"
+   },
+   "labelLineNumber": {
+      "message": "Број линије:"
+   },
+   "labelMatch": {
+      "message": "Правила подударања"
+   },
+   "labelName": {
+      "message": "Име"
+   },
+   "labelNoFrames": {
+      "message": "Run in frames: "
+   },
+   "labelNoName": {
+      "message": "Без имена"
+   },
+   "labelNoSearchScripts": {
+      "message": "Нема пронађених скрипти."
+   },
+   "labelNotifyThisUpdated": {
+      "message": ", then notify:"
+   },
+   "labelNotifyUpdates": {
+      "message": "Обавести о ажурирањима скрипти"
+   },
+   "labelNotifyUpdatesGlobal": {
+      "message": "ignore per-script notification (\"settings\" tab in editor)"
+   },
+   "labelPopupSort": {
+      "message": "Sort scripts in popup by $1"
+   },
+   "labelPrivacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "labelReinstall": {
+      "message": "Re-installing script"
+   },
+   "labelRelated": {
+      "message": "Сродне везе"
+   },
+   "labelRemovedAt": {
+      "message": "Removed at $1"
+   },
+   "labelReplace": {
+      "message": "Замени са: "
+   },
+   "labelRunAt": {
+      "message": "Покрени: "
+   },
+   "labelRunAtDefault": {
+      "message": "(Подразумевано)"
+   },
+   "labelScriptTemplate": {
+      "message": "Custom Script Template"
+   },
+   "labelSearch": {
+      "message": "Тражи:"
+   },
+   "labelSearchScript": {
+      "message": "Претрага скрипти..."
+   },
+   "labelSettings": {
+      "message": "Подешавања"
+   },
+   "labelShowOrder": {
+      "message": "Show execution order positions"
+   },
+   "labelSync": {
+      "message": "Синхронизација"
+   },
+   "labelSyncAnonymous": {
+      "message": "Use anonymous account"
+   },
+   "labelSyncAuthorize": {
+      "message": "Одобри"
+   },
+   "labelSyncAuthorizing": {
+      "message": "Одобравање"
+   },
+   "labelSyncDisabled": {
+      "message": "Ниједна"
+   },
+   "labelSyncPassword": {
+      "message": "Password: "
+   },
+   "labelSyncRevoke": {
+      "message": "Опозови"
+   },
+   "labelSyncScriptStatus": {
+      "message": "Статус синхронизовања скрипти"
+   },
+   "labelSyncServerUrl": {
+      "message": "Server URL: "
+   },
+   "labelSyncService": {
+      "message": "Синхронизуј са"
+   },
+   "labelSyncUsername": {
+      "message": "Username: "
+   },
+   "labelTheme": {
+      "message": "Theme: "
+   },
+   "labelUpdateURL": {
+      "message": "Адреса ажурирања:"
+   },
+   "labelViewSingleColumn": {
+      "message": "Single column"
+   },
+   "labelViewTable": {
+      "message": "Table view"
+   },
+   "labelXhrInject": {
+      "message": "Synchronous $1 mode"
+   },
+   "labelXhrInjectHint": {
+      "message": "Enable only if you have a script that needs to run before the page starts loading and currently it's running too late. Just like Instant injection mode in Tampermonkey, this option is using the deprecated synchronous XHR, so in Chrome/Chromium you'll see warnings in devtools console, although you can safely ignore them as the adverse affects are negligible in this case. You can hide the warnings for good by right-clicking one."
+   },
+   "labelXhrInjectNote": {
+      "message": "(except incognito and sites with disabled cookies)"
+   },
+   "lastSync": {
+      "message": "Последња синхронизација: $1"
+   },
+   "learnBlacklist": {
+      "message": "Сазнајте више о обрасцима за црну листу"
+   },
+   "learnInjectionMode": {
+      "message": "Learn more about injection modes."
+   },
+   "menuDashboard": {
+      "message": "Отвори контролну таблу"
+   },
+   "menuExclude": {
+      "message": "Exclude..."
+   },
+   "menuExcludeHint": {
+      "message": "The current tab will auto-reload if you enabled this option in general settings.\nTo apply changes to all other tabs please reload them manually.\nUse \"Settings\" tab of the editor for more flexibility."
+   },
+   "menuFeedback": {
+      "message": "Feedback"
+   },
+   "menuFindScripts": {
+      "message": "Пронађи скрипте за овај сајт"
+   },
+   "menuInjectionFailed": {
+      "message": "Could not inject some scripts."
+   },
+   "menuInjectionFailedFix": {
+      "message": "Retry in \"auto\" mode"
+   },
+   "menuMatchedDisabledScripts": {
+      "message": "Matched disabled scripts"
+   },
+   "menuMatchedFrameScripts": {
+      "message": "Sub-frames only scripts"
+   },
+   "menuMatchedScripts": {
+      "message": "Скрипте које се подударају"
+   },
+   "menuNewScript": {
+      "message": "Create a new script"
+   },
+   "menuScriptDisabled": {
+      "message": "Скрипта је онемогућена"
+   },
+   "menuScriptEnabled": {
+      "message": "Скрипта је омогућена"
+   },
+   "msgCheckingForUpdate": {
+      "message": "Провера ажурирања..."
+   },
+   "msgDateFormatInfo": {
+      "message": "Click to open MomentJS documentation. Allowed tokens: $1. Use [square brackets] to protect literal text."
+   },
+   "msgErrorFetchingResource": {
+      "message": "Error fetching resource!"
+   },
+   "msgErrorFetchingScript": {
+      "message": "Грешка при преузимању скрипте!"
+   },
+   "msgErrorFetchingUpdateInfo": {
+      "message": "Грешка приликом преузимања информација о ажурирању."
+   },
+   "msgErrorLoadingData": {
+      "message": "Грешка приликом учитавања скрипте."
+   },
+   "msgErrorLoadingDependency": {
+      "message": "Грешка приликом учитавања захтева."
+   },
+   "msgImported": {
+      "message": "Увезено: $1 ставка/е/и"
+   },
+   "msgIncognitoChanges": {
+      "message": "Changes you make in the incognito mode also apply to your main profile."
+   },
+   "msgInstalled": {
+      "message": "Скрипта је инсталирана."
+   },
+   "msgInvalidScript": {
+      "message": "Неважећа скрипта!"
+   },
+   "msgLoadingData": {
+      "message": "Учитавање скрипте..."
+   },
+   "msgLoadingDependency": {
+      "message": "Учитавање захтева... ($1/$2)"
+   },
+   "msgMissingResources": {
+      "message": "Missing required resources."
+   },
+   "msgNamespaceConflict": {
+      "message": "Неусаглашеност имена скрипти! Измените @name и @namespace."
+   },
+   "msgNamespaceConflictRestore": {
+      "message": "A script with the same @name and @namespace is already installed."
+   },
+   "msgNewVersion": {
+      "message": "Нова верзија је пронађена."
+   },
+   "msgNoUpdate": {
+      "message": "Нема пронађених ажурирања."
+   },
+   "msgOpenUpdateErrors": {
+      "message": "Error updating scripts. Click to open them."
+   },
+   "msgReinstallScripts": {
+      "message": "Please re-save or reinstall these script(s):"
+   },
+   "msgSameCode": {
+      "message": " (code is the same)"
+   },
+   "msgScriptUpdated": {
+      "message": "Скрипта [$1] је ажурирана."
+   },
+   "msgShowHide": {
+      "message": "Show/hide"
+   },
+   "msgSyncError": {
+      "message": "Грешка при синхронизацији"
+   },
+   "msgSyncInit": {
+      "message": "Покретање..."
+   },
+   "msgSyncInitError": {
+      "message": "Грешка при покретању!"
+   },
+   "msgSyncNoAuthYet": {
+      "message": "Not authorized yet."
+   },
+   "msgSyncReady": {
+      "message": "Синхронизација ће ускоро почети..."
+   },
+   "msgSyncing": {
+      "message": "Синхронизовање..."
+   },
+   "msgSyntaxError": {
+      "message": "Syntax error?"
+   },
+   "msgUpdated": {
+      "message": "Скрипта је ажурирана."
+   },
+   "msgUpdating": {
+      "message": "Ажурирање..."
+   },
+   "noValues": {
+      "message": "No value is stored"
+   },
+   "optionEditorWindow": {
+      "message": "Open editor from popup in a new window"
+   },
+   "optionEditorWindowHint": {
+      "message": "Editor window position will be remembered only on resizing or saving"
+   },
+   "optionEditorWindowSimple": {
+      "message": "Hide omnibox"
+   },
+   "optionPopup": {
+      "message": "Popup menu and icon"
+   },
+   "optionPopupEnabledFirst": {
+      "message": "Enabled first"
+   },
+   "optionPopupGroupDisabled": {
+      "message": "Group disabled scripts"
+   },
+   "optionPopupGroupRunAt": {
+      "message": "Group by @run-at stage"
+   },
+   "optionPopupHideDisabled": {
+      "message": "Hide disabled scripts"
+   },
+   "optionPopupShowDisabled": {
+      "message": "Show disabled scripts"
+   },
+   "optionShowEnabledFirst": {
+      "message": "Прикажи прво омогућене скрипте"
+   },
+   "optionUiTheme": {
+      "message": "UI theme: "
+   },
+   "optionUiThemeAuto": {
+      "message": "automatic"
+   },
+   "optionUiThemeDark": {
+      "message": "dark"
+   },
+   "optionUiThemeLight": {
+      "message": "light"
+   },
+   "optionUpdate": {
+      "message": "Ажурирај"
+   },
+   "readonly": {
+      "message": "Read-only"
+   },
+   "readonlyNote": {
+      "message": "Auto-updated script is read-only unless you disable updates or allow editing."
+   },
+   "readonlyOpt": {
+      "message": "Allow edits"
+   },
+   "readonlyOptWarn": {
+      "message": "(next update will overwrite them)"
+   },
+   "reinstall": {
+      "message": "Reinstall"
+   },
+   "reloadTab": {
+      "message": "Reload tab"
+   },
+   "reloadTabTrackHint": {
+      "message": "If enabled, the active tab will be reloaded when changes are detected and this script matches the tab's URL."
+   },
+   "searchCaseSensitive": {
+      "message": "Case sensitive"
+   },
+   "searchUseRegex": {
+      "message": "Use Regex"
+   },
+   "sideMenuAbout": {
+      "message": "Информације"
+   },
+   "sideMenuInstalled": {
+      "message": "Инсталиране скрипте"
+   },
+   "sideMenuSettings": {
+      "message": "Подешавања"
+   },
+   "skipScripts": {
+      "message": "Reload page without userscripts"
+   },
+   "skipScriptsMsg": {
+      "message": "You disabled userscripts for this page. To run them, reload or navigate the tab."
+   },
+   "stopTracking": {
+      "message": "Stop tracking"
+   },
+   "titleBadgeColor": {
+      "message": "Normal badge color"
+   },
+   "titleBadgeColorBlocked": {
+      "message": "Badge color when the site is non-injectable (blacklisted or unsupported)"
+   },
+   "titleSearchHint": {
+      "message": "* \u003CEnter> key adds the text to autocomplete history\n* RegExp syntax is supported: /re/ and /re/flags"
+   },
+   "trackEdits": {
+      "message": "Track external edits"
+   },
+   "trackEditsNote": {
+      "message": "Keep this page open to track your edits in local file"
+   },
+   "updateListedCmd": {
+      "message": "Update scripts ($1)"
+   },
+   "valueLabelKey": {
+      "message": "Key (string)"
+   },
+   "valueLabelValue": {
+      "message": "Value (serialized as JSON)"
+   },
+   "valueLabelValueAll": {
+      "message": "All values (serialized as JSON)"
+   }
+}

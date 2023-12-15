@@ -1,0 +1,722 @@
+{
+   "buttonApply": {
+      "message": "Apply"
+   },
+   "buttonCancel": {
+      "message": "キャンセル"
+   },
+   "buttonCheckForUpdates": {
+      "message": "更新を確認"
+   },
+   "buttonClose": {
+      "message": "閉じる"
+   },
+   "buttonDisable": {
+      "message": "無効化"
+   },
+   "buttonEdit": {
+      "message": "編集"
+   },
+   "buttonEditClickHint": {
+      "message": "スクリプト名を右クリック、 [Ctrl] キーを押しながらクリック、ホイールでクリックすることもできます。"
+   },
+   "buttonEmptyRecycleBin": {
+      "message": "今すぐゴミ箱を空にする"
+   },
+   "buttonEnable": {
+      "message": "有効化"
+   },
+   "buttonExportData": {
+      "message": "ZIPファイルにエクスポート"
+   },
+   "buttonHome": {
+      "message": "ホームページ"
+   },
+   "buttonImportData": {
+      "message": "ZIPファイルからインポート"
+   },
+   "buttonInstallFromURL": {
+      "message": "URLからインストール"
+   },
+   "buttonNew": {
+      "message": "新規作成"
+   },
+   "buttonOK": {
+      "message": "OK"
+   },
+   "buttonRecycleBin": {
+      "message": "ゴミ箱"
+   },
+   "buttonRemove": {
+      "message": "削除"
+   },
+   "buttonReplace": {
+      "message": "置換"
+   },
+   "buttonReplaceAll": {
+      "message": "すべて置換"
+   },
+   "buttonReset": {
+      "message": "リセット"
+   },
+   "buttonRestore": {
+      "message": "復元"
+   },
+   "buttonSave": {
+      "message": "保存"
+   },
+   "buttonSaveClose": {
+      "message": "保存して閉じる"
+   },
+   "buttonSaved": {
+      "message": "Saved"
+   },
+   "buttonShowEditorState": {
+      "message": "エディタの設定を表示"
+   },
+   "buttonSupport": {
+      "message": "サポートページ"
+   },
+   "buttonUndo": {
+      "message": "元に戻す"
+   },
+   "buttonUpdate": {
+      "message": "Update"
+   },
+   "buttonUpdateAll": {
+      "message": "すべての更新を確認"
+   },
+   "buttonVacuum": {
+      "message": "データベースの掃除"
+   },
+   "buttonVacuumed": {
+      "message": "データを掃除しました"
+   },
+   "buttonVacuuming": {
+      "message": "データを掃除中…"
+   },
+   "confirmManualUpdate": {
+      "message": "Auto-update is disabled for this script!\nClick OK to update it anyway."
+   },
+   "confirmNotSaved": {
+      "message": "変更内容が保存されていません!\n「OK」をクリックすると変更を破棄します。 (「キャンセル」でこのページに留まります。)"
+   },
+   "descBlacklist": {
+      "message": "リストのURLに一致するページでは、スクリプトを実行しません。"
+   },
+   "descCustomCSS": {
+      "message": "オプションページ、およびスクリプトのインストールページ用のカスタムCSSです。この項目が何であるか把握していない場合は、編集しないようお願いします。"
+   },
+   "descEditorOptions": {
+      "message": "CodeMirrorやアドオンのカスタムオプションとして、JSONオブジェクトを \u003Ccode>{\"indentUnit\":2, \"smartIndent\":true}\u003C/code> の様に指定します。 いくつかのオプションは Violentmonkey では動作しない可能性があります。 完全なリストは \u003Ca href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">こちら\u003C/a> を参照してください。"
+   },
+   "editHelpDocumention": {
+      "message": "ユーザースクリプトのメタデータブロックと \u003Ccode>GM\u003C/code> API に関するドキュメント:"
+   },
+   "editHelpKeyboard": {
+      "message": "キーボード ショートカット"
+   },
+   "editHowToHint": {
+      "message": "別のエディタを使用しますか？"
+   },
+   "editLabelMeta": {
+      "message": "カスタムメタデータ"
+   },
+   "editLabelSettings": {
+      "message": "スクリプト別の設定"
+   },
+   "editLongLine": {
+      "message": "行が長すぎます"
+   },
+   "editLongLineTooltip": {
+      "message": "この行は長すぎるため、編集時の遅延を避けるためにテキストが折りたたまれています。\n次のような詳細設定で制限を調整できます。\n\"maxDisplayLength\": 20000"
+   },
+   "editNavCode": {
+      "message": "コード"
+   },
+   "editNavSettings": {
+      "message": "設定"
+   },
+   "editNavValues": {
+      "message": "値"
+   },
+   "editValueAllHint": {
+      "message": "スクリプトの値の保存全体を表示／編集する"
+   },
+   "extDescription": {
+      "message": "多くのブラウザをサポートする、オープンソースの UserScript マネージャー"
+   },
+   "extName": {
+      "message": "Violentmonkey"
+   },
+   "failureReasonBlacklisted": {
+      "message": "設定によりブロックリストに登録されています"
+   },
+   "failureReasonNoninjectable": {
+      "message": "Violentmonkeyはこのページでユーザースクリプトを実行できません\n(一般的な例: ブラウザーUI、拡張機能、ポリシーによってブロックされている、検索サイト(Opera)など)"
+   },
+   "fileInstallBlocked": {
+      "message": "There are several methods to install or track edits in a local file: \u003C1> Drag'n'drop the file into an open Violentmonkey page or popup, including this one. \u003C2> Install a local HTTP server for this file and open it via http://localhost. \u003C3> Enable \"Allow access to file URLs\" in details for Violentmonkey in chrome://extensions page. This is dangerous because any userscript may read any local file."
+   },
+   "filterAlphabeticalOrder": {
+      "message": "アルファベット順"
+   },
+   "filterExecutionOrder": {
+      "message": "実行順"
+   },
+   "filterLastUpdateOrder": {
+      "message": "最終更新日順"
+   },
+   "filterScopeAll": {
+      "message": "すべて"
+   },
+   "filterScopeCode": {
+      "message": "コード"
+   },
+   "filterScopeName": {
+      "message": "名前"
+   },
+   "filterSize": {
+      "message": "size"
+   },
+   "genericError": {
+      "message": "エラー"
+   },
+   "genericOff": {
+      "message": "オフ"
+   },
+   "genericOn": {
+      "message": "オン"
+   },
+   "genericUseGlobal": {
+      "message": "グローバル設定を使用"
+   },
+   "headerRecycleBin": {
+      "message": "ゴミ箱"
+   },
+   "helpForLocalFile": {
+      "message": "Show the instruction for drag'n'dropped local scripts"
+   },
+   "hintInputURL": {
+      "message": "URLを入力してください。"
+   },
+   "hintRecycleBin": {
+      "message": "削除されたスクリプトはここに一覧表示され、7日間保持されます。"
+   },
+   "hintUseDownloadURL": {
+      "message": "@downloadURL を使用"
+   },
+   "hintVacuum": {
+      "message": "冗長なデータを破棄し、キャッシュから欠落しているリソースの再読み込みを試みます。"
+   },
+   "install": {
+      "message": "Install"
+   },
+   "installFrom": {
+      "message": "$1 からインストール"
+   },
+   "installOptionTrackTooltip": {
+      "message": "Firefox 68 以降では、ソースファイルタブを開いたままにしておく必要があります。"
+   },
+   "labelAdvanced": {
+      "message": "高度な設定"
+   },
+   "labelAllowUpdate": {
+      "message": "更新を許可"
+   },
+   "labelAuthor": {
+      "message": "作者: "
+   },
+   "labelAutoReloadCurrentTab": {
+      "message": "メニューからスクリプトの有効/無効を切り替えたときに表示中のタブを更新する"
+   },
+   "labelAutoUpdate": {
+      "message": "スクリプトの更新を $1 日ごとに確認 (0 を指定すると無効)"
+   },
+   "labelBackup": {
+      "message": "Backup"
+   },
+   "labelBadge": {
+      "message": "バッジの表示: "
+   },
+   "labelBadgeColors": {
+      "message": "バッジの色:"
+   },
+   "labelBadgeNone": {
+      "message": "何も表示しない"
+   },
+   "labelBadgeTotal": {
+      "message": "実行中のスクリプト数"
+   },
+   "labelBadgeUnique": {
+      "message": "一意な実行中のスクリプト数"
+   },
+   "labelBlacklist": {
+      "message": "ブロックリスト"
+   },
+   "labelContributors": {
+      "message": "貢献者"
+   },
+   "labelCurrentLang": {
+      "message": "現在の言語: "
+   },
+   "labelCustomCSS": {
+      "message": "カスタムスタイル"
+   },
+   "labelDownloadURL": {
+      "message": "更新を取得するURL:"
+   },
+   "labelEditValue": {
+      "message": "スクリプトの値を編集中"
+   },
+   "labelEditValueAll": {
+      "message": "スクリプトストレージの編集"
+   },
+   "labelEditor": {
+      "message": "エディタ"
+   },
+   "labelEnabledScriptsOnly": {
+      "message": "enabled scripts only"
+   },
+   "labelExclude": {
+      "message": "除外するページのURL (@exclude)"
+   },
+   "labelExcludeMatch": {
+      "message": "除外するページのURL (@exclude-match)"
+   },
+   "labelExportScriptData": {
+      "message": "スクリプトが保存したデータを含める"
+   },
+   "labelExposeStatus": {
+      "message": "ユーザスクリプトカタログサイトにインストールされているバージョンを公開する： $1"
+   },
+   "labelFastFirefoxInject": {
+      "message": "Alternative $1 mode in Firefox"
+   },
+   "labelFastFirefoxInjectHint": {
+      "message": "An alternative injection method for \u003Cdocument-start> scripts since Firefox 59, faster than the default mode. Similarly to \"Synchronous page mode\" it also increases memory consumption, so you may want to disable it if your scripts work correctly without this option."
+   },
+   "labelFeedback": {
+      "message": "フィードバック"
+   },
+   "labelFilterSort": {
+      "message": "$1 で並べ替え"
+   },
+   "labelGeneral": {
+      "message": "基本設定"
+   },
+   "labelHelpTranslate": {
+      "message": "翻訳のヘルプ"
+   },
+   "labelHomepage": {
+      "message": "ホームページ"
+   },
+   "labelHomepageURL": {
+      "message": "ホームページのURL:"
+   },
+   "labelImportScriptData": {
+      "message": "スクリプトデータのインポート"
+   },
+   "labelImportSettings": {
+      "message": "Violentmonkey の設定もインポートする"
+   },
+   "labelInclude": {
+      "message": "実行するページのURL (@include)"
+   },
+   "labelInjectionMode": {
+      "message": "インジェクションモード: "
+   },
+   "labelInstall": {
+      "message": "スクリプトのインストール"
+   },
+   "labelKeepOriginal": {
+      "message": "元のルールに追記"
+   },
+   "labelLastUpdatedAt": {
+      "message": "最終更新日 $1"
+   },
+   "labelLineNumber": {
+      "message": "指定行へ移動: "
+   },
+   "labelMatch": {
+      "message": "実行するページのURL (@match)"
+   },
+   "labelName": {
+      "message": "スクリプト名:"
+   },
+   "labelNoFrames": {
+      "message": "Run in frames: "
+   },
+   "labelNoName": {
+      "message": "名前なし"
+   },
+   "labelNoSearchScripts": {
+      "message": "スクリプトは見つかりませんでした。"
+   },
+   "labelNotifyThisUpdated": {
+      "message": ", 更新時に通知:"
+   },
+   "labelNotifyUpdates": {
+      "message": "スクリプトの更新を通知する"
+   },
+   "labelNotifyUpdatesGlobal": {
+      "message": "スクリプトごとの通知を無視する (エディタの \"設定\" タブ内)"
+   },
+   "labelPopupSort": {
+      "message": "ポップアップ内のスクリプトを $1 で並べ替え"
+   },
+   "labelPrivacyPolicy": {
+      "message": "プライバシーポリシー"
+   },
+   "labelReinstall": {
+      "message": "スクリプトの再インストール"
+   },
+   "labelRelated": {
+      "message": "関連リンク: "
+   },
+   "labelRemovedAt": {
+      "message": "$1 に削除されました"
+   },
+   "labelReplace": {
+      "message": "置換後の文字列: "
+   },
+   "labelRunAt": {
+      "message": "実行タイミング:"
+   },
+   "labelRunAtDefault": {
+      "message": "(変更しない)"
+   },
+   "labelScriptTemplate": {
+      "message": "カスタムスクリプト (テンプレート)"
+   },
+   "labelSearch": {
+      "message": "検索する文字列: "
+   },
+   "labelSearchScript": {
+      "message": "スクリプトを検索…"
+   },
+   "labelSettings": {
+      "message": "設定"
+   },
+   "labelShowOrder": {
+      "message": "実行順で表示する"
+   },
+   "labelSync": {
+      "message": "同期"
+   },
+   "labelSyncAnonymous": {
+      "message": "匿名アカウントを使用"
+   },
+   "labelSyncAuthorize": {
+      "message": "アクセス許可"
+   },
+   "labelSyncAuthorizing": {
+      "message": "確認中"
+   },
+   "labelSyncDisabled": {
+      "message": "なし"
+   },
+   "labelSyncPassword": {
+      "message": "パスワード: "
+   },
+   "labelSyncRevoke": {
+      "message": "取り消し"
+   },
+   "labelSyncScriptStatus": {
+      "message": "スクリプトのステータスも同期する"
+   },
+   "labelSyncServerUrl": {
+      "message": "サーバURL: "
+   },
+   "labelSyncService": {
+      "message": "同期に利用するサービス:"
+   },
+   "labelSyncUsername": {
+      "message": "ユーザ名: "
+   },
+   "labelTheme": {
+      "message": "Theme: "
+   },
+   "labelUpdateURL": {
+      "message": "更新を確認するURL:"
+   },
+   "labelViewSingleColumn": {
+      "message": "単一列"
+   },
+   "labelViewTable": {
+      "message": "表形式"
+   },
+   "labelXhrInject": {
+      "message": "Synchronous $1 mode"
+   },
+   "labelXhrInjectHint": {
+      "message": "Enable only if you have a script that needs to run before the page starts loading and currently it's running too late. Just like Instant injection mode in Tampermonkey, this option is using the deprecated synchronous XHR, so in Chrome/Chromium you'll see warnings in devtools console, although you can safely ignore them as the adverse affects are negligible in this case. You can hide the warnings for good by right-clicking one."
+   },
+   "labelXhrInjectNote": {
+      "message": "(except incognito and sites with disabled cookies)"
+   },
+   "lastSync": {
+      "message": "$1 に同期"
+   },
+   "learnBlacklist": {
+      "message": "パターンの詳細"
+   },
+   "learnInjectionMode": {
+      "message": "インジェクションモードについての詳細"
+   },
+   "menuDashboard": {
+      "message": "ダッシュボードを開く"
+   },
+   "menuExclude": {
+      "message": "除外…"
+   },
+   "menuExcludeHint": {
+      "message": " 一般設定でこのオプションを有効にすると、現在のタブが自動再ロードされます。\n他のすべてのタブに変更を適用するには、手動で再ロードしてください。\n柔軟性を高めるには、エディタの「設定」タブを使用します。"
+   },
+   "menuFeedback": {
+      "message": "Feedback"
+   },
+   "menuFindScripts": {
+      "message": "表示しているサイト用のスクリプトを探す"
+   },
+   "menuInjectionFailed": {
+      "message": "一部のスクリプトを注入できませんでした。"
+   },
+   "menuInjectionFailedFix": {
+      "message": "「自動」モードで再試行してください"
+   },
+   "menuMatchedDisabledScripts": {
+      "message": "Matched disabled scripts"
+   },
+   "menuMatchedFrameScripts": {
+      "message": "Sub-frames only scripts"
+   },
+   "menuMatchedScripts": {
+      "message": "このページで実行されるスクリプト"
+   },
+   "menuNewScript": {
+      "message": "新しいスクリプトを作成"
+   },
+   "menuScriptDisabled": {
+      "message": "スクリプトは無効"
+   },
+   "menuScriptEnabled": {
+      "message": "スクリプトは有効"
+   },
+   "msgCheckingForUpdate": {
+      "message": "更新を確認中…"
+   },
+   "msgDateFormatInfo": {
+      "message": "Click to open MomentJS documentation. Allowed tokens: $1. Use [square brackets] to protect literal text."
+   },
+   "msgErrorFetchingResource": {
+      "message": "リソースの取得中にエラーが発生しました"
+   },
+   "msgErrorFetchingScript": {
+      "message": "スクリプトの取得中にエラーが発生しました!"
+   },
+   "msgErrorFetchingUpdateInfo": {
+      "message": "更新情報の取得に失敗しました。"
+   },
+   "msgErrorLoadingData": {
+      "message": "スクリプトの取得に失敗しました。"
+   },
+   "msgErrorLoadingDependency": {
+      "message": "依存ライブラリの取得中にエラーが発生しました。"
+   },
+   "msgImported": {
+      "message": "$1個のスクリプトをインポートしました。"
+   },
+   "msgIncognitoChanges": {
+      "message": "シークレットモードで行った変更は、メインプロファイルにも適用されます。"
+   },
+   "msgInstalled": {
+      "message": "スクリプトがインストールされました。"
+   },
+   "msgInvalidScript": {
+      "message": "無効なスクリプトです!"
+   },
+   "msgLoadingData": {
+      "message": "スクリプトの取得中…"
+   },
+   "msgLoadingDependency": {
+      "message": "依存ライブラリを取得中… ($1/$2)"
+   },
+   "msgMissingResources": {
+      "message": "Missing required resources."
+   },
+   "msgNamespaceConflict": {
+      "message": "スクリプトの名前空間が衝突しています! @name か @namespace を変更してください。"
+   },
+   "msgNamespaceConflictRestore": {
+      "message": "A script with the same @name and @namespace is already installed."
+   },
+   "msgNewVersion": {
+      "message": "新しいバージョンが見つかりました。"
+   },
+   "msgNoUpdate": {
+      "message": "更新は見つかりませんでした。"
+   },
+   "msgOpenUpdateErrors": {
+      "message": "Error updating scripts. Click to open them."
+   },
+   "msgReinstallScripts": {
+      "message": "Please re-save or reinstall these script(s):"
+   },
+   "msgSameCode": {
+      "message": "(変更なし)"
+   },
+   "msgScriptUpdated": {
+      "message": "スクリプト「$1」が更新されました!"
+   },
+   "msgShowHide": {
+      "message": "表示/非表示"
+   },
+   "msgSyncError": {
+      "message": "同期エラー!"
+   },
+   "msgSyncInit": {
+      "message": "初期化中…"
+   },
+   "msgSyncInitError": {
+      "message": "初期化エラー!"
+   },
+   "msgSyncNoAuthYet": {
+      "message": "Not authorized yet."
+   },
+   "msgSyncReady": {
+      "message": "同期を開始中…"
+   },
+   "msgSyncing": {
+      "message": "同期中…"
+   },
+   "msgSyntaxError": {
+      "message": "Syntax error?"
+   },
+   "msgUpdated": {
+      "message": "スクリプトが更新されました。"
+   },
+   "msgUpdating": {
+      "message": "更新中…"
+   },
+   "noValues": {
+      "message": "値は保存されていません"
+   },
+   "optionEditorWindow": {
+      "message": "新しいウィンドウのポップアップからエディターを開く"
+   },
+   "optionEditorWindowHint": {
+      "message": "エディタウィンドウの位置は、サイズ変更または保存時にのみ記憶されます"
+   },
+   "optionEditorWindowSimple": {
+      "message": "オムニボックスを表示しない"
+   },
+   "optionPopup": {
+      "message": "Popup menu and icon"
+   },
+   "optionPopupEnabledFirst": {
+      "message": "有効なものを先頭に表示"
+   },
+   "optionPopupGroupDisabled": {
+      "message": "Group disabled scripts"
+   },
+   "optionPopupGroupRunAt": {
+      "message": "Group by @run-at stage"
+   },
+   "optionPopupHideDisabled": {
+      "message": "無効なものを非表示"
+   },
+   "optionPopupShowDisabled": {
+      "message": "Show disabled scripts"
+   },
+   "optionShowEnabledFirst": {
+      "message": "有効なスクリプトを先頭に表示"
+   },
+   "optionUiTheme": {
+      "message": "UI theme: "
+   },
+   "optionUiThemeAuto": {
+      "message": "automatic"
+   },
+   "optionUiThemeDark": {
+      "message": "dark"
+   },
+   "optionUiThemeLight": {
+      "message": "light"
+   },
+   "optionUpdate": {
+      "message": "更新"
+   },
+   "readonly": {
+      "message": "Read-only"
+   },
+   "readonlyNote": {
+      "message": "Auto-updated script is read-only unless you disable updates or allow editing."
+   },
+   "readonlyOpt": {
+      "message": "Allow edits"
+   },
+   "readonlyOptWarn": {
+      "message": "(next update will overwrite them)"
+   },
+   "reinstall": {
+      "message": "Reinstall"
+   },
+   "reloadTab": {
+      "message": "Reload tab"
+   },
+   "reloadTabTrackHint": {
+      "message": "If enabled, the active tab will be reloaded when changes are detected and this script matches the tab's URL."
+   },
+   "searchCaseSensitive": {
+      "message": "大文字と小文字を区別する"
+   },
+   "searchUseRegex": {
+      "message": "正規表現を使用する"
+   },
+   "sideMenuAbout": {
+      "message": "Violentmonkey について"
+   },
+   "sideMenuInstalled": {
+      "message": "インストール済み"
+   },
+   "sideMenuSettings": {
+      "message": "設定"
+   },
+   "skipScripts": {
+      "message": "Reload page without userscripts"
+   },
+   "skipScriptsMsg": {
+      "message": "You disabled userscripts for this page. To run them, reload or navigate the tab."
+   },
+   "stopTracking": {
+      "message": "Stop tracking"
+   },
+   "titleBadgeColor": {
+      "message": "通常のバッジの色"
+   },
+   "titleBadgeColorBlocked": {
+      "message": "ブラックリストに登録されている、サポートされていない等の理由でサイトにインジェクションできない場合のバッジの色"
+   },
+   "titleSearchHint": {
+      "message": "* \u003CEnter> キーでオートコンプリートの履歴にテキストを追加します。\n* サポートしている正規表現の構文: /パターン/ 及び /パターン/フラグ"
+   },
+   "trackEdits": {
+      "message": "Track external edits"
+   },
+   "trackEditsNote": {
+      "message": "Keep this page open to track your edits in local file"
+   },
+   "updateListedCmd": {
+      "message": "Update scripts ($1)"
+   },
+   "valueLabelKey": {
+      "message": "キー (文字列)"
+   },
+   "valueLabelValue": {
+      "message": "値 (JSONとしてシリアル化した)"
+   },
+   "valueLabelValueAll": {
+      "message": "すべての値 (JSONとしてシリアル化した)"
+   }
+}

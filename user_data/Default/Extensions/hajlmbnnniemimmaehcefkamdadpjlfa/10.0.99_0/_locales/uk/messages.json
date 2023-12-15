@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Безпечна пошукова система"
+   },
+   "about": {
+      "message": "Про Google Chrome"
+   },
+   "about_us": {
+      "message": "Про нас"
+   },
+   "account_expired": {
+      "message": "Тестування вашого облікового запису закінчився, увійдіть знову"
+   },
+   "account_setting": {
+      "message": "Налаштування облікового запису"
+   },
+   "add": {
+      "message": "Додати"
+   },
+   "add_city": {
+      "message": "Додати місто"
+   },
+   "add_first_note": {
+      "message": "Створіть першу нотатку"
+   },
+   "add_icon_success": {
+      "message": "успішно доданий"
+   },
+   "add_link": {
+      "message": "Додати посилання"
+   },
+   "add_new_search_engine": {
+      "message": "Додайте нову пошукову систему"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Нова бібліотека шпалер"
+   },
+   "add_search_engine": {
+      "message": "Додати пошукову систему"
+   },
+   "add_success": {
+      "message": "Додано."
+   },
+   "add_to_home_site": {
+      "message": "Додати на домашню сторінку"
+   },
+   "add_to_infinity": {
+      "message": "Додати до сторінки New Tab Page"
+   },
+   "additional_search_engine": {
+      "message": "Додана пошукова система"
+   },
+   "air_pressure": {
+      "message": "Тиск"
+   },
+   "all_wallpaper_sources": {
+      "message": "Всі шпалери"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Всі джерела шпалер"
+   },
+   "ambiguity": {
+      "message": "Розмиття"
+   },
+   "animals": {
+      "message": "Тварини"
+   },
+   "animation": {
+      "message": "Анімація"
+   },
+   "animation_tips": {
+      "message": "Початкова анімація може вплинути на гладкість"
+   },
+   "anime": {
+      "message": "Комікси"
+   },
+   "any_money": {
+      "message": "Довільне"
+   },
+   "app": {
+      "message": "Програма"
+   },
+   "app_disabled_enable_first": {
+      "message": "Ви відключили цю програму. Дозволити нескінченність, щоб увімкнути цю програму першим?"
+   },
+   "application": {
+      "message": "Додаток"
+   },
+   "apply": {
+      "message": "Застосувати"
+   },
+   "architecture": {
+      "message": "Архітектура"
+   },
+   "athletics": {
+      "message": "Спорт"
+   },
+   "avatar": {
+      "message": "Виберіть Аватар"
+   },
+   "backing_up": {
+      "message": "Триває резервне копіювання…"
+   },
+   "backup_and_recovery": {
+      "message": "Резервне копіювання та відновлення"
+   },
+   "backup_failed": {
+      "message": "Резервне копіювання не вдалося"
+   },
+   "backup_now": {
+      "message": "Створити резервну копію"
+   },
+   "backup_successful": {
+      "message": "успішне BackUp"
+   },
+   "backup_tips": {
+      "message": "Ми зберігаємо максимум 3 ручні резервні вузли та 3 автоматичні резервні вузли для вас"
+   },
+   "backup_with_device": {
+      "message": "Синхронізувати з іншими пристроями"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Зосередьтеся на збір вільної та високоякісної фотографії без галереї"
+   },
+   "basic_info": {
+      "message": "Загальна інформація"
+   },
+   "bg_color": {
+      "message": "Колір фону"
+   },
+   "bg_updating": {
+      "message": "У модернізації, будь ласка, зачекайте ..."
+   },
+   "bind": {
+      "message": "Зв’язати"
+   },
+   "bind_success": {
+      "message": "Пов’язування успішно виконано"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing - це пошукова система, розроблена Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Щоденна бібліотека шпалер Bing"
+   },
+   "bookmarks": {
+      "message": "Закладки"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ не підтримує цю функцію",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "cancel_login": {
+      "message": "Скасувати вхід"
+   },
+   "cancel_remind_time": {
+      "message": "Скасувати час нагадування"
+   },
+   "cancel_set_top": {
+      "message": "Зняти закріплення"
+   },
+   "cannot_change_password": {
+      "message": "Ви не можете змінити пароль, якщо входити з стороннім рахунком"
+   },
+   "cannot_change_profile": {
+      "message": "Сторонні користувачі, які входять в систему, не можуть змінювати інформацію профілю"
+   },
+   "cannot_download": {
+      "message": "Завантаження файлів не підтримується"
+   },
+   "cannot_empty": {
+      "message": "Не може бути пустим"
+   },
+   "celsius": {
+      "message": "Шкала Цельсія"
+   },
+   "change_remind_time": {
+      "message": "Змінити час нагадування"
+   },
+   "change_wallpaper": {
+      "message": "Змінити шпалери"
+   },
+   "check_olddata_desc": {
+      "message": "Виявлено, що існує стара версія застарілих даних, які можуть бути оновлені. Якщо вам потрібно, щоб ви спробуєте оновити ці дані"
+   },
+   "choose_sync_type": {
+      "message": "Виберіть дані облікового запису"
+   },
+   "chose_from_mypc": {
+      "message": "Створіть свою бібліотеку шпалер"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "Додатки $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Веб-магазин Chrome - розширення"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Введіть chrome://settings/appearance у адресному рядку та введіть сторінку налаштувань."
+   },
+   "chrome_browser_guide2": {
+      "message": "Спускайся до нижньої частини та виберіть опцію, вказану стрілкою на малюнку."
+   },
+   "chrome_browser_guide3": {
+      "message": "Введіть URL-адресу https://inftab.com у спливаючому вікні, а потім натисніть кнопку Додати, щоб завершити налаштування домашньої сторінки."
+   },
+   "clear_historys": {
+      "message": "Очистити історію"
+   },
+   "col_gap": {
+      "message": "Інтервал між стовпцями"
+   },
+   "col_num": {
+      "message": "Рядки"
+   },
+   "color": {
+      "message": "Колір"
+   },
+   "color_icon": {
+      "message": "Твердий значок кольору"
+   },
+   "come_from": {
+      "message": "Від користувача"
+   },
+   "comming_soon": {
+      "message": "Незабаром"
+   },
+   "comming_soon_title": {
+      "message": "Мобільна версія Infinity на шляху"
+   },
+   "confirm": {
+      "message": "ОК"
+   },
+   "confirm_clear_all_history": {
+      "message": "Ви впевнені, що хочете очистити всі історії?"
+   },
+   "confirm_cover_remote": {
+      "message": "Локальні дані будуть збережені до ручного резервного вузла"
+   },
+   "confirm_del_folder": {
+      "message": "Ви впевнені, що хочете видалити цю папку?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Ви впевнені, що хочете видалити завершені елементи?"
+   },
+   "confirm_delete_note": {
+      "message": "Підтвердити видалення примітки?"
+   },
+   "confirm_logout": {
+      "message": "Вийти"
+   },
+   "confirm_password": {
+      "message": "Підтвердити новий пароль"
+   },
+   "confirm_password_2": {
+      "message": "Підтвердьте пароль"
+   },
+   "confirm_recovery_data": {
+      "message": "Хмара даних замінять локальні дані. Ви впевнені в цій дії?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Ви впевнені, що хочете видалити цю бібліотеку шпалер?"
+   },
+   "confirm_unbind": {
+      "message": "Відключити цей аккаунт?"
+   },
+   "confirm_unbind_email": {
+      "message": "Ви впевнені, що хочете розв'язати вашу електронну пошту $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Ви впевнені, що хочете розв'язати свій номер телефону $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Контактний інженер"
+   },
+   "contact_us": {
+      "message": "Зв'язок із нами"
+   },
+   "copy": {
+      "message": "Копіювати"
+   },
+   "cubic_bezier": {
+      "message": "Відбивати"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Фото профілю"
+   },
+   "current_browser_not_support": {
+      "message": "Поточний браузер не підтримує управління розширенням"
+   },
+   "current_no_reminders": {
+      "message": "Немає елементів списку завдань"
+   },
+   "current_node": {
+      "message": "Поточний вузол"
+   },
+   "custom": {
+      "message": "Налаштувати"
+   },
+   "custom_icon": {
+      "message": "Налаштувати значок"
+   },
+   "custom_layout": {
+      "message": "Налаштування макета"
+   },
+   "custom_site": {
+      "message": "Користувацький веб-сайт"
+   },
+   "default": {
+      "message": "За умовчанням"
+   },
+   "del_folder": {
+      "message": "Видалити"
+   },
+   "delete_all_bookmarks": {
+      "message": "Видалити всі закладки під цією папкою"
+   },
+   "disable_chrome_app": {
+      "message": "Вимкнути програму"
+   },
+   "disable_extension": {
+      "message": "Вимкнути розширення"
+   },
+   "do_later": {
+      "message": "Поговоріть про це пізніше"
+   },
+   "done": {
+      "message": "Готово"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Завантажити CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Завантажте поточні шпалери"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Duckduckgo зосереджує увагу на вмісті імпорту з основних веб-сайтів 2.0, крім того, що є традиційними пошуковими системами, філософія веб-сайту - це поважати конфіденційність користувачів, обіцяючи не контролювати або документувати вміст пошуку."
+   },
+   "ease_in": {
+      "message": "Поява"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Введіть edge://settings/onStartup у адресному рядку браузера, потім натисніть клавішу Enter."
+   },
+   "edge_browser_guide2": {
+      "message": "Натисніть опцію, що відповідає стрілці на малюнку."
+   },
+   "edge_browser_guide3": {
+      "message": "Введіть URL-адресу https://inftab.com у спливаючому вікні, а потім натисніть кнопку Додати, щоб завершити налаштування домашньої сторінки."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Редагувати"
+   },
+   "edit_avatar": {
+      "message": "Змінити аватар"
+   },
+   "edit_content": {
+      "message": "Редагувати вміст"
+   },
+   "edit_icon": {
+      "message": "Редагувати піктограму"
+   },
+   "education": {
+      "message": "Освіта та робочі місця"
+   },
+   "email": {
+      "message": "Електронна адреса"
+   },
+   "email_code": {
+      "message": "Код перевірки електронної пошти"
+   },
+   "email_format_error": {
+      "message": "Хибний формат електронної пошти"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Номер електронної пошти або мобільного телефону"
+   },
+   "empty": {
+      "message": "Порожній"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Підтвердьте видалення папки?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Підтвердьте, щоб видалити цю закладку?"
+   },
+   "ensure_logout": {
+      "message": "Впевнені, що хочете вийти?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "заповнити ваш список завдань, додати елементи натисканням Enter"
+   },
+   "enter_password_tips": {
+      "message": "Ввести парольну фразу"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Будь ласка, введіть вірний номер телефону"
+   },
+   "enter_verification_code_tips": {
+      "message": "Введіть код підтвердження"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Експортуйте дані резервного копіювання"
+   },
+   "export_local_data_desc": {
+      "message": "Експорт з поточних локальних даних"
+   },
+   "extension": {
+      "message": "Розширення"
+   },
+   "extension_app": {
+      "message": "Розширення"
+   },
+   "extension_des": {
+      "message": "Вільно додайте значки веб-сайту, насолоджуватися шпалерами з високим вмістом чіткості, а також швидко доступу до закладок, інформації про погоду, нотатки, списки, управлінню, управленням та історією на новій вкладці, обрана мільйонами користувачів."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP дозволяє налаштувати свою сторінку «Нова вкладка»"
+   },
+   "extension_des_firefox": {
+      "message": "Нова вкладка надає такі функції,як веб-іконки,пошукові системи,шпалери,погода,нотатки,закладки,to-dos,історія та розширене управління."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro дозволяє налаштувати свою сторінку «Нова вкладка»"
+   },
+   "extension_mananger": {
+      "message": "Керувати розширеннями"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Приєднайтеся до групи у Facebook"
+   },
+   "fahrenheit": {
+      "message": "Шкала Фаренгейта"
+   },
+   "feedback": {
+      "message": "Відгуки"
+   },
+   "female": {
+      "message": "Жіноча"
+   },
+   "filter": {
+      "message": "Фільтр"
+   },
+   "finance": {
+      "message": "фінанси"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Магазин Firefox"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Вхід about: preferences #home в адресному рядку, щоб увійти до сторінки налаштування."
+   },
+   "firefox_browser_guide2": {
+      "message": "Як показано стрілкою на малюнку, виберіть параметр користувацьких URL-адрес."
+   },
+   "firefox_browser_guide3": {
+      "message": "Введіть URL-адресу https://inftab.com У текстовому полі, налаштування домашньої сторінки завершена."
+   },
+   "five_star": {
+      "message": "Поставте оцінку 5 зірок!"
+   },
+   "folder": {
+      "message": "Папка"
+   },
+   "follow_us": {
+      "message": "Приєднуйтесь до нас"
+   },
+   "follow_wechat": {
+      "message": "Слідкуйте за Infinity WeChat публічний рахунок"
+   },
+   "follow_wechat_desc": {
+      "message": "Зверніть увагу на наш загальнодоступний номер WeChat (мікросигнал: InfinityDaily), отримуйте Dynamics Navity Product, і ви можете відкрити більше задоволення, щоб розширити та веб-сайт."
+   },
+   "font": {
+      "message": "Шрифти"
+   },
+   "font_color": {
+      "message": "Колір шрифту"
+   },
+   "font_size": {
+      "message": "Розмір тексту"
+   },
+   "food_drink": {
+      "message": "Їжа"
+   },
+   "forget_password": {
+      "message": "Забули пароль"
+   },
+   "format_error": {
+      "message": "Помилка формату"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Велика кількість фотографій без роялті, безкоштовно використовувати та оновлювати щодня"
+   },
+   "fri": {
+      "message": "Пт"
+   },
+   "fri_min": {
+      "message": "Пт"
+   },
+   "fully_authorized_to_use": {
+      "message": "Повністю уповноважений використовувати функції"
+   },
+   "games": {
+      "message": "Ігри та розваги"
+   },
+   "gamil_notice": {
+      "message": "Повідомлення Gmail"
+   },
+   "gender": {
+      "message": "Виберіть стать"
+   },
+   "get_app_permission": {
+      "message": "Авторизуйте, щоб отримати місцеве додаток"
+   },
+   "get_cloud_icon": {
+      "message": "Придбати онлайн"
+   },
+   "give_money": {
+      "message": "Пожертвувати"
+   },
+   "give_money_thanks": {
+      "message": "Ваша підтримка є нашою найбільшою нагородою"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Якщо вам подобається Infinity New Tab, будь ласка, оцініть наш сервіс або дайте нам відгук, щоб допомогти нам IGN."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Якщо у вас виникли питання або пропозиції, зв'яжіться з нами."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail Notification Ringtone"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Пошук Google - це пошукова система, розроблена Google. Це найбільша, найвпливовіша пошукова система в Інтернеті"
+   },
+   "have_todo_item": {
+      "message": "У вас є елемент завдання"
+   },
+   "hide_homepage_btn": {
+      "message": "Сховати Встановити як кнопку Головна"
+   },
+   "hide_icon_name": {
+      "message": "Сховати ім'я значка"
+   },
+   "hide_search_button": {
+      "message": "Сховати кнопку пошуку"
+   },
+   "hide_search_category": {
+      "message": "Сховати категорію пошуку"
+   },
+   "hide_search_input": {
+      "message": "Сховати вікно пошуку"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Сховати Встановити як кнопку Головна"
+   },
+   "hint": {
+      "message": "Чайові"
+   },
+   "history": {
+      "message": "Історія"
+   },
+   "history_backup_list": {
+      "message": "Історія резервного копіювання списку вузлів"
+   },
+   "history_week": {
+      "message": "Пошук історії протягом тижня"
+   },
+   "host_permission": {
+      "message": "Дозволи хоста"
+   },
+   "hour": {
+      "message": "год."
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Веб-сайт"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Я хочу винагородити"
+   },
+   "icon": {
+      "message": "Значок"
+   },
+   "icon_added": {
+      "message": "Додано"
+   },
+   "icon_bg_text": {
+      "message": "Текст піктограми"
+   },
+   "icon_network_error": {
+      "message": "Помилка мережі. Натисніть, щоб перезавантажити"
+   },
+   "ignore": {
+      "message": "Ігнорувати"
+   },
+   "img_verify_code": {
+      "message": "Перевірка зображення"
+   },
+   "import_data": {
+      "message": "Імпортуйте дані резервного копіювання"
+   },
+   "import_data_desc": {
+      "message": "Відновлення даних з резервного файлу"
+   },
+   "import_select_tile": {
+      "message": "Вибір даних"
+   },
+   "infinity_bookmarks": {
+      "message": "Вирівнюйте таєрархію папки закладки та легше знайти закладки з закладками Infinity"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity Рекомендовані аніме шпалери"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Високоякісна бібліотека шпалер"
+   },
+   "infinity_extension": {
+      "message": "Керуйте своїми розширеннями $browser$ та додатками за допомогою менеджера розширення Infinity",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Швидко перегляньте та керуйте історією браузера з історією Infinity"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Рекомендовані ландшафтні шпалери"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Бібліотека шпалер високої якості"
+   },
+   "infinity_notes": {
+      "message": "Запишіть Inspirations Life швидко з нотами нескінченності"
+   },
+   "infinity_settings": {
+      "message": "Персоналізуйте свою інфіненську нову сторінку вкладки з налаштуваннями нескінченності"
+   },
+   "infinity_todos": {
+      "message": "Упорядкуйте свої завдання, щоб покращити ефективність роботи з Infinity To-Do List"
+   },
+   "infinity_wallpaper": {
+      "message": "Бібліотека шпалер Infinity надає вам багаті та захоплюючі шпалери"
+   },
+   "infinity_weather": {
+      "message": "Погода Infinity надає вам прогнози погоди по містах по всьому світу"
+   },
+   "info": {
+      "message": "Інформація"
+   },
+   "inportdata_desc": {
+      "message": "Якщо імпортовані дані та локальні дані несумісні, виберіть команду Об'єднати або Перезаписати."
+   },
+   "input_and_search": {
+      "message": "Відкрити пошук"
+   },
+   "input_city": {
+      "message": "Введіть місто/регіон"
+   },
+   "input_new_password": {
+      "message": "Введіть новий пароль"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Пов’язано"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Безкоштовні фотографії для будь-яких цілей"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Зберегти вміст поля пошуку"
+   },
+   "label": {
+      "message": "Позначки"
+   },
+   "language": {
+      "message": "Мова"
+   },
+   "language_select": {
+      "message": "Виберіть мову"
+   },
+   "last_sync_time": {
+      "message": "Останній час синхронізації: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Останнє оновлення"
+   },
+   "layout": {
+      "message": "Орієнтація"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Безкоштовні джерело шпалер HD"
+   },
+   "life_style": {
+      "message": "Стиль життя"
+   },
+   "limit_input_length": {
+      "message": "Довжина тексту за межами ліміту"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Місцевий значок"
+   },
+   "local_wallpaper2": {
+      "message": "Місцеві шпалери"
+   },
+   "login": {
+      "message": "Увійти"
+   },
+   "login_abandon_tips": {
+      "message": "Поточний метод входу незабаром буде видалено, будь ласка, прив’яжіть свою електронну пошту або інший обліковий запис третьої сторони якомога швидше після входу"
+   },
+   "login_now": {
+      "message": "Увійдіть до свого рахунку нескінченності, щоб насолодитися додатковими дозволами"
+   },
+   "login_now_btn": {
+      "message": "Увійти"
+   },
+   "login_register": {
+      "message": "Увійти / Зареєструватися"
+   },
+   "loging": {
+      "message": "Вхід"
+   },
+   "logout": {
+      "message": "Вийти"
+   },
+   "logout_clear_something": {
+      "message": "Очистіть персоналізовані налаштування та іншу інформацію на цьому пристрої"
+   },
+   "logout_tips": {
+      "message": "Вам потрібно очистити локальні дані, перш ніж вийти з облікового запису, щоб запобігти підключенню даних з різних облікових записів на цьому пристрої?"
+   },
+   "logout_warn": {
+      "message": "Після виходу з облікового запису всі дані резервної копії за цим обліковим записом буде видалена. Ви впевнені, що хочете вийти з цього облікового запису?"
+   },
+   "male": {
+      "message": "Чоловіча"
+   },
+   "manage_backup_node": {
+      "message": "Керуйте історії резервних вузлів"
+   },
+   "manul_backup": {
+      "message": "Ручне резервне копіювання"
+   },
+   "map": {
+      "message": "Карти"
+   },
+   "mask_density": {
+      "message": "Тьмяна шпалери"
+   },
+   "me": {
+      "message": "Я"
+   },
+   "merge_cloud_local": {
+      "message": "Об'єднати місцеві та хмарні дані"
+   },
+   "merge_data": {
+      "message": "Об’єднати дані"
+   },
+   "mini_mode": {
+      "message": "Мінімалістський режим"
+   },
+   "mins": {
+      "message": "Хвилин"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Використовуйте на ваших веб-сайтах, темах, шаблонах, проектах, друкарнях та газетах. Кожного тижня додаються нові шпалери та відео"
+   },
+   "mobile_devices": {
+      "message": "Infinity мобільна версія"
+   },
+   "modify": {
+      "message": "Змінити дані"
+   },
+   "modify_email": {
+      "message": "Змінити електронну пошту"
+   },
+   "modify_password": {
+      "message": "Змінити пароль"
+   },
+   "modify_phone_number": {
+      "message": "Змінити номер телефону"
+   },
+   "modify_pwd": {
+      "message": "Змінити пароль"
+   },
+   "modify_success": {
+      "message": "Успішно змінено"
+   },
+   "modify_this": {
+      "message": "Редагувати"
+   },
+   "mon": {
+      "message": "Понеділок"
+   },
+   "mon_min": {
+      "message": "Пн"
+   },
+   "month_1": {
+      "message": "Січень"
+   },
+   "month_10": {
+      "message": "Жовтень"
+   },
+   "month_11": {
+      "message": "Листопад"
+   },
+   "month_12": {
+      "message": "Грудень"
+   },
+   "month_2": {
+      "message": "Лютий"
+   },
+   "month_3": {
+      "message": "Березень"
+   },
+   "month_4": {
+      "message": "Квітень"
+   },
+   "month_5": {
+      "message": "Травень"
+   },
+   "month_6": {
+      "message": "Червень"
+   },
+   "month_7": {
+      "message": "Липень"
+   },
+   "month_8": {
+      "message": "Серпень"
+   },
+   "month_9": {
+      "message": "Вересень"
+   },
+   "more_content_from_site": {
+      "message": "Більше вмісту з цього веб-сайту"
+   },
+   "most_used_in_chinese": {
+      "message": "Пошукова система використовує найбільше китайцями"
+   },
+   "music_video": {
+      "message": "відеокліп"
+   },
+   "my_collection": {
+      "message": "Моя колекція"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Введіть назву веб-сайту"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Природа"
+   },
+   "need_you_permission": {
+      "message": "Потрібен дозвіл"
+   },
+   "network_error": {
+      "message": "Помилка мережі"
+   },
+   "new_email": {
+      "message": "Нова електронна пошта"
+   },
+   "new_password": {
+      "message": "Введіть новий пароль"
+   },
+   "new_phone_number": {
+      "message": "Новий номер телефону"
+   },
+   "new_tab": {
+      "message": "Нова вкладка"
+   },
+   "new_tab_web": {
+      "message": "Infinity Домашня сторінка"
+   },
+   "news": {
+      "message": "новинами"
+   },
+   "next": {
+      "message": "Далі"
+   },
+   "nickname": {
+      "message": "Псевдонім"
+   },
+   "no_account_register": {
+      "message": "У вас немає облікового запису? Зареєструйтеся зараз."
+   },
+   "no_backup_time": {
+      "message": "Немає"
+   },
+   "no_bookmark_result": {
+      "message": "Немає закладки"
+   },
+   "no_chrome_app": {
+      "message": "Ви не встановили жодних додатків $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Немає інформації про погоду"
+   },
+   "no_data": {
+      "message": "Немає даних"
+   },
+   "no_description": {
+      "message": "Без опису"
+   },
+   "no_more": {
+      "message": "Більше нема"
+   },
+   "no_more_reminder": {
+      "message": "Більше не показувати"
+   },
+   "no_permission_text": {
+      "message": "Рекомендується, щоб ви спробували відкрити та надати цей дозвіл у центрі адреси браузера або центру налаштувань."
+   },
+   "no_permission_title": {
+      "message": "Дозвіл ще не надано"
+   },
+   "no_permission_to_open_app": {
+      "message": "Немає дозволу на відкриття програми $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Немає елементів списку завдань"
+   },
+   "no_search_result": {
+      "message": "Немає результатів пошуку"
+   },
+   "no_title": {
+      "message": "Без назви"
+   },
+   "none": {
+      "message": "Приховано"
+   },
+   "none_auto_backup": {
+      "message": "Наразі немає запланованих резервних копій"
+   },
+   "none_auto_backup_desc": {
+      "message": "Заплановані резервні копії почнеться в той же день, коли ви змінюєте інформацію про нескінченність"
+   },
+   "none_manual_backup": {
+      "message": "Наразі немає ручних резервних копій"
+   },
+   "normal_model": {
+      "message": "Стандартний режим"
+   },
+   "not_binding": {
+      "message": "Не пов’язано"
+   },
+   "note_title": {
+      "message": "Введіть назву Примітка"
+   },
+   "note_upload_img_15": {
+      "message": "Цей розмір зображення не може перевищити 15М"
+   },
+   "notes": {
+      "message": "Нотатки"
+   },
+   "notice": {
+      "message": "Примітка"
+   },
+   "ocean": {
+      "message": "Океан"
+   },
+   "one_day_later": {
+      "message": "Нагадати мені завтра"
+   },
+   "one_week_later": {
+      "message": "Нагадати за тиждень"
+   },
+   "only_used_infinity": {
+      "message": "Використовується лише для внутрішніх модулів Infinity"
+   },
+   "opacity": {
+      "message": "Прозорість іконок"
+   },
+   "open_all": {
+      "message": "Відкрити все"
+   },
+   "open_chrome_app": {
+      "message": "Увімкнути програму"
+   },
+   "open_extension": {
+      "message": "Увімкніть розширення"
+   },
+   "open_folder_icons": {
+      "message": "Відкрити все"
+   },
+   "open_new_tab": {
+      "message": "Відкрийте веб-сайт у новій вкладці"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Відкрийте посилання закладки на новій вкладці"
+   },
+   "open_newtab_history": {
+      "message": "Відкрийте історію в новій вкладці"
+   },
+   "open_newtab_show_search": {
+      "message": "Відкрийте результати пошуку третьої сторони в новій вкладці"
+   },
+   "origin_password": {
+      "message": "Оригінальний пароль"
+   },
+   "other_bookmarks": {
+      "message": "Інші закладки"
+   },
+   "others": {
+      "message": "Інші"
+   },
+   "oversize": {
+      "message": "Розмір не може перевищити 2МБ"
+   },
+   "overwrite_data": {
+      "message": "Переглянути дані"
+   },
+   "pagin": {
+      "message": "Кнопка сторінок"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "password_dont_empty": {
+      "message": "Поле введення пароля не може бути пустим"
+   },
+   "password_length_low": {
+      "message": "Пароль не менше 6 цифр"
+   },
+   "password_not_equals": {
+      "message": "Паролі не однакові"
+   },
+   "password_not_some": {
+      "message": "Два паролі несумісні"
+   },
+   "permission": {
+      "message": "Авторизація"
+   },
+   "permission_all": {
+      "message": "Авторизувати все"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Запит на доступ та змінити свої дані на mail.google.com; Запит на показу повідомлень"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Повідомлення Gmail"
+   },
+   "permission_gmail_num_content": {
+      "message": "Запит на доступ та змінити ваші дані на mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Доступ до кількості Gmail"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Запит на доступ та змінити ваші дані на google.com та пропозиції.Baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Підказка"
+   },
+   "permission_todo_notice_content": {
+      "message": "Повідомлення про відображення запиту"
+   },
+   "permission_todo_notice_title": {
+      "message": "Щоб зауважити"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Запит до доступу до значків, що відповідають веб-сайтах, і доступу та змінити свої закладки"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Показати закладки зверху"
+   },
+   "permission_top_useful_content": {
+      "message": "Запит на доступ до піктограм, що відповідають веб-сайтах, відвідав, а також доступу та змінити список найчастіших веб-сайтів"
+   },
+   "permission_top_useful_title": {
+      "message": "Показати часто використовувані сайти зверху"
+   },
+   "permisson_label": {
+      "message": "Дозволи"
+   },
+   "phone_number": {
+      "message": "Номер телефону"
+   },
+   "photos": {
+      "message": "Зображення"
+   },
+   "pick_local_wallpaper": {
+      "message": "Виберіть місцеві шпалери"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Безкоштовні та красиві фотографії, доступні для будь-якого використання"
+   },
+   "placeholder_name": {
+      "message": "Назва"
+   },
+   "please_chose_picture": {
+      "message": "Виберіть зображення"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Введіть назву закладок"
+   },
+   "please_enter_email": {
+      "message": "Введіть адресу @-пошти"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Введіть код перевірки зображення"
+   },
+   "please_enter_nickname": {
+      "message": "Введіть логін"
+   },
+   "please_enter_phone": {
+      "message": "Введіть номер телефону"
+   },
+   "please_enter_right_account": {
+      "message": "Введіть правильний номер електронної пошти або номер телефону"
+   },
+   "please_enter_text": {
+      "message": "Введення тексту"
+   },
+   "please_enter_url": {
+      "message": "Введіть URL-адресу"
+   },
+   "please_input_bg_text": {
+      "message": "Введіть текст іконки"
+   },
+   "please_pre_login": {
+      "message": "Спочатку ввійдіть"
+   },
+   "please_re_login": {
+      "message": "Увійдіть ще раз"
+   },
+   "please_set_your_password": {
+      "message": "Будь ласка, встановіть пароль"
+   },
+   "please_type_link": {
+      "message": "Будь ласка, введіть посилання"
+   },
+   "please_type_right_link": {
+      "message": "Введіть правильну адресу посилання"
+   },
+   "please_upload_photos": {
+      "message": "Будь ласка, натисніть на зображення"
+   },
+   "popular": {
+      "message": "Популярний"
+   },
+   "preview": {
+      "message": "Попередній перегляд"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Конфіденційність та збори даних"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Зображення, створені за допомогою індивідуального значка веб-сайту"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Зображення, створені за допомогою індивідуальної пошукової системи"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Ваша зареєстрована адреса електронної пошти, завантажена зображення профілю, вибраний псевдонім, не звичайний текстовий пароль та іншу інформацію"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Якщо ви входите з стороннім рахунком, ми зберігатимемо свій псевдонім, стать, профільну фотографію та іншу інформацію, надану третьою стороною"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Значок веб-сайту Інформація та пошукова інформація, яку ви додали"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Інформація про погоду у вашому регіоні або інформація про погоду в інших районах, які ви встановили"
+   },
+   "privacy_data_item_2_5": {
+      "message": "До списків, які ви створили"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Зміст нотаток, які ви створили, і зображення, завантажені у ваших нотатках"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Ваші поточні шпалери, налаштування шпалер, зображення, завантажені на локальні шпалери, а зображення, завантажені на локальну бібліотеку шпалер"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Налаштування розширення"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Сервер може зберігати журнали, створені під час взаємодії з користувачами та клієнтами. Цей запис в основному використовується для усунення помилок винятків. Ми очистимо цей журнал час від часу."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Тип браузера, мова та версія та роздільна здатність екрана"
+   },
+   "privacy_data_item_4_10": {
+      "message": "В даний час увійшов чи ні"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Приблизна кількість поточних значків"
+   },
+   "privacy_data_item_4_12": {
+      "message": "В даний час увімкнено розширення (якщо за допомогою управління розширенням)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Кількість разів це розширення було відкрито"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP-адреса та географічне розташування, отримане з IP-адреси"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Додано значки веб-сайту та пошукові системи"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Налаштування шпалер та розширення"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Розширення версії"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Частота натискання кнопки функції"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Повідомлення про помилку виключення"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Відкрийте адвокат-хост веб-сайту"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Поточний хост пошукової системи"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Ми анонімно вважаємо, що кількість разів використовуються деякі пошукові системи."
+   },
+   "privacy_data_item_9": {
+      "message": "Ви повинні погодитися з цією політикою конфіденційності, перш ніж ви зможете використовувати це розширення. Переглянути нашу $the_infinity_privacy$, щоб дізнатися більше.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Ні, не збирайте анонімні дані"
+   },
+   "privacy_data_title_1": {
+      "message": "Ми можемо зберігати зображення, створені добровільними користувачами під час використання. Наступні зображення зберігаються анонімно:"
+   },
+   "privacy_data_title_2": {
+      "message": "Якщо ви реєструєте або ввійдіть до свого облікового запису, нам потрібно зберігати наступні ідентифіковані дані (далі - дані користувача) на нашому сервері для завершення резервного копіювання даних та синхронізації:"
+   },
+   "privacy_data_title_3": {
+      "message": "Журнал сервера:"
+   },
+   "privacy_data_title_4": {
+      "message": "Колекція наступної інформації є необов'язковою. Інформація буде зібрана анонімно через Google Analytics допомогти нам покращити нашу продукцію:"
+   },
+   "privacy_data_title_5": {
+      "message": "Статистичний аналіз:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Підтвердьте видалення Infinity New Tab Page"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Підтвердьте видалити Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Uninstall Infinity New Tab Page?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Видаліть Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Так, анонімні дані можуть бути зібрані відповідно до політики конфіденційності"
+   },
+   "privacy_disagree": {
+      "message": "Не погоджуюся"
+   },
+   "privacy_policy": {
+      "message": "Політикою конфіденційності"
+   },
+   "privacy_title": {
+      "message": "Угода про політику конфіденційності"
+   },
+   "profile": {
+      "message": "Особиста інформація"
+   },
+   "pure_color": {
+      "message": "Чистий колір"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Група QQ"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Випадкові шпалери"
+   },
+   "re_update": {
+      "message": "Реконструювати"
+   },
+   "read": {
+      "message": "Читати"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Велика кількість фотографій HD доступні для особистого та комерційного використання, 7 нових щотижня"
+   },
+   "recently_add": {
+      "message": "Останні додані"
+   },
+   "recently_use": {
+      "message": "Нещодавні"
+   },
+   "recover_error": {
+      "message": "Не вдалося відновити дані"
+   },
+   "recover_error_version": {
+      "message": "Не підтримується формат даних"
+   },
+   "recover_this": {
+      "message": "Відновлення від цього вузла"
+   },
+   "redius": {
+      "message": "Значок закруглених кутів"
+   },
+   "refresh_qrcode": {
+      "message": "QR-код недійсний, натисніть Оновити"
+   },
+   "register": {
+      "message": "Зареєструйтеся"
+   },
+   "register_back": {
+      "message": "Повернутися"
+   },
+   "register_get_email_code_error": {
+      "message": "Не вдалося отримати код підтвердження"
+   },
+   "register_now": {
+      "message": "Зареєструйте свій рахунок нескінченності, щоб насолодитися додатковими дозволами"
+   },
+   "relative_humidity": {
+      "message": "Відносна вологість"
+   },
+   "reload": {
+      "message": "Повторіть спробу"
+   },
+   "reminder_update_text1": {
+      "message": "Для вас, щоб отримати кращий досвід використання Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Рекомендується оновити браузер до останньої версії, а також рекомендується використовувати браузер, сумісний з Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Дисплей помилки на сторінці"
+   },
+   "remove_account": {
+      "message": "Видалити мій обліковий запис"
+   },
+   "remove_done": {
+      "message": "Очистити завершені питання"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Всі шпалери під цією бібліотекою шпалер будуть видалені разом"
+   },
+   "rename_folder": {
+      "message": "Перейменувати"
+   },
+   "repair_auto_backup": {
+      "message": "Автоматичне резервне копіювання даних"
+   },
+   "repair_concat": {
+      "message": "контактні дані"
+   },
+   "repair_concat_email": {
+      "message": "Електронна пошта: "
+   },
+   "repair_concat_qq": {
+      "message": "Інженер QQ: "
+   },
+   "repair_data": {
+      "message": "Ремонт даних"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Будь ласка, надішліть нам файл даних для відновлення за допомогою наступної контактної інформації, і ми допоможемо вам відновити дані якомога швидше. Перш ніж інженер вирішить проблему, спробуйте не виконувати інші операції. Цей файл може містити конфіденційну інформацію, таку як облікові записи, не розголошуйте її іншим."
+   },
+   "repair_data_title": {
+      "message": "Отримати втрачені або пошкоджені дані"
+   },
+   "repair_export_btn": {
+      "message": "Експортувати дані, які потрібно відремонтувати"
+   },
+   "repeat_city": {
+      "message": "Ви не можете знову додати те саме місто"
+   },
+   "reqeust_login_message": {
+      "message": "Щоб користуватися цією функцією, потрібно ввійти в обліковий запис"
+   },
+   "request_logout_confirm": {
+      "message": "Видалити ваш акаунт?"
+   },
+   "request_reset_all_settings": {
+      "message": "Ви впевнені, що хочете скинути налаштування до значення за замовчуванням?"
+   },
+   "reset": {
+      "message": "Скинути"
+   },
+   "reset_password": {
+      "message": "Скидання пароля"
+   },
+   "reset_password_by_email": {
+      "message": "Скиньте пароль через перевірку електронної пошти"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Скиньте пароль через перевірку номера електронної пошти або номер телефону"
+   },
+   "reset_setting": {
+      "message": "Скинути налаштування"
+   },
+   "reset_your_password": {
+      "message": "Будь ласка, скиньте пароль"
+   },
+   "restore_setting": {
+      "message": "Відновити налаштування"
+   },
+   "revovery_data": {
+      "message": "Відновити дані"
+   },
+   "row_gap": {
+      "message": "Міжрядковий інтервал"
+   },
+   "row_num": {
+      "message": "Колонки"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Натисніть опцію, як показано за допомогою стрілки на малюнку."
+   },
+   "safari_browser_guide2": {
+      "message": "У спливаючому вікні введіть URL-адресу https://inftab.com у стовпці домашньої сторінки."
+   },
+   "safari_browser_guide3": {
+      "message": "Натисніть кнопку нижче URL-адресу, щоб завершити налаштування домашньої сторінки."
+   },
+   "sat": {
+      "message": "Субота"
+   },
+   "sat_min": {
+      "message": "Сб"
+   },
+   "save": {
+      "message": "Зберегти"
+   },
+   "scale": {
+      "message": "Розмір піктограми"
+   },
+   "scale_main": {
+      "message": "масштабування екрана"
+   },
+   "scale_side": {
+      "message": "Збільшення стовпця"
+   },
+   "scheduled_backup": {
+      "message": "Запланувати резервне копіювання"
+   },
+   "search": {
+      "message": "Пошук"
+   },
+   "search_bookmark": {
+      "message": "Шукати закладки"
+   },
+   "search_engine": {
+      "message": "Пошукова система"
+   },
+   "search_engine_error": {
+      "message": "Введіть назву засобу пошуку"
+   },
+   "search_error": {
+      "message": "Не вдалося завантажити"
+   },
+   "search_extension": {
+      "message": "Пошук у розширеннях"
+   },
+   "search_from": {
+      "message": "Шукали: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Значок пошуку"
+   },
+   "search_input": {
+      "message": "вікно пошуку"
+   },
+   "search_input_shadow": {
+      "message": "Пошук Shadow"
+   },
+   "search_opacity": {
+      "message": "Непрозорість пошуку"
+   },
+   "search_redius": {
+      "message": "Пошук коробки закруглені кути"
+   },
+   "search_result": {
+      "message": "Результати пошуку"
+   },
+   "search_size": {
+      "message": "Розмір вікна пошуку"
+   },
+   "search_suggest": {
+      "message": "Показувати пошукові пропозиції"
+   },
+   "search_website": {
+      "message": "Пошук сайтів"
+   },
+   "searching": {
+      "message": "Пошук"
+   },
+   "select_date": {
+      "message": "Виберіть дату"
+   },
+   "select_icon": {
+      "message": "Виберіть значок"
+   },
+   "select_time": {
+      "message": "Виберіть час"
+   },
+   "send_success": {
+      "message": "Електронний лист перевірки відправлено. Перевірте папку вхідних повідомлень"
+   },
+   "set_homepage_desc": {
+      "message": "Встановіть розширення для браузера, щоб насолодитися повними функціями"
+   },
+   "set_homepage_title2": {
+      "message": "Ця функція не підтримується в поточній версії_#_Будь ласка, встановіть розширення браузера перед використанням"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Встановіть Infinity як домашню сторінку для вашого браузера"
+   },
+   "set_new_password": {
+      "message": "Встановіть новий пароль"
+   },
+   "set_remind_time": {
+      "message": "Встановіть час нагадування"
+   },
+   "set_setting_default": {
+      "message": "Відновити до типового"
+   },
+   "set_to_homepage": {
+      "message": "Встановити домівкою"
+   },
+   "set_top": {
+      "message": "Зверху"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "Встановіть свій аватар і псевдонім"
+   },
+   "settings": {
+      "message": "Налаштування"
+   },
+   "shadow": {
+      "message": "Тінь іконок"
+   },
+   "share": {
+      "message": "Поділитися"
+   },
+   "share_by_user": {
+      "message": "Ділиться іншими користувачами"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab, розширення навігації, обраного мільйонами, найвигіднішою новою вкладкою на веб-переглядачі"
+   },
+   "share_title": {
+      "message": "Можливо, це найкраща нова вкладка у браузері $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Купівля покупки та групи"
+   },
+   "shortcut_mode": {
+      "message": "Експрес-режим"
+   },
+   "show_detail": {
+      "message": "Переглянути зараз"
+   },
+   "show_gamil_unread_number": {
+      "message": "Показати номер непрочитаних листів з Gmail на значку"
+   },
+   "show_later": {
+      "message": "Нагадати пізніше"
+   },
+   "show_name": {
+      "message": "\"Показати ім'я\""
+   },
+   "show_reminders_number": {
+      "message": "Показувати кількість завдань на піктограмі"
+   },
+   "skip": {
+      "message": "Пропустити"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Місце для пошуку, відображення та обміну фотографіями"
+   },
+   "social": {
+      "message": "Соціальні медіа та блоги"
+   },
+   "solid_color_wallpaper": {
+      "message": "Одиночні кольорові шпалери"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Пошукова система, яка може шукати вміст, розміщені офіційними рахунками WECHAT"
+   },
+   "sports": {
+      "message": "Спорт та подорожі"
+   },
+   "start_animation": {
+      "message": "Почати анімацію"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Надайте запуску, блогер, видавці, веб-сайти, дизайнери, розробники, творці та поза безкоштовними фотографіями"
+   },
+   "street_photography": {
+      "message": "Вулиця"
+   },
+   "sun": {
+      "message": "Неділя"
+   },
+   "sun_min": {
+      "message": "Нд"
+   },
+   "support": {
+      "message": "Підтримка"
+   },
+   "switch_to": {
+      "message": "Перемкнути до"
+   },
+   "sync_fail": {
+      "message": "Спроба синхронізації зазнала невдачі."
+   },
+   "sync_suncess": {
+      "message": "Синхронізація завершена."
+   },
+   "sync_type_tips": {
+      "message": "Дані хмари та місцеві дані виявляються суперечливими. Виберіть один тип даних."
+   },
+   "syncing": {
+      "message": "Синхронізація даних..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Ви не встановили цю програму $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Спосіб відкрити ціль"
+   },
+   "tech": {
+      "message": "Технологія"
+   },
+   "technology": {
+      "message": "Технології"
+   },
+   "term_of_use": {
+      "message": "Умови користування"
+   },
+   "text": {
+      "message": "Текст"
+   },
+   "text_shadow": {
+      "message": "Тінь тексту"
+   },
+   "thirt_party": {
+      "message": "Используйте логин стороннего аккаунта"
+   },
+   "thu": {
+      "message": "Четвер"
+   },
+   "thu_min": {
+      "message": "Чт"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Відкрийте будь-який веб-сайт та введіть \"% s\" у вікні пошуку, щоб знайти. (При прикладі Google)"
+   },
+   "tip_question_2": {
+      "message": "2. Скопіюйте URL-адресу результату пошуку безпосередньо"
+   },
+   "tip_question_3": {
+      "message": "3. Вставте копіювальний URL тут, і ви закінчите"
+   },
+   "tip_question_title": {
+      "message": "Про використання \"% s\", щоб замінити пошукові умови"
+   },
+   "to_login": {
+      "message": "Вхід зараз"
+   },
+   "today": {
+      "message": "Сьогодні"
+   },
+   "todo_welcome": {
+      "message": "Ласкаво просимо на сторінку Infinity New. Це зразковий елемент."
+   },
+   "todos": {
+      "message": "Справи"
+   },
+   "top_bookmark": {
+      "message": "Показати закладки зверху"
+   },
+   "top_use_ful": {
+      "message": "Показати часто використовувані сайти зверху"
+   },
+   "travel": {
+      "message": "Подорожі"
+   },
+   "tue": {
+      "message": "Вівторок"
+   },
+   "tue_min": {
+      "message": "Вт"
+   },
+   "twitter": {
+      "message": "Твіттер"
+   },
+   "two_hours_later": {
+      "message": "Нагадайте мені через 2 години"
+   },
+   "type_link": {
+      "message": "Введіть посилання"
+   },
+   "type_text": {
+      "message": "Введення тексту"
+   },
+   "unbind": {
+      "message": "Видалити"
+   },
+   "unbind_btn": {
+      "message": "Відв'язати"
+   },
+   "unbind_email": {
+      "message": "Зніміть цю адресу електронної пошти"
+   },
+   "unbind_phone_number": {
+      "message": "Розблокувати номер мобільного телефону"
+   },
+   "unbind_success": {
+      "message": "Видалено успішно"
+   },
+   "uninstall_agree": {
+      "message": "Згоден"
+   },
+   "uninstall_chrome_app": {
+      "message": "Видалити програму"
+   },
+   "uninstall_extension": {
+      "message": "Видалити розширення"
+   },
+   "unknown_mistake": {
+      "message": "Невідома помилка"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Всесвітньо відомі високоякісні шпалери"
+   },
+   "unzip_folder_content": {
+      "message": "Папка буде видалена, і піктограма буде збережена. Ти впевнений?"
+   },
+   "unzip_folder_title": {
+      "message": "Випуск"
+   },
+   "update_data": {
+      "message": "Оновлення даних"
+   },
+   "update_data_failure": {
+      "message": "Оновлення профілю Помилка"
+   },
+   "update_desc_1": {
+      "message": "Якщо перетворення даних не вдалося під час оновлення версії, ви можете спробувати повторно оновити дані."
+   },
+   "update_desc_2": {
+      "message": "Якщо ви все ще не можете вирішити проблему кілька разів, ви можете зв'язатися з нашими інженерами, ми постараємося допомогти вам вирішити."
+   },
+   "update_desc_3": {
+      "message": "Дані перетворення перезаписують нові дані версії, рекомендується створювати резервні копії даних, перш ніж працювати."
+   },
+   "update_error_desc1": {
+      "message": "Ви можете спробувати повторно оновити, якщо ви виявите деякі дані."
+   },
+   "update_error_desc2": {
+      "message": "Якщо ви пропустите кілька оновлень, ви також можете натиснути значок \"Налаштування\" у верхньому правому куті, щоб увійти - [MY] - [резервне копіювання та ремонт]."
+   },
+   "update_now": {
+      "message": "Оновити"
+   },
+   "update_or_repair_data": {
+      "message": "Оновлення або ремонт даних"
+   },
+   "upload_avatar_failure": {
+      "message": "Не вдалося завантажити зображення для аватару"
+   },
+   "upload_file_error": {
+      "message": "Не вдалося вивантажити файл"
+   },
+   "upload_image_error": {
+      "message": "Не вдалося завантажити зображення"
+   },
+   "uploading": {
+      "message": "Завантаження..."
+   },
+   "use_cloud": {
+      "message": "Використовуйте хмарні дані"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Введіть текст і натисніть Enter, щоб додати"
+   },
+   "use_local": {
+      "message": "Використовуйте локальні дані"
+   },
+   "use_mobile_screen": {
+      "message": "Використовуйте мобільний пристрій для сканування QR-коду"
+   },
+   "user_evaluation": {
+      "message": "Оцінка користувачів"
+   },
+   "username_cannot_empty": {
+      "message": "Ім'я користувача не може бути пустим"
+   },
+   "verify_password_desc": {
+      "message": "Для безпеки облікового запису, будь ласка, введіть пароль облікового запису"
+   },
+   "verity_code": {
+      "message": "Надіслати код перевірки"
+   },
+   "verity_code_no_value": {
+      "message": "Код перевірки не може бути порожнім"
+   },
+   "videos": {
+      "message": "Відео"
+   },
+   "view": {
+      "message": "Перегляд"
+   },
+   "w309": {
+      "message": "Мжичка"
+   },
+   "w_100": {
+      "message": "Сонячно"
+   },
+   "w_101": {
+      "message": "Хмаринка"
+   },
+   "w_102": {
+      "message": "Мало хмар"
+   },
+   "w_103": {
+      "message": "Мінлива хмарність"
+   },
+   "w_104": {
+      "message": "Похмуро"
+   },
+   "w_200": {
+      "message": "Вітряно"
+   },
+   "w_201": {
+      "message": "Спокій"
+   },
+   "w_202": {
+      "message": "Свіжо"
+   },
+   "w_203": {
+      "message": "Помірний"
+   },
+   "w_204": {
+      "message": "Свіжий"
+   },
+   "w_205": {
+      "message": "Сильний"
+   },
+   "w_206": {
+      "message": "Міцний"
+   },
+   "w_207": {
+      "message": "Сильний вітер"
+   },
+   "w_208": {
+      "message": "Шторм"
+   },
+   "w_209": {
+      "message": "Шторми"
+   },
+   "w_210": {
+      "message": "Шторм"
+   },
+   "w_211": {
+      "message": "Ураган"
+   },
+   "w_212": {
+      "message": "Торнадо"
+   },
+   "w_213": {
+      "message": "Тропічний storm"
+   },
+   "w_300": {
+      "message": "Зливи"
+   },
+   "w_301": {
+      "message": "Сильна дощова злива"
+   },
+   "w_302": {
+      "message": "Грози"
+   },
+   "w_303": {
+      "message": "Сильні грозові зливи"
+   },
+   "w_304": {
+      "message": "Гроза з дощем і снігом"
+   },
+   "w_305": {
+      "message": "Легкий дощ"
+   },
+   "w_306": {
+      "message": "Помірний дощ"
+   },
+   "w_307": {
+      "message": "Сильний дощ"
+   },
+   "w_308": {
+      "message": "Є крайня дощ"
+   },
+   "w_310": {
+      "message": "Злива"
+   },
+   "w_311": {
+      "message": "Сильна буря"
+   },
+   "w_312": {
+      "message": "Надзвичайні зливи"
+   },
+   "w_313": {
+      "message": "Дощ зі зледенінням"
+   },
+   "w_314": {
+      "message": "Хмарно, з переходом до помірного дощу"
+   },
+   "w_315": {
+      "message": "Помірний, з переходом у сильний дощ"
+   },
+   "w_316": {
+      "message": "Від сильного дощу до зливи"
+   },
+   "w_317": {
+      "message": "Від бурі до сильної бурі"
+   },
+   "w_318": {
+      "message": "Від урагану до сильного дощу"
+   },
+   "w_399": {
+      "message": "Дощ"
+   },
+   "w_400": {
+      "message": "Невеликий снігопад"
+   },
+   "w_401": {
+      "message": "Помірний снігопад"
+   },
+   "w_402": {
+      "message": "Сильний снігопад"
+   },
+   "w_403": {
+      "message": "Заметіль"
+   },
+   "w_404": {
+      "message": "Сніг із дощем"
+   },
+   "w_405": {
+      "message": "Мокрий сніг"
+   },
+   "w_406": {
+      "message": "雨雪"
+   },
+   "w_407": {
+      "message": "Сильний снігопад"
+   },
+   "w_408": {
+      "message": "Від легкого до помірного снігопаду"
+   },
+   "w_409": {
+      "message": "Від помірного до сильного снігопаду"
+   },
+   "w_410": {
+      "message": "Від сильного снігопаду до заметілі"
+   },
+   "w_499": {
+      "message": "Сніг"
+   },
+   "w_500": {
+      "message": "Туман"
+   },
+   "w_501": {
+      "message": "Туман"
+   },
+   "w_502": {
+      "message": "Сухий туман"
+   },
+   "w_503": {
+      "message": "Пісок"
+   },
+   "w_504": {
+      "message": "Пил"
+   },
+   "w_507": {
+      "message": "Піщана буря"
+   },
+   "w_508": {
+      "message": "Сильна піщана буря"
+   },
+   "w_509": {
+      "message": "Густий туман"
+   },
+   "w_510": {
+      "message": "Дуже щільний туман"
+   },
+   "w_511": {
+      "message": "Помірний серпанок"
+   },
+   "w_512": {
+      "message": "Сильний серпанок"
+   },
+   "w_513": {
+      "message": "Серйозний серпанок"
+   },
+   "w_514": {
+      "message": "Туманно"
+   },
+   "w_515": {
+      "message": "Сильний туман"
+   },
+   "w_900": {
+      "message": "Гаряче"
+   },
+   "w_901": {
+      "message": "Холодно"
+   },
+   "w_999": {
+      "message": "Невідомий"
+   },
+   "wallpaper": {
+      "message": "Фоновий малюнок"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Додати спеціальний колір"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Не вдалося додати зображення. Спробуйте ще раз пізніше."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Local Wallpaper App не вдалося. Спробуйте ще раз пізніше"
+   },
+   "wallpaper_applying_library": {
+      "message": "Застосування бібліотеки шпалер..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Частота оновлення фонового рисунка"
+   },
+   "wallpaper_choose_library": {
+      "message": "Виберіть джерело шпалер"
+   },
+   "wallpaper_choose_single": {
+      "message": "Вибір фонового зображення"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Скасувати вибір"
+   },
+   "wallpaper_cloud": {
+      "message": "Хмара шпалери"
+   },
+   "wallpaper_collect_current": {
+      "message": "Зберіть поточні шпалери"
+   },
+   "wallpaper_common_color": {
+      "message": "Поширений колір"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Видалити цю шпалеру?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Не вдалося створити локальну бібліотеку шпалер. Спробуйте ще раз пізніше."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Індивідуальна бібліотека шпалер перевищує ліміт"
+   },
+   "wallpaper_custom_color": {
+      "message": "Змінити колір"
+   },
+   "wallpaper_delete_color": {
+      "message": "Видалити цей колір"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Видалено успішно"
+   },
+   "wallpaper_delete_file": {
+      "message": "Видалити шпалери"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Не вдалося видалити шпалери"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Вимкнути автоматичне перемикання шпалер"
+   },
+   "wallpaper_empty_text": {
+      "message": "Немає даних"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Не вдалося отримати шпалери"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Не вдалося отримати користувачам шпалери"
+   },
+   "wallpaper_library": {
+      "message": "Бібліотека шпалер"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$ локальна бібліотека шпалер",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Незаконне ім'я бібліотеки шпалер"
+   },
+   "wallpaper_library_preview": {
+      "message": "Перегляд шпалери"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Завантажте максимум 20 шпалер. Кожна шпалери не повинна перевищувати 10 м."
+   },
+   "wallpaper_loading": {
+      "message": "Обробка..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Для цього потрібне мережне підключення"
+   },
+   "wallpaper_remove_library": {
+      "message": "Видаліть цю бібліотеку шпалер"
+   },
+   "wallpaper_sort_default": {
+      "message": "Типовий впорядкування"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Популярність"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Дата включення"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Перемикач кожні 24 години"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Помилка переміщення шпалер"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Оновіть щоденні шпалери з Bing. Ви не можете вибрати частоту перемикання."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Перемикач кожні 1 годину"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Перемикайте кожні 12 годин"
+   },
+   "wallpaper_switch_success": {
+      "message": "Випадкові шпалери успішно змінилися"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Зміна на наступні шпалери"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Перемикач при відкритті нової вкладки"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Перемикач при відкритті сторінки"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Не вдалося завантажити файл. Причина: розмір перевищує ліміт"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Виберіть місцевий фон"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Потрібно принаймні один шпалер"
+   },
+   "want_more": {
+      "message": "Насолоджуйтесь більше пільг миттєво"
+   },
+   "weather": {
+      "message": "Погода"
+   },
+   "weather_empty": {
+      "message": "Немає інформації про погоду в даний час"
+   },
+   "web_set_home_title": {
+      "message": "Як встановити Infinity як домашню сторінку"
+   },
+   "website_address": {
+      "message": "URL-адреса"
+   },
+   "website_name": {
+      "message": "Назва веб-сайту"
+   },
+   "website_search_replace_char": {
+      "message": "URL (використовуйте% s, щоб замінити пошук Word)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Середа"
+   },
+   "wed_min": {
+      "message": "Ср"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Сила"
+   },
+   "wind_mill": {
+      "message": "Відобразити кнопку випадкових шпалер у нижньому правому куті"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search - це пошукова система, керована Yahoo"
+   },
+   "yandex": {
+      "message": "Яндекс"
+   },
+   "yandex_desc": {
+      "message": "Яндекс є одним з найважливіших інтернет-сервісних порталів у Росії"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$Рік$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Учора"
+   },
+   "you_need_login": {
+      "message": "Спочатку потрібно увійти в обліковий запис Infinity"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Ваша історія буде відображатися тут"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

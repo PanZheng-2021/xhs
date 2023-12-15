@@ -1,0 +1,235 @@
+{
+	"global_block_list": [
+		{
+			"value": "edge-webscratch|$|1697087349614708908",
+			"type": 2,
+			"feature": 0,
+			"source": 1,
+			"metadata": "global block list test form"
+		},
+		{
+			"value": "8153978097816738556|$|2376052379",
+			"type": 3,
+			"feature": 1,
+			"source": 1,
+			"metadata": "ms.portal.azure.com"
+		},
+		{
+			"value": "outlook.office365.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "outlook.office365.com"
+		},
+		{
+			"value": "tasks.office.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "tasks.office.com"
+		},
+		{
+			"value": "outlook.office.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "outlook.office.com"
+		},
+		{
+			"value": "edge-webscratch/scratch/edge/autofill/Credentials/SimpleLoginGlobalBlock.html",
+			"type": 0,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Test URL for global passwords blocklist"
+		},
+		{
+			"value": "autofill.account.microsoft.com/",
+			"type": 1,
+			"feature": 2,
+			"source": 1,
+			"metadata": "AMC password management page"
+		},
+		{
+			"value": "online.canarabank.in|$|-6908686398814051166",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Transaction Password"
+		},
+		{
+			"value": "online.canarabank.in|$|-5396408197698963614",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Change Transaction Password"
+		},
+		{
+			"value": "online.canarabank.in|$|4190082000",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Transaction Password"
+		},
+		{
+			"value": "online.canarabank.in|$|2463933404",
+			"type": 3,
+			"feature": 2,
+			"source": 1,
+			"metadata": "Canara Change Transaction Password"
+		},
+    {
+      "value": "dev.azure.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "dev.azure.com"
+    },
+    {
+      "value": "microsoft.visualstudio.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "microsoft.visualstudio.com"
+    },
+    {
+      "value": "bankofamerica.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "bankofamerica.com"
+    },
+    {
+      "value": "secure.bankofamerica.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "secure.bankofamerica.com"
+    },
+    {
+      "value": "turbotax.intuit.com",
+			"type": 1,
+			"feature": 1,
+			"source": 1,
+			"metadata": "turbotax.intuit.com"
+    },
+	{
+	  "value": "account.microsoft.com/profile",
+			"type": 0,
+			"feature": 1,
+			"source": 1,
+			"metadata": "account.microsoft.com/profile"
+    },
+	{
+		"value": "discord.com",
+		"type": 1,
+		"feature": 3,
+		"source": 1,
+		"metadata": "discord.com"
+	},
+	{
+		"value": "netportal.hdfcbank.com",
+		"type": 1,
+		"feature": 3,
+		"source": 1,
+		"metadata": "netportal.hdfcbank.com"
+	},
+	{
+		"value": "trackpan.utiitsl.com",
+		"type": 1,
+		"feature": 3,
+		"source": 1,
+		"metadata": "trackpan.utiitsl.com"
+	},
+	{
+		"value": "interactivebrokers",
+		"type": 4,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Block hosts containing interactivebrokers"
+	},
+	{
+		"value": "ibkr",
+		"type": 4,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Block hosts containing ibkr"
+	},
+	{
+		"value": "www.interactivebrokers.co.in",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "www.interactivebrokers.co.in"
+	},
+	{
+		"value": "interactivebrokers.co.in",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "interactivebrokers.co.in"
+	},
+	{
+		"value": "interactivebrokers.com",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "interactivebrokers.com"
+	},
+	{
+		"value": "www.interactivebrokers.com",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "www.interactivebrokers.com"
+	},
+	{
+		"value": "www.interactivebrokers.hk",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Interactive Brokers - HK"
+	},
+	{
+		"value": "www.interactivebrokers.com.hk",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Interactive Brokers - COM.HK"
+	},
+	{
+		"value": "ndcdyn.interactivebrokers.com",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Interactive Brokers - NDCDYN"
+	},
+	{
+		"value": "gdcdyn.interactivebrokers.com",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Interactive Brokers - GDCDYN"
+	},
+	{
+		"value": "www.interactivebrokers.ie",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Interactive Brokers - EU West"
+	},
+	{
+		"value": "www.interactivebrokers.hu",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Interactive Brokers - EU East & Central"
+	},
+	{
+		"value": "www.interactivebrokers.co.uk",
+		"type": 1,
+		"feature": 1,
+		"source": 1,
+		"metadata": "Interactive Brokers - non-EU Europe"
+	}
+	]
+}

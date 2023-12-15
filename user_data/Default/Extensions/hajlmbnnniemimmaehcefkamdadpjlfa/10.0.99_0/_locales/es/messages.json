@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Motor de búsqueda seguro"
+   },
+   "about": {
+      "message": "Información"
+   },
+   "about_us": {
+      "message": "Acerca de nosotros"
+   },
+   "account_expired": {
+      "message": "Su cuenta ha expirado, por favor inicie sesión de nuevo"
+   },
+   "account_setting": {
+      "message": "Ajustes de la cuenta"
+   },
+   "add": {
+      "message": "Añadir"
+   },
+   "add_city": {
+      "message": "Agregar ciudad"
+   },
+   "add_first_note": {
+      "message": "Toma la primera nota"
+   },
+   "add_icon_success": {
+      "message": "agregado con éxito"
+   },
+   "add_link": {
+      "message": "Añadir un enlace"
+   },
+   "add_new_search_engine": {
+      "message": "Agregar un motor de búsqueda nuevo"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Nueva biblioteca de papel tapiz"
+   },
+   "add_search_engine": {
+      "message": "Añadir motor de búsqueda"
+   },
+   "add_success": {
+      "message": "Añadido correctamente"
+   },
+   "add_to_home_site": {
+      "message": "Añadir a la página de inicio"
+   },
+   "add_to_infinity": {
+      "message": "Añadir a la página de Infinity New Tab"
+   },
+   "additional_search_engine": {
+      "message": "Motor de búsqueda adjunto"
+   },
+   "air_pressure": {
+      "message": "Presión"
+   },
+   "all_wallpaper_sources": {
+      "message": "Todos los fondos de pantalla"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Todas las fuentes de fondos de pantalla"
+   },
+   "ambiguity": {
+      "message": "Grado de desenfoque"
+   },
+   "animals": {
+      "message": "Animal"
+   },
+   "animation": {
+      "message": "Animaciones"
+   },
+   "animation_tips": {
+      "message": "El inicio de la animación puede afectar la fluidez"
+   },
+   "anime": {
+      "message": "Cómics"
+   },
+   "any_money": {
+      "message": "Cualquiera"
+   },
+   "app": {
+      "message": "Aplicación"
+   },
+   "app_disabled_enable_first": {
+      "message": "Ha desactivado esta aplicación. ¿Permitir que Infinity active primero esta aplicación?"
+   },
+   "application": {
+      "message": "Aplicación"
+   },
+   "apply": {
+      "message": "Aplicar"
+   },
+   "architecture": {
+      "message": "Arquitectura"
+   },
+   "athletics": {
+      "message": "Deportes"
+   },
+   "avatar": {
+      "message": "Elegir un avatar"
+   },
+   "backing_up": {
+      "message": "Copia de Seguridad..."
+   },
+   "backup_and_recovery": {
+      "message": "Copia de seguridad y recuperación"
+   },
+   "backup_failed": {
+      "message": "Falló la copia de seguridad"
+   },
+   "backup_now": {
+      "message": "Crear copia de seguridad ahora"
+   },
+   "backup_successful": {
+      "message": "Copia de seguridad exitosa"
+   },
+   "backup_tips": {
+      "message": "Guardamos un máximo de tres nodos de respaldo manual y tres nodos de respaldo automático"
+   },
+   "backup_with_device": {
+      "message": "Sincronizar con otros dispositivos"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Céntrese en recabar fotos gratis y de gran calidad diferentes de las de las galerías\""
+   },
+   "basic_info": {
+      "message": "Información general"
+   },
+   "bg_color": {
+      "message": "Color de fondo"
+   },
+   "bg_updating": {
+      "message": "En la actualización, por favor espere ..."
+   },
+   "bind": {
+      "message": "Asociar"
+   },
+   "bind_success": {
+      "message": "Se ha asociado"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing es un motor de búsqueda desarrollado por Microsoft\""
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Biblioteca de fondos de pantalla diarios de Bing"
+   },
+   "bookmarks": {
+      "message": "Marcadores"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ no es compatible con esta función",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "cancel_login": {
+      "message": "Cancelar inicio de sesión"
+   },
+   "cancel_remind_time": {
+      "message": "Cancelar la hora del recordatorio"
+   },
+   "cancel_set_top": {
+      "message": "Eliminar pin"
+   },
+   "cannot_change_password": {
+      "message": "No puede cambiar la contraseña si inicia sesión con una cuenta de terceros"
+   },
+   "cannot_change_profile": {
+      "message": "Los usuarios externos que inician sesión no pueden modificar la información del perfil"
+   },
+   "cannot_download": {
+      "message": "No se admiten descargas"
+   },
+   "cannot_empty": {
+      "message": "No Puede Estar en Blanco"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Cambiar la hora del recordatorio"
+   },
+   "change_wallpaper": {
+      "message": "Cambiar el fondo de pantalla"
+   },
+   "check_olddata_desc": {
+      "message": "Se detecta que hay una versión antigua de los datos heredados, que pueden actualizarse. Si necesita, intenta actualizar estos datos."
+   },
+   "choose_sync_type": {
+      "message": "Elija los datos de la cuenta"
+   },
+   "chose_from_mypc": {
+      "message": "Crear biblioteca de fondos de pantalla"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "Aplicaciones de $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store: extensiones"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Ingrese el chrome://settings/appearance en la barra de direcciones e ingrese la página de configuración."
+   },
+   "chrome_browser_guide2": {
+      "message": "Deslice hacia abajo hasta la parte inferior y seleccione la opción indicada por la flecha en la figura."
+   },
+   "chrome_browser_guide3": {
+      "message": "Ingrese URL https://inftab.com en la ventana emergente y luego haga clic en el botón Agregar para completar la configuración de la página de inicio."
+   },
+   "clear_historys": {
+      "message": "Borrar historial"
+   },
+   "col_gap": {
+      "message": "Espacio entre columnas"
+   },
+   "col_num": {
+      "message": "Filas"
+   },
+   "color": {
+      "message": "Color"
+   },
+   "color_icon": {
+      "message": "Icono de color sólido"
+   },
+   "come_from": {
+      "message": "From User"
+   },
+   "comming_soon": {
+      "message": "Próximamente"
+   },
+   "comming_soon_title": {
+      "message": "Infinity Mobile Version está en camino"
+   },
+   "confirm": {
+      "message": "Aceptar"
+   },
+   "confirm_clear_all_history": {
+      "message": "¿Desea borrar todos los registros del historial?"
+   },
+   "confirm_cover_remote": {
+      "message": "Los datos locales se guardarán en un nodo de respaldo manual"
+   },
+   "confirm_del_folder": {
+      "message": "¿Seguro que quieres eliminar esta carpeta?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "¿Seguro que quiere eliminar los elementos completados?"
+   },
+   "confirm_delete_note": {
+      "message": "Confirmar borrado de nota?"
+   },
+   "confirm_logout": {
+      "message": "Cerrar sesión"
+   },
+   "confirm_password": {
+      "message": "Confirmar nueva contraseña"
+   },
+   "confirm_password_2": {
+      "message": "Confirmar contraseña"
+   },
+   "confirm_recovery_data": {
+      "message": "Los datos de la nube reemplazarán los datos locales. ¿Está seguro de esta acción?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "¿Seguro que quiere eliminar esta biblioteca de fondos de pantalla?"
+   },
+   "confirm_unbind": {
+      "message": "¿Desconectar esta cuenta?"
+   },
+   "confirm_unbind_email": {
+      "message": "¿Está seguro de que desea desvincular su correo electrónico $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "¿Está seguro de que desea desvincular su número de teléfono $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Ingeniero de contacto"
+   },
+   "contact_us": {
+      "message": "Contáctanos"
+   },
+   "copy": {
+      "message": "Copiar"
+   },
+   "cubic_bezier": {
+      "message": "Retroceso"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Foto de perfil"
+   },
+   "current_browser_not_support": {
+      "message": "El navegador actual no admite la administración de extensiones"
+   },
+   "current_no_reminders": {
+      "message": "No hay Tareas"
+   },
+   "current_node": {
+      "message": "Nodo actual"
+   },
+   "custom": {
+      "message": "Personalizar"
+   },
+   "custom_icon": {
+      "message": "Personalizar iconos"
+   },
+   "custom_layout": {
+      "message": "Personalizar diseño"
+   },
+   "custom_site": {
+      "message": "Sitio web personalizado"
+   },
+   "default": {
+      "message": "Predeterminado"
+   },
+   "del_folder": {
+      "message": "Eliminar"
+   },
+   "delete_all_bookmarks": {
+      "message": "Eliminar todos los favoritos de esta carpeta"
+   },
+   "disable_chrome_app": {
+      "message": "¿Desactivar aplicación?"
+   },
+   "disable_extension": {
+      "message": "Desactivar extensiones"
+   },
+   "do_later": {
+      "message": "Hablar de eso más tarde"
+   },
+   "done": {
+      "message": "Listo"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Descargar CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Descargar fondo de escritorio"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo se centra en importar contenido de sitios importantes de Web 2.0 además de los motores de búsqueda tradicionales. La filosofía del sitio web es respectar la privacidad de los usuarios, prometiendo no controlar o documentar el contenido de búsqueda de los usuarios"
+   },
+   "ease_in": {
+      "message": "Desvanecimiento de entrada"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Complemento Edge"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Ingrese edge://settings/onStartup en la barra de direcciones del navegador, luego presione la tecla ENTER."
+   },
+   "edge_browser_guide2": {
+      "message": "Haga clic en la opción indicada por la flecha en la figura."
+   },
+   "edge_browser_guide3": {
+      "message": "Ingrese URL https://inftab.com en la ventana emergente y luego haga clic en el botón Agregar para completar la configuración de la página de inicio."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Editar"
+   },
+   "edit_avatar": {
+      "message": "Editar avatar"
+   },
+   "edit_content": {
+      "message": "Editar contenido"
+   },
+   "edit_icon": {
+      "message": "Editar icono"
+   },
+   "education": {
+      "message": "Educación y empleos"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_code": {
+      "message": "Código de verificación de correo"
+   },
+   "email_format_error": {
+      "message": "El formato de email no es correcto"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Correo electrónico o número de teléfono móvil"
+   },
+   "empty": {
+      "message": "Vacío"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "¿Desea eliminar la carpeta?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "¿Desea borrar este marcador?"
+   },
+   "ensure_logout": {
+      "message": "¿Estás seguro de que deseas cerrar sesión?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "complete su lista de tareas pendientes, añádalas pulsando Intro"
+   },
+   "enter_password_tips": {
+      "message": "Introduce tu frase de contraseña"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Por favor, introduzca nº de teléfono correcto"
+   },
+   "enter_verification_code_tips": {
+      "message": "Introduce el código de verificación"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Datos de respaldo de exportación"
+   },
+   "export_local_data_desc": {
+      "message": "Exportación de datos locales actuales"
+   },
+   "extension": {
+      "message": "Extensiones"
+   },
+   "extension_app": {
+      "message": "Extensiones"
+   },
+   "extension_des": {
+      "message": "Añada con libertad iconos de páginas web, disfrute de fondos de pantalla de alta definición en la nube y acceda rápidamente a favoritos, información meteorológica, notas, tareas pendientes, gestión de extensiones e historial en la página Nueva pestaña, que ya han elegido millones de usuarios. "
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP le permite personalizar la página de nueva pestaña"
+   },
+   "extension_des_firefox": {
+      "message": "La nueva pestaña elegida por millones,incluyendo los iconos web,los motores de búsqueda,los fondos de pantalla HD y los widgets,como el clima,las notas,los marcadores,la lista de tareas,la historia,la gestión de extensiones,etc."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro le permite personalizar la página de nueva pestaña"
+   },
+   "extension_mananger": {
+      "message": "Administrar extensiones"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Unirse al grupo de Facebook"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Comentarios"
+   },
+   "female": {
+      "message": "Mujer"
+   },
+   "filter": {
+      "message": "Filtro"
+   },
+   "finance": {
+      "message": "Financiar"
+   },
+   "firefox": {
+      "message": "FireFox"
+   },
+   "firefox_app_store": {
+      "message": "Tienda de complementos de Firefox"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Entrada about: preferences #home en la barra de direcciones para ingresar la página de configuración."
+   },
+   "firefox_browser_guide2": {
+      "message": "Como se muestra en la flecha en la figura, seleccione la opción de las URL personalizadas."
+   },
+   "firefox_browser_guide3": {
+      "message": "Ingrese la URL https://inftab.com En el cuadro de texto, la configuración de la página de inicio está completa."
+   },
+   "five_star": {
+      "message": "Valorar con 5 estrellas"
+   },
+   "folder": {
+      "message": "Carpeta"
+   },
+   "follow_us": {
+      "message": "Síguenos"
+   },
+   "follow_wechat": {
+      "message": "Siga la cuenta pública de Infinity Wechat"
+   },
+   "follow_wechat_desc": {
+      "message": "Preste atención a nuestro número público de Wechat (Micro Signal: InfinityDaily), obtenga la última dinámica del producto de Infinity, y puede descubrir más diversión para expandirse y al sitio web."
+   },
+   "font": {
+      "message": "Fuentes"
+   },
+   "font_color": {
+      "message": "Color de fuente"
+   },
+   "font_size": {
+      "message": "Tamaño del texto"
+   },
+   "food_drink": {
+      "message": "Comida"
+   },
+   "forget_password": {
+      "message": "Has olvidado la contraseña"
+   },
+   "format_error": {
+      "message": "Error de formato"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Gran cantidad de fotos libres de derechos, gratis y subidas todos los días"
+   },
+   "fri": {
+      "message": "Viernes"
+   },
+   "fri_min": {
+      "message": "Vie"
+   },
+   "fully_authorized_to_use": {
+      "message": "Totalmente autorizado para usar las funciones"
+   },
+   "games": {
+      "message": "Juegos y entretenimiento"
+   },
+   "gamil_notice": {
+      "message": "Notificaciones de Gmail"
+   },
+   "gender": {
+      "message": "Seleccionar género"
+   },
+   "get_app_permission": {
+      "message": "Autorice la obtención de la aplicación local"
+   },
+   "get_cloud_icon": {
+      "message": "Adquirir en línea"
+   },
+   "give_money": {
+      "message": "Donar"
+   },
+   "give_money_thanks": {
+      "message": "Su apoyo es nuestra mayor recompensa"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Si le gusta la página Infinity New Tab, califique nuestro servicio o envíenos sus comentarios para ayudarnos a mejorar."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Si tiene alguna pregunta o sugerencia, contáctenos."
+   },
+   "gmail_notice_voice": {
+      "message": "Tono de notificación de Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "El buscador de Google es un motor de búsqueda desarrollado por Google. Es el motor de búsqueda más grande e influyente de Internet"
+   },
+   "have_todo_item": {
+      "message": "Actualmente tiene una tarea pendiente"
+   },
+   "hide_homepage_btn": {
+      "message": "Ocultar set como botón de inicio"
+   },
+   "hide_icon_name": {
+      "message": "Ocultar nombre del icono"
+   },
+   "hide_search_button": {
+      "message": "Ocultar botón de búsqueda"
+   },
+   "hide_search_category": {
+      "message": "Ocultar categoría de búsqueda"
+   },
+   "hide_search_input": {
+      "message": "Ocultar cuadro de búsqueda"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Ocultar set como botón de inicio"
+   },
+   "hint": {
+      "message": "Propina"
+   },
+   "history": {
+      "message": "Historial"
+   },
+   "history_backup_list": {
+      "message": "Lista de nodos de respaldo del historial"
+   },
+   "history_week": {
+      "message": "Buscar historial de una semana"
+   },
+   "host_permission": {
+      "message": "Permisos del servidor"
+   },
+   "hour": {
+      "message": "hora"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Sitio web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Quiero enviar una sugerencia"
+   },
+   "icon": {
+      "message": "Icono"
+   },
+   "icon_added": {
+      "message": "Añadido"
+   },
+   "icon_bg_text": {
+      "message": "Texto del icono"
+   },
+   "icon_network_error": {
+      "message": "Excepción de red, haga clic para recargar"
+   },
+   "ignore": {
+      "message": "Ignorar"
+   },
+   "img_verify_code": {
+      "message": "Imagen de verificación"
+   },
+   "import_data": {
+      "message": "Importar datos de copia de seguridad"
+   },
+   "import_data_desc": {
+      "message": "Recuperar datos del archivo de copia de seguridad"
+   },
+   "import_select_tile": {
+      "message": "Seleccionar datos"
+   },
+   "infinity_bookmarks": {
+      "message": "Combine sus carpetas de favoritos y encuentre sus favoritos con mayor facilidad con Favoritos Infinity"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Fondos de pantalla de anime destacados de Infinity"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Biblioteca de fondos de pantalla de anime de Infinity de alta calidad"
+   },
+   "infinity_extension": {
+      "message": "Administre sus extensiones y aplicaciones de $browser$ fácilmente con Administrador de extensiones Infinity",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Consulte y administre rápidamente el historial de su navegador con Historial Infinity"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Fondos de pantalla de paisajes destacados de Infinity"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Biblioteca de fondos de pantalla de paisajes de Infinity de alta calidad"
+   },
+   "infinity_notes": {
+      "message": "Anote sus inspiraciones rápidamente con Notas Infinity"
+   },
+   "infinity_settings": {
+      "message": "Personalice su página Infinity New Tab con Ajustes Infinity"
+   },
+   "infinity_todos": {
+      "message": "Organice sus tareas por orden y gane en eficiencia trabajando con Tareas pendientes Infinity"
+   },
+   "infinity_wallpaper": {
+      "message": "Biblioteca de fondos de pantalla Infinity le ofrece fondos de pantalla atractivos y emocionantes"
+   },
+   "infinity_weather": {
+      "message": "Climatología Infinity le ofrece las previsiones meteorológicas de ciudades de todo el mundo"
+   },
+   "info": {
+      "message": "Información"
+   },
+   "inportdata_desc": {
+      "message": "Los datos importados y locales no coinciden. Elija combinar o sobrescribir."
+   },
+   "input_and_search": {
+      "message": "Escribir texto de búsqueda"
+   },
+   "input_city": {
+      "message": "Entrar en una ciudad/región"
+   },
+   "input_new_password": {
+      "message": "Escribe una contraseña nueva"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Asociada"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Fotos gratis para cualquier uso"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Mantener el contenido del cuadro de búsqueda"
+   },
+   "label": {
+      "message": "Etiquetas"
+   },
+   "language": {
+      "message": "Idioma"
+   },
+   "language_select": {
+      "message": "Seleccionar idioma"
+   },
+   "last_sync_time": {
+      "message": "Hora de la última sincronización: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Última actualización"
+   },
+   "layout": {
+      "message": "Diseño"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Fuente de fondos de pantalla gratis en alta definición"
+   },
+   "life_style": {
+      "message": "Estilo de vida"
+   },
+   "limit_input_length": {
+      "message": "Longitud del texto más allá del límite"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Icono local"
+   },
+   "local_wallpaper2": {
+      "message": "Fondos de pantalla locales"
+   },
+   "login": {
+      "message": "Iniciar sesión"
+   },
+   "login_abandon_tips": {
+      "message": "El método de inicio de sesión actual se eliminará pronto, vincule su correo electrónico u otra cuenta de terceros lo antes posible después de iniciar sesión"
+   },
+   "login_now": {
+      "message": "Inicie sesión en su cuenta Infinity ahora para disfrutar de más permisos"
+   },
+   "login_now_btn": {
+      "message": "Iniciar sesión"
+   },
+   "login_register": {
+      "message": "Entra / Regístrate"
+   },
+   "loging": {
+      "message": "Iniciando sesión"
+   },
+   "logout": {
+      "message": "Cerrar sesión"
+   },
+   "logout_clear_something": {
+      "message": "Borrar la configuración personalizada y otra información de este dispositivo"
+   },
+   "logout_tips": {
+      "message": "¿Necesita borrar los datos locales antes de cerrar la sesión de su cuenta para evitar que se conecten los datos de las diferentes cuentas de este dispositivo?"
+   },
+   "logout_warn": {
+      "message": "Tras cerrar la sesión de la cuenta se eliminará toda la información de respaldo de esta cuenta. ¿Seguro que quiere cerrar la sesión de esta cuenta?(La imagen de las notas y las bibliotecas de papel tapiz personalizadas pueden no estar disponibles)"
+   },
+   "male": {
+      "message": "Hombre"
+   },
+   "manage_backup_node": {
+      "message": "Administrar los nodos de respaldo del historial"
+   },
+   "manul_backup": {
+      "message": "Copia de respaldo manual"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "Atenuar el fondo de pantalla"
+   },
+   "me": {
+      "message": "Yo"
+   },
+   "merge_cloud_local": {
+      "message": "Combinar los datos locales y los de la nube"
+   },
+   "merge_data": {
+      "message": "Combinar datos"
+   },
+   "mini_mode": {
+      "message": "Estilo minimalista"
+   },
+   "mins": {
+      "message": "Minutos"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Utilícelos en sus sitios web, temas, plantillas, proyectos, materiales de impresión y periódicos. Se añaden nuevos fondos de pantalla y videos todas las semanas"
+   },
+   "mobile_devices": {
+      "message": "Edición móvil Infinity"
+   },
+   "modify": {
+      "message": "Editar datos"
+   },
+   "modify_email": {
+      "message": "Modificar dirección de correo electrónico"
+   },
+   "modify_password": {
+      "message": "Cambiar contraseña"
+   },
+   "modify_phone_number": {
+      "message": "Modificar el número de teléfono"
+   },
+   "modify_pwd": {
+      "message": "Cambiar contraseña"
+   },
+   "modify_success": {
+      "message": "Cambiada correctamente"
+   },
+   "modify_this": {
+      "message": "Editar"
+   },
+   "mon": {
+      "message": "Lunes"
+   },
+   "mon_min": {
+      "message": "Lun"
+   },
+   "month_1": {
+      "message": "Enero"
+   },
+   "month_10": {
+      "message": "Octubre"
+   },
+   "month_11": {
+      "message": "Noviembre"
+   },
+   "month_12": {
+      "message": "Diciembre"
+   },
+   "month_2": {
+      "message": "Febrero"
+   },
+   "month_3": {
+      "message": "marcha"
+   },
+   "month_4": {
+      "message": "Abril"
+   },
+   "month_5": {
+      "message": "Mayo"
+   },
+   "month_6": {
+      "message": "Junio"
+   },
+   "month_7": {
+      "message": "Julio"
+   },
+   "month_8": {
+      "message": "Agosto"
+   },
+   "month_9": {
+      "message": "Septiembre"
+   },
+   "more_content_from_site": {
+      "message": "Más contenido de esta página web"
+   },
+   "most_used_in_chinese": {
+      "message": "El motor de búsqueda más utilizado por los chinos"
+   },
+   "music_video": {
+      "message": "Videoclip"
+   },
+   "my_collection": {
+      "message": "Mi colección"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity Nueva pestaña"
+   },
+   "name_app": {
+      "message": "Infinity Nueva pestaña (APP)"
+   },
+   "name_error": {
+      "message": "Ingrese el nombre del sitio web"
+   },
+   "name_pro": {
+      "message": "Infinity Nueva pestaña (Pro)"
+   },
+   "nature": {
+      "message": "Naturaleza"
+   },
+   "need_you_permission": {
+      "message": "Permiso requerido"
+   },
+   "network_error": {
+      "message": "Error de red"
+   },
+   "new_email": {
+      "message": "Correo nuevo"
+   },
+   "new_password": {
+      "message": "Escribe una contraseña nueva"
+   },
+   "new_phone_number": {
+      "message": "Nuevo número de móvil"
+   },
+   "new_tab": {
+      "message": "Nueva pestaña"
+   },
+   "new_tab_web": {
+      "message": "Página de inicio Infinity"
+   },
+   "news": {
+      "message": "Noticias"
+   },
+   "next": {
+      "message": "Siguiente"
+   },
+   "nickname": {
+      "message": "Sobrenombre"
+   },
+   "no_account_register": {
+      "message": "¿No tiene una cuenta? Regístrese ahora."
+   },
+   "no_backup_time": {
+      "message": "No hay"
+   },
+   "no_bookmark_result": {
+      "message": "Sin marcador"
+   },
+   "no_chrome_app": {
+      "message": "No ha instalado ninguna aplicación de $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Ningún dato meteorológico"
+   },
+   "no_data": {
+      "message": "Sin info"
+   },
+   "no_description": {
+      "message": "Sin descripción"
+   },
+   "no_more": {
+      "message": "Ya no más"
+   },
+   "no_more_reminder": {
+      "message": "No mostrar de nuevo"
+   },
+   "no_permission_text": {
+      "message": "Se recomienda que intente abrir y otorgar este permiso en la barra de direcciones del navegador o en el Centro de Configuración."
+   },
+   "no_permission_title": {
+      "message": "Aún no se ha concedido el permiso"
+   },
+   "no_permission_to_open_app": {
+      "message": "No tiene permiso para abrir la aplicación de $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "No hay Tareas"
+   },
+   "no_search_result": {
+      "message": "Sin resultados de búsqueda"
+   },
+   "no_title": {
+      "message": "Sin título"
+   },
+   "none": {
+      "message": "Oculto"
+   },
+   "none_auto_backup": {
+      "message": "Actualmente no hay copias de seguridad programadas"
+   },
+   "none_auto_backup_desc": {
+      "message": "Las copias de seguridad programadas comenzarán el mismo día en que modifique la información en Infinity"
+   },
+   "none_manual_backup": {
+      "message": "Actualmente no hay copias de seguridad manuales"
+   },
+   "normal_model": {
+      "message": "Modo estándar"
+   },
+   "not_binding": {
+      "message": "No asociada"
+   },
+   "note_title": {
+      "message": "Por favor, introduzca título de la nota"
+   },
+   "note_upload_img_15": {
+      "message": "El tamaño de la photo no puede exceder los 15 Mb"
+   },
+   "notes": {
+      "message": "Notas"
+   },
+   "notice": {
+      "message": "Aviso"
+   },
+   "ocean": {
+      "message": "Océano"
+   },
+   "one_day_later": {
+      "message": "Recordarlo mañana"
+   },
+   "one_week_later": {
+      "message": "Recuérdamelo dentro de 1 semana"
+   },
+   "only_used_infinity": {
+      "message": "Solo se usa para los módulos internos de Infinity"
+   },
+   "opacity": {
+      "message": "Opacidad de los iconos"
+   },
+   "open_all": {
+      "message": "Abrir todas"
+   },
+   "open_chrome_app": {
+      "message": "Habilitar aplicación"
+   },
+   "open_extension": {
+      "message": "Activar extensión"
+   },
+   "open_folder_icons": {
+      "message": "Abrir todas"
+   },
+   "open_new_tab": {
+      "message": "Abrir sitio web en nueva pestaña"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Abrir enlace guardado en favoritos en la nueva pestaña"
+   },
+   "open_newtab_history": {
+      "message": "Abrir historial en la nueva pestaña"
+   },
+   "open_newtab_show_search": {
+      "message": "Abrir resultados de búsqueda externos en la nueva pestaña"
+   },
+   "origin_password": {
+      "message": "Contraseña antigua"
+   },
+   "other_bookmarks": {
+      "message": "Otros marcadores"
+   },
+   "others": {
+      "message": "Otros"
+   },
+   "oversize": {
+      "message": "El tamaño no puede superar los 2 m"
+   },
+   "overwrite_data": {
+      "message": "Sobrescribir datos"
+   },
+   "pagin": {
+      "message": "Botón de cambio de página"
+   },
+   "password": {
+      "message": "Contraseña"
+   },
+   "password_dont_empty": {
+      "message": "La contraseña no puede estar vacía"
+   },
+   "password_length_low": {
+      "message": "Contraseña de no menos de 6 dígitos"
+   },
+   "password_not_equals": {
+      "message": "Las contraseñas no coinciden"
+   },
+   "password_not_some": {
+      "message": "Dos entradas de contraseña inconsistentes"
+   },
+   "permission": {
+      "message": "Autorizar"
+   },
+   "permission_all": {
+      "message": "Autorizar a todos"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Solicitud para acceder a sus datos y modificarlos en mail.google.com; solicitud para mostrar notificaciones"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Notificaciones de Gmail"
+   },
+   "permission_gmail_num_content": {
+      "message": "Solicitud para acceder a sus datos y modificarlos en mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Acceder a la cantidad de Gmail"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Solicitud para acceder a sus datos y modificarlos en google.com y suggestion.baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Sugerencias para la búsqueda"
+   },
+   "permission_todo_notice_content": {
+      "message": "Solicitud de notificación de visualización"
+   },
+   "permission_todo_notice_title": {
+      "message": "Notificación de tareas pendientes"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Solicitud para acceder a los iconos correspondientes a las páginas web visitadas y para acceder a sus favoritos y modificarlos"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Mostrar favoritos en la parte superior"
+   },
+   "permission_top_useful_content": {
+      "message": "Solicitud para acceder a los iconos correspondientes a las páginas web visitadas y acceder a su lista de páginas web más frecuentes y modificarla"
+   },
+   "permission_top_useful_title": {
+      "message": "Mostrar sitios utilizados frecuentemente en la parte superior"
+   },
+   "permisson_label": {
+      "message": "Permisos"
+   },
+   "phone_number": {
+      "message": "Número de teléfono"
+   },
+   "photos": {
+      "message": "Imágenes"
+   },
+   "pick_local_wallpaper": {
+      "message": "Selecciona un fondo de escritorio local"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Fotos gratis y bonitas disponibles para cualquier uso"
+   },
+   "placeholder_name": {
+      "message": "Nombre"
+   },
+   "please_chose_picture": {
+      "message": "Por favor seleccione Imagen"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Ingresa el nombre de Favorito"
+   },
+   "please_enter_email": {
+      "message": "Introduce la dirección de email"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Por favor ingrese el código de verificación de la imagen"
+   },
+   "please_enter_nickname": {
+      "message": "Introducir sobrenombre"
+   },
+   "please_enter_phone": {
+      "message": "Ingrese el número de teléfono."
+   },
+   "please_enter_right_account": {
+      "message": "Por favor ingrese el correo electrónico o número de teléfono correcto"
+   },
+   "please_enter_text": {
+      "message": "Texto de entrada"
+   },
+   "please_enter_url": {
+      "message": "Escribe una URL"
+   },
+   "please_input_bg_text": {
+      "message": "Por favor ingrese el texto del icono"
+   },
+   "please_pre_login": {
+      "message": "Inicie sesión primero"
+   },
+   "please_re_login": {
+      "message": "Inicie sesión nuevamente"
+   },
+   "please_set_your_password": {
+      "message": "Por favor, configure una contraseña"
+   },
+   "please_type_link": {
+      "message": "Por favor, introduzca enlace"
+   },
+   "please_type_right_link": {
+      "message": "Introduzca la dirección correcta del enlace"
+   },
+   "please_upload_photos": {
+      "message": "Por favor, agregue una imagen"
+   },
+   "popular": {
+      "message": "Popular"
+   },
+   "preview": {
+      "message": "Vista previa"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Privacidad y recopilación de datos"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Imágenes generadas por el icono de la página web personalizado"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Imágenes generadas por un motor de búsqueda personalizado"
+   },
+   "privacy_data_item_2_1": {
+      "message": "La dirección de correo electrónico registrada, la foto de perfil subida, el apodo elegido, la contraseña de texto enriquecido y otra información"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Si inicia sesión con una cuenta de terceros, almacenaremos su apodo, sexo, foto de perfil y otra información proporcionada por el tercero."
+   },
+   "privacy_data_item_2_3": {
+      "message": "Información del icono de la página web e información del motor de búsqueda que haya añadido"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Información meteorológica de su zona o información meteorológica de otras zonas que haya establecido"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Listas de tareas pendientes que haya creado"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Contenido de las notas que haya creado e imágenes que haya subido a sus notas"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Su fondo de pantalla actual, la configuración de los fondos de pantalla, las imágenes que haya subido a su fondo de pantalla local y las imágenes que haya subido a su biblioteca de fondos de pantalla local"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Configuración de la extensión"
+   },
+   "privacy_data_item_3_1": {
+      "message": "El servidor podrá almacenar registros generados durante las interacciones con usuarios y clientes. Este registro se utiliza principalmente para solucionar errores de excepción. Borraremos este registro de vez en cuando. "
+   },
+   "privacy_data_item_4_1": {
+      "message": "Tipo de navegador, idioma, versión y resolución de la pantalla"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Actualmente se inicia sesión o no"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Número aproximado de iconos actuales"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Extensiones actualmente habilitadas (si usa la gestión de extensiones)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Número de veces que esta extensión ha sido abierta."
+   },
+   "privacy_data_item_4_2": {
+      "message": "Dirección IP y ubicación geográfica derivada de la dirección IP"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Se han añadido iconos de páginas web y motores de búsqueda"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Configuración de fondo de pantalla y extensión"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Versión de extensión"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Frecuencia de pulsación de los botones de funciones"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Mensaje de error de excepción"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Abra el host de dirección del sitio web."
+   },
+   "privacy_data_item_4_9": {
+      "message": "Host de motor de búsqueda actual"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Contaremos de forma anónima la cantidad de veces que se usan algunos motores de búsqueda."
+   },
+   "privacy_data_item_9": {
+      "message": "Debe aceptar esta política de privacidad antes de poder utilizar esta extensión. Consulte nuestra $the_infinity_privacy$ para obtener más información.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "No, no recopilar los datos anónimos"
+   },
+   "privacy_data_title_1": {
+      "message": "Podemos almacenar imágenes generadas voluntariamente por los usuarios durante el uso. Las siguientes imágenes se almacenan de forma anónima:"
+   },
+   "privacy_data_title_2": {
+      "message": "Si se registra o inicia sesión en su cuenta, tenemos que almacenar los siguientes datos identificables (en lo sucesivo, datos de usuario) en nuestro servidor para completar la copia de seguridad y la sincronización de los datos:"
+   },
+   "privacy_data_title_3": {
+      "message": "Registro del servidor:"
+   },
+   "privacy_data_title_4": {
+      "message": "La recopilación de la siguiente información es opcional. La información que se recopilará de forma anónima a través de Google Analytics nos ayudará a mejorar nuestros productos:"
+   },
+   "privacy_data_title_5": {
+      "message": "Analisis estadistico:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Confirme la desinstalación de la página Infinity New Tab"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Confirme la desinstalación de Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "¿Desea desinstalar la página Infinity New Tab?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "¿Desea desinstalar Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Sí, pueden recopilar los datos anónimos de acuerdo con la política de privacidad"
+   },
+   "privacy_disagree": {
+      "message": "No acepto"
+   },
+   "privacy_policy": {
+      "message": "Política de Privacidad"
+   },
+   "privacy_title": {
+      "message": "Acuerdo de política de privacidad"
+   },
+   "profile": {
+      "message": "Información personal"
+   },
+   "pure_color": {
+      "message": "Color puro"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Grupo de QQ"
+   },
+   "qq_zone": {
+      "message": "QZone"
+   },
+   "random_wallpaper": {
+      "message": "Fondos de Pantalla Aleatorios"
+   },
+   "re_update": {
+      "message": "Re-actualización"
+   },
+   "read": {
+      "message": "Lectura"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Una gran cantidad de fotos en alta definición disponibles para uso personal y comercial, siete nuevas todas las semanas"
+   },
+   "recently_add": {
+      "message": "Añadido recientemente"
+   },
+   "recently_use": {
+      "message": "Usados recientemente"
+   },
+   "recover_error": {
+      "message": "La recuperación de datos falló"
+   },
+   "recover_error_version": {
+      "message": "Formato de datos no compatible"
+   },
+   "recover_this": {
+      "message": "Recuperar de este nodo"
+   },
+   "redius": {
+      "message": "Esquinas redondeadas del icono"
+   },
+   "refresh_qrcode": {
+      "message": "El código QR no es válido, haga clic en Actualizar"
+   },
+   "register": {
+      "message": "Registrar"
+   },
+   "register_back": {
+      "message": "Regresar"
+   },
+   "register_get_email_code_error": {
+      "message": "Error al obtener el código de verificación"
+   },
+   "register_now": {
+      "message": "Registre su cuenta Infinity ahora para disfrutar de más permisos"
+   },
+   "relative_humidity": {
+      "message": "Humedad relativa"
+   },
+   "reload": {
+      "message": "Vuelve a intentarlo"
+   },
+   "reminder_update_text1": {
+      "message": "Para que obtenga una mejor experiencia de usar Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Se recomienda actualizar el navegador a la última versión y utilizar un navegador compatible con Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Pantalla de error en la página"
+   },
+   "remove_account": {
+      "message": "Eliminar cuenta"
+   },
+   "remove_done": {
+      "message": "Eliminar tareas pendientes completadas"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Todos los fondos de pantalla de esta biblioteca de fondos de pantalla se eliminarán"
+   },
+   "rename_folder": {
+      "message": "Cambiar nombre"
+   },
+   "repair_auto_backup": {
+      "message": "Copia de seguridad automática de datos"
+   },
+   "repair_concat": {
+      "message": "Detalles de contacto"
+   },
+   "repair_concat_email": {
+      "message": "Correo electrónico: "
+   },
+   "repair_concat_qq": {
+      "message": "Ingeniero QQ: "
+   },
+   "repair_data": {
+      "message": "Datos de reparación"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Envíenos el archivo de datos a reparar a través de la siguiente información de contacto y lo ayudaremos a reparar los datos lo antes posible. Antes de que el ingeniero resuelva el problema, intente no realizar otras operaciones. Este archivo puede contener información confidencial, como cuentas, no la revele a otras personas."
+   },
+   "repair_data_title": {
+      "message": "Recuperar datos perdidos o dañados"
+   },
+   "repair_export_btn": {
+      "message": "Datos de exportación a reparar."
+   },
+   "repeat_city": {
+      "message": "No puede volver a añadir la misma ciudad"
+   },
+   "reqeust_login_message": {
+      "message": "Debes haberte registrado para utilizar esta función"
+   },
+   "request_logout_confirm": {
+      "message": "¿Queres eliminar tu cuenta?"
+   },
+   "request_reset_all_settings": {
+      "message": "Estas seguro de que quieres reiniciar tu configuración a sus valores por defecto?"
+   },
+   "reset": {
+      "message": "Restablecer"
+   },
+   "reset_password": {
+      "message": "Restablecer contraseña"
+   },
+   "reset_password_by_email": {
+      "message": "Restablezca su contraseña mediante la verificación por correo electrónico"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Contraseña de reinicio verificada por correo electrónico o número de teléfono"
+   },
+   "reset_setting": {
+      "message": "Restablecer configuración"
+   },
+   "reset_your_password": {
+      "message": "Por favor cambiar contraseña"
+   },
+   "restore_setting": {
+      "message": "Restaurar configuración"
+   },
+   "revovery_data": {
+      "message": "Restaurar datos"
+   },
+   "row_gap": {
+      "message": "Interlineado"
+   },
+   "row_num": {
+      "message": "Columnas"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Haga clic en la opción como se muestra en la flecha en la figura."
+   },
+   "safari_browser_guide2": {
+      "message": "En la ventana emergente, ingrese la URL https://inftab.com en la columna Página de inicio."
+   },
+   "safari_browser_guide3": {
+      "message": "Haga clic en el botón debajo de la URL para completar la configuración de la página de inicio."
+   },
+   "sat": {
+      "message": "Sábado"
+   },
+   "sat_min": {
+      "message": "Sáb"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "scale": {
+      "message": "Tamaño del icono"
+   },
+   "scale_main": {
+      "message": "Acercar Pantalla"
+   },
+   "scale_side": {
+      "message": "Zoom en la columna lateral"
+   },
+   "scheduled_backup": {
+      "message": "Horario Respaldo"
+   },
+   "search": {
+      "message": "Buscar"
+   },
+   "search_bookmark": {
+      "message": "Buscar en tus marcadores"
+   },
+   "search_engine": {
+      "message": "Buscador"
+   },
+   "search_engine_error": {
+      "message": "Introducir nombre del motor de búsqueda"
+   },
+   "search_error": {
+      "message": "Carga fallida"
+   },
+   "search_extension": {
+      "message": "Buscar extensiones"
+   },
+   "search_from": {
+      "message": "Búsqueda desde: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Icono de Búsqueda"
+   },
+   "search_input": {
+      "message": "Cuadro de búsqueda"
+   },
+   "search_input_shadow": {
+      "message": "Sombra del cuadro de búsqueda"
+   },
+   "search_opacity": {
+      "message": "Opacidad del cuadro de búsqueda"
+   },
+   "search_redius": {
+      "message": "Esquinas redondeadas del cuadro de búsqueda"
+   },
+   "search_result": {
+      "message": "Resultados de búsqueda"
+   },
+   "search_size": {
+      "message": "Tamaño del cuadro de búsqueda"
+   },
+   "search_suggest": {
+      "message": "Mostrar sugerencias de búsqueda"
+   },
+   "search_website": {
+      "message": "Buscar sitios"
+   },
+   "searching": {
+      "message": "Buscando"
+   },
+   "select_date": {
+      "message": "Selecciona la fecha"
+   },
+   "select_icon": {
+      "message": "Seleccione el icono"
+   },
+   "select_time": {
+      "message": "Seleccionar hora"
+   },
+   "send_success": {
+      "message": "Correo de verificación enviado. Compruebe su bandeja de entrada"
+   },
+   "set_homepage_desc": {
+      "message": "Instale la extensión para que el navegador disfrute de las características completas"
+   },
+   "set_homepage_title2": {
+      "message": "Esta función no es compatible con la versión actual_#_Instale la extensión del navegador antes de usar"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Establecer Infinity como la página de inicio para su navegador"
+   },
+   "set_new_password": {
+      "message": "Configurar contraseña nueva"
+   },
+   "set_remind_time": {
+      "message": "Establecer la hora de recordatorio"
+   },
+   "set_setting_default": {
+      "message": "restaure la configuración predeterminada"
+   },
+   "set_to_homepage": {
+      "message": "Establecer como página principal"
+   },
+   "set_top": {
+      "message": "En la parte superior"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "establecer apodo y avatar"
+   },
+   "settings": {
+      "message": "Configuración"
+   },
+   "shadow": {
+      "message": "Sombra de iconos"
+   },
+   "share": {
+      "message": "Compartir"
+   },
+   "share_by_user": {
+      "message": "Compartido por otros usuarios"
+   },
+   "share_desc": {
+      "message": "Infinity Nueva pestaña, una extensión de navegación elegida por millones de personas, la nueva pestaña más fácil de usar en un navegador"
+   },
+   "share_title": {
+      "message": "Puede ser la mejor pestaña nueva del navegador $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Shopping y compras en grupo"
+   },
+   "shortcut_mode": {
+      "message": "Modo exprés"
+   },
+   "show_detail": {
+      "message": "Ver ahora"
+   },
+   "show_gamil_unread_number": {
+      "message": "Mostrar el número de mensajes de correo electrónico no leídos de Gmail en el icono"
+   },
+   "show_later": {
+      "message": "Recordarme más tarde"
+   },
+   "show_name": {
+      "message": "Nombre mostrado"
+   },
+   "show_reminders_number": {
+      "message": "Mostrar el número de tareas pendientes en el icono"
+   },
+   "skip": {
+      "message": "Saltar"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Un lugar para encontrar, mostrar y compartir fotos"
+   },
+   "social": {
+      "message": "Redes sociales y blogs"
+   },
+   "solid_color_wallpaper": {
+      "message": "Fondo de pantalla de un único color"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Motor de búsqueda que puede buscar contenido publicado por cuentas oficiales de Wechat"
+   },
+   "sports": {
+      "message": "Deportes y viajes"
+   },
+   "start_animation": {
+      "message": "Iniciar animación"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Proporcione fotos gratuitas a las nuevas empresas, blogueros, editores, sitios web, diseñadores, desarrolladores, creadores y otros"
+   },
+   "street_photography": {
+      "message": "Calle"
+   },
+   "sun": {
+      "message": "Domingo"
+   },
+   "sun_min": {
+      "message": "Dom"
+   },
+   "support": {
+      "message": "Ayuda"
+   },
+   "switch_to": {
+      "message": "Cambiar a"
+   },
+   "sync_fail": {
+      "message": "La sincronización ha fallado, inténtelo de nuevo"
+   },
+   "sync_suncess": {
+      "message": "La sincronización se ha completado."
+   },
+   "sync_type_tips": {
+      "message": "Se ha detectado que los datos de la nube y los datos locales se contradicen.  Elija un tipo de datos."
+   },
+   "syncing": {
+      "message": "Sincronizando datos..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "No ha instalado esta aplicación de $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Forma de abrir el objetivo"
+   },
+   "tech": {
+      "message": "Tecnología"
+   },
+   "technology": {
+      "message": "Tecnología"
+   },
+   "term_of_use": {
+      "message": "Términos de uso"
+   },
+   "text": {
+      "message": "Texto"
+   },
+   "text_shadow": {
+      "message": "Sombra del texto"
+   },
+   "thirt_party": {
+      "message": "Usar el inicio de sesión de una cuenta de terceros"
+   },
+   "thu": {
+      "message": "Jueves"
+   },
+   "thu_min": {
+      "message": "Jue"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Abra una página web e introduzca \"%s\" en el cuadro de búsqueda para buscar. (Con Google como ejemplo)"
+   },
+   "tip_question_2": {
+      "message": "2. Copie directamente la URL del resultado de la búsqueda"
+   },
+   "tip_question_3": {
+      "message": "3. Pegue aquí la URL copiada y listo"
+   },
+   "tip_question_title": {
+      "message": "Acerca del uso de \"%s\" para reemplazar términos de búsqueda"
+   },
+   "to_login": {
+      "message": "Iniciar sesión ahora"
+   },
+   "today": {
+      "message": "Hoy"
+   },
+   "todo_welcome": {
+      "message": "Bienvenido a la página Infinity New Tab. Este es un ejemplo de una tarea pendiente."
+   },
+   "todos": {
+      "message": "Tareas pendientes"
+   },
+   "top_bookmark": {
+      "message": "Mostrar favoritos en la parte superior"
+   },
+   "top_use_ful": {
+      "message": "Mostrar sitios utilizados frecuentemente en la parte superior"
+   },
+   "travel": {
+      "message": "Viajes"
+   },
+   "tue": {
+      "message": "Martes"
+   },
+   "tue_min": {
+      "message": "Mar"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Recordar en 2 horas"
+   },
+   "type_link": {
+      "message": "Ingresar enlace"
+   },
+   "type_text": {
+      "message": "Texto de entrada"
+   },
+   "unbind": {
+      "message": "Eliminar"
+   },
+   "unbind_btn": {
+      "message": "Desasociar"
+   },
+   "unbind_email": {
+      "message": "Desenlace el correo electrónico"
+   },
+   "unbind_phone_number": {
+      "message": "Desvincula tu número de teléfono"
+   },
+   "unbind_success": {
+      "message": "Eliminado con éxito"
+   },
+   "uninstall_agree": {
+      "message": "Aceptar"
+   },
+   "uninstall_chrome_app": {
+      "message": "Desinstalar aplicación"
+   },
+   "uninstall_extension": {
+      "message": "Eliminar extensión"
+   },
+   "unknown_mistake": {
+      "message": "Error desconocido"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Fondos de pantalla de gran calidad de prestigio mundial"
+   },
+   "unzip_folder_content": {
+      "message": "Se eliminará la carpeta y se conservará el icono. ¿Está seguro?"
+   },
+   "unzip_folder_title": {
+      "message": "Liberar"
+   },
+   "update_data": {
+      "message": "Actualizar datos"
+   },
+   "update_data_failure": {
+      "message": "Error al actualizar perfil"
+   },
+   "update_desc_1": {
+      "message": "Si la conversión de datos falló durante la actualización de la versión, puede intentar volver a actualizar los datos."
+   },
+   "update_desc_2": {
+      "message": "Si aún no puede resolver el problema varias veces, puede comunicarse con nuestros ingenieros, intentaremos ayudarlo a resolver."
+   },
+   "update_desc_3": {
+      "message": "Datos de conversión sobrescribe los datos de la versión nueva, se recomienda que realice una copia de seguridad de los datos antes de operar."
+   },
+   "update_error_desc1": {
+      "message": "Puede intentar volver a actualizarlo si detecta algunos datos."
+   },
+   "update_error_desc2": {
+      "message": "Si falla varias actualizaciones, también puede hacer clic en el icono \"Configuración\" desde la esquina superior derecha para ingresar: [MI] - [Copia de seguridad y reparación]."
+   },
+   "update_now": {
+      "message": "Actualizar ya"
+   },
+   "update_or_repair_data": {
+      "message": "Actualizar o reparar datos"
+   },
+   "upload_avatar_failure": {
+      "message": "Error al cargar su avatar"
+   },
+   "upload_file_error": {
+      "message": "No se pudo cargar el archivo"
+   },
+   "upload_image_error": {
+      "message": "Error al subir la imagen"
+   },
+   "uploading": {
+      "message": "Cargando..."
+   },
+   "use_cloud": {
+      "message": "Utilizar datos de la nube"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Introduzca el texto y pulse Introducir para añadir"
+   },
+   "use_local": {
+      "message": "Utilizar datos locales"
+   },
+   "use_mobile_screen": {
+      "message": "Utilice un celular para escanear el código QR"
+   },
+   "user_evaluation": {
+      "message": "Reseñas de usuarios"
+   },
+   "username_cannot_empty": {
+      "message": "El nombre de usuario no puede estar vacío"
+   },
+   "verify_password_desc": {
+      "message": "Para la seguridad de su cuenta, ingrese la contraseña de la cuenta"
+   },
+   "verity_code": {
+      "message": "Enviar código de verificación"
+   },
+   "verity_code_no_value": {
+      "message": "El campo Código de verificación no puede estar vacío"
+   },
+   "videos": {
+      "message": "Vídeo"
+   },
+   "view": {
+      "message": "Ver"
+   },
+   "w309": {
+      "message": "Llovizna"
+   },
+   "w_100": {
+      "message": "Soleado"
+   },
+   "w_101": {
+      "message": "Nublado"
+   },
+   "w_102": {
+      "message": "Algo de nubes"
+   },
+   "w_103": {
+      "message": "Mayormente soleado"
+   },
+   "w_104": {
+      "message": "Frío y sombrío"
+   },
+   "w_200": {
+      "message": "Ventoso"
+   },
+   "w_201": {
+      "message": "Calmado"
+   },
+   "w_202": {
+      "message": "Brisa"
+   },
+   "w_203": {
+      "message": "Brisa moderada"
+   },
+   "w_204": {
+      "message": "Brisa fresca"
+   },
+   "w_205": {
+      "message": "Brisa fuerte"
+   },
+   "w_206": {
+      "message": "Viento fuerte"
+   },
+   "w_207": {
+      "message": "Viento fuerte"
+   },
+   "w_208": {
+      "message": "Temporal fuerte"
+   },
+   "w_209": {
+      "message": "Tormentas"
+   },
+   "w_210": {
+      "message": "Viento tormentoso"
+   },
+   "w_211": {
+      "message": "Huracán"
+   },
+   "w_212": {
+      "message": "Tornado"
+   },
+   "w_213": {
+      "message": "Tormenta tropical"
+   },
+   "w_300": {
+      "message": "Chubascos"
+   },
+   "w_301": {
+      "message": "Chaparrón intenso"
+   },
+   "w_302": {
+      "message": "Tormentas"
+   },
+   "w_303": {
+      "message": "Lluvia fuerte tormentosa"
+   },
+   "w_304": {
+      "message": "Tormentas con aguanieve"
+   },
+   "w_305": {
+      "message": "Lluvia ligera"
+   },
+   "w_306": {
+      "message": "Lluvia moderada"
+   },
+   "w_307": {
+      "message": "Lluvia intensa"
+   },
+   "w_308": {
+      "message": "Hay lluvia extrema"
+   },
+   "w_310": {
+      "message": "Tormenta"
+   },
+   "w_311": {
+      "message": "Tormenta fuerte"
+   },
+   "w_312": {
+      "message": "Tormenta intensa"
+   },
+   "w_313": {
+      "message": "Granizo"
+   },
+   "w_314": {
+      "message": "Lluvia ligera tirando a lluvia moderada"
+   },
+   "w_315": {
+      "message": "Lluvia moderada tirando a intensa"
+   },
+   "w_316": {
+      "message": "De fuertes lluvias a tormentas"
+   },
+   "w_317": {
+      "message": "Tormenta a tormenta fuerte"
+   },
+   "w_318": {
+      "message": "De aguacero a fuerte temporal"
+   },
+   "w_399": {
+      "message": "Lluvia"
+   },
+   "w_400": {
+      "message": "Nevada ligera"
+   },
+   "w_401": {
+      "message": "Nevada moderada"
+   },
+   "w_402": {
+      "message": "Nevada fuerte"
+   },
+   "w_403": {
+      "message": "Tormenta de nieve"
+   },
+   "w_404": {
+      "message": "Aguanieve"
+   },
+   "w_405": {
+      "message": "Aguanieve"
+   },
+   "w_406": {
+      "message": "Chaparrón de aguanieve"
+   },
+   "w_407": {
+      "message": "Ducha Nieve"
+   },
+   "w_408": {
+      "message": "Nieve de leve a moderada"
+   },
+   "w_409": {
+      "message": "Nieve de moderada a fuerte"
+   },
+   "w_410": {
+      "message": "De fuerte a tormenta de nieve"
+   },
+   "w_499": {
+      "message": "Nevadas"
+   },
+   "w_500": {
+      "message": "Llovizna"
+   },
+   "w_501": {
+      "message": "Niebla"
+   },
+   "w_502": {
+      "message": "Niebla seca"
+   },
+   "w_503": {
+      "message": "Arena"
+   },
+   "w_504": {
+      "message": "Polvo"
+   },
+   "w_507": {
+      "message": "Tormenta de arena"
+   },
+   "w_508": {
+      "message": "Tormenta de arena fuerte"
+   },
+   "w_509": {
+      "message": "Niebla densa"
+   },
+   "w_510": {
+      "message": "Niebla densa intensa"
+   },
+   "w_511": {
+      "message": "Neblina moderada"
+   },
+   "w_512": {
+      "message": "Neblina intensa"
+   },
+   "w_513": {
+      "message": "Neblina severa"
+   },
+   "w_514": {
+      "message": "Niebla"
+   },
+   "w_515": {
+      "message": "Niebla severa"
+   },
+   "w_900": {
+      "message": "Caluroso"
+   },
+   "w_901": {
+      "message": "Frío"
+   },
+   "w_999": {
+      "message": "Desconocido"
+   },
+   "wallpaper": {
+      "message": "Fondo de pantalla"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Agregar color personalizado"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Error al añadir la imagen. Vuelva a intentarlo más tarde."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Error en la aplicación de fondos de pantalla local. Inténtelo de nuevo más tarde"
+   },
+   "wallpaper_applying_library": {
+      "message": "Habilitando galería de fondos de pantalla..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Frecuencia de refresco del fondo de pantalla"
+   },
+   "wallpaper_choose_library": {
+      "message": "Elija la fuente del fondo de pantalla"
+   },
+   "wallpaper_choose_single": {
+      "message": "Seleccionar un papel tapiz"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Borrar selección"
+   },
+   "wallpaper_cloud": {
+      "message": "Nube Wallpaper"
+   },
+   "wallpaper_collect_current": {
+      "message": "Recoger fondo de pantalla actual"
+   },
+   "wallpaper_common_color": {
+      "message": "Color común"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "¿Eliminar este fondo de pantalla?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "No se ha podido crear la biblioteca de fondos de pantalla local. Vuelva a intentarlo más tarde."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "La biblioteca de fondos de pantalla personalizados del usuario supera el límite"
+   },
+   "wallpaper_custom_color": {
+      "message": "Personaliza el color"
+   },
+   "wallpaper_delete_color": {
+      "message": "Eliminar este color"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Eliminado con éxito"
+   },
+   "wallpaper_delete_file": {
+      "message": "Eliminar papel tapiz"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Error al borrar el fondo de pantalla"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Desactivar el cambio automático de fondo de pantalla"
+   },
+   "wallpaper_empty_text": {
+      "message": "Sin info"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "No se ha podido adquirir el fondo de pantalla"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Error al obtener el fondo de pantalla del usuario"
+   },
+   "wallpaper_library": {
+      "message": "Biblioteca de fondos de pantalla"
+   },
+   "wallpaper_library_desc": {
+      "message": "Biblioteca de fondos de pantalla local de $user$",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Nombre de la biblioteca de fondos de pantalla ilegal"
+   },
+   "wallpaper_library_preview": {
+      "message": "Vista previa del fondo de pantalla"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Suba un máximo de 20 fondos de pantalla. Los fondos de pantalla no deben exceder los 10 m."
+   },
+   "wallpaper_loading": {
+      "message": "Procesando..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Necesitas tener conexión a internet"
+   },
+   "wallpaper_remove_library": {
+      "message": "Eliminar esta biblioteca de fondos de pantalla"
+   },
+   "wallpaper_sort_default": {
+      "message": "Ordenar por defecto"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Popularidad"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Fecha de inclusión"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Cambiar cada 24 horas"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Fallo al cambiar el fondo de pantalla"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Actualice sus fondos de pantalla diarios con Bing. No se puede elegir la frecuencia de conmutación."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Cambiar cada hora"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Cambiar cada 12 horas"
+   },
+   "wallpaper_switch_success": {
+      "message": "Cambio en el fondo de pantalla completado"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Cambiar al siguiente fondo de pantalla"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Cambiar al abrir una nueva pestaña"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Cambiar al abrir la página"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Error al cargar el archivo. Motivo: el tamaño supera el límite"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Select a picture from your computer as the wallpaper"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Es necesario al menos un fondo de pantalla"
+   },
+   "want_more": {
+      "message": "Disfrute de más ventajas instantáneamente"
+   },
+   "weather": {
+      "message": "Clima"
+   },
+   "weather_empty": {
+      "message": "No hay información meteorológica actualmente disponible"
+   },
+   "web_set_home_title": {
+      "message": "Cómo establecer Infinity como la página de inicio"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Nombre del sitio web"
+   },
+   "website_search_replace_char": {
+      "message": "URL (use %s para reemplazar la palabra de búsqueda)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Miércoles"
+   },
+   "wed_min": {
+      "message": "Mié"
+   },
+   "welcome_infinity": {
+      "message": "Bienvenido a Infinity"
+   },
+   "wind_force": {
+      "message": "Fuerza"
+   },
+   "wind_mill": {
+      "message": "Mostrar botón para cambiar aleatoriamente los fondos de escritorio en la esquina inferior derecha"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "El buscador de Yahoo es un motor de búsqueda explotado por Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex es uno de los portales de servicios de Internet más importantes de Rusia"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$año$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Ayer"
+   },
+   "you_need_login": {
+      "message": "Inicie sesión en la cuenta Infinity para usar esta función"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Su historial de navegación se mostrará aquí"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Máy tìm an toàn"
+   },
+   "about": {
+      "message": "Giới thiệu về"
+   },
+   "about_us": {
+      "message": "Về chúng tôi"
+   },
+   "account_expired": {
+      "message": "Kiểm tra tài khoản của bạn đã hết hạn, vui lòng đăng nhập lại"
+   },
+   "account_setting": {
+      "message": "Cài đặt tài khoản"
+   },
+   "add": {
+      "message": "Thêm"
+   },
+   "add_city": {
+      "message": "Thêm t.phố"
+   },
+   "add_first_note": {
+      "message": "Ghi chú đầu tiên của bạn"
+   },
+   "add_icon_success": {
+      "message": "thêm thành công"
+   },
+   "add_link": {
+      "message": "Thêm liên kết"
+   },
+   "add_new_search_engine": {
+      "message": "Thêm động cơ tìm kiếm mới"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Thư viện hình nền mới"
+   },
+   "add_search_engine": {
+      "message": "Thêm công cụ tìm kiếm"
+   },
+   "add_success": {
+      "message": "Đã thêm thành công"
+   },
+   "add_to_home_site": {
+      "message": "Thêm vào trang chủ"
+   },
+   "add_to_infinity": {
+      "message": "Thêm vào trang Tab mới vô cực"
+   },
+   "additional_search_engine": {
+      "message": "Công cụ tìm kiếm đính kèm"
+   },
+   "air_pressure": {
+      "message": "Áp suất"
+   },
+   "all_wallpaper_sources": {
+      "message": "Tất cả hình nền"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Tất cả các nguồn hình nền"
+   },
+   "ambiguity": {
+      "message": "Độ mờ"
+   },
+   "animals": {
+      "message": "Động vật"
+   },
+   "animation": {
+      "message": "Hình động"
+   },
+   "animation_tips": {
+      "message": "Bắt đầu hoạt hình có thể ảnh hưởng đến độ mịn"
+   },
+   "anime": {
+      "message": "Truyện tranh"
+   },
+   "any_money": {
+      "message": "Bất kỳ"
+   },
+   "app": {
+      "message": "Ứng dụng"
+   },
+   "app_disabled_enable_first": {
+      "message": "Bạn đã vô hiệu hóa ứng dụng này. Cho phép vô cực để kích hoạt ứng dụng này trước?"
+   },
+   "application": {
+      "message": "Ứng dụng"
+   },
+   "apply": {
+      "message": "Áp dụng"
+   },
+   "architecture": {
+      "message": "Kiến trúc"
+   },
+   "athletics": {
+      "message": "Thể thao"
+   },
+   "avatar": {
+      "message": "Chọn avatar"
+   },
+   "backing_up": {
+      "message": "Đang sao lưu…"
+   },
+   "backup_and_recovery": {
+      "message": "Sao lưu và phục hồi"
+   },
+   "backup_failed": {
+      "message": "Sao lưu thất bại"
+   },
+   "backup_now": {
+      "message": "Sao lưu ngay"
+   },
+   "backup_successful": {
+      "message": "Sao lưu thành công"
+   },
+   "backup_tips": {
+      "message": "Chúng tôi giữ tối đa 3 nút sao lưu thủ công và 3 nút sao lưu tự động cho bạn"
+   },
+   "backup_with_device": {
+      "message": "Đồng bộ với các thiết bị khác"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Tập trung vào việc thu thập nhiếp ảnh loại không thư viện miễn phí và chất lượng cao"
+   },
+   "basic_info": {
+      "message": "Thông tin chung"
+   },
+   "bg_color": {
+      "message": "Màu nền"
+   },
+   "bg_updating": {
+      "message": "Trong nâng cấp, xin vui lòng chờ ..."
+   },
+   "bind": {
+      "message": "Gắn kết"
+   },
+   "bind_success": {
+      "message": "Liên kết thành công"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing là một công cụ tìm kiếm được phát triển bởi Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Thư viện hình nền Bing hàng ngày"
+   },
+   "bookmarks": {
+      "message": "Dấu trang"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ không hỗ trợ tính năng này",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Hủy"
+   },
+   "cancel_login": {
+      "message": "Hủy đăng nhập"
+   },
+   "cancel_remind_time": {
+      "message": "Hủy thời gian nhắc nhở"
+   },
+   "cancel_set_top": {
+      "message": "Bỏ ghim"
+   },
+   "cannot_change_password": {
+      "message": "Đăng nhập của bên thứ ba không thể sửa đổi mật khẩu"
+   },
+   "cannot_change_profile": {
+      "message": "Người dùng bên thứ ba đăng nhập không thể sửa đổi thông tin hồ sơ"
+   },
+   "cannot_download": {
+      "message": "Nội dung tải xuống không được hỗ trợ"
+   },
+   "cannot_empty": {
+      "message": "Không thể để trống"
+   },
+   "celsius": {
+      "message": "Độ C"
+   },
+   "change_remind_time": {
+      "message": "Sửa đổi nhắc nhở thời gian"
+   },
+   "change_wallpaper": {
+      "message": "Thay đổi hình nền"
+   },
+   "check_olddata_desc": {
+      "message": "Nó được phát hiện rằng có một phiên bản cũ của dữ liệu kế thừa, có thể được nâng cấp. Nếu bạn cần bạn cố gắng nâng cấp dữ liệu này"
+   },
+   "choose_sync_type": {
+      "message": "Chọn dữ liệu tài khoản"
+   },
+   "chose_from_mypc": {
+      "message": "Tạo thư viện hình nền của tôi"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "Ứng dụng $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Cửa hàng web Chrome - Tiện ích mở rộng"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Nhập chrome://settings/appearance trong thanh địa chỉ để vào trang thiết lập;"
+   },
+   "chrome_browser_guide2": {
+      "message": "Trượt xuống dưới cùng và chọn tùy chọn được chỉ định bởi mũi tên trong hình."
+   },
+   "chrome_browser_guide3": {
+      "message": "Nhập URL https://inftab.com Trong cửa sổ bật lên, rồi bấm vào nút Thêm để hoàn tất cài đặt trang chủ."
+   },
+   "clear_historys": {
+      "message": "Xóa lịch sử"
+   },
+   "col_gap": {
+      "message": "Giãn cách cột"
+   },
+   "col_num": {
+      "message": "Hàng"
+   },
+   "color": {
+      "message": "Màu"
+   },
+   "color_icon": {
+      "message": "Biểu tượng màu rắn"
+   },
+   "come_from": {
+      "message": "Từ người dùng"
+   },
+   "comming_soon": {
+      "message": "Sắp ra mắt"
+   },
+   "comming_soon_title": {
+      "message": "Phiên bản Infinity Mobile đang trên đường"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Bạn có chắc chắn muốn làm sạch tất cả các lịch sử?"
+   },
+   "confirm_cover_remote": {
+      "message": "Dữ liệu cục bộ sẽ được lưu vào nút sao lưu thủ công"
+   },
+   "confirm_del_folder": {
+      "message": "Bạn có chắc muốn xóa thư mục này?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Bạn có chắc chắn muốn xóa các mục đã hoàn thành?"
+   },
+   "confirm_delete_note": {
+      "message": "Xác nhận xóa ghi chú?"
+   },
+   "confirm_logout": {
+      "message": "Đăng xuất"
+   },
+   "confirm_password": {
+      "message": "Xác nhận mật khẩu mới"
+   },
+   "confirm_password_2": {
+      "message": "Xác nhận mật khẩu"
+   },
+   "confirm_recovery_data": {
+      "message": "Dữ liệu đám mây sẽ thay thế dữ liệu cục bộ. Bạn có chắc chắn về hành động này?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Bạn có chắc chắn muốn loại bỏ thư viện hình nền này?"
+   },
+   "confirm_unbind": {
+      "message": "Ngắt kết nối tài khoản này?"
+   },
+   "confirm_unbind_email": {
+      "message": "Bạn có chắc chắn muốn giải quyết email của bạn $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Bạn có chắc chắn muốn hủy bỏ số điện thoại $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Liên hệ kỹ sư."
+   },
+   "contact_us": {
+      "message": "Liên hệ"
+   },
+   "copy": {
+      "message": "Sao chép"
+   },
+   "cubic_bezier": {
+      "message": "Đá lại"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Ảnh hồ sơ"
+   },
+   "current_browser_not_support": {
+      "message": "Trình duyệt hiện tại không hỗ trợ quản lý tiện ích mở rộng"
+   },
+   "current_no_reminders": {
+      "message": "Không có Việc Cần làm"
+   },
+   "current_node": {
+      "message": "Node hiện tại"
+   },
+   "custom": {
+      "message": "Tùy chỉnh"
+   },
+   "custom_icon": {
+      "message": "Tùy chỉnh biểu tượng"
+   },
+   "custom_layout": {
+      "message": "Tùy chỉnh bố cục"
+   },
+   "custom_site": {
+      "message": "Trang web tùy chỉnh"
+   },
+   "default": {
+      "message": "Mặc định"
+   },
+   "del_folder": {
+      "message": "Xóa"
+   },
+   "delete_all_bookmarks": {
+      "message": "Xóa tất cả dấu trang trong thư mục này"
+   },
+   "disable_chrome_app": {
+      "message": "Tắt ứng dụng"
+   },
+   "disable_extension": {
+      "message": "Vô hiệu hóa phần mở rộng"
+   },
+   "do_later": {
+      "message": "nói về nó sau"
+   },
+   "done": {
+      "message": "Xong"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Tải về CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Tải hình nền hiện tại"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Duckduckgo tập trung vào việc nhập nội dung từ các trang web của Web 2.0 lớn bên cạnh việc là một công cụ tìm kiếm truyền thống Triết lý của trang web là tôn trọng quyền riêng tư của người dùng, hứa sẽ không giám sát hoặc tài liệu tìm kiếm nội dung."
+   },
+   "ease_in": {
+      "message": "Phai màu trong"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Nhập edge://settings/onStartup trong thanh địa chỉ trình duyệt, sau đó nhấn phím Enter."
+   },
+   "edge_browser_guide2": {
+      "message": "Nhấp vào tùy chọn được chỉ định bởi mũi tên trong hình."
+   },
+   "edge_browser_guide3": {
+      "message": "Nhập URL https://inftab.com Trong cửa sổ bật lên, rồi bấm vào nút Thêm để hoàn tất cài đặt trang chủ."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Chỉnh sửa"
+   },
+   "edit_avatar": {
+      "message": "Sửa ảnh đại diện"
+   },
+   "edit_content": {
+      "message": "Chỉnh sửa nội dung"
+   },
+   "edit_icon": {
+      "message": "Chỉnh sửa Biểu tượng"
+   },
+   "education": {
+      "message": "Giáo dục và việc làm"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_code": {
+      "message": "Mã xác minh email"
+   },
+   "email_format_error": {
+      "message": "Định dạng email không chính xác"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Email hoặc số điện thoại di động"
+   },
+   "empty": {
+      "message": "Trống"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Bạn có muốn xóa thư mục này không?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Xác nhận để xóa dấu trang này?"
+   },
+   "ensure_logout": {
+      "message": "Bạn có chắc muốn đăng xuất?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "điền vào danh sách việc cần làm, thêm mục bằng cách nhấn nút nhập"
+   },
+   "enter_password_tips": {
+      "message": "Nhập cụm mật khẩu"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Vui lòng nhập số điện thoại chính xác"
+   },
+   "enter_verification_code_tips": {
+      "message": "Vui lòng nhập mã xác minh"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Xuất dữ liệu sao lưu"
+   },
+   "export_local_data_desc": {
+      "message": "Xuất từ ​​dữ liệu cục bộ hiện tại"
+   },
+   "extension": {
+      "message": "Tiện ích"
+   },
+   "extension_app": {
+      "message": "Tiện ích"
+   },
+   "extension_des": {
+      "message": "Tự do thêm các biểu tượng trang web, thưởng thức các hình nền ổ đĩa đám mây độ nét cao và nhanh chóng truy cập dấu trang, thông tin thời tiết, ghi chú, danh sách việc cần làm, quản lý tiện ích mở rộng và lịch sử trên trang tab mới, được chọn bởi hàng triệu người dùng."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP cho phép bạn tùy chỉnh trang tab mới của bạn"
+   },
+   "extension_des_firefox": {
+      "message": "Tab mới được chọn bởi hàng triệu, có thể cải thiện đáng kể năng suất. Bao gồm các biểu tượng web, công cụ tìm kiếm, hình nền HD, thời tiết, ghi chú, dấu trang, danh sách việc cần làm, lịch sử, quản lý mở rộng, v.v."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro cho phép bạn tùy chỉnh trang tab mới của bạn"
+   },
+   "extension_mananger": {
+      "message": "Quản lý các tiện ích"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Tham gia Nhóm Facebook"
+   },
+   "fahrenheit": {
+      "message": "Độ F"
+   },
+   "feedback": {
+      "message": "Phản hồi"
+   },
+   "female": {
+      "message": "Nữ"
+   },
+   "filter": {
+      "message": "Chọn lọc"
+   },
+   "finance": {
+      "message": "tài chính"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Cửa hàng bổ trợ Firefox"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Đầu vào about: preferences #home Trong thanh địa chỉ để vào trang cài đặt."
+   },
+   "firefox_browser_guide2": {
+      "message": "Như được hiển thị bởi mũi tên trong hình, chọn tùy chọn URL tùy chỉnh."
+   },
+   "firefox_browser_guide3": {
+      "message": "Nhập URL https://inftab.com Trong hộp văn bản, thiết lập trang chủ đã hoàn tất."
+   },
+   "five_star": {
+      "message": "Xếp hạng 5 sao"
+   },
+   "folder": {
+      "message": "Thư mục"
+   },
+   "follow_us": {
+      "message": "Theo dõi chúng tôi"
+   },
+   "follow_wechat": {
+      "message": "Theo dõi tài khoản công cộng vô cực Wechat"
+   },
+   "follow_wechat_desc": {
+      "message": "Hãy chú ý đến số lượng công cộng WeChat của chúng tôi (Tín hiệu vi mô: InfinityD Daily), nhận được động lực sản phẩm mới nhất của Infinity và bạn có thể khám phá nhiều niềm vui hơn để mở rộng và trang web."
+   },
+   "font": {
+      "message": "Phông chữ"
+   },
+   "font_color": {
+      "message": "Màu phông chữ"
+   },
+   "font_size": {
+      "message": "Cỡ chữ"
+   },
+   "food_drink": {
+      "message": "Thực phẩm"
+   },
+   "forget_password": {
+      "message": "Quên mật khẩu"
+   },
+   "format_error": {
+      "message": "Lỗi định dạng"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Số lượng lớn ảnh miễn phí bản quyền, Miễn phí sử dụng và cập nhật hàng ngày"
+   },
+   "fri": {
+      "message": "Thứ Sáu"
+   },
+   "fri_min": {
+      "message": "Th6"
+   },
+   "fully_authorized_to_use": {
+      "message": "Được ủy quyền đầy đủ để sử dụng chức năng"
+   },
+   "games": {
+      "message": "Chơi game và giải trí"
+   },
+   "gamil_notice": {
+      "message": "Thông báo email Gmail"
+   },
+   "gender": {
+      "message": "Chọn giới tính"
+   },
+   "get_app_permission": {
+      "message": "Cho phép nhận ứng dụng cục bộ của bạn"
+   },
+   "get_cloud_icon": {
+      "message": "Có được trực tuyến"
+   },
+   "give_money": {
+      "message": "Quyên góp"
+   },
+   "give_money_thanks": {
+      "message": "Hỗ trợ của bạn là phần thưởng lớn nhất của chúng tôi"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Nếu bạn thích trang Tab Infinity mới, vui lòng đánh giá dịch vụ của chúng tôi hoặc cung cấp cho chúng tôi thông tin phản hồi để giúp chúng tôi IGN."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Nếu bạn có bất kỳ câu hỏi hoặc đề nghị, xin vui lòng liên hệ với chúng tôi."
+   },
+   "gmail_notice_voice": {
+      "message": "Nhạc chuông thông báo Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search là một công cụ tìm kiếm được phát triển bởi Google. Đây là công cụ tìm kiếm lớn nhất, có ảnh hưởng nhất trên Internet"
+   },
+   "have_todo_item": {
+      "message": "Bạn hiện có một mục cần làm"
+   },
+   "hide_homepage_btn": {
+      "message": "Ẩn đặt làm nút home"
+   },
+   "hide_icon_name": {
+      "message": "Ẩn tên biểu tượng."
+   },
+   "hide_search_button": {
+      "message": "Ẩn nút tìm kiếm"
+   },
+   "hide_search_category": {
+      "message": "Ẩn danh mục tìm kiếm"
+   },
+   "hide_search_input": {
+      "message": "Ẩn hộp tìm kiếm"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Ẩn đặt làm nút home"
+   },
+   "hint": {
+      "message": "Mẹo"
+   },
+   "history": {
+      "message": "Lịch sử"
+   },
+   "history_backup_list": {
+      "message": "Lịch sử sao lưu danh sách nút"
+   },
+   "history_week": {
+      "message": "Lịch sử tìm kiếm trong vòng một tuần"
+   },
+   "host_permission": {
+      "message": "Quyền chủ"
+   },
+   "hour": {
+      "message": "giờ"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Tôi muốn thưởng"
+   },
+   "icon": {
+      "message": "Biểu tượng"
+   },
+   "icon_added": {
+      "message": "Đã thêm"
+   },
+   "icon_bg_text": {
+      "message": "Văn bản biểu tượng"
+   },
+   "icon_network_error": {
+      "message": "Ngoại lệ mạng, nhấp để tải lại"
+   },
+   "ignore": {
+      "message": "Bỏ qua"
+   },
+   "img_verify_code": {
+      "message": "Hình ảnh xác thực"
+   },
+   "import_data": {
+      "message": "Nhập dữ liệu sao lưu"
+   },
+   "import_data_desc": {
+      "message": "Khôi phục dữ liệu từ tệp sao lưu"
+   },
+   "import_select_tile": {
+      "message": "Chọn dữ liệu"
+   },
+   "infinity_bookmarks": {
+      "message": "Làm phẳng hệ thống phân cấp thư mục dấu trang của bạn và tìm dấu trang dễ dàng hơn với dấu trang vô cực"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity nổi bật hình nền anime"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Thư viện hình nền Anime Infinity chất lượng cao"
+   },
+   "infinity_extension": {
+      "message": "Quản lý tiện ích mở rộng $browser$ và ứng dụng của bạn một cách dễ dàng với Trình quản lý tiện ích mở rộng Infinity",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Nhanh chóng xem và quản lý lịch sử trình duyệt của bạn với lịch sử vô cực"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity nổi bật hình nền cảnh quan"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Thư viện hình nền cảnh quan Vô cực chất lượng cao"
+   },
+   "infinity_notes": {
+      "message": "Ghi lại cảm hứng của cuộc sống nhanh chóng với ghi chú vô cực"
+   },
+   "infinity_settings": {
+      "message": "Cá nhân hóa trang tab mới vô cực của bạn với cài đặt vô cực"
+   },
+   "infinity_todos": {
+      "message": "Sắp xếp các nhiệm vụ của bạn theo thứ tự và cải thiện hiệu quả công việc của bạn với danh sách việc cần làm vô cực"
+   },
+   "infinity_wallpaper": {
+      "message": "Thư viện hình nền vô cực cung cấp cho bạn những hình nền phong phú và thú vị"
+   },
+   "infinity_weather": {
+      "message": "Infinity Weather cung cấp cho bạn dự báo thời tiết của các thành phố trên toàn thế giới"
+   },
+   "info": {
+      "message": "Thông tin"
+   },
+   "inportdata_desc": {
+      "message": "Dữ liệu nhập không khớp với dữ liệu cục bộ. Hãy chọn hợp nhất hoặc ghi đè lên."
+   },
+   "input_and_search": {
+      "message": "Nhập tìm kiếm"
+   },
+   "input_city": {
+      "message": "Nhập thành phố/vùng"
+   },
+   "input_new_password": {
+      "message": "Nhập mật khẩu mới"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Đã gắn kết"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Hình ảnh miễn phí cho bất kỳ mục đích nào"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Giữ nội dung hộp tìm kiếm"
+   },
+   "label": {
+      "message": "Nhãn tên"
+   },
+   "language": {
+      "message": "Ngôn ngữ"
+   },
+   "language_select": {
+      "message": "Chọn ngôn ngữ"
+   },
+   "last_sync_time": {
+      "message": "Thời gian đồng bộ lần cuối: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Cập nhật lần cuối"
+   },
+   "layout": {
+      "message": "Bố cục"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Nguồn hình nền HD miễn phí"
+   },
+   "life_style": {
+      "message": "Cách sống"
+   },
+   "limit_input_length": {
+      "message": "Độ dài văn bản ngoài giới hạn"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Biểu tượng địa phương"
+   },
+   "local_wallpaper2": {
+      "message": "Địa phương hình nền"
+   },
+   "login": {
+      "message": "Đăng nhập"
+   },
+   "login_abandon_tips": {
+      "message": "Phương thức đăng nhập hiện tại sẽ sớm bị xóa, vui lòng liên kết email của bạn hoặc tài khoản bên thứ ba khác càng sớm càng tốt sau khi đăng nhập"
+   },
+   "login_now": {
+      "message": "Đăng nhập vào tài khoản Infinity của bạn ngay bây giờ để tận hưởng nhiều quyền hơn"
+   },
+   "login_now_btn": {
+      "message": "Đăng nhập"
+   },
+   "login_register": {
+      "message": "Đăng nhập/Đăng ký"
+   },
+   "loging": {
+      "message": "Đăng nhập"
+   },
+   "logout": {
+      "message": "Đăng xuất"
+   },
+   "logout_clear_something": {
+      "message": "Xóa cài đặt được cá nhân hóa và thông tin khác trên thiết bị này"
+   },
+   "logout_tips": {
+      "message": "Bạn có cần xóa dữ liệu cục bộ trước khi đăng xuất khỏi tài khoản của mình để ngăn dữ liệu từ các tài khoản khác nhau trên thiết bị này không?"
+   },
+   "logout_warn": {
+      "message": "Sau khi đăng xuất khỏi tài khoản, tất cả các thông tin sao lưu trong tài khoản này sẽ bị xóa. Bạn có chắc chắn muốn đăng xuất khỏi tài khoản này? (Hình ảnh ghi chú và thư viện hình nền tùy chỉnh có thể không khả dụng)"
+   },
+   "male": {
+      "message": "Nam"
+   },
+   "manage_backup_node": {
+      "message": "Quản lý các nút sao lưu lịch sử"
+   },
+   "manul_backup": {
+      "message": "Sao lưu bằng tay"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "Làm mờ hình nền"
+   },
+   "me": {
+      "message": "Tôi"
+   },
+   "merge_cloud_local": {
+      "message": "Kết hợp dữ liệu cục bộ và đám mây"
+   },
+   "merge_data": {
+      "message": "Sáp nhập dữ liệu"
+   },
+   "mini_mode": {
+      "message": "Chế độ tối giản"
+   },
+   "mins": {
+      "message": "Phút"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Sử dụng trong trang web, chủ đề, mẫu, dự án, vật liệu in và báo in. Mỗi tuần hình nền và video mới được thêm vào"
+   },
+   "mobile_devices": {
+      "message": "Infinity Khởi động"
+   },
+   "modify": {
+      "message": "Chỉnh sửa chi tiết"
+   },
+   "modify_email": {
+      "message": "Chỉnh sửa email"
+   },
+   "modify_password": {
+      "message": "Chỉnh sửa mật khẩu"
+   },
+   "modify_phone_number": {
+      "message": "Sửa đổi số điện thoại"
+   },
+   "modify_pwd": {
+      "message": "Chỉnh sửa mật khẩu"
+   },
+   "modify_success": {
+      "message": "Thay đổi thành công"
+   },
+   "modify_this": {
+      "message": "Chỉnh sửa"
+   },
+   "mon": {
+      "message": "Thứ Hai"
+   },
+   "mon_min": {
+      "message": "Th2"
+   },
+   "month_1": {
+      "message": "Tháng 1"
+   },
+   "month_10": {
+      "message": "Tháng 10"
+   },
+   "month_11": {
+      "message": "Tháng 11"
+   },
+   "month_12": {
+      "message": "Tháng 12"
+   },
+   "month_2": {
+      "message": "Tháng 2"
+   },
+   "month_3": {
+      "message": "Tháng 3"
+   },
+   "month_4": {
+      "message": "Tháng 4"
+   },
+   "month_5": {
+      "message": "Tháng 5"
+   },
+   "month_6": {
+      "message": "Tháng 6"
+   },
+   "month_7": {
+      "message": "Tháng 7"
+   },
+   "month_8": {
+      "message": "Tháng 8"
+   },
+   "month_9": {
+      "message": "Tháng 9"
+   },
+   "more_content_from_site": {
+      "message": "Thêm nội dung từ trang web này"
+   },
+   "most_used_in_chinese": {
+      "message": "Công cụ tìm kiếm sử dụng nhiều nhất bằng tiếng Trung"
+   },
+   "music_video": {
+      "message": "Video Nhạc"
+   },
+   "my_collection": {
+      "message": "Bộ sưu tập của tôi"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Vui lòng nhập tên trang web"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Tự nhiên"
+   },
+   "need_you_permission": {
+      "message": "Cần được cho phép"
+   },
+   "network_error": {
+      "message": "Lỗi mạng"
+   },
+   "new_email": {
+      "message": "Email Mới"
+   },
+   "new_password": {
+      "message": "Nhập mật khẩu mới"
+   },
+   "new_phone_number": {
+      "message": "Số điện thoại mới"
+   },
+   "new_tab": {
+      "message": "Tab mới"
+   },
+   "new_tab_web": {
+      "message": "Infinity Trang chủ"
+   },
+   "news": {
+      "message": "Tin tức"
+   },
+   "next": {
+      "message": "Tiếp theo"
+   },
+   "nickname": {
+      "message": "Biệt hiệu"
+   },
+   "no_account_register": {
+      "message": "Không có t ài khoản?Đăng ký ngay."
+   },
+   "no_backup_time": {
+      "message": "Không có"
+   },
+   "no_bookmark_result": {
+      "message": "Không có dấu trang"
+   },
+   "no_chrome_app": {
+      "message": "Bạn chưa cài đặt bất kỳ ứng dụng $browser$ nào",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Không có dữ liệu thời tiết"
+   },
+   "no_data": {
+      "message": "Không có dữ liệu"
+   },
+   "no_description": {
+      "message": "Không có mô tả"
+   },
+   "no_more": {
+      "message": "Không còn"
+   },
+   "no_more_reminder": {
+      "message": "Không hiện lại"
+   },
+   "no_permission_text": {
+      "message": "Chúng tôi khuyên bạn nên thử mở và cấp quyền này trong thanh địa chỉ trình duyệt hoặc trung tâm cài đặt."
+   },
+   "no_permission_title": {
+      "message": "Giấy phép vẫn chưa được cấp"
+   },
+   "no_permission_to_open_app": {
+      "message": "Không được phép mở ứng dụng $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Không có Việc Cần làm"
+   },
+   "no_search_result": {
+      "message": "Không có kết quả tìm kiếm"
+   },
+   "no_title": {
+      "message": "Không có tiêu đề"
+   },
+   "none": {
+      "message": "Đã ẩn"
+   },
+   "none_auto_backup": {
+      "message": "Hiện tại không có bản sao lưu theo lịch trình"
+   },
+   "none_auto_backup_desc": {
+      "message": "Sao lưu theo lịch trình sẽ bắt đầu vào cùng ngày bạn sửa đổi thông tin về Infinity"
+   },
+   "none_manual_backup": {
+      "message": "Hiện tại không có bản sao lưu thủ công"
+   },
+   "normal_model": {
+      "message": "Chế độ tiêu chuẩn"
+   },
+   "not_binding": {
+      "message": "Chưa gắn kết"
+   },
+   "note_title": {
+      "message": "Nhập tiêu đề ghi chú"
+   },
+   "note_upload_img_15": {
+      "message": "Kích thước hình ảnh này không thể vượt quá 15M"
+   },
+   "notes": {
+      "message": "Ghi chú"
+   },
+   "notice": {
+      "message": "Lưu ý"
+   },
+   "ocean": {
+      "message": "Đại dương"
+   },
+   "one_day_later": {
+      "message": "Nhắc tôi lại vào ngày mai"
+   },
+   "one_week_later": {
+      "message": "Nhắc tôi sau 1 tuần"
+   },
+   "only_used_infinity": {
+      "message": "Chỉ được sử dụng cho các mô-đun nội bộ vô cực"
+   },
+   "opacity": {
+      "message": "Độ mờ biểu tượng"
+   },
+   "open_all": {
+      "message": "Mở tất cả"
+   },
+   "open_chrome_app": {
+      "message": "Bật ứng dụng"
+   },
+   "open_extension": {
+      "message": "Bật phần mở rộng"
+   },
+   "open_folder_icons": {
+      "message": "Mở tất cả"
+   },
+   "open_new_tab": {
+      "message": "Mở trang web trong tab mới"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Mở liên kết đánh dấu trong tab mới"
+   },
+   "open_newtab_history": {
+      "message": "Lịch sử mở trong tab mới"
+   },
+   "open_newtab_show_search": {
+      "message": "Mở kết quả tìm kiếm của bên thứ ba trong tab mới"
+   },
+   "origin_password": {
+      "message": "Mật khẩu gốc"
+   },
+   "other_bookmarks": {
+      "message": "Dấu trang khác"
+   },
+   "others": {
+      "message": "Khác"
+   },
+   "oversize": {
+      "message": "Kích cỡ không thể vượt hơn 2MB"
+   },
+   "overwrite_data": {
+      "message": "Ghi đè dữ liệu"
+   },
+   "pagin": {
+      "message": "Nút xoay trang"
+   },
+   "password": {
+      "message": "Mật khẩu"
+   },
+   "password_dont_empty": {
+      "message": "Không được để trống mật khẩu"
+   },
+   "password_length_low": {
+      "message": "Mật khẩu không dưới 6 chữ số"
+   },
+   "password_not_equals": {
+      "message": "Mật khẩu không khớp"
+   },
+   "password_not_some": {
+      "message": "Các mật khẩu đã nhập không khớp với nhau"
+   },
+   "permission": {
+      "message": "Cho phép"
+   },
+   "permission_all": {
+      "message": "Ủy quyền tất cả"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Yêu cầu truy cập và sửa đổi dữ liệu của bạn trên mail.google.com; Yêu cầu hiển thị thông báo"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Thông báo gmail."
+   },
+   "permission_gmail_num_content": {
+      "message": "Yêu cầu truy cập và sửa đổi dữ liệu của bạn trên mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Truy cập số lượng gmail."
+   },
+   "permission_serch_suggest_content": {
+      "message": "Yêu cầu truy cập và sửa đổi dữ liệu của bạn trên google.com và sysion.baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Gợi ý tìm kiếm"
+   },
+   "permission_todo_notice_content": {
+      "message": "Yêu cầu hiển thị thông báo."
+   },
+   "permission_todo_notice_title": {
+      "message": "Thông báo cần làm"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Yêu cầu truy cập các biểu tượng tương ứng với các trang web được truy cập và truy cập và sửa đổi dấu trang của bạn"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Hiển thị dấu trang trên đầu trang"
+   },
+   "permission_top_useful_content": {
+      "message": "Yêu cầu truy cập các biểu tượng tương ứng với các trang web đã truy cập và truy cập và sửa đổi danh sách các trang web thường xuyên nhất của bạn"
+   },
+   "permission_top_useful_title": {
+      "message": "Hiển thị các trang web thường được sử dụng trên đầu trang"
+   },
+   "permisson_label": {
+      "message": "Quyền"
+   },
+   "phone_number": {
+      "message": "Số điện thoại"
+   },
+   "photos": {
+      "message": "Hình ảnh"
+   },
+   "pick_local_wallpaper": {
+      "message": "Chọn một hình nền địa phương"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Ảnh miễn phí và đẹp mắt có sẵn cho bất kỳ việc sử dụng"
+   },
+   "placeholder_name": {
+      "message": "Tên"
+   },
+   "please_chose_picture": {
+      "message": "Vui lòng chọn hình ảnh"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Vui lòng nhập tên dấu trang"
+   },
+   "please_enter_email": {
+      "message": "Nhập địa chỉ email"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Vui lòng nhập mã xác minh hình ảnh"
+   },
+   "please_enter_nickname": {
+      "message": "Nhập biệt danh"
+   },
+   "please_enter_phone": {
+      "message": "Vui lòng nhập số điện thoại"
+   },
+   "please_enter_right_account": {
+      "message": "Vui lòng nhập chính xác email hoặc số điện thoại"
+   },
+   "please_enter_text": {
+      "message": "Nhập ký tự"
+   },
+   "please_enter_url": {
+      "message": "Nhập URL"
+   },
+   "please_input_bg_text": {
+      "message": "Vui lòng nhập văn bản biểu tượng"
+   },
+   "please_pre_login": {
+      "message": "Trước tiên bạn cần đăng nhập"
+   },
+   "please_re_login": {
+      "message": "Vui lòng đăng nhập lại"
+   },
+   "please_set_your_password": {
+      "message": "Hãy đặt một mật khẩu"
+   },
+   "please_type_link": {
+      "message": "Vui lòng nhập link"
+   },
+   "please_type_right_link": {
+      "message": "Vui lòng nhập địa chỉ liên kết chính xác"
+   },
+   "please_upload_photos": {
+      "message": "Vui lòng tải ảnh lên"
+   },
+   "popular": {
+      "message": "Phổ biến"
+   },
+   "preview": {
+      "message": "Xem trước"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Quyền riêng tư và thu thập dữ liệu"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Hình ảnh được tạo bởi biểu tượng trang web tùy chỉnh"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Hình ảnh được tạo bởi công cụ tìm kiếm tùy chỉnh"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Địa chỉ email đã đăng ký của bạn, hình ảnh hồ sơ đã tải lên, biệt danh đã chọn, mật khẩu văn bản không đơn giản và các thông tin khác"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Nếu bạn đăng nhập bằng tài khoản của bên thứ ba, chúng tôi sẽ lưu trữ biệt danh, giới tính, hình ảnh hồ sơ của bạn và các thông tin khác được cung cấp bởi bên thứ ba"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Thông tin biểu tượng trang web và thông tin công cụ tìm kiếm bạn đã thêm"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Thông tin thời tiết trong khu vực hoặc thông tin thời tiết của bạn trong các lĩnh vực khác mà bạn đặt"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Danh sách việc cần làm bạn đã tạo"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Nội dung ghi chú bạn đã tạo và hình ảnh được tải lên trong ghi chú của bạn"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Hình nền hiện tại, cài đặt hình nền, hình ảnh của bạn được tải lên hình nền cục bộ của bạn và hình ảnh được tải lên thư viện hình nền cục bộ của bạn"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Thiêt lập mở rộng"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Máy chủ có thể lưu trữ nhật ký được tạo trong các tương tác với người dùng và khách hàng. Bản ghi này chủ yếu được sử dụng để khắc phục lỗi ngoại lệ. Chúng tôi sẽ xóa nhật ký này theo thời gian."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Loại trình duyệt, ngôn ngữ và phiên bản và độ phân giải màn hình"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Hiện đang đăng nhập hay không"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Số lượng biểu tượng hiện tại gần đúng"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Các tiện ích mở rộng hiện có kích hoạt (nếu sử dụng quản lý tiện ích mở rộng)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Số lần tiện ích mở rộng này đã được mở"
+   },
+   "privacy_data_item_4_2": {
+      "message": "Địa chỉ IP và vị trí địa lý xuất phát từ địa chỉ IP"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Biểu tượng trang web và công cụ tìm kiếm được thêm vào"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Cài đặt hình nền và tiện ích mở rộng"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Phiên bản mở rộng"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Tần suất nhấp vào các nút chức năng"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Thông báo lỗi ngoại lệ"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Mở máy chủ địa chỉ của trang web"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Máy chủ công cụ tìm kiếm hiện tại"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Chúng tôi sẽ ẩn danh số lần một số công cụ tìm kiếm được sử dụng."
+   },
+   "privacy_data_item_9": {
+      "message": "Bạn phải đồng ý với chính sách quyền riêng tư này trước khi bạn có thể sử dụng tiện ích mở rộng này. Xem $the_infinity_privacy$ để tìm hiểu thêm.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Không, không thu thập dữ liệu ẩn danh"
+   },
+   "privacy_data_title_1": {
+      "message": "Chúng tôi có thể lưu trữ hình ảnh do người dùng tạo ra một cách tự nguyện trong quá trình sử dụng. Các hình ảnh sau đây được lưu trữ ẩn danh:"
+   },
+   "privacy_data_title_2": {
+      "message": "Nếu bạn đăng ký hoặc đăng nhập vào tài khoản của mình, chúng tôi cần lưu trữ dữ liệu có thể nhận dạng sau (sau đây gọi là dữ liệu người dùng) trên máy chủ của chúng tôi để hoàn tất sao lưu dữ liệu và đồng bộ hóa:"
+   },
+   "privacy_data_title_3": {
+      "message": "Nhật ký máy chủ:"
+   },
+   "privacy_data_title_4": {
+      "message": "Bộ sưu tập các thông tin sau là tùy chọn. Thông tin sẽ được thu thập ẩn danh thông qua Google Analytics giúp chúng tôi cải thiện sản phẩm của chúng tôi:"
+   },
+   "privacy_data_title_5": {
+      "message": "Phân tích thống kê:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Vui lòng xác nhận để gỡ cài đặt trang Tab mới vô cực"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Vui lòng xác nhận để gỡ cài đặt Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Gỡ cài đặt trang Tab New Infinity New?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Gỡ cài đặt Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Có, dữ liệu ẩn danh có thể được thu theo chính sách bảo mật"
+   },
+   "privacy_disagree": {
+      "message": "Không đồng ý"
+   },
+   "privacy_policy": {
+      "message": "Chính sách Riêng tư"
+   },
+   "privacy_title": {
+      "message": "Thỏa thuận chính sách bảo mật"
+   },
+   "profile": {
+      "message": "Thông tin cá nhân"
+   },
+   "pure_color": {
+      "message": "Màu tinh khiết"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Nhóm QQ"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Hình nền ngẫu nhiên"
+   },
+   "re_update": {
+      "message": "Nâng cấp lại"
+   },
+   "read": {
+      "message": "Kinh Thánh"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Số lượng lớn ảnh HD có sẵn cho sử dụng cá nhân và thương mại, 7 cái mới mỗi tuần"
+   },
+   "recently_add": {
+      "message": "Mới thêm gần đây"
+   },
+   "recently_use": {
+      "message": "Đã sử dụng gần đây"
+   },
+   "recover_error": {
+      "message": "Phục hồi dữ liệu thất bại"
+   },
+   "recover_error_version": {
+      "message": "Định dạng dữ liệu không được hỗ trợ"
+   },
+   "recover_this": {
+      "message": "Phục hồi từ nút này"
+   },
+   "redius": {
+      "message": "Biểu tượng góc tròn"
+   },
+   "refresh_qrcode": {
+      "message": "Mã QR không hợp lệ, bấm Làm mới"
+   },
+   "register": {
+      "message": "Đăng ký"
+   },
+   "register_back": {
+      "message": "Quay lại"
+   },
+   "register_get_email_code_error": {
+      "message": "Không thể thu nhận được mã xác thực"
+   },
+   "register_now": {
+      "message": "Đăng ký tài khoản Infinity của bạn ngay bây giờ để tận hưởng nhiều quyền hơn"
+   },
+   "relative_humidity": {
+      "message": "Độ ẩm"
+   },
+   "reload": {
+      "message": "Thử lại"
+   },
+   "reminder_update_text1": {
+      "message": "Để bạn có được một trải nghiệm tốt hơn về việc sử dụng Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Bạn nên nâng cấp trình duyệt lên phiên bản mới nhất và nên sử dụng trình duyệt tương thích với Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Lỗi hiển thị trên trang"
+   },
+   "remove_account": {
+      "message": "Xóa tài khoản"
+   },
+   "remove_done": {
+      "message": "Xóa các mục đã hoàn thành"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Tất cả các hình nền dưới thư viện hình nền này sẽ được gỡ bỏ cùng nhau"
+   },
+   "rename_folder": {
+      "message": "Đổi tên"
+   },
+   "repair_auto_backup": {
+      "message": "Tự động sao lưu dữ liệu"
+   },
+   "repair_concat": {
+      "message": "Chi tiết liên lạc"
+   },
+   "repair_concat_email": {
+      "message": "E-mail: "
+   },
+   "repair_concat_qq": {
+      "message": "Kỹ sư QQ: "
+   },
+   "repair_data": {
+      "message": "Sửa chữa dữ liệu"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Vui lòng gửi cho chúng tôi tập tin dữ liệu cần sửa chữa qua thông tin liên hệ sau, chúng tôi sẽ giúp bạn sửa chữa dữ liệu trong thời gian sớm nhất. Trước khi kỹ sư giải quyết vấn đề, vui lòng cố gắng không thực hiện các thao tác khác. Tệp này có thể chứa thông tin nhạy cảm như tài khoản, vui lòng không tiết lộ cho người khác."
+   },
+   "repair_data_title": {
+      "message": "Lấy lại dữ liệu bị mất hoặc bị hỏng"
+   },
+   "repair_export_btn": {
+      "message": "Xuất dữ liệu để được sửa chữa"
+   },
+   "repeat_city": {
+      "message": "Bạn không thể thêm cùng một thành phố một lần nữa"
+   },
+   "reqeust_login_message": {
+      "message": "Bạn phải đăng nhập để sử dụng tính năng này"
+   },
+   "request_logout_confirm": {
+      "message": "Xóa tài khoản của bạn?"
+   },
+   "request_reset_all_settings": {
+      "message": "Bạn có chắc chắn muốn đặt lại cài đặt về giá trị mặc định?"
+   },
+   "reset": {
+      "message": "Đặt lại"
+   },
+   "reset_password": {
+      "message": "Đặt lại mật khẩu"
+   },
+   "reset_password_by_email": {
+      "message": "Đặt lại mật khẩu của bạn thông qua xác minh email"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Đặt lại mật khẩu của bạn thông qua email hoặc xác minh số điện thoại"
+   },
+   "reset_setting": {
+      "message": "Đặt lại các tùy chọn cài đặt"
+   },
+   "reset_your_password": {
+      "message": "Hãy đặt lại mật khẩu của bạn"
+   },
+   "restore_setting": {
+      "message": "Khôi phục cài đặt"
+   },
+   "revovery_data": {
+      "message": "Khôi phục dữ liệu"
+   },
+   "row_gap": {
+      "message": "Giãn cách dòng"
+   },
+   "row_num": {
+      "message": "Cột"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Nhấp vào tùy chọn như được hiển thị bởi mũi tên trong hình."
+   },
+   "safari_browser_guide2": {
+      "message": "Trong cửa sổ bật lên, nhập URL https://inftab.com trong cột trang chủ."
+   },
+   "safari_browser_guide3": {
+      "message": "Nhấp vào nút bên dưới URL để hoàn tất cài đặt trang chủ."
+   },
+   "sat": {
+      "message": "Thứ Bảy"
+   },
+   "sat_min": {
+      "message": "Th7"
+   },
+   "save": {
+      "message": "Lưu"
+   },
+   "scale": {
+      "message": "Cỡ b.tượng"
+   },
+   "scale_main": {
+      "message": "Phóng to màn hình"
+   },
+   "scale_side": {
+      "message": "Cột bên zoom"
+   },
+   "scheduled_backup": {
+      "message": "Sao lưu dự phòng theo lịch trình"
+   },
+   "search": {
+      "message": "Tìm kiếm"
+   },
+   "search_bookmark": {
+      "message": "Tìm kiếm trong các dấu trang"
+   },
+   "search_engine": {
+      "message": "Công cụ tìm kiếm"
+   },
+   "search_engine_error": {
+      "message": "Nhập tên công cụ tìm kiếm"
+   },
+   "search_error": {
+      "message": "Tải Không thành công"
+   },
+   "search_extension": {
+      "message": "Tìm kiếm trong tiện ích"
+   },
+   "search_from": {
+      "message": "Tìm kiếm từ: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Biểu tượng tìm kiếm"
+   },
+   "search_input": {
+      "message": "hộp tìm kiếm"
+   },
+   "search_input_shadow": {
+      "message": "Tìm kiếm bóng tối"
+   },
+   "search_opacity": {
+      "message": "Hộp tìm kiếm Opacity"
+   },
+   "search_redius": {
+      "message": "Hộp tìm kiếm góc tròn"
+   },
+   "search_result": {
+      "message": "Kết quả tìm kiếm"
+   },
+   "search_size": {
+      "message": "Kích thước hộp tìm kiếm"
+   },
+   "search_suggest": {
+      "message": "Hiện gợi ý tìm kiếm"
+   },
+   "search_website": {
+      "message": "Tìm kiếm site"
+   },
+   "searching": {
+      "message": "Đang tìm kiếm"
+   },
+   "select_date": {
+      "message": "Chọn ngày"
+   },
+   "select_icon": {
+      "message": "Chọn biểu tượng"
+   },
+   "select_time": {
+      "message": "Chọn thời gian"
+   },
+   "send_success": {
+      "message": "Đã gửi thư điện tử xác thực. Vui lòng kiểm tra hộp thư đến của bạn"
+   },
+   "set_homepage_desc": {
+      "message": "Cài đặt tiện ích mở rộng cho trình duyệt để thưởng thức các tính năng đầy đủ"
+   },
+   "set_homepage_title2": {
+      "message": "Tính năng này không được hỗ trợ trong phiên bản hiện tại_#_Vui lòng cài đặt tiện ích mở rộng trình duyệt trước khi sử dụng"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Đặt Infinity làm trang chủ cho trình duyệt của bạn"
+   },
+   "set_new_password": {
+      "message": "Đặt mật khẩu mới"
+   },
+   "set_remind_time": {
+      "message": "Cài thời gian nhắc nhở"
+   },
+   "set_setting_default": {
+      "message": "Khôi phục về mặc định"
+   },
+   "set_to_homepage": {
+      "message": "Đặt làm trang chủ"
+   },
+   "set_top": {
+      "message": "Trên cùng"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "đặt biệt hiệu và hình đại diện"
+   },
+   "settings": {
+      "message": "Cài đặt"
+   },
+   "shadow": {
+      "message": "Đổ bóng biểu tượng"
+   },
+   "share": {
+      "message": "Chia sẻ"
+   },
+   "share_by_user": {
+      "message": "người dùng chia sẻ"
+   },
+   "share_desc": {
+      "message": "Infinity Tab mới, một phần mở rộng điều hướng được chọn bởi hàng triệu, tab mới thân thiện với người dùng trên trình duyệt"
+   },
+   "share_title": {
+      "message": "Nó có thể là tab mới tốt nhất trên trình duyệt $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Mua sắm và mua nhóm"
+   },
+   "shortcut_mode": {
+      "message": "Chế độ nhanh"
+   },
+   "show_detail": {
+      "message": "Xem ngay bây giờ"
+   },
+   "show_gamil_unread_number": {
+      "message": "Hiển thị số email chưa đọc từ Gmail trên biểu tượng"
+   },
+   "show_later": {
+      "message": "Nhắc tôi sau!"
+   },
+   "show_name": {
+      "message": "Tên hiển thị"
+   },
+   "show_reminders_number": {
+      "message": "Hiển thị số lượng để làm trên biểu tượng"
+   },
+   "skip": {
+      "message": "Bỏ qua"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Một nơi để tìm, hiển thị và chia sẻ ảnh"
+   },
+   "social": {
+      "message": "Phương tiện truyền thông xã hội và blog"
+   },
+   "solid_color_wallpaper": {
+      "message": "Hình nền đơn màu"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Công cụ tìm kiếm có thể tìm kiếm nội dung được đăng bởi các tài khoản chính thức của WeChat"
+   },
+   "sports": {
+      "message": "Thể thao và đi du lịch"
+   },
+   "start_animation": {
+      "message": "Bắt đầu hoạt hình"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Cung cấp các khởi nghiệp, blogger, nhà xuất bản, trang web, nhà thiết kế, nhà phát triển, người sáng tạo và hơn thế nữa với hình ảnh miễn phí"
+   },
+   "street_photography": {
+      "message": "Đường phố"
+   },
+   "sun": {
+      "message": "Chủ nhật"
+   },
+   "sun_min": {
+      "message": "Chủ Nhật"
+   },
+   "support": {
+      "message": "Hỗ trợ"
+   },
+   "switch_to": {
+      "message": "Đổi sang"
+   },
+   "sync_fail": {
+      "message": "Đồng bộ hóa thất bại, vui lòng thử lại"
+   },
+   "sync_suncess": {
+      "message": "Đã hoàn tất đồng bộ hóa."
+   },
+   "sync_type_tips": {
+      "message": "Dữ liệu đám mây và dữ liệu cục bộ được phát hiện không nhất quán. Vui lòng chọn một loại dữ liệu."
+   },
+   "syncing": {
+      "message": "Đang đồng bộ dữ liệu…"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Bạn chưa cài đặt ứng dụng $browser$ này",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Cách mở mục tiêu"
+   },
+   "tech": {
+      "message": "Công nghệ"
+   },
+   "technology": {
+      "message": "Công nghệ"
+   },
+   "term_of_use": {
+      "message": "Điều khoản sử dụng"
+   },
+   "text": {
+      "message": "Văn bản"
+   },
+   "text_shadow": {
+      "message": "Bóng văn bản"
+   },
+   "thirt_party": {
+      "message": "Sử dụng đăng nhập tài khoản của bên thứ ba"
+   },
+   "thu": {
+      "message": "Thứ Năm"
+   },
+   "thu_min": {
+      "message": "Th5"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Mở bất kỳ trang web nào và nhập \"% s\" trong hộp tìm kiếm để tìm kiếm. (Với Google làm ví dụ)"
+   },
+   "tip_question_2": {
+      "message": "2. Sao chép URL của kết quả tìm kiếm trực tiếp"
+   },
+   "tip_question_3": {
+      "message": "3. Dán URL sao chép ở đây và bạn đã hoàn tất"
+   },
+   "tip_question_title": {
+      "message": "Về việc sử dụng \"% s\" để thay thế cụm từ tìm kiếm"
+   },
+   "to_login": {
+      "message": "Đăng Nhập Ngay Bây Giờ"
+   },
+   "today": {
+      "message": "Hôm nay"
+   },
+   "todo_welcome": {
+      "message": "Chào mừng bạn đến trang Tab New Infinity mới. Đây là một mục cần làm mẫu."
+   },
+   "todos": {
+      "message": "Việc cần làm"
+   },
+   "top_bookmark": {
+      "message": "Hiển thị dấu trang trên đầu trang"
+   },
+   "top_use_ful": {
+      "message": "Hiển thị các trang web thường được sử dụng trên đầu trang"
+   },
+   "travel": {
+      "message": "Du lịch"
+   },
+   "tue": {
+      "message": "Thứ Ba"
+   },
+   "tue_min": {
+      "message": "Th3"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Nhắc tôi sau 2 giờ"
+   },
+   "type_link": {
+      "message": "Nhập liên kết"
+   },
+   "type_text": {
+      "message": "Nhập ký tự"
+   },
+   "unbind": {
+      "message": "Xóa"
+   },
+   "unbind_btn": {
+      "message": "Hủy liên kết"
+   },
+   "unbind_email": {
+      "message": "Hủy liên kết hộp thư"
+   },
+   "unbind_phone_number": {
+      "message": "Mở khóa ràng buộc số điện thoại di động"
+   },
+   "unbind_success": {
+      "message": "Đã xóa thành công"
+   },
+   "uninstall_agree": {
+      "message": "Đồng ý"
+   },
+   "uninstall_chrome_app": {
+      "message": "Gỡ cài đặt ứng dụng"
+   },
+   "uninstall_extension": {
+      "message": "Xóa tiện ích"
+   },
+   "unknown_mistake": {
+      "message": "Lỗi không xác định"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Hình nền chất lượng cao nổi tiếng thế giới"
+   },
+   "unzip_folder_content": {
+      "message": "Thư mục sẽ bị xóa và biểu tượng sẽ được giữ. Bạn có chắc không?"
+   },
+   "unzip_folder_title": {
+      "message": "Phát hành"
+   },
+   "update_data": {
+      "message": "Nâng cấp dữ liệu"
+   },
+   "update_data_failure": {
+      "message": "Cập nhật thông tin Không"
+   },
+   "update_desc_1": {
+      "message": "Nếu chuyển đổi dữ liệu không thành công trong quá trình nâng cấp phiên bản, bạn có thể thử nâng cấp lại dữ liệu."
+   },
+   "update_desc_2": {
+      "message": "Nếu bạn vẫn không thể giải quyết vấn đề nhiều lần, bạn có thể liên hệ với các kỹ sư của chúng tôi, chúng tôi sẽ cố gắng giúp bạn giải quyết."
+   },
+   "update_desc_3": {
+      "message": "Dữ liệu chuyển đổi Ghi đè dữ liệu phiên bản mới, bạn nên sao lưu dữ liệu trước khi hoạt động."
+   },
+   "update_error_desc1": {
+      "message": "Bạn có thể thử nâng cấp lại nếu phát hiện một số dữ liệu."
+   },
+   "update_error_desc2": {
+      "message": "Nếu bạn thất bại nhiều nâng cấp, bạn cũng có thể nhấp vào biểu tượng \"Cài đặt\" từ góc trên bên phải để nhập - [của tôi] - [Sao lưu và Sửa chữa]."
+   },
+   "update_now": {
+      "message": "Cập nhật ngay"
+   },
+   "update_or_repair_data": {
+      "message": "Nâng cấp hoặc sửa chữa dữ liệu"
+   },
+   "upload_avatar_failure": {
+      "message": "Không thể tải lên ảnh đại diện của bạn"
+   },
+   "upload_file_error": {
+      "message": "Không thể tải lên tập tin"
+   },
+   "upload_image_error": {
+      "message": "Hình ảnh tải không thành công"
+   },
+   "uploading": {
+      "message": "Đang tải lên..."
+   },
+   "use_cloud": {
+      "message": "Sử dụng dữ liệu đám mây"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Nhập văn bản và nhấn Enter để thêm"
+   },
+   "use_local": {
+      "message": "Sử dụng dữ liệu cục bộ"
+   },
+   "use_mobile_screen": {
+      "message": "Sử dụng thiết bị di động để quét mã QR"
+   },
+   "user_evaluation": {
+      "message": "Nhận Xét của Người Dùng"
+   },
+   "username_cannot_empty": {
+      "message": "Tên người dùng không được để trống"
+   },
+   "verify_password_desc": {
+      "message": "Đối với bảo mật tài khoản của bạn, vui lòng nhập mật khẩu tài khoản"
+   },
+   "verity_code": {
+      "message": "Gửi mã xác minh"
+   },
+   "verity_code_no_value": {
+      "message": "Mã xác minh không thể bỏ trống"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Xem"
+   },
+   "w309": {
+      "message": "Mưa phùn"
+   },
+   "w_100": {
+      "message": "Có nắng"
+   },
+   "w_101": {
+      "message": "Bóng mát"
+   },
+   "w_102": {
+      "message": "Ít đám mây"
+   },
+   "w_103": {
+      "message": "Ít mây"
+   },
+   "w_104": {
+      "message": "Trời ảm đạm"
+   },
+   "w_200": {
+      "message": "Có gió"
+   },
+   "w_201": {
+      "message": "Êm đềm"
+   },
+   "w_202": {
+      "message": "Gió nhẹ"
+   },
+   "w_203": {
+      "message": "Gió cấp 4"
+   },
+   "w_204": {
+      "message": "Gió cấp 5"
+   },
+   "w_205": {
+      "message": "Gió cấp 6"
+   },
+   "w_206": {
+      "message": "Gió cấp 7"
+   },
+   "w_207": {
+      "message": "Gió rất mạnh"
+   },
+   "w_208": {
+      "message": "Gió cấp 9"
+   },
+   "w_209": {
+      "message": "Bão"
+   },
+   "w_210": {
+      "message": "Gió bão"
+   },
+   "w_211": {
+      "message": "Bão"
+   },
+   "w_212": {
+      "message": "Lốc xoáy"
+   },
+   "w_213": {
+      "message": "Bão nhiệt đới"
+   },
+   "w_300": {
+      "message": "Mưa rào"
+   },
+   "w_301": {
+      "message": "Mưa to"
+   },
+   "w_302": {
+      "message": "Mưa giông"
+   },
+   "w_303": {
+      "message": "Mưa sấm sét to"
+   },
+   "w_304": {
+      "message": "Sấm sét kèm theo mưa đá"
+   },
+   "w_305": {
+      "message": "Mưa nhỏ"
+   },
+   "w_306": {
+      "message": "Mưa vừa"
+   },
+   "w_307": {
+      "message": "Mưa to"
+   },
+   "w_308": {
+      "message": "Có mưa cực đoan"
+   },
+   "w_310": {
+      "message": "Bão"
+   },
+   "w_311": {
+      "message": "Bão lớn"
+   },
+   "w_312": {
+      "message": "Cơn bão bất thường"
+   },
+   "w_313": {
+      "message": "Mưa đá"
+   },
+   "w_314": {
+      "message": "Mưa nhỏ đang chuyển sang mưa vừa"
+   },
+   "w_315": {
+      "message": "Mưa vừa chuyển sang mưa to"
+   },
+   "w_316": {
+      "message": "Mưa to đến rất to"
+   },
+   "w_317": {
+      "message": "Bão thường đến bão mạnh"
+   },
+   "w_318": {
+      "message": "Mưa to đến cực to"
+   },
+   "w_399": {
+      "message": "Mưa"
+   },
+   "w_400": {
+      "message": "Tuyết rơi nhẹ"
+   },
+   "w_401": {
+      "message": "Tuyết rơi vừa phải"
+   },
+   "w_402": {
+      "message": "Tuyết rơi dày đặc"
+   },
+   "w_403": {
+      "message": "Bão tuyết"
+   },
+   "w_404": {
+      "message": "Kèm giá lạnh"
+   },
+   "w_405": {
+      "message": "Mưa tuyết"
+   },
+   "w_406": {
+      "message": "Mưa rào kèm theo tuyết rơi"
+   },
+   "w_407": {
+      "message": "Tuyết tắm"
+   },
+   "w_408": {
+      "message": "Tuyết rơi nhẹ đến vừa"
+   },
+   "w_409": {
+      "message": "Tuyết rơi vừa đến tuyết to"
+   },
+   "w_410": {
+      "message": "Tuyết to đến rất to"
+   },
+   "w_499": {
+      "message": "Tuyết"
+   },
+   "w_500": {
+      "message": "Sương mù"
+   },
+   "w_501": {
+      "message": "Sương mù"
+   },
+   "w_502": {
+      "message": "Sương mù khô"
+   },
+   "w_503": {
+      "message": "Cát"
+   },
+   "w_504": {
+      "message": "Bụi"
+   },
+   "w_507": {
+      "message": "Bão cát"
+   },
+   "w_508": {
+      "message": "Bão cát mạnh"
+   },
+   "w_509": {
+      "message": "Sương mù dày đặc"
+   },
+   "w_510": {
+      "message": "Sương mù cực dày"
+   },
+   "w_511": {
+      "message": "Khói mù vừa"
+   },
+   "w_512": {
+      "message": "Sương mù nặng"
+   },
+   "w_513": {
+      "message": "Khói mù đặc biệt dày"
+   },
+   "w_514": {
+      "message": "Có sương"
+   },
+   "w_515": {
+      "message": "Sương mù đặc biệt dày"
+   },
+   "w_900": {
+      "message": "Nóng"
+   },
+   "w_901": {
+      "message": "Lạnh"
+   },
+   "w_999": {
+      "message": "Không xác định"
+   },
+   "wallpaper": {
+      "message": "Hình nền"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Thêm màu sắc tùy chỉnh"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Không thể thêm hình ảnh. Thử lại sau."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Ứng dụng hình nền cục bộ không thành công. Thử lại sau"
+   },
+   "wallpaper_applying_library": {
+      "message": "Áp dụng thư viện hình nền..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Tần số làm mới hình nền"
+   },
+   "wallpaper_choose_library": {
+      "message": "Chọn hình nền nguồn"
+   },
+   "wallpaper_choose_single": {
+      "message": "Chọn hình nền"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Xóa lựa chọn"
+   },
+   "wallpaper_cloud": {
+      "message": "Hình nền đám mây."
+   },
+   "wallpaper_collect_current": {
+      "message": "Thu thập hình nền hiện tại"
+   },
+   "wallpaper_common_color": {
+      "message": "Màu phổ biến"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Xóa hình nền này?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Không thể tạo thư viện hình nền cục bộ. Thử lại sau."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Thư viện hình nền tùy chỉnh của người dùng vượt quá giới hạn"
+   },
+   "wallpaper_custom_color": {
+      "message": "Màu tùy chỉnh"
+   },
+   "wallpaper_delete_color": {
+      "message": "Xóa màu này"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Đã xóa thành công"
+   },
+   "wallpaper_delete_file": {
+      "message": "Xoá giấy dán"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Không thể xóa hình nền"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Vô hiệu hóa chuyển đổi hình nền tự động"
+   },
+   "wallpaper_empty_text": {
+      "message": "Không có dữ liệu"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Nhận hình nền không thành công"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Không thể có được hình nền người dùng"
+   },
+   "wallpaper_library": {
+      "message": "Thư viện hình nền"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$ Thư viện hình nền cục bộ",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Tên thư viện hình nền bất hợp pháp"
+   },
+   "wallpaper_library_preview": {
+      "message": "Xem trước hình nền"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Tải lên tối đa 20 hình nền. Mỗi hình nền không được vượt quá 10m."
+   },
+   "wallpaper_loading": {
+      "message": "Đang xử lý..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Cần kết nối mạng để làm điều đó"
+   },
+   "wallpaper_remove_library": {
+      "message": "Xóa thư viện hình nền này"
+   },
+   "wallpaper_sort_default": {
+      "message": "Sắp xếp mặc định"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Độ phổ biến"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Ngày bao gồm"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Chuyển đổi cứ sau 24 giờ"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Hoán đổi hình nền thất bại"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Cập nhật hình nền hàng ngày của bạn với Bing. Bạn không thể chọn tần số chuyển đổi."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Chuyển đổi cứ sau 1 giờ"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Chuyển đổi cứ sau 12 giờ"
+   },
+   "wallpaper_switch_success": {
+      "message": "Hình nền ngẫu nhiên đã thay đổi thành công"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Thay đổi hình nền tiếp theo"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Chuyển đổi khi mở tab mới"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Chuyển đổi khi mở trang"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Tải lên tệp không thành công. Lý do: Kích thước vượt quá giới hạn"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Chọn một nền tảng cục bộ"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Ít nhất một hình nền là bắt buộc"
+   },
+   "want_more": {
+      "message": "Tận hưởng nhiều đặc quyền hơn ngay lập tức"
+   },
+   "weather": {
+      "message": "Thời tiết"
+   },
+   "weather_empty": {
+      "message": "Hiện không có thông tin thời tiết"
+   },
+   "web_set_home_title": {
+      "message": "Cách đặt Infinity làm trang chủ"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Tên trang web"
+   },
+   "website_search_replace_char": {
+      "message": "URL (sử dụng% s để thay thế từ tìm kiếm)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Thứ Tư"
+   },
+   "wed_min": {
+      "message": "Th4"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Lực gió"
+   },
+   "wind_mill": {
+      "message": "Hiển thị nút hình nền ngẫu nhiên ở góc dưới bên phải"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search là một công cụ tìm kiếm được điều hành bởi Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex là một trong những cổng dịch vụ internet quan trọng nhất ở Nga"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$năm$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Hôm qua"
+   },
+   "you_need_login": {
+      "message": "Ký vào tài khoản Vô Cực để dùng tính năng này"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Các lịch sử duyệt sẽ được hiển thị ở đây"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

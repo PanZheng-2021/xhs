@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>关闭</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="侧边栏关闭-默认" transform="translate(-985.000000, -99.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="关闭" transform="translate(985.000000, 99.000000)">
+                <polygon id="路径" points="13.999959 1.57185547 12.4606562 0.0326484375 7.05672461 5.43633398 1.62011719 0 0.0808007812 1.53924805 5.5174082 6.97558203 0.0971660156 12.3955781 1.63644141 13.9348945 7.05671094 8.51483008 12.4606426 13.918625 13.999959 12.3793086 8.59602734 6.97558203"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

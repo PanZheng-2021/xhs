@@ -1,0 +1,2413 @@
+{
+   "360_desc": {
+      "message": "Biztonságos keresőmotor"
+   },
+   "about": {
+      "message": "Névjegy"
+   },
+   "about_us": {
+      "message": "Rólunk"
+   },
+   "account_expired": {
+      "message": "Tesztelje fiókját lejárt, kérjük, jelentkezzen be újra"
+   },
+   "account_setting": {
+      "message": "Fiókbeállítások"
+   },
+   "add": {
+      "message": "Hozzáadás"
+   },
+   "add_city": {
+      "message": "Város hozzáadása"
+   },
+   "add_first_note": {
+      "message": "Készítse el első jegyzetét"
+   },
+   "add_icon_success": {
+      "message": "sikeresen hozzáadva"
+   },
+   "add_link": {
+      "message": "Link hozzáadása"
+   },
+   "add_new_search_engine": {
+      "message": "Új keresési motor hozzáadása"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Új tapéta könyvtár"
+   },
+   "add_search_engine": {
+      "message": "Keresőmotor hozzáadása"
+   },
+   "add_success": {
+      "message": "Sikerült a hozzáadás."
+   },
+   "add_to_home_site": {
+      "message": "Hozzáadás a kezdőlaphoz"
+   },
+   "add_to_infinity": {
+      "message": "Add hozzá az Infinity New lap oldalához"
+   },
+   "additional_search_engine": {
+      "message": "Csatolt keresőmotor"
+   },
+   "air_pressure": {
+      "message": "Légnyomás"
+   },
+   "all_wallpaper_sources": {
+      "message": "Minden háttérkép"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "A háttérképek minden forrása"
+   },
+   "ambiguity": {
+      "message": "bodorítás"
+   },
+   "animals": {
+      "message": "Állatok"
+   },
+   "animation": {
+      "message": "Animációk"
+   },
+   "animation_tips": {
+      "message": "A kezdő animáció befolyásolhatja a simaságot"
+   },
+   "anime": {
+      "message": "Képregény"
+   },
+   "any_money": {
+      "message": "Bármelyik"
+   },
+   "app": {
+      "message": "Alkalmazás"
+   },
+   "app_disabled_enable_first": {
+      "message": "Letiltotta ezt az alkalmazást. Engedélyezze az Infinity számára, hogy először engedélyezze ezt az alkalmazást?"
+   },
+   "application": {
+      "message": "Alkalmazás"
+   },
+   "apply": {
+      "message": "Alkalmaz"
+   },
+   "architecture": {
+      "message": "Építészet"
+   },
+   "athletics": {
+      "message": "Sportok"
+   },
+   "avatar": {
+      "message": "Válasszon avatárt"
+   },
+   "backing_up": {
+      "message": "Biztonsági mentés…"
+   },
+   "backup_and_recovery": {
+      "message": "Biztonsági mentés és helyreállítás"
+   },
+   "backup_failed": {
+      "message": "Biztonsági mentésa sikertelen"
+   },
+   "backup_now": {
+      "message": "Automatikus mentés most"
+   },
+   "backup_successful": {
+      "message": "Sikeres Backup"
+   },
+   "backup_tips": {
+      "message": "Legfeljebb 3 kézi biztonsági csomópontot és 3 automatikus biztonsági csomópontot tartunk Önnek"
+   },
+   "backup_with_device": {
+      "message": "Szinkronizálás más eszközökkel"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Fókuszban az ingyenes és kiváló minőségű nem galériás típusú fényképezés gyűjtésére"
+   },
+   "basic_info": {
+      "message": "Általános információk"
+   },
+   "bg_color": {
+      "message": "Háttérszín"
+   },
+   "bg_updating": {
+      "message": "A frissítésben várjon ..."
+   },
+   "bind": {
+      "message": "Társítás"
+   },
+   "bind_success": {
+      "message": "Hozzárendelés sikeres"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "A Bing a Microsoft által kifejlesztett keresőmotor"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Napi Bing Wallpaper Könyvtár"
+   },
+   "bookmarks": {
+      "message": "Könyvjelzők"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "A $browser$ nem támogatja ezt a funkciót",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "cancel_login": {
+      "message": "Bejelentkezés megszakítása"
+   },
+   "cancel_remind_time": {
+      "message": "Emlékeztető idő visszavonása"
+   },
+   "cancel_set_top": {
+      "message": "Rögzítés feloldása"
+   },
+   "cannot_change_password": {
+      "message": "A bejelentkezés egy harmadik fél fiókja által nem támogatja a jelszó megváltoztatását"
+   },
+   "cannot_change_profile": {
+      "message": "Harmadik féltől származó felhasználók, akik bejelentkeznek, nem módosíthatják a profilinformációkat"
+   },
+   "cannot_download": {
+      "message": "A letöltés nem támogatott"
+   },
+   "cannot_empty": {
+      "message": "Nem lehet üres"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Emlékeztető idő módosítása"
+   },
+   "change_wallpaper": {
+      "message": "Háttérkép módosítása"
+   },
+   "check_olddata_desc": {
+      "message": "Megmutatják, hogy van egy régi változat a régi adatok, amelyek frissíthetők. Ha meg kell próbálnia frissíteni ezeket az adatokat"
+   },
+   "choose_sync_type": {
+      "message": "Válassza ki a fiókadatokat"
+   },
+   "chose_from_mypc": {
+      "message": "Háttérképkönyvtár létrehozása"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$-alkalmazások",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - Extensions"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Adja meg a chrome://settings/appearance gombot a címsorban, és írja be a Beállítások oldalt."
+   },
+   "chrome_browser_guide2": {
+      "message": "Csúsztassa lefelé az aljzatba, és válassza ki az ábrán látható nyíllal jelölt opciót."
+   },
+   "chrome_browser_guide3": {
+      "message": "Adja meg az URL-t https://inftab.com az előugró ablakban, majd kattintson a Hozzáadás gombra a kezdőlap beállításának befejezéséhez."
+   },
+   "clear_historys": {
+      "message": "Előzmények törlése"
+   },
+   "col_gap": {
+      "message": "Oszloptávolság"
+   },
+   "col_num": {
+      "message": "Sor"
+   },
+   "color": {
+      "message": "Szín"
+   },
+   "color_icon": {
+      "message": "Szilárd szín ikon"
+   },
+   "come_from": {
+      "message": "A felhasználóból"
+   },
+   "comming_soon": {
+      "message": "Hamarosan"
+   },
+   "comming_soon_title": {
+      "message": "Az Infinity Mobile verzió az úton van"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Biztosan törli az összes előzményt?"
+   },
+   "confirm_cover_remote": {
+      "message": "A helyi adatokat kézi biztonsági mentési csomópontba kerülnek"
+   },
+   "confirm_del_folder": {
+      "message": "Biztosan törölni szeretné ezt a mappát?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Biztosan törölni szeretné a befejezett elemeket?"
+   },
+   "confirm_delete_note": {
+      "message": "A jegyzet törlésének megerősítése?"
+   },
+   "confirm_logout": {
+      "message": "Kijelentkezés"
+   },
+   "confirm_password": {
+      "message": "Új jelszó megerősítése"
+   },
+   "confirm_password_2": {
+      "message": "Jelszó megerősítése"
+   },
+   "confirm_recovery_data": {
+      "message": "A felhőadatok helyettesítik a helyi adatokat. Biztos benne, hogy ez a cselekvés?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Biztos, hogy eltávolítani szeretné ezt a tapéta könyvtárat?"
+   },
+   "confirm_unbind": {
+      "message": "Eltávolítja a fiókot?"
+   },
+   "confirm_unbind_email": {
+      "message": "Biztosan feloldja az e-mail $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Biztosan feloldja a telefonszámát $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Kapcsolatfejlesztő"
+   },
+   "contact_us": {
+      "message": "Írj nekünk!"
+   },
+   "copy": {
+      "message": "Másolás"
+   },
+   "cubic_bezier": {
+      "message": "Rúg"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Profilkép"
+   },
+   "current_browser_not_support": {
+      "message": "Az aktuális böngésző nem támogatja a kiterjesztés kezelését"
+   },
+   "current_no_reminders": {
+      "message": "Nincsenek elvégzendő elemek"
+   },
+   "current_node": {
+      "message": "Jelenlegi csomópont"
+   },
+   "custom": {
+      "message": "Testreszabás"
+   },
+   "custom_icon": {
+      "message": "Ikon testreszabása"
+   },
+   "custom_layout": {
+      "message": "Elrendezés testre szabása"
+   },
+   "custom_site": {
+      "message": "Egyéni webhely"
+   },
+   "default": {
+      "message": "Alapértelmezett"
+   },
+   "del_folder": {
+      "message": "Törlés"
+   },
+   "delete_all_bookmarks": {
+      "message": "A mappa összes könyvjelző törlése"
+   },
+   "disable_chrome_app": {
+      "message": "Alkalmazás letiltása"
+   },
+   "disable_extension": {
+      "message": "A kiterjesztések letiltása"
+   },
+   "do_later": {
+      "message": "beszéljen róla később"
+   },
+   "done": {
+      "message": "Kész"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Letöltés CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Az aktuális háttérkép letöltése"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "A Duckduckgo a nagy web 2.0 webhelyek importálására összpontosít, a hagyományos keresőmotorok mellett a honlap filozófiája a felhasználók magánéletének tiszteletben tartása, az ígéret, hogy nem figyeli vagy a keresési tartalmat."
+   },
+   "ease_in": {
+      "message": "Előtűnés"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Írja be a edge://settings/onStartup böngésző címsorába, majd nyomja meg az Enter billentyűt."
+   },
+   "edge_browser_guide2": {
+      "message": "Kattintson az ábrán látható nyíllal jelölt opcióra."
+   },
+   "edge_browser_guide3": {
+      "message": "Inserisci URL https://inftab.com Nella finestra pop-up, quindi fare clic sul pulsante Aggiungi per completare l'impostazione della pagina iniziale."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Szerkesztés"
+   },
+   "edit_avatar": {
+      "message": "Avatar szerkesztése"
+   },
+   "edit_content": {
+      "message": "Tartalom szerkesztése"
+   },
+   "edit_icon": {
+      "message": "Ikon szerkesztése"
+   },
+   "education": {
+      "message": "Oktatás és munkahelyek"
+   },
+   "email": {
+      "message": "E-mail cím"
+   },
+   "email_code": {
+      "message": "E-mail ellenőrzése"
+   },
+   "email_format_error": {
+      "message": "E-mail formátum érvénytelen"
+   },
+   "email_or_phone_number_tips": {
+      "message": "E-mail vagy mobiltelefonszám"
+   },
+   "empty": {
+      "message": "Üres"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Ellenőrizze, hogy törölje a mappát?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Törli ezt a könyvjelzőt?"
+   },
+   "ensure_logout": {
+      "message": "Biztosan szeretnél kijelentkezni?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "A feladat- lista kitöltése, elemek hozzáadása a Enter kattintással"
+   },
+   "enter_password_tips": {
+      "message": "Összetett jelszó megadása"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Kérjük, adja meg a helyes telefonszámot"
+   },
+   "enter_verification_code_tips": {
+      "message": "Kérjük, adja meg az ellenőrző kódot"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Exportment adatok exportálása"
+   },
+   "export_local_data_desc": {
+      "message": "Export a jelenlegi helyi adatokból"
+   },
+   "extension": {
+      "message": "Bővítmények"
+   },
+   "extension_app": {
+      "message": "Bővítmények"
+   },
+   "extension_des": {
+      "message": "Szabadon hozzá weboldal ikonok, élvezze a nagy felbontású felhő meghajtó háttérképek és gyorsan elérhető könyvjelzők , időjárás , jegyzetek , teendők , mellék kezelése, és a történelem az Új lap oldal által választott millió felhasználó."
+   },
+   "extension_des_app": {
+      "message": "Az Infinity New Tab APP lehetővé teszi az új lap oldalának testreszabását"
+   },
+   "extension_des_firefox": {
+      "message": "Emberek milliói választanak új tabikat.Beleértve a webikont, a keresőmotort, a nagy felbontású tapétát, az időjárást, a jegyzeteket, a könyvjelzőket, a tennivalókat, a történelmet, a kiterjesztett irányítást és egyéb funkciókat"
+   },
+   "extension_des_pro": {
+      "message": "Az Infinity New Tab Pro lehetővé teszi az új lap oldalának testreszabását"
+   },
+   "extension_mananger": {
+      "message": "Bővítmények kezelése"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Csatlakozzon a Facebook-csoporthoz"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Visszajelzés"
+   },
+   "female": {
+      "message": "Nő"
+   },
+   "filter": {
+      "message": "Szűrés"
+   },
+   "finance": {
+      "message": "pénzügy"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox kiegészítő áruház"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Bemenet about: preferences #home a címsorban a beállítási oldal megadásához."
+   },
+   "firefox_browser_guide2": {
+      "message": "Amint az ábrán látható nyíllal is kiválaszthatja az egyéni URL-ek lehetőséget."
+   },
+   "firefox_browser_guide3": {
+      "message": "Írja be az URL-t https://inftab.com A szövegmezőbe a kezdőlap beállítása befejeződött."
+   },
+   "five_star": {
+      "message": "Értékeljen minket 5 csillaggal"
+   },
+   "folder": {
+      "message": "Mappa"
+   },
+   "follow_us": {
+      "message": "Kövess minket"
+   },
+   "follow_wechat": {
+      "message": "Kövesse az Infinity Wechat nyilvános fiókot"
+   },
+   "follow_wechat_desc": {
+      "message": "Figyeljen a Wechat nyilvános számunkra (Micro Signal: InfinityDaily), hogy végtelenül a legújabb termékdinamikát kapjunk, és többet találhat a bővítésre és a weboldalra."
+   },
+   "font": {
+      "message": "Betűtípusok"
+   },
+   "font_color": {
+      "message": "Betűszín"
+   },
+   "font_size": {
+      "message": "Szövegméret"
+   },
+   "food_drink": {
+      "message": "Étel"
+   },
+   "forget_password": {
+      "message": "Elfelejtett jelszó"
+   },
+   "format_error": {
+      "message": "Formátumhiba"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Nagy mennyiségű jogdíjmentes fénykép, szabadon használható és frissíthető naponta"
+   },
+   "fri": {
+      "message": "Péntek"
+   },
+   "fri_min": {
+      "message": "P"
+   },
+   "fully_authorized_to_use": {
+      "message": "Teljes mértékben engedélyezett a funkciók használatára"
+   },
+   "games": {
+      "message": "Játék és szórakozás"
+   },
+   "gamil_notice": {
+      "message": "Gmail értesítések"
+   },
+   "gender": {
+      "message": "Nem kiválasztása"
+   },
+   "get_app_permission": {
+      "message": "Engedélyezze a helyi alkalmazást"
+   },
+   "get_cloud_icon": {
+      "message": "Online megszerzése"
+   },
+   "give_money": {
+      "message": "Támogatás"
+   },
+   "give_money_thanks": {
+      "message": "A támogatás a legnagyobb jutalom"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Ha tetszik az Infinity New lap oldalán, kérjük, értékelje szolgáltatást, vagy adjon nekünk visszajelzést, hogy segítsen nekünk IGN-nek."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen velünk kapcsolatba."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail értesítési csengőhang"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "A Google Search a Google által kifejlesztett keresőmotor. Ez a legnagyobb, legbefolyásosabb keresőmotor az interneten"
+   },
+   "have_todo_item": {
+      "message": "Jelenleg van egy to-do elem"
+   },
+   "hide_homepage_btn": {
+      "message": "Elrejtés otthoni gombként"
+   },
+   "hide_icon_name": {
+      "message": "Ikon neve elrejtése"
+   },
+   "hide_search_button": {
+      "message": "A Keresés gomb elrejtése"
+   },
+   "hide_search_category": {
+      "message": "Keresési kategória elrejtése"
+   },
+   "hide_search_input": {
+      "message": "A keresőmező elrejtése"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Elrejtés otthoni gombként"
+   },
+   "hint": {
+      "message": "Tipp"
+   },
+   "history": {
+      "message": "Előzmények"
+   },
+   "history_backup_list": {
+      "message": "Történelem biztonsági mentési csomópont lista"
+   },
+   "history_week": {
+      "message": "A történelem keresése egy héten belül"
+   },
+   "host_permission": {
+      "message": "Host engedélyek"
+   },
+   "hour": {
+      "message": "óra"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Meg akarom jutalmazni"
+   },
+   "icon": {
+      "message": "Ikon"
+   },
+   "icon_added": {
+      "message": "Hozzáadva"
+   },
+   "icon_bg_text": {
+      "message": "Ikon szövege"
+   },
+   "icon_network_error": {
+      "message": "Hálózati kivétel, kattints az újratöltésre"
+   },
+   "ignore": {
+      "message": "Mellőzés"
+   },
+   "img_verify_code": {
+      "message": "Kép ellenőrzése"
+   },
+   "import_data": {
+      "message": "Adatok importálása"
+   },
+   "import_data_desc": {
+      "message": "Adatok helyreállítása biztonsági mentési fájlból"
+   },
+   "import_select_tile": {
+      "message": "Adatok kiválasztása"
+   },
+   "infinity_bookmarks": {
+      "message": "A könyvjelző mappájának hierarchiájának köszönhetően könnyebben keresse meg a könyvjelzőket az Infinity Könyvjelzők segítségével"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity kiemelt anime háttérképek"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Kiváló minőségű Infinity Anime Wallpaper Könyvtár"
+   },
+   "infinity_extension": {
+      "message": "Kezelje a króm kiterjesztéseit és alkalmazásait könnyedén az Infinity Extension Manager segítségével"
+   },
+   "infinity_history": {
+      "message": "A böngésző előzményeinek gyors megtekintése és kezelése végtelen történetével"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity kiemelt táj háttérképek"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Kiváló minőségű Infinity Lands Wallpaper Könyvtár"
+   },
+   "infinity_notes": {
+      "message": "Rögzítse az élet inspirációit gyorsan végtelen megjegyzésekkel"
+   },
+   "infinity_settings": {
+      "message": "Személyre szabhatja az Infinity új lapját az Infinity beállításokkal"
+   },
+   "infinity_todos": {
+      "message": "Rendezze el feladatait, és javítsa a munka hatékonyságát az Infinity To-Do listával"
+   },
+   "infinity_wallpaper": {
+      "message": "Az Infinity Wallpaper Könyvtár gazdag és izgalmas háttérképekkel rendelkezik"
+   },
+   "infinity_weather": {
+      "message": "Az Infinity Időjárás az időjárás-előrejelzést biztosítja a világ minden tájáról"
+   },
+   "info": {
+      "message": "Információ"
+   },
+   "inportdata_desc": {
+      "message": "Az importált adatok összhangban vannak a helyi adatokkal. Válassza az egyesítés vagy felülírás lehetőséget."
+   },
+   "input_and_search": {
+      "message": "Belépés a keresésbe"
+   },
+   "input_city": {
+      "message": "Bemeneti város/régió"
+   },
+   "input_new_password": {
+      "message": "Írja be az új jelszót"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Társítva"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Szabad képek bármilyen célra"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Tartsa meg a keresőmező tartalmát"
+   },
+   "label": {
+      "message": "Címkék"
+   },
+   "language": {
+      "message": "Nyelv"
+   },
+   "language_select": {
+      "message": "Válasszon nyelvet"
+   },
+   "last_sync_time": {
+      "message": "Utolsó szinkronidő: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Utoljára frissítve"
+   },
+   "layout": {
+      "message": "Elrendezés"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Ingyenes HD háttérképforrás"
+   },
+   "life_style": {
+      "message": "Életmód"
+   },
+   "limit_input_length": {
+      "message": "Szöveghossz a határon túl"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Helyi ikon"
+   },
+   "local_wallpaper2": {
+      "message": "Helyi háttérképek"
+   },
+   "login": {
+      "message": "Bejelentkezés"
+   },
+   "login_abandon_tips": {
+      "message": "A jelenlegi bejelentkezési módot hamarosan eltávolítjuk, kérjük, a bejelentkezés után a lehető leghamarabb kösse össze e-mail-címét vagy más harmadik fél fiókját"
+   },
+   "login_now": {
+      "message": "Jelentkezzen be az Infinity-fiókjába, hogy élvezze a több engedélyt"
+   },
+   "login_now_btn": {
+      "message": "Bejelentkezés"
+   },
+   "login_register": {
+      "message": "Bejelentkezés / regisztráció"
+   },
+   "loging": {
+      "message": "Bejelentkezés"
+   },
+   "logout": {
+      "message": "Kijelentkezés"
+   },
+   "logout_clear_something": {
+      "message": "Egyértelmű személyre szabott beállítások és egyéb információk ezen eszközön"
+   },
+   "logout_tips": {
+      "message": "Szüksége van , hogy törölje a helyi adatokat , mielőtt jelentkezzen ki a fiók , hogy megakadályozza az adatok különböző fiókok ezen való csatlakozás ?"
+   },
+   "logout_warn": {
+      "message": "A fiókból történő bejelentkezés után a fiók keretében a biztonsági mentési információ törlődik. Biztosan kijelentkezik a fiókból? (A jegyzetek és az egyéni háttérkép könyvtárak képe nem áll rendelkezésre)"
+   },
+   "male": {
+      "message": "Férfi"
+   },
+   "manage_backup_node": {
+      "message": "A történelem biztonsági mentési csomópontjainak kezelése"
+   },
+   "manul_backup": {
+      "message": "Kézi biztonsági mentés"
+   },
+   "map": {
+      "message": "Térkép"
+   },
+   "mask_density": {
+      "message": "Homályos tapéta"
+   },
+   "me": {
+      "message": "Én"
+   },
+   "merge_cloud_local": {
+      "message": "Kombinálja a helyi és a felhőadatokat"
+   },
+   "merge_data": {
+      "message": "Adatok egyesítése"
+   },
+   "mini_mode": {
+      "message": "Minimalista mód"
+   },
+   "mins": {
+      "message": "Perc"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Használja weboldalait, témáit, sablonjait, projektjeit, nyomtatási anyagokat és újságokat. Minden héten új háttérképek és videók kerülnek hozzáadásra"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobil-verzió"
+   },
+   "modify": {
+      "message": "Adatok szerkesztése"
+   },
+   "modify_email": {
+      "message": "E-mail módosítása"
+   },
+   "modify_password": {
+      "message": "Jelszó módosítása"
+   },
+   "modify_phone_number": {
+      "message": "Modify phone number"
+   },
+   "modify_pwd": {
+      "message": "Jelszó módosítása"
+   },
+   "modify_success": {
+      "message": "Megváltoztatva"
+   },
+   "modify_this": {
+      "message": "Szerkesztés"
+   },
+   "mon": {
+      "message": "Hétfő"
+   },
+   "mon_min": {
+      "message": "H"
+   },
+   "month_1": {
+      "message": "Január"
+   },
+   "month_10": {
+      "message": "Október"
+   },
+   "month_11": {
+      "message": "November"
+   },
+   "month_12": {
+      "message": "December"
+   },
+   "month_2": {
+      "message": "Február"
+   },
+   "month_3": {
+      "message": "Március"
+   },
+   "month_4": {
+      "message": "Április"
+   },
+   "month_5": {
+      "message": "Május"
+   },
+   "month_6": {
+      "message": "Június"
+   },
+   "month_7": {
+      "message": "Július"
+   },
+   "month_8": {
+      "message": "Augusztus"
+   },
+   "month_9": {
+      "message": "Szeptember"
+   },
+   "more_content_from_site": {
+      "message": "További tartalom ebből a weboldalról"
+   },
+   "most_used_in_chinese": {
+      "message": "A keresőmotor a legtöbbet használta a kínai"
+   },
+   "music_video": {
+      "message": "Zenei videó"
+   },
+   "my_collection": {
+      "message": "Saját gyűjtemény"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Kérjük, adja meg a webhely nevét"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Természet"
+   },
+   "need_you_permission": {
+      "message": "Engedély szükséges"
+   },
+   "network_error": {
+      "message": "Hálózati hiba"
+   },
+   "new_email": {
+      "message": "Új postafiók"
+   },
+   "new_password": {
+      "message": "Írja be az új jelszót"
+   },
+   "new_phone_number": {
+      "message": "Új telefonszám"
+   },
+   "new_tab": {
+      "message": "Új lap"
+   },
+   "new_tab_web": {
+      "message": "Infinity honlapja"
+   },
+   "news": {
+      "message": "Hírek"
+   },
+   "next": {
+      "message": "Tovább"
+   },
+   "nickname": {
+      "message": "Becenév"
+   },
+   "no_account_register": {
+      "message": "Még nincsen fiókja? Készítsen egyet most."
+   },
+   "no_backup_time": {
+      "message": "Nincs"
+   },
+   "no_bookmark_result": {
+      "message": "Nincs könyvjelző"
+   },
+   "no_chrome_app": {
+      "message": "Nem telepítette a $browser$ alkalmazást",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Nincsenek időjárási adatok"
+   },
+   "no_data": {
+      "message": "Nincs adat"
+   },
+   "no_description": {
+      "message": "Nincs leírás"
+   },
+   "no_more": {
+      "message": "Nincs több"
+   },
+   "no_more_reminder": {
+      "message": "Ne jelenjen meg többé"
+   },
+   "no_permission_text": {
+      "message": "Javasoljuk, hogy megpróbálja megnyitni és megadni ezt az engedélyt a böngésző címsorában vagy a beállítási központban."
+   },
+   "no_permission_title": {
+      "message": "Az engedélyt még nem adták meg"
+   },
+   "no_permission_to_open_app": {
+      "message": "Nincs engedély a $browser$ alkalmazás megnyitásához",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Nincsenek elvégzendő elemek"
+   },
+   "no_search_result": {
+      "message": "Nincs keresési eredmény"
+   },
+   "no_title": {
+      "message": "Nincs cím"
+   },
+   "none": {
+      "message": "Rejtett"
+   },
+   "none_auto_backup": {
+      "message": "Jelenleg nincsenek ütemezett biztonsági mentések"
+   },
+   "none_auto_backup_desc": {
+      "message": "Az ütemezett biztonsági mentések ugyanazon a napon indulnak meg, ha az Infinity információt módosítja"
+   },
+   "none_manual_backup": {
+      "message": "Jelenleg nincs kézi mentés"
+   },
+   "normal_model": {
+      "message": "Normál mód"
+   },
+   "not_binding": {
+      "message": "Nincs társítva"
+   },
+   "note_title": {
+      "message": "Adja meg a megjegyzés címét"
+   },
+   "note_upload_img_15": {
+      "message": "Ez a képméret nem haladhatja meg a 15M-ot"
+   },
+   "notes": {
+      "message": "Jegyzetek"
+   },
+   "notice": {
+      "message": "Közlés"
+   },
+   "ocean": {
+      "message": "Óceán"
+   },
+   "one_day_later": {
+      "message": "Holnap kérek erről emlékeztetőt"
+   },
+   "one_week_later": {
+      "message": "Emlékeztessen 1 hét múlva"
+   },
+   "only_used_infinity": {
+      "message": "Csak az Infinity Belső modulokhoz használják"
+   },
+   "opacity": {
+      "message": "Ikonok átlátszósága"
+   },
+   "open_all": {
+      "message": "Összes megnyitása"
+   },
+   "open_chrome_app": {
+      "message": "Alkalmazás engedélyezése"
+   },
+   "open_extension": {
+      "message": "Bővítmény engedélyezése"
+   },
+   "open_folder_icons": {
+      "message": "Összes megnyitása"
+   },
+   "open_new_tab": {
+      "message": "Nyissa meg a webhelyet az Új lapon"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Nyissa meg a könyvjelzői linket az új lapon"
+   },
+   "open_newtab_history": {
+      "message": "Nyissa meg a történetet az új lapon"
+   },
+   "open_newtab_show_search": {
+      "message": "Nyílt harmadik fél keresési eredményei Új lapon"
+   },
+   "origin_password": {
+      "message": "Eredeti jelszó"
+   },
+   "other_bookmarks": {
+      "message": "Egyéb könyvjelzők"
+   },
+   "others": {
+      "message": "Egyéb"
+   },
+   "oversize": {
+      "message": "A méret nem haladhatja meg a 2MB"
+   },
+   "overwrite_data": {
+      "message": "Adat felülírása"
+   },
+   "pagin": {
+      "message": "Oldalak gomb"
+   },
+   "password": {
+      "message": "Jelszó"
+   },
+   "password_dont_empty": {
+      "message": "A jelszónak fenntartott mező nem maradhat üres"
+   },
+   "password_length_low": {
+      "message": "Jelszó nem kevesebb, mint 6 számjegy"
+   },
+   "password_not_equals": {
+      "message": "A jelszavak nem azonosak"
+   },
+   "password_not_some": {
+      "message": "A megadott jelszavak nem egyeznek"
+   },
+   "permission": {
+      "message": "Engedélyezés"
+   },
+   "permission_all": {
+      "message": "Mindent engedélyez"
+   },
+   "permission_gmail_notice_content": {
+      "message": "A mail.google.com adatai elérésének és módosításának kérése; Értesítések megjelenítésének kérése"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail értesítések"
+   },
+   "permission_gmail_num_content": {
+      "message": "Adatok elérési és módosítása a mail.google.com-on"
+   },
+   "permission_gmail_num_title": {
+      "message": "Hozzáférés Gmail mennyiség"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Adatok elérési és módosítása a Google.com és a javaslatokon.Baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Keresési javaslatok"
+   },
+   "permission_todo_notice_content": {
+      "message": "Kérjen megjelenítse az értesítést"
+   },
+   "permission_todo_notice_title": {
+      "message": "Feladatok értesítése"
+   },
+   "permission_top_bookmark_content": {
+      "message": "A meglátogatott webhelyekhez tartozó ikonok elérésének kérése, valamint a könyvjelzők elérése és módosítása"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Könyvjelzők megjelenítése a tetején"
+   },
+   "permission_top_useful_content": {
+      "message": "A meglátogatott webhelyek számára megfelelő ikonok elérésének kérése, valamint a leggyakrabban honlapok listájának elérése és módosítása"
+   },
+   "permission_top_useful_title": {
+      "message": "A gyakran használt helyek megjelenítése tetején"
+   },
+   "permisson_label": {
+      "message": "Engedélyek"
+   },
+   "phone_number": {
+      "message": "Telefonszám"
+   },
+   "photos": {
+      "message": "Képek"
+   },
+   "pick_local_wallpaper": {
+      "message": "Válasszon helyi háttérképet"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Ingyenes és gyönyörű fotók, amelyek bármilyen használatra rendelkezésre állnak"
+   },
+   "placeholder_name": {
+      "message": "Név"
+   },
+   "please_chose_picture": {
+      "message": "Kérjük, válasszon kép"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Adja meg a könyvjelző nevét"
+   },
+   "please_enter_email": {
+      "message": "Írd be e-mail címed"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Kérjük, adja meg a képellenőrző kódot"
+   },
+   "please_enter_nickname": {
+      "message": "Becenév megadása"
+   },
+   "please_enter_phone": {
+      "message": "Kérjük, adja meg a telefonszámot"
+   },
+   "please_enter_right_account": {
+      "message": "Kérjük, adja meg a megfelelő e-mail vagy telefonszámot"
+   },
+   "please_enter_text": {
+      "message": "Input Text"
+   },
+   "please_enter_url": {
+      "message": "Írjon be egy URL-t"
+   },
+   "please_input_bg_text": {
+      "message": "Kérjük, adja meg az ikon szövegét"
+   },
+   "please_pre_login": {
+      "message": "Először jelentkezz be"
+   },
+   "please_re_login": {
+      "message": "Jelentkezzen be újra"
+   },
+   "please_set_your_password": {
+      "message": "Kérlek, állíts be egy jelszót"
+   },
+   "please_type_link": {
+      "message": "Kérjük, írja be a linket"
+   },
+   "please_type_right_link": {
+      "message": "Kérjük, adja meg a megfelelő hivatkozási címet"
+   },
+   "please_upload_photos": {
+      "message": "Töltse fel a képet"
+   },
+   "popular": {
+      "message": "Népszerű"
+   },
+   "preview": {
+      "message": "Előnézet"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Adatvédelem és -gyűjtés"
+   },
+   "privacy_data_item_1_1": {
+      "message": "A testreszabott webhely ikonja által generált képek"
+   },
+   "privacy_data_item_1_2": {
+      "message": "A testreszabott keresőmotor által generált képek"
+   },
+   "privacy_data_item_2_1": {
+      "message": "A regisztrált e-mail cím, feltöltött profilkép, kiválasztott becenév, nem egyszerű szöveges jelszó és egyéb információk"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Ha bejelentkezik egy harmadik féltől származó fiókkal, tároljuk a becenevét, a nemét, a profilképét és a harmadik fél által szolgáltatott egyéb információkat"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Webhely ikoninformáció és keresőmotor információk"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Időjárási információk az Ön területén vagy időjárási információ más területeken"
+   },
+   "privacy_data_item_2_5": {
+      "message": "A létrehozott listák"
+   },
+   "privacy_data_item_2_6": {
+      "message": "A létrehozott jegyzetek tartalma és a feljegyzésekben feltöltött képek"
+   },
+   "privacy_data_item_2_7": {
+      "message": "A jelenlegi háttérkép, tapéta beállításai, a helyi háttérképhez feltöltött képek és a helyi háttérkép könyvtárához feltöltött képek"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Bővítési beállítások"
+   },
+   "privacy_data_item_3_1": {
+      "message": "A szerver a felhasználók és az ügyfelek kölcsönhatása során keletkezett naplókat tárolhat. Ez a rekord elsősorban a kivétel hibáinak elhárítására szolgál. Töröljük ezt a naplót időről időre."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Böngésző típus, nyelv és verzió, és képernyőfelbontás"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Jelenleg bejelentkezett, vagy sem"
+   },
+   "privacy_data_item_4_11": {
+      "message": "A jelenlegi ikonok hozzávetőleges száma"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Jelenleg engedélyezett kiterjesztések (ha hosszabbításkezelést használnak)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "A kiterjesztés megnyitása"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP-cím és földrajzi elhelyezkedés IP-címből származik"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Hozzáadott weboldal ikonok és keresőmotorok"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Háttérkép és bővítési beállítások"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Kiterjesztési változat"
+   },
+   "privacy_data_item_4_6": {
+      "message": "A funkciógombok gombjainak kattintásának gyakorisága"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Kivétel hibaüzenet"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Nyissa meg a webhely címét"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Jelenlegi keresőüzem"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Névenként számoljuk meg, hogy számát néhány keresőmotor használja."
+   },
+   "privacy_data_item_9": {
+      "message": "El kell fogadnia ezt az adatvédelmi irányelvet, mielőtt használhatja ezt a kiterjesztést. Tekintse meg a $the_infinity_privacy$, hogy többet megtudjon.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Nem, ne gyűjtsük össze a névtelen adatokat"
+   },
+   "privacy_data_title_1": {
+      "message": "A felhasználók által önként által létrehozott képeket tárolhatjuk. A következő képek névtelenül vannak tárolva:"
+   },
+   "privacy_data_title_2": {
+      "message": "Ha regisztrálni vagy jelentkezzen be a fiókjába , meg kell tárolni a következő azonosítására alkalmas adatokat ( a továbbiakban: felhasználói adatok ) A szerver teljes adatmentési és szinkronizálás :"
+   },
+   "privacy_data_title_3": {
+      "message": "Szervernapló:"
+   },
+   "privacy_data_title_4": {
+      "message": "A következő információk gyűjtése opcionális. Az információt névtelenül összegyűjtik a Google Analytics segítségével, hogy javítsuk termékeinket:"
+   },
+   "privacy_data_title_5": {
+      "message": "Statisztikai elemzés:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Kérjük, erősítse meg, hogy eltávolítsa az Infinity New lap oldal eltávolítását"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Kérjük, erősítse meg, hogy eltávolítsa az Infinity New Tab Pro eltávolítását"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Távolítsa el az Infinity New lap oldalt?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Az Infinity New Tab Pro eltávolítása?"
+   },
+   "privacy_data_yes": {
+      "message": "Igen, a névtelen adatok összegyűjthetők az adatvédelmi irányelveknek megfelelően"
+   },
+   "privacy_disagree": {
+      "message": "Elutasítom"
+   },
+   "privacy_policy": {
+      "message": "Adatvédelmi irányelv"
+   },
+   "privacy_title": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "profile": {
+      "message": "Személyes információ"
+   },
+   "pure_color": {
+      "message": "Tiszta színű"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ csoport"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Véletlen háttérképek"
+   },
+   "re_update": {
+      "message": "Újra frissítés"
+   },
+   "read": {
+      "message": "Olvasás"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Nagy mennyiségű HD fotók állnak rendelkezésre személyes és kereskedelmi használatra, 7 újak minden héten"
+   },
+   "recently_add": {
+      "message": "Legutóbb hozzáadva"
+   },
+   "recently_use": {
+      "message": "Legutóbb használt"
+   },
+   "recover_error": {
+      "message": "Az adatok helyreállítása sikertelen"
+   },
+   "recover_error_version": {
+      "message": "Nem támogatott adatformátum"
+   },
+   "recover_this": {
+      "message": "Helyreáll a csomópontból"
+   },
+   "redius": {
+      "message": "Ikon lekerekített sarkok"
+   },
+   "refresh_qrcode": {
+      "message": "A QR-kód érvénytelen, kattintson a Frissítés gombra"
+   },
+   "register": {
+      "message": "Regisztrálás"
+   },
+   "register_back": {
+      "message": "Vissza"
+   },
+   "register_get_email_code_error": {
+      "message": "Ellenőrzési kód beszerzése sikertelen"
+   },
+   "register_now": {
+      "message": "Regisztrálja az Infinity-fiókját most, hogy élvezze a több engedélyt"
+   },
+   "relative_humidity": {
+      "message": "Relatív páratartalom"
+   },
+   "reload": {
+      "message": "Próbálja újra"
+   },
+   "reminder_update_text1": {
+      "message": "Annak érdekében, hogy megkapja az Infinity tapasztalatot"
+   },
+   "reminder_update_text2": {
+      "message": "A böngésző frissítése a legutóbbi változatra javasolt, és ajánlott a Infinity kompatibilis böngészőt használni"
+   },
+   "reminder_update_title": {
+      "message": "Hiba történt az oldalon"
+   },
+   "remove_account": {
+      "message": "Fiók törlése"
+   },
+   "remove_done": {
+      "message": "Távolítsa el a befejezett to-do elemeket"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Az összes háttérképet a háttérkép könyvtár alatt eltávolítják"
+   },
+   "rename_folder": {
+      "message": "Átnevezés"
+   },
+   "repair_auto_backup": {
+      "message": "Az adatok automatikus biztonsági mentése"
+   },
+   "repair_concat": {
+      "message": "elérhetőségeit"
+   },
+   "repair_concat_email": {
+      "message": "Email: "
+   },
+   "repair_concat_qq": {
+      "message": "QQ mérnök: "
+   },
+   "repair_data": {
+      "message": "Javítási adatok"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Kérjük, küldje el nekünk a javítandó adatállományt az alábbi elérhetőségeken keresztül, és mi segítünk az adatok mielőbbi javításában. Mielőtt a mérnök megoldja a problémát, kérjük, ne hajtson végre más műveleteket. Ez a fájl bizalmas információkat tartalmazhat, például fiókokat, kérjük, ne adja ki másoknak."
+   },
+   "repair_data_title": {
+      "message": "Az elveszett vagy sérült adatok lekérése"
+   },
+   "repair_export_btn": {
+      "message": "Az adatok javítása"
+   },
+   "repeat_city": {
+      "message": "Nem lehet újra hozzáadni ugyanazt a várost"
+   },
+   "reqeust_login_message": {
+      "message": "A funkció használatához be kell jelentkeznie"
+   },
+   "request_logout_confirm": {
+      "message": "Törli fiókját?"
+   },
+   "request_reset_all_settings": {
+      "message": "Biztosan vissza szeretné állítani a beállításokat az alapértelmezett értékekre?"
+   },
+   "reset": {
+      "message": "Visszaállítás"
+   },
+   "reset_password": {
+      "message": "Jelszó visszaállítása"
+   },
+   "reset_password_by_email": {
+      "message": "A jelszó visszaállítása e-mail ellenőrzésen keresztül"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Állítsa vissza a jelszavát e-mailben vagy telefonszámellenőrzésen keresztül"
+   },
+   "reset_setting": {
+      "message": "A beállítások visszaállítása"
+   },
+   "reset_your_password": {
+      "message": "Kérjük, állítsa vissza a jelszavát"
+   },
+   "restore_setting": {
+      "message": "A beállítások visszaállítása"
+   },
+   "revovery_data": {
+      "message": "Adatokat visszaállít"
+   },
+   "row_gap": {
+      "message": "Sorköz"
+   },
+   "row_num": {
+      "message": "Oszlop"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Kattintson az opcióra az ábrán látható nyíllal."
+   },
+   "safari_browser_guide2": {
+      "message": "A felbukkanó ablakban adja meg az URL-t https://inftab.com a kezdőlap oszlopban."
+   },
+   "safari_browser_guide3": {
+      "message": "A kezdőlap beállításának befejezéséhez kattintson az URL alatti gombra."
+   },
+   "sat": {
+      "message": "Szombat"
+   },
+   "sat_min": {
+      "message": "Szo"
+   },
+   "save": {
+      "message": "Mentés"
+   },
+   "scale": {
+      "message": "Ikonméret"
+   },
+   "scale_main": {
+      "message": "képernyő nagyítása"
+   },
+   "scale_side": {
+      "message": "Oldalsó oszlop Zoom"
+   },
+   "scheduled_backup": {
+      "message": "Biztonsági mentés ütemezése"
+   },
+   "search": {
+      "message": "Keresés"
+   },
+   "search_bookmark": {
+      "message": "Keresés a saját könyvjelzők közt"
+   },
+   "search_engine": {
+      "message": "Keresőmotor"
+   },
+   "search_engine_error": {
+      "message": "Adja meg a keresőszolgáltatás nevét"
+   },
+   "search_error": {
+      "message": "A betöltés sikertelen"
+   },
+   "search_extension": {
+      "message": "Bővítmények keresése"
+   },
+   "search_from": {
+      "message": "Keresés: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "keresés ikon"
+   },
+   "search_input": {
+      "message": "keresőmező"
+   },
+   "search_input_shadow": {
+      "message": "Keresési doboz árnyék"
+   },
+   "search_opacity": {
+      "message": "Keresőmacitás"
+   },
+   "search_redius": {
+      "message": "Keresési mező kerekített sarkok"
+   },
+   "search_result": {
+      "message": "Keresési találatok"
+   },
+   "search_size": {
+      "message": "Keresési mező méret"
+   },
+   "search_suggest": {
+      "message": "Keresési javaslatok"
+   },
+   "search_website": {
+      "message": "Webhelyek keresése"
+   },
+   "searching": {
+      "message": "Keresés"
+   },
+   "select_date": {
+      "message": "Dátum kiválasztása"
+   },
+   "select_icon": {
+      "message": "Válassza ki az ikont"
+   },
+   "select_time": {
+      "message": "Időpont kiválasztása"
+   },
+   "send_success": {
+      "message": "Ellenőrző e-mail elküldve. Nézze meg a leveleit"
+   },
+   "set_homepage_desc": {
+      "message": "Telepítse a bővítményt a böngésző számára, hogy élvezze a teljes funkciókat"
+   },
+   "set_homepage_title2": {
+      "message": "Ez az objektum nem támogatott az aktuális verzióban_#_Kérjük telepítse be a böngésző kiterjesztését"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Állítsa az Infinity -et a böngésző honlapjaként"
+   },
+   "set_new_password": {
+      "message": "Új jelszó megadása"
+   },
+   "set_remind_time": {
+      "message": "Állítsa be az emlékeztető idejét"
+   },
+   "set_setting_default": {
+      "message": "Alapértelmezettek visszaállítása"
+   },
+   "set_to_homepage": {
+      "message": "Beállítás kezdőlapként"
+   },
+   "set_top": {
+      "message": "Felül"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "becenév és avatar beállítása"
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "shadow": {
+      "message": "Ikonok árnyék"
+   },
+   "share": {
+      "message": "Megosztás"
+   },
+   "share_by_user": {
+      "message": "Más felhasználók megosztása"
+   },
+   "share_desc": {
+      "message": "Infinity New lap, a navigációs kiterjesztés több millióval, a legfelsőbb baráti új lapot a böngészőben"
+   },
+   "share_title": {
+      "message": "Ez lehet a $browser$ böngésző legjobb új lapja",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Vásárlás és csoportos vásárlás"
+   },
+   "shortcut_mode": {
+      "message": "Expressz mód"
+   },
+   "show_detail": {
+      "message": "Nézd meg most"
+   },
+   "show_gamil_unread_number": {
+      "message": "Az olvasatlan e-mailek száma az ikonról az ikonra"
+   },
+   "show_later": {
+      "message": "Emlékeztess később"
+   },
+   "show_name": {
+      "message": "Megjelenített név"
+   },
+   "show_reminders_number": {
+      "message": "Megmutatja a to-do-t az ikonon"
+   },
+   "skip": {
+      "message": "Kihagyás"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Fényképek kereséséhez, megjelenítéséhez és megosztásához"
+   },
+   "social": {
+      "message": "Szociális média és blogok"
+   },
+   "solid_color_wallpaper": {
+      "message": "Egyszínű háttérkép"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Keresőmotor, amely a Wechat hivatalos számlái által benyújtott tartalmat kereshet"
+   },
+   "sports": {
+      "message": "Sport és utazás"
+   },
+   "start_animation": {
+      "message": "Indítsa el animációt"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Adja meg az induló vállalkozások, a bloggerek, a kiadók, a weboldalak, a tervezők, a fejlesztők, az alkotók és a szabad fotók"
+   },
+   "street_photography": {
+      "message": "Utca"
+   },
+   "sun": {
+      "message": "vasárnap"
+   },
+   "sun_min": {
+      "message": "Vas"
+   },
+   "support": {
+      "message": "Támogatás"
+   },
+   "switch_to": {
+      "message": "Váltani"
+   },
+   "sync_fail": {
+      "message": "A szinkronizálás nem sikerült, kérjük, próbálja újra"
+   },
+   "sync_suncess": {
+      "message": "Szinkronizálás kész."
+   },
+   "sync_type_tips": {
+      "message": "A felhőadatok és a helyi adatok ellentmondásosnak bizonyulnak. Kérjük, válasszon egy típusú adatokat."
+   },
+   "syncing": {
+      "message": "Adatszinkronizálás..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Nem telepítette ezt a $browser$-alkalmazást",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "A cél megnyitásának módja"
+   },
+   "tech": {
+      "message": "Technológia"
+   },
+   "technology": {
+      "message": "Technológia"
+   },
+   "term_of_use": {
+      "message": "Használati feltételek"
+   },
+   "text": {
+      "message": "Szöveg"
+   },
+   "text_shadow": {
+      "message": "Szöveg árnyék"
+   },
+   "thirt_party": {
+      "message": "Harmadik fél felhasználói fiókjával történő bejelentkezés"
+   },
+   "thu": {
+      "message": "Csütörtök"
+   },
+   "thu_min": {
+      "message": "Cs"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Nyissa meg bármely webhelyet, és írja be a \"% s\" keresési mezőbe. (A Google-val példaként)"
+   },
+   "tip_question_2": {
+      "message": "2. Másolja a keresési eredmény URL-címét közvetlenül"
+   },
+   "tip_question_3": {
+      "message": "3. Illessze be a másolt URL-t, és kész"
+   },
+   "tip_question_title": {
+      "message": "A \"% s\" használatáról a keresési kifejezések helyett"
+   },
+   "to_login": {
+      "message": "Jelentkezzen be most"
+   },
+   "today": {
+      "message": "Ma"
+   },
+   "todo_welcome": {
+      "message": "Üdvözöljük az Infinity New lap oldalon. Ez egy minta to-do tétel."
+   },
+   "todos": {
+      "message": "Teendők"
+   },
+   "top_bookmark": {
+      "message": "Könyvjelzők megjelenítése a tetején"
+   },
+   "top_use_ful": {
+      "message": "A gyakran használt helyek megjelenítése tetején"
+   },
+   "travel": {
+      "message": "Utazás"
+   },
+   "tue": {
+      "message": "Kedd"
+   },
+   "tue_min": {
+      "message": "K"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "2 órán belül emlékeztessen"
+   },
+   "type_link": {
+      "message": "Itt adhatod meg a hivatkozást."
+   },
+   "type_text": {
+      "message": "Input Text"
+   },
+   "unbind": {
+      "message": "Törlés"
+   },
+   "unbind_btn": {
+      "message": "Társítás feloldása"
+   },
+   "unbind_email": {
+      "message": "Adja meg ezt az e-mail címet"
+   },
+   "unbind_phone_number": {
+      "message": "A telefonszám feloldata"
+   },
+   "unbind_success": {
+      "message": "Sikeresen törölve"
+   },
+   "uninstall_agree": {
+      "message": "Elfogadom"
+   },
+   "uninstall_chrome_app": {
+      "message": "Alkalmazás eltávolítása"
+   },
+   "uninstall_extension": {
+      "message": "Bővítmény eltávolítása"
+   },
+   "unknown_mistake": {
+      "message": "Ismeretlen hiba"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Világhírű kiváló minőségű háttérképek"
+   },
+   "unzip_folder_content": {
+      "message": "A mappa törlődik, és az ikon megtartásra kerül. biztos vagy ebben?"
+   },
+   "unzip_folder_title": {
+      "message": "Felszabadítás"
+   },
+   "update_data": {
+      "message": "Frissítési adatok"
+   },
+   "update_data_failure": {
+      "message": "Profil frissítése sikertelen"
+   },
+   "update_desc_1": {
+      "message": "Ha az adatátalakítás sikertelen volt a verzió frissítése során, megpróbálhatja újra frissíteni az adatokat."
+   },
+   "update_desc_2": {
+      "message": "Ha még mindig nem tudja megoldani a problémát többször, lépjen kapcsolatba mérnökeinkkel, megpróbálhatunk segíteni megoldani."
+   },
+   "update_desc_3": {
+      "message": "Konverziós adatokat felülírja az új verzió adatait, akkor javasoljuk, hogy biztonsági másolatot adatairól, mielőtt működtetni."
+   },
+   "update_error_desc1": {
+      "message": "Megpróbálhatja újra frissíteni, ha bizonyos adatokat észlel."
+   },
+   "update_error_desc2": {
+      "message": "Ha nem több frissítéseket, akkor is kattintson a „Beállítások” ikonra a jobb felső sarokban, hogy belépjen - [My] - [Backup and Repair]."
+   },
+   "update_now": {
+      "message": "Frissítés most"
+   },
+   "update_or_repair_data": {
+      "message": "Frissítési vagy javítási adatok"
+   },
+   "upload_avatar_failure": {
+      "message": "Az avatár képének feltöltése sikertelen"
+   },
+   "upload_file_error": {
+      "message": "Nem sikerült feltölteni a fájlt"
+   },
+   "upload_image_error": {
+      "message": "Fotó feltöltése sikertelen"
+   },
+   "uploading": {
+      "message": "Feltöltés..."
+   },
+   "use_cloud": {
+      "message": "Használja a Cloud adatokat"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Írja be a szöveget, és nyomja meg az ENTER gombot a hozzáadáshoz"
+   },
+   "use_local": {
+      "message": "Használja a helyi adatokat"
+   },
+   "use_mobile_screen": {
+      "message": "Használjon mobileszközt a QR-kód beolvasásához"
+   },
+   "user_evaluation": {
+      "message": "Felhasználói értékelés"
+   },
+   "username_cannot_empty": {
+      "message": "A felhasználónév mezője nem lehet üres"
+   },
+   "verify_password_desc": {
+      "message": "A fiók biztonságához adja meg a fiók jelszavát"
+   },
+   "verity_code": {
+      "message": "Ellenőrzőkód küldése"
+   },
+   "verity_code_no_value": {
+      "message": "A megerősítő kód nem lehet üres"
+   },
+   "videos": {
+      "message": "Videó"
+   },
+   "view": {
+      "message": "Nézet"
+   },
+   "w309": {
+      "message": "Szitálás"
+   },
+   "w_100": {
+      "message": "Napos"
+   },
+   "w_101": {
+      "message": "Felhős"
+   },
+   "w_102": {
+      "message": "Néhány felhő"
+   },
+   "w_103": {
+      "message": "Foltokban felhős"
+   },
+   "w_104": {
+      "message": "Sivár"
+   },
+   "w_200": {
+      "message": "Szeles"
+   },
+   "w_201": {
+      "message": "Nyugodt"
+   },
+   "w_202": {
+      "message": "Szellős"
+   },
+   "w_203": {
+      "message": "Mérsékelt szél"
+   },
+   "w_204": {
+      "message": "Élénk szél"
+   },
+   "w_205": {
+      "message": "Erős szél"
+   },
+   "w_206": {
+      "message": "Viharos szél"
+   },
+   "w_207": {
+      "message": "Erős szél"
+   },
+   "w_208": {
+      "message": "Heves vihar"
+   },
+   "w_209": {
+      "message": "Viharok"
+   },
+   "w_210": {
+      "message": "Viharos"
+   },
+   "w_211": {
+      "message": "Hurrikán"
+   },
+   "w_212": {
+      "message": "Tornado"
+   },
+   "w_213": {
+      "message": "Trópusi vihar"
+   },
+   "w_300": {
+      "message": "Zivatar"
+   },
+   "w_301": {
+      "message": "Heves záporeső"
+   },
+   "w_302": {
+      "message": "Vihar"
+   },
+   "w_303": {
+      "message": "Heves zivatar-zápor"
+   },
+   "w_304": {
+      "message": "Zivatar"
+   },
+   "w_305": {
+      "message": "Enyhe szitáló eső"
+   },
+   "w_306": {
+      "message": "Mérsékelt eső"
+   },
+   "w_307": {
+      "message": "Heves esőzés"
+   },
+   "w_308": {
+      "message": "Vannak extrém eső"
+   },
+   "w_310": {
+      "message": "Felhőszakadás"
+   },
+   "w_311": {
+      "message": "Erős vihar"
+   },
+   "w_312": {
+      "message": "Rendkívül erős felhőszakadás"
+   },
+   "w_313": {
+      "message": "Jeges eső"
+   },
+   "w_314": {
+      "message": "Mérsékeltté váló enyhe eső"
+   },
+   "w_315": {
+      "message": "Hevessé alakuló mérsékelt eső"
+   },
+   "w_316": {
+      "message": "Heves esőzéstől felhőszakadásig"
+   },
+   "w_317": {
+      "message": "Vihar-erős vihar"
+   },
+   "w_318": {
+      "message": "Felhőszakadástól heves viharig"
+   },
+   "w_399": {
+      "message": "Eső"
+   },
+   "w_400": {
+      "message": "Hószállingózás"
+   },
+   "w_401": {
+      "message": "Mérsékelt hó"
+   },
+   "w_402": {
+      "message": "Erős havazás"
+   },
+   "w_403": {
+      "message": "Hóvihar"
+   },
+   "w_404": {
+      "message": "Havas eső"
+   },
+   "w_405": {
+      "message": "Ónos eső"
+   },
+   "w_406": {
+      "message": "Záporos ónos eső"
+   },
+   "w_407": {
+      "message": "Hózápor"
+   },
+   "w_408": {
+      "message": "Enyhe és mérsékelt havazás között"
+   },
+   "w_409": {
+      "message": "Mérsékelt havazás és hózápor között"
+   },
+   "w_410": {
+      "message": "Nagy hótól hóviharig"
+   },
+   "w_499": {
+      "message": "Hó"
+   },
+   "w_500": {
+      "message": "Köd"
+   },
+   "w_501": {
+      "message": "Ködös"
+   },
+   "w_502": {
+      "message": "Száraz köd"
+   },
+   "w_503": {
+      "message": "Homok"
+   },
+   "w_504": {
+      "message": "Por"
+   },
+   "w_507": {
+      "message": "Homokvihar"
+   },
+   "w_508": {
+      "message": "Heves homokvihar"
+   },
+   "w_509": {
+      "message": "Sűrű köd"
+   },
+   "w_510": {
+      "message": "Nagyon sűrű köd"
+   },
+   "w_511": {
+      "message": "Mérsékelt köd"
+   },
+   "w_512": {
+      "message": "Erős köd"
+   },
+   "w_513": {
+      "message": "Erős köd"
+   },
+   "w_514": {
+      "message": "Ködös"
+   },
+   "w_515": {
+      "message": "Erős köd"
+   },
+   "w_900": {
+      "message": "Forró"
+   },
+   "w_901": {
+      "message": "Hideg"
+   },
+   "w_999": {
+      "message": "Ismeretlen"
+   },
+   "wallpaper": {
+      "message": "Háttérkép"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Egyéni szín hozzáadása"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Nem sikerült hozzáadni a képet. Próbáld újra később."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "A helyi háttérkép alkalmazás sikertelen. Próbáld újra később"
+   },
+   "wallpaper_applying_library": {
+      "message": "Tapéta könyvtár engedélyezése..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Háttérkép Frissítési gyakoriság"
+   },
+   "wallpaper_choose_library": {
+      "message": "Válassza ki a háttérkép forrását"
+   },
+   "wallpaper_choose_single": {
+      "message": "Háttér kijelölése"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Kijelölés törlése"
+   },
+   "wallpaper_cloud": {
+      "message": "Felhő tapéta"
+   },
+   "wallpaper_collect_current": {
+      "message": "Gyűjtse össze az aktuális tapétát"
+   },
+   "wallpaper_common_color": {
+      "message": "Közös színe"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Törlöd ezt a háttérképet?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Nem sikerült létrehozni a helyi háttérkép könyvtárat. Próbáld újra később."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "A felhasználó testreszabott háttérképkönyvtár meghaladja a korlátot"
+   },
+   "wallpaper_custom_color": {
+      "message": "Egyéni szín"
+   },
+   "wallpaper_delete_color": {
+      "message": "Törölje ezt a színt"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Sikeresen törölve"
+   },
+   "wallpaper_delete_file": {
+      "message": "Háttérkép törlése"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Háttérkép törlése sikertelen"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Az automatikus tapéta kapcsolás letiltása"
+   },
+   "wallpaper_empty_text": {
+      "message": "Nincs adat"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Háttér betöltése sikertelen."
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Nem sikerült felhasználói háttérképet kapni"
+   },
+   "wallpaper_library": {
+      "message": "Háttérképek könyvtára"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$Helyi Háttérkép Könyvtár",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Illegális háttérkép könyvtár neve"
+   },
+   "wallpaper_library_preview": {
+      "message": "Háttérkép előnézet"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Töltsön fel maximum 20 háttérképet. Minden háttérkép nem haladhatja meg a 10 métert."
+   },
+   "wallpaper_loading": {
+      "message": "Folyamatban…"
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Ehhez hálózati kapcsolat kell"
+   },
+   "wallpaper_remove_library": {
+      "message": "Távolítsa el ezt a tapéta könyvtárat"
+   },
+   "wallpaper_sort_default": {
+      "message": "Alapértelmezett rendezés"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Népszerűség"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "A befogadás időpontja"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Kapcsolja be 24 óránként"
+   },
+   "wallpaper_switch_failure": {
+      "message": "A háttérkép cseréje sikertelen"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Frissítse a napi háttérképeket Bing-el. Nem választhatja ki a kapcsolási frekvenciát."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Kapcsolja be 1 órát"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "12 óránként kapcsolja be"
+   },
+   "wallpaper_switch_success": {
+      "message": "A véletlenszerű háttérkép sikeresen megváltozott"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Változás a következő háttérképre"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Új lap megnyitásakor kapcsolja be"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Váltás az oldal megnyitásakor"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "A fájl feltöltése sikertelen. Ok: A méret meghaladja a korlátot"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Válasszon helyi hátteret"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Legalább egy háttérkép szükséges"
+   },
+   "want_more": {
+      "message": "Élvezze a több perkset"
+   },
+   "weather": {
+      "message": "Időjárás"
+   },
+   "weather_empty": {
+      "message": "Jelenleg nincs időjárási információ"
+   },
+   "web_set_home_title": {
+      "message": "Hogyan kell beállítani az Infinity-t a honlapnak"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Webhely neve"
+   },
+   "website_search_replace_char": {
+      "message": "URL (% s A keresési szó cseréje)"
+   },
+   "wechat": {
+      "message": "WeChat"
+   },
+   "wed": {
+      "message": "Szerda"
+   },
+   "wed_min": {
+      "message": "Sze"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Szél"
+   },
+   "wind_mill": {
+      "message": "Jelenítse meg a véletlenszerű tapéta gombot a jobb alsó sarokban"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Jehu"
+   },
+   "yahoo_desc": {
+      "message": "A Yahoo Search egy yahoo által működtetett keresőmotor"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "A Yandex Oroszország egyik legfontosabb internetes szolgáltatási portálja"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$Év$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Tegnap"
+   },
+   "you_need_login": {
+      "message": "A funkció használatához jelentkezzen be az Infinity fiókba"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "A böngészési rekord itt jelenik meg"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

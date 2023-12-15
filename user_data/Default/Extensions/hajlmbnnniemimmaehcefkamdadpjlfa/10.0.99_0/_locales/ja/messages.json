@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "安全検索エンジン"
+   },
+   "about": {
+      "message": "概要"
+   },
+   "about_us": {
+      "message": "情報"
+   },
+   "account_expired": {
+      "message": "アカウントをテストしているのは期限切れになります。またログインしてください"
+   },
+   "account_setting": {
+      "message": "アカウント設定"
+   },
+   "add": {
+      "message": "追加"
+   },
+   "add_city": {
+      "message": "都市を追加"
+   },
+   "add_first_note": {
+      "message": "メモを作成します"
+   },
+   "add_icon_success": {
+      "message": "追加に成功しました"
+   },
+   "add_link": {
+      "message": "リンクを追加"
+   },
+   "add_new_search_engine": {
+      "message": "新しい検索エンジンを追加する"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "新しい壁紙ギャラリー"
+   },
+   "add_search_engine": {
+      "message": "検索エンジンの追加"
+   },
+   "add_success": {
+      "message": "追加完了"
+   },
+   "add_to_home_site": {
+      "message": "ホームページに追加"
+   },
+   "add_to_infinity": {
+      "message": "Infinityに追加する新しいタブページ"
+   },
+   "additional_search_engine": {
+      "message": "添付の検索エンジン"
+   },
+   "air_pressure": {
+      "message": "気圧"
+   },
+   "all_wallpaper_sources": {
+      "message": "すべての壁紙"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "壁紙のすべての情報源"
+   },
+   "ambiguity": {
+      "message": "ぼかし"
+   },
+   "animals": {
+      "message": "動物"
+   },
+   "animation": {
+      "message": "アニメーション"
+   },
+   "animation_tips": {
+      "message": "起動アニメーションは滑らかさに影響を与える可能性があります"
+   },
+   "anime": {
+      "message": "コミック"
+   },
+   "any_money": {
+      "message": "すべて"
+   },
+   "app": {
+      "message": "アプリケーション"
+   },
+   "app_disabled_enable_first": {
+      "message": "あなたはこのアプリを無効にしました。 infinityが最初にこのアプリを有効にすることを許可しますか？"
+   },
+   "application": {
+      "message": "アプリケーション"
+   },
+   "apply": {
+      "message": "適用"
+   },
+   "architecture": {
+      "message": "建物"
+   },
+   "athletics": {
+      "message": "スポーツ"
+   },
+   "avatar": {
+      "message": "アバターの選択"
+   },
+   "backing_up": {
+      "message": "バックアップ中…"
+   },
+   "backup_and_recovery": {
+      "message": "バックアップと回復"
+   },
+   "backup_failed": {
+      "message": "バックアップに失敗しました"
+   },
+   "backup_now": {
+      "message": "今すぐバックアップ"
+   },
+   "backup_successful": {
+      "message": "バックアップ成功"
+   },
+   "backup_tips": {
+      "message": "最大3つの手動バックアップノードと3つの自動バックアップノードを最大限に保ちます。"
+   },
+   "backup_with_device": {
+      "message": "他のデバイスと同期"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "無料で高品質のギャラリータイプの写真を集める"
+   },
+   "basic_info": {
+      "message": "一般情報"
+   },
+   "bg_color": {
+      "message": "背景の色"
+   },
+   "bg_updating": {
+      "message": "アップグレードでは、お待ちください..."
+   },
+   "bind": {
+      "message": "関連付け"
+   },
+   "bind_success": {
+      "message": "関連付けに成功"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "BingはMicrosoftによって開発された検索エンジンです"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "毎日のビンニング壁紙図書館"
+   },
+   "bookmarks": {
+      "message": "ブックマーク"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$はこの機能をサポートしていません",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cancel_login": {
+      "message": "ログインをキャンセル"
+   },
+   "cancel_remind_time": {
+      "message": "リマインダの時間をキャンセルします"
+   },
+   "cancel_set_top": {
+      "message": "ピン解除"
+   },
+   "cannot_change_password": {
+      "message": "サードパーティのログインはパスワードを変更できません"
+   },
+   "cannot_change_profile": {
+      "message": "ログインできないサードパーティユーザープロファイル情報を変更できません"
+   },
+   "cannot_download": {
+      "message": "ダウンロードはサポートされていません"
+   },
+   "cannot_empty": {
+      "message": "空白にはできません。"
+   },
+   "celsius": {
+      "message": "摂氏（℃）"
+   },
+   "change_remind_time": {
+      "message": "変更リマインダ時間"
+   },
+   "change_wallpaper": {
+      "message": "壁紙を変更する"
+   },
+   "check_olddata_desc": {
+      "message": "従来のデータの古いバージョンがあることが検出されます。これはアップグレードされる可能性があります。このデータをアップグレードする必要がある場合"
+   },
+   "choose_sync_type": {
+      "message": "アカウントデータを選択してください"
+   },
+   "chose_from_mypc": {
+      "message": "私の壁紙ライブラリを作成します"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$ アプリ",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store  - 拡張子"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "アドレスバーのchrome://settings/appearanceを入力して、設定ページを入力します。"
+   },
+   "chrome_browser_guide2": {
+      "message": "下部にスライドして、図の矢印で示されているオプションを選択します。"
+   },
+   "chrome_browser_guide3": {
+      "message": "ポップアップウィンドウにURL https://inftab.comを入力して、[追加]ボタンをクリックしてホームページの設定を完了します。"
+   },
+   "clear_historys": {
+      "message": "履歴をクリア"
+   },
+   "col_gap": {
+      "message": "列の間隔"
+   },
+   "col_num": {
+      "message": "行の数"
+   },
+   "color": {
+      "message": "色"
+   },
+   "color_icon": {
+      "message": "ソリッドカラーアイコン"
+   },
+   "come_from": {
+      "message": "ユーザーから"
+   },
+   "comming_soon": {
+      "message": "準備中"
+   },
+   "comming_soon_title": {
+      "message": "Infinity Mobileバージョンが進行中です"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "全ての履歴を消去しますか？"
+   },
+   "confirm_cover_remote": {
+      "message": "ローカルデータは手動バックアップノードに保存されます"
+   },
+   "confirm_del_folder": {
+      "message": "このフォルダを削除してもよろしいですか？"
+   },
+   "confirm_delete_done_todos": {
+      "message": "完成品を削除してよろしいですか？"
+   },
+   "confirm_delete_note": {
+      "message": "メモの削除を確認しますか？"
+   },
+   "confirm_logout": {
+      "message": "ログアウト"
+   },
+   "confirm_password": {
+      "message": "新しいパスワードを確認してください"
+   },
+   "confirm_password_2": {
+      "message": "パスワードの確認入力"
+   },
+   "confirm_recovery_data": {
+      "message": "クラウドデータはローカルデータを置き換えます。 あなたはこの行動について確信していますか？"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "あなたはこの壁紙図書館を削除してよろしいですか？"
+   },
+   "confirm_unbind": {
+      "message": "このアカウントとの接続を解除しますか?"
+   },
+   "confirm_unbind_email": {
+      "message": "メールボックス$email$でバインドを解除しますか?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "携帯番号$phone_number$バインド解除ですか?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "コンタクトエンジニア"
+   },
+   "contact_us": {
+      "message": "お問い合わせ"
+   },
+   "copy": {
+      "message": "コピー"
+   },
+   "cubic_bezier": {
+      "message": "キックバック"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "プロフィール画像"
+   },
+   "current_browser_not_support": {
+      "message": "現在のブラウザは拡張管理をサポートしていません"
+   },
+   "current_no_reminders": {
+      "message": "チェックリストアイテムがありません"
+   },
+   "current_node": {
+      "message": "現在のノード"
+   },
+   "custom": {
+      "message": "カスタマイズ"
+   },
+   "custom_icon": {
+      "message": "アイコンをカスタマイズ"
+   },
+   "custom_layout": {
+      "message": "レイアウトをカスタマイズ"
+   },
+   "custom_site": {
+      "message": "カスタムウェブサイト"
+   },
+   "default": {
+      "message": "既定"
+   },
+   "del_folder": {
+      "message": "削除"
+   },
+   "delete_all_bookmarks": {
+      "message": "このフォルダの下のすべてのブックマークを削除"
+   },
+   "disable_chrome_app": {
+      "message": "アプリケーションを無効にする"
+   },
+   "disable_extension": {
+      "message": "拡張機能を無効にします"
+   },
+   "do_later": {
+      "message": "後で話してください"
+   },
+   "done": {
+      "message": "完了"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "ダウンロードCRX"
+   },
+   "download_current_wallpaper": {
+      "message": "現在の壁紙をダウンロードしてください"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Duckduckgoは、主要なWeb 2.0サイトからのコンテンツの輸入に焦点を当てています。伝統的な検索エンジンであって、Webサイトの哲学はユーザーのプライバシーを尊重し、検索内容を監視または文書化しないことを約束します。"
+   },
+   "ease_in": {
+      "message": "フェードイン"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "ブラウザのアドレスバーにedge://settings/onStartup Enterキーを押しながらEnterキーを押す。"
+   },
+   "edge_browser_guide2": {
+      "message": "図の矢印で示されているオプションをクリックします。"
+   },
+   "edge_browser_guide3": {
+      "message": "ポップアップウィンドウにURL https://inftab.comを入力して、[追加]ボタンをクリックしてホームページの設定を完了します。"
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "編集"
+   },
+   "edit_avatar": {
+      "message": "プロフィール写真を設定"
+   },
+   "edit_content": {
+      "message": "コンテンツを編集"
+   },
+   "edit_icon": {
+      "message": "アイコンの編集"
+   },
+   "education": {
+      "message": "教育と仕事"
+   },
+   "email": {
+      "message": "メールアドレス"
+   },
+   "email_code": {
+      "message": "メール認証コード"
+   },
+   "email_format_error": {
+      "message": "電子メールの形式が正しくありません。"
+   },
+   "email_or_phone_number_tips": {
+      "message": "電子メールまたは携帯電話番号"
+   },
+   "empty": {
+      "message": "空の"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "フォルダを削除しますか？"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "このブックマークを削除しますか?"
+   },
+   "ensure_logout": {
+      "message": "本当にログアウトしますか？"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "To-Doリストに記入し、Enterをクリックしてアイテムを追加します"
+   },
+   "enter_password_tips": {
+      "message": "パスフレーズの入力"
+   },
+   "enter_valid_phone_tips": {
+      "message": "正しい電話番号を入力してください"
+   },
+   "enter_verification_code_tips": {
+      "message": "確認コードを入力してください"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "バックアップデータをエクスポートします"
+   },
+   "export_local_data_desc": {
+      "message": "現在のローカルデータからエクスポートします"
+   },
+   "extension": {
+      "message": "拡張機能"
+   },
+   "extension_app": {
+      "message": "拡張機能"
+   },
+   "extension_des": {
+      "message": "Webサイトのアイコンを自由に追加し、高精細なクラウドドライブの壁紙を楽しんでおり、ブックマーク、天気情報、注意事項、先行リスト、拡張管理、および新しいタブページで、何百万人ものユーザーによって選択されています。"
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APPを使用すると、新しいタブページをカスタマイズできます。"
+   },
+   "extension_des_firefox": {
+      "message": "数百万人が選んだ新しいラベルは生産力を大いに高めることができる。ウェブアイコン、検索エンジン、高清の壁紙、天気、ブックマーク、待ち受けリスト、履歴、拡張管理などの機能を提供しています。"
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Proを使用すると、新しいタブページをカスタマイズできます。"
+   },
+   "extension_mananger": {
+      "message": "擴展管理"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Facebookのグループに参加"
+   },
+   "fahrenheit": {
+      "message": "華氏（°F）"
+   },
+   "feedback": {
+      "message": "フィードバック"
+   },
+   "female": {
+      "message": "女性"
+   },
+   "filter": {
+      "message": "フィルター"
+   },
+   "finance": {
+      "message": "ファイナンス"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefoxアドオンストア"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "入力 about: preferences #home 設定ページを入力するためのアドレスバーで。"
+   },
+   "firefox_browser_guide2": {
+      "message": "図の矢印で示すように、カスタムURLのオプションを選択します。"
+   },
+   "firefox_browser_guide3": {
+      "message": "入力ボックスにURL https://inftab.comを入力し、ホームページの設定が完了しました。"
+   },
+   "five_star": {
+      "message": "5つ星の評価をします。"
+   },
+   "folder": {
+      "message": "フォルダ"
+   },
+   "follow_us": {
+      "message": "フォロー"
+   },
+   "follow_wechat": {
+      "message": "Infinity Wechatパブリックアカウントをフォローする"
+   },
+   "follow_wechat_desc": {
+      "message": "私たちのWechatの公共数（マイクロシグナル：InfinityDaily）に注意を払って、Infinity最新の製品ダイナミクスを入手して、拡張やWebサイトを楽しむことができます。"
+   },
+   "font": {
+      "message": "フォント"
+   },
+   "font_color": {
+      "message": "フォントの色"
+   },
+   "font_size": {
+      "message": "テキストサイズ"
+   },
+   "food_drink": {
+      "message": "食品"
+   },
+   "forget_password": {
+      "message": "忘れたパスワード"
+   },
+   "format_error": {
+      "message": "フォーマット エラーです"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "毎日使用してアップデートを無料で、大量のロイヤリティフリーの写真が大量"
+   },
+   "fri": {
+      "message": "金曜日"
+   },
+   "fri_min": {
+      "message": "金曜日"
+   },
+   "fully_authorized_to_use": {
+      "message": "機能を使用することを完全に承認されています"
+   },
+   "games": {
+      "message": "ゲームとエンターテイメント"
+   },
+   "gamil_notice": {
+      "message": "Gmailメール通知"
+   },
+   "gender": {
+      "message": "性別を選択"
+   },
+   "get_app_permission": {
+      "message": "あなたの地元のアプリを入手することを承認します"
+   },
+   "get_cloud_icon": {
+      "message": "オンラインで取得します"
+   },
+   "give_money": {
+      "message": "ドネーションを実行"
+   },
+   "give_money_thanks": {
+      "message": "あなたのサポートは私たちの最大の報酬です"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "あなたがInfinityの新しいタブページが好きなら、私たちのサービスを評価するか、私たちがIGNを助けるために私たちにフィードバックを与えてください。"
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "質問や提案がある場合は、お問い合わせください。"
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail通知の着信音"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google SearchはGoogleによって開発された検索エンジンです。 それはインターネット上で最大の最も影響力のある検索エンジンです"
+   },
+   "have_todo_item": {
+      "message": "あなたは現在やるべきことを持っています"
+   },
+   "hide_homepage_btn": {
+      "message": "隠すホームボタンとして設定されています"
+   },
+   "hide_icon_name": {
+      "message": "アイコンの名前を隠す"
+   },
+   "hide_search_button": {
+      "message": "検索ボタンを隠す"
+   },
+   "hide_search_category": {
+      "message": "検索カテゴリを隠す"
+   },
+   "hide_search_input": {
+      "message": "検索ボックスを隠す"
+   },
+   "hide_set_homepage_btn": {
+      "message": "隠すホームボタンとして設定されています"
+   },
+   "hint": {
+      "message": "ヒント"
+   },
+   "history": {
+      "message": "履歴"
+   },
+   "history_backup_list": {
+      "message": "履歴バックアップノードリスト"
+   },
+   "history_week": {
+      "message": "週間以内に検索履歴"
+   },
+   "host_permission": {
+      "message": "ホストパーミッション"
+   },
+   "hour": {
+      "message": "時"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "私は報酬を与えたいです"
+   },
+   "icon": {
+      "message": "アイコン"
+   },
+   "icon_added": {
+      "message": "追加済み"
+   },
+   "icon_bg_text": {
+      "message": "アイコンテキスト"
+   },
+   "icon_network_error": {
+      "message": "ネットワークエラー、再読み込みをクリックします。"
+   },
+   "ignore": {
+      "message": "無視する"
+   },
+   "img_verify_code": {
+      "message": "検証画像"
+   },
+   "import_data": {
+      "message": "バックアップデータをインポートします"
+   },
+   "import_data_desc": {
+      "message": "バックアップファイルからデータを回復します"
+   },
+   "import_select_tile": {
+      "message": "データを選択"
+   },
+   "infinity_bookmarks": {
+      "message": "ブックマークフォルダの階層を平らにして、Infinity Bookmarksを使って簡単にブックマークを見つける"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "インフィニティ特集アニメの壁紙"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "高品質の無限大アニメの壁紙図書館"
+   },
+   "infinity_extension": {
+      "message": "Infinity Extension Managerで簡単に$browser$ ExtensionsとAppsを管理する",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "無限大履歴でブラウザの履歴をすばやく見て管理する"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "インフィニティフィーチャーの風景の壁紙"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "高品質の無限地風景壁紙図書館"
+   },
+   "infinity_notes": {
+      "message": "人生のインスピレーションを迅速に無限大で記録する"
+   },
+   "infinity_settings": {
+      "message": "無限大の新しいタブページを無限にパーソナライズします"
+   },
+   "infinity_todos": {
+      "message": "あなたのタスクを順番に順番に手配し、Infinity To-Doリストを使って作業効率を向上させる"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinityの壁紙ライブラリーはあなたに豊かでエキサイティングな壁紙を提供します"
+   },
+   "infinity_weather": {
+      "message": "無限天の天気は世界中の都市の天気予報を提供しています"
+   },
+   "info": {
+      "message": "情報"
+   },
+   "inportdata_desc": {
+      "message": "インポートデータとローカルデータが一致しないので、マージまたは上書きを選択してください。"
+   },
+   "input_and_search": {
+      "message": "検索に移動"
+   },
+   "input_city": {
+      "message": "都市/地域を入力する"
+   },
+   "input_new_password": {
+      "message": "新しいパスワードを入力"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "関連付けあり"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "任意の目的のための無料の写真"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "検索ボックスの内容を保持する"
+   },
+   "label": {
+      "message": "分類"
+   },
+   "language": {
+      "message": "言語"
+   },
+   "language_select": {
+      "message": "言語を選択する"
+   },
+   "last_sync_time": {
+      "message": "最後の同期時間：$time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "最終更新"
+   },
+   "layout": {
+      "message": "レイアウト"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "無料のHDの壁紙の送信元"
+   },
+   "life_style": {
+      "message": "ライフスタイル"
+   },
+   "limit_input_length": {
+      "message": "制限を超えたテキストの長さ"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "地元のアイコン"
+   },
+   "local_wallpaper2": {
+      "message": "ローカル壁紙"
+   },
+   "login": {
+      "message": "ログイン"
+   },
+   "login_abandon_tips": {
+      "message": "現在のログイン方法はまもなく削除されます。ログイン後、できるだけ早くメールアドレスまたはその他のサードパーティアカウントをバインドしてください。"
+   },
+   "login_now": {
+      "message": "より多くの権限を楽しむために今すぐ無限大アカウントにログインします"
+   },
+   "login_now_btn": {
+      "message": "サインイン"
+   },
+   "login_register": {
+      "message": "ログイン / 無料登録"
+   },
+   "loging": {
+      "message": "ログイン中"
+   },
+   "logout": {
+      "message": "ログアウト"
+   },
+   "logout_clear_something": {
+      "message": "このデバイスのパーソナライズ設定とその他の情報をクリアします"
+   },
+   "logout_tips": {
+      "message": "接続からこのデバイスのさまざまなアカウントからのデータを防ぐために、アカウントからログアウトする前にローカルデータを消去する必要がありますか？"
+   },
+   "logout_warn": {
+      "message": "アカウントからログアウトした後、このアカウントの下のすべてのバックアップ情報は削除されます。 このアカウントからログアウトしてよろしいですか？(ノートやカスタム壁紙ライブラリの画像が利用できない場合があります)"
+   },
+   "male": {
+      "message": "男性"
+   },
+   "manage_backup_node": {
+      "message": "履歴バックアップノードを管理します"
+   },
+   "manul_backup": {
+      "message": "手動バックアップ"
+   },
+   "map": {
+      "message": "マップ"
+   },
+   "mask_density": {
+      "message": "壁紙を暗くする"
+   },
+   "me": {
+      "message": "自分"
+   },
+   "merge_cloud_local": {
+      "message": "ローカルデータとクラウドデータを組み合わせる"
+   },
+   "merge_data": {
+      "message": "データの結合"
+   },
+   "mini_mode": {
+      "message": "ミニマリストモード"
+   },
+   "mins": {
+      "message": "分"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "あなたのウェブサイト、テーマ、テンプレート、プロジェクト、印刷資料、そして新聞での使用。 毎週新しい壁紙やビデオが追加されています"
+   },
+   "mobile_devices": {
+      "message": "Infinityモバイル版"
+   },
+   "modify": {
+      "message": "予約内容の変更"
+   },
+   "modify_email": {
+      "message": "メールを変更する"
+   },
+   "modify_password": {
+      "message": "パスワードを編集"
+   },
+   "modify_phone_number": {
+      "message": "電話番号を変更します"
+   },
+   "modify_pwd": {
+      "message": "パスワードを編集"
+   },
+   "modify_success": {
+      "message": "変更が完了しました"
+   },
+   "modify_this": {
+      "message": "編集"
+   },
+   "mon": {
+      "message": "月曜日"
+   },
+   "mon_min": {
+      "message": "月曜日"
+   },
+   "month_1": {
+      "message": "1月"
+   },
+   "month_10": {
+      "message": "10月"
+   },
+   "month_11": {
+      "message": "11月"
+   },
+   "month_12": {
+      "message": "12月"
+   },
+   "month_2": {
+      "message": "2月"
+   },
+   "month_3": {
+      "message": "3月"
+   },
+   "month_4": {
+      "message": "4月"
+   },
+   "month_5": {
+      "message": "5月"
+   },
+   "month_6": {
+      "message": "6月"
+   },
+   "month_7": {
+      "message": "7月"
+   },
+   "month_8": {
+      "message": "8月"
+   },
+   "month_9": {
+      "message": "9月"
+   },
+   "more_content_from_site": {
+      "message": "このウェブサイトからのより多くのコンテンツ"
+   },
+   "most_used_in_chinese": {
+      "message": "検索エンジンは中国語で最もよく使用されました"
+   },
+   "music_video": {
+      "message": "ミュージックビデオ"
+   },
+   "my_collection": {
+      "message": "マイコレクション"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "ウェブサイト名を入力してください"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "自然"
+   },
+   "need_you_permission": {
+      "message": "許可が必要"
+   },
+   "network_error": {
+      "message": "ネットワーク エラー"
+   },
+   "new_email": {
+      "message": "新しいメール"
+   },
+   "new_password": {
+      "message": "新しいパスワードを入力"
+   },
+   "new_phone_number": {
+      "message": "新しい電話番号"
+   },
+   "new_tab": {
+      "message": "新しいタブ"
+   },
+   "new_tab_web": {
+      "message": "Infinity ホームページ"
+   },
+   "news": {
+      "message": "ニュース"
+   },
+   "next": {
+      "message": "次へ"
+   },
+   "nickname": {
+      "message": "ニックネーム"
+   },
+   "no_account_register": {
+      "message": "アカウントをお持ちでないですか？今ご登録ください"
+   },
+   "no_backup_time": {
+      "message": "なし"
+   },
+   "no_bookmark_result": {
+      "message": "しおり"
+   },
+   "no_chrome_app": {
+      "message": "$browser$アプリをインストールしていません",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "気象データがありません"
+   },
+   "no_data": {
+      "message": "データなし"
+   },
+   "no_description": {
+      "message": "説明がありません"
+   },
+   "no_more": {
+      "message": "もういや"
+   },
+   "no_more_reminder": {
+      "message": "今後表示しない"
+   },
+   "no_permission_text": {
+      "message": "ブラウザのアドレスバーまたは設定センターでこの権限を開いて付与することをお勧めします。"
+   },
+   "no_permission_title": {
+      "message": "許可はまだ与えられていない"
+   },
+   "no_permission_to_open_app": {
+      "message": "$browser$アプリを開く権限はありません",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "チェックリストアイテムがありません"
+   },
+   "no_search_result": {
+      "message": "検索結果がありません"
+   },
+   "no_title": {
+      "message": "タイトルなし"
+   },
+   "none": {
+      "message": "非表示"
+   },
+   "none_auto_backup": {
+      "message": "現在スケジュールされていないバックアップはありません"
+   },
+   "none_auto_backup_desc": {
+      "message": "スケジュールされたバックアップは、無限大に関する情報を変更するのと同じ日に開始されます"
+   },
+   "none_manual_backup": {
+      "message": "現在手動バックアップはありません"
+   },
+   "normal_model": {
+      "message": "標準モード"
+   },
+   "not_binding": {
+      "message": "関連付けなし"
+   },
+   "note_title": {
+      "message": "タイトルを入力してください"
+   },
+   "note_upload_img_15": {
+      "message": "この画像サイズは15Mを超えることはできません"
+   },
+   "notes": {
+      "message": "ノート"
+   },
+   "notice": {
+      "message": "注記"
+   },
+   "ocean": {
+      "message": "海洋"
+   },
+   "one_day_later": {
+      "message": "明日通知する"
+   },
+   "one_week_later": {
+      "message": "一週間後に再通知する"
+   },
+   "only_used_infinity": {
+      "message": "Infinityの内部モジュールにのみ使用されます"
+   },
+   "opacity": {
+      "message": "アイコンの透明度"
+   },
+   "open_all": {
+      "message": "すべて開く"
+   },
+   "open_chrome_app": {
+      "message": "アプリを有効にする"
+   },
+   "open_extension": {
+      "message": "機能拡張を有効にする"
+   },
+   "open_folder_icons": {
+      "message": "すべて開く"
+   },
+   "open_new_tab": {
+      "message": "新しいタブでウェブサイトを開く"
+   },
+   "open_newtab_bookmarks": {
+      "message": "新しいタブのブックマークされたリンクを開く"
+   },
+   "open_newtab_history": {
+      "message": "新しいタブで開く履歴"
+   },
+   "open_newtab_show_search": {
+      "message": "新しいタブでサードパーティの検索結果を開く"
+   },
+   "origin_password": {
+      "message": "初期パスワード"
+   },
+   "other_bookmarks": {
+      "message": "その他のブックマーク"
+   },
+   "others": {
+      "message": "その他"
+   },
+   "oversize": {
+      "message": "サイズは2 MBを超えてはいけません。"
+   },
+   "overwrite_data": {
+      "message": "データを上書き"
+   },
+   "pagin": {
+      "message": "ページボタン"
+   },
+   "password": {
+      "message": "パスワード"
+   },
+   "password_dont_empty": {
+      "message": "パスワードを空白にすることはできません"
+   },
+   "password_length_low": {
+      "message": "パスワード6桁以上"
+   },
+   "password_not_equals": {
+      "message": "パスワードが同じではありません"
+   },
+   "password_not_some": {
+      "message": "入力されたパスワードが一致しません"
+   },
+   "permission": {
+      "message": "承認"
+   },
+   "permission_all": {
+      "message": "すべての承認"
+   },
+   "permission_gmail_notice_content": {
+      "message": "mail.google.com上のデータのアクセスと変更を要求します。 通知を表示するように要求します"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail通知"
+   },
+   "permission_gmail_num_content": {
+      "message": "mail.google.comでデータのアクセスと変更を要求します"
+   },
+   "permission_gmail_num_title": {
+      "message": "Gmailの数量にアクセスする"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Google.comとDiffiention.baidu.comでデータのアクセスと変更を要求します。"
+   },
+   "permission_serch_suggest_title": {
+      "message": "検索候補"
+   },
+   "permission_todo_notice_content": {
+      "message": "表示通知を要求します"
+   },
+   "permission_todo_notice_title": {
+      "message": "やるべき通知"
+   },
+   "permission_top_bookmark_content": {
+      "message": "訪問したWebサイトに対応するアイコンへのアクセスを要求し、あなたのブックマークにアクセスして変更する"
+   },
+   "permission_top_bookmark_title": {
+      "message": "トップにブックマークを表示する"
+   },
+   "permission_top_useful_content": {
+      "message": "訪問したWebサイトに対応するアイコンにアクセスし、最も頻繁にWebサイトのリストにアクセスして変更する要求"
+   },
+   "permission_top_useful_title": {
+      "message": "上によく使われるサイトを表示します"
+   },
+   "permisson_label": {
+      "message": "権限"
+   },
+   "phone_number": {
+      "message": "電話番号"
+   },
+   "photos": {
+      "message": "画像"
+   },
+   "pick_local_wallpaper": {
+      "message": "地元の壁紙を選択してください"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "使用可能な無料の写真"
+   },
+   "placeholder_name": {
+      "message": "名前"
+   },
+   "please_chose_picture": {
+      "message": "画像を選択してください"
+   },
+   "please_enter_bookmark_name": {
+      "message": "ブックマーク名を入力してください。"
+   },
+   "please_enter_email": {
+      "message": "電子メール アドレスを入力する"
+   },
+   "please_enter_img_verify_code": {
+      "message": "画像確認コードを入力してください"
+   },
+   "please_enter_nickname": {
+      "message": "ニックネームを入力"
+   },
+   "please_enter_phone": {
+      "message": "電話番号を入力してください"
+   },
+   "please_enter_right_account": {
+      "message": "正しい電子メールまたは電話番号を入力してください"
+   },
+   "please_enter_text": {
+      "message": "入力テキスト"
+   },
+   "please_enter_url": {
+      "message": "URL を入力してください"
+   },
+   "please_input_bg_text": {
+      "message": "アイコンテキストを入力してください"
+   },
+   "please_pre_login": {
+      "message": "最初にログインしてください"
+   },
+   "please_re_login": {
+      "message": "再度サインインしてください"
+   },
+   "please_set_your_password": {
+      "message": "パスポートをセット"
+   },
+   "please_type_link": {
+      "message": "リンクを入力してください。"
+   },
+   "please_type_right_link": {
+      "message": "正しいリンクアドレスを入力してください"
+   },
+   "please_upload_photos": {
+      "message": "画像をアップロードしてください"
+   },
+   "popular": {
+      "message": "人気"
+   },
+   "preview": {
+      "message": "プレビュー"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "プライバシーとデータ収集"
+   },
+   "privacy_data_item_1_1": {
+      "message": "カスタマイズされたウェブサイトのアイコンによって生成された画像"
+   },
+   "privacy_data_item_1_2": {
+      "message": "カスタマイズされた検索エンジンによって生成された画像"
+   },
+   "privacy_data_item_2_1": {
+      "message": "登録されたEメールアドレス、アップロードされたプロフィール写真、選択ニックネーム、非表示テキストパスワード、その他の情報"
+   },
+   "privacy_data_item_2_2": {
+      "message": "サードパーティアカウントでログインした場合、私たちはあなたのニックネーム、性別、プロフィール写真、および第三者によって提供されたその他の情報を保存します"
+   },
+   "privacy_data_item_2_3": {
+      "message": "あなたが追加したウェブサイトのアイコン情報と検索エンジンの情報"
+   },
+   "privacy_data_item_2_4": {
+      "message": "あなたの地域の気象情報またはあなたが設定した他の分野の気象情報"
+   },
+   "privacy_data_item_2_5": {
+      "message": "作成したリストリスト"
+   },
+   "privacy_data_item_2_6": {
+      "message": "作成したメモの内容とノートにアップロードされた画像"
+   },
+   "privacy_data_item_2_7": {
+      "message": "あなたの現在の壁紙、壁紙の設定、あなたの地元の壁紙にアップロードされた画像、そしてあなたの地元の壁紙ライブラリにアップロードされたイメージ"
+   },
+   "privacy_data_item_2_8": {
+      "message": "拡張子設定"
+   },
+   "privacy_data_item_3_1": {
+      "message": "サーバーは、インタラクション中に生成されたログをユーザーとクライアントと保存できます。 このレコードは主に例外エラーをトラブルシューティングするために使用されます。 このログを時々クリアします。"
+   },
+   "privacy_data_item_4_1": {
+      "message": "ブラウザの種類、言語、およびバージョン、および画面の解像度"
+   },
+   "privacy_data_item_4_10": {
+      "message": "現在ログインしているかどうか"
+   },
+   "privacy_data_item_4_11": {
+      "message": "現在のアイコンのおおよその数"
+   },
+   "privacy_data_item_4_12": {
+      "message": "現在有効になっている拡張機能（拡張管理機能を使用している場合）"
+   },
+   "privacy_data_item_4_13": {
+      "message": "この拡張機能が開かれた回数"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IPアドレスから派生したIPアドレスと地理的な場所"
+   },
+   "privacy_data_item_4_3": {
+      "message": "ウェブサイトのアイコンと検索エンジンが追加されました"
+   },
+   "privacy_data_item_4_4": {
+      "message": "壁紙と延長の設定"
+   },
+   "privacy_data_item_4_5": {
+      "message": "拡張版"
+   },
+   "privacy_data_item_4_6": {
+      "message": "機能ボタンをクリックする頻度"
+   },
+   "privacy_data_item_4_7": {
+      "message": "例外エラーメッセージ"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Webサイトのアドレスホストを開きます"
+   },
+   "privacy_data_item_4_9": {
+      "message": "現在の検索エンジンホスト"
+   },
+   "privacy_data_item_5_1": {
+      "message": "いくつかの検索エンジンが使用されている回数を匿名で数えます。"
+   },
+   "privacy_data_item_9": {
+      "message": "この拡張機能を使用する前に、このプライバシーポリシーに同意する必要があります。 詳しくは$the_infinity_privacy$を表示してください。",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "いいえ、匿名データを収集しないでください"
+   },
+   "privacy_data_title_1": {
+      "message": "使用中はユーザーが自在に生成された画像を保存することができます。 次の画像は匿名で記憶されています。"
+   },
+   "privacy_data_title_2": {
+      "message": "アカウントに登録またはログインした場合は、データのバックアップと同期を完了するために、サーバーに次の識別可能なデータ（以下、ユーザーデータと呼ばれる）を保存する必要があります。"
+   },
+   "privacy_data_title_3": {
+      "message": "サーバーログ："
+   },
+   "privacy_data_title_4": {
+      "message": "以下の情報の収集はオプションです。 情報はGoogle Analyticsを介して匿名で収集されます。"
+   },
+   "privacy_data_title_5": {
+      "message": "統計分析："
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "[Infinity New]タブページをアンインストールするように確認してください"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Infinity New Tab Proのアンインストールを確認してください"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "アンインストール[Infinityの新しい]タブページ？"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "インフィニティの新しいタブPROをアンインストールしますか？"
+   },
+   "privacy_data_yes": {
+      "message": "はい、匿名データはプライバシーポリシーに従って収集できます"
+   },
+   "privacy_disagree": {
+      "message": "同意しない"
+   },
+   "privacy_policy": {
+      "message": "プライバシーポリシー"
+   },
+   "privacy_title": {
+      "message": "プライバシーポリシー契約"
+   },
+   "profile": {
+      "message": "登録情報"
+   },
+   "pure_color": {
+      "message": "純粋な色"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQグループ"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "ランダム壁紙"
+   },
+   "re_update": {
+      "message": "再アップアップ"
+   },
+   "read": {
+      "message": "読む"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "毎週個人用および商業的使用に利用可能な大量のHD写真があります。"
+   },
+   "recently_add": {
+      "message": "最近追加した"
+   },
+   "recently_use": {
+      "message": "最近使用した言語"
+   },
+   "recover_error": {
+      "message": "データ回復に失敗しました"
+   },
+   "recover_error_version": {
+      "message": "サポートされていませんデータ形式"
+   },
+   "recover_this": {
+      "message": "このノードから回復します"
+   },
+   "redius": {
+      "message": "アイコン丸みを帯びた角"
+   },
+   "refresh_qrcode": {
+      "message": "QRコードが無効で、[更新]をクリックします"
+   },
+   "register": {
+      "message": "登録"
+   },
+   "register_back": {
+      "message": "戻る"
+   },
+   "register_get_email_code_error": {
+      "message": "確認コードの取得に失敗しました"
+   },
+   "register_now": {
+      "message": "より多くの権限を楽しむために今あなたの無限大アカウントを登録してください"
+   },
+   "relative_humidity": {
+      "message": "相対湿度"
+   },
+   "reload": {
+      "message": "もう一度お試しください"
+   },
+   "reminder_update_text1": {
+      "message": "あなたがInfinityを使うより良い経験を得るために"
+   },
+   "reminder_update_text2": {
+      "message": "ブラウザを最新バージョンにアップグレードすることをお勧めします。Infinityと互換性のあるブラウザをお勧めします。"
+   },
+   "reminder_update_title": {
+      "message": "ページのエラー表示"
+   },
+   "remove_account": {
+      "message": "アカウントを削除する"
+   },
+   "remove_done": {
+      "message": "完了した処理事項をクリアします"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "この壁紙ライブラリの下のすべての壁紙が一緒に取り除かれます"
+   },
+   "rename_folder": {
+      "message": "名前を変更"
+   },
+   "repair_auto_backup": {
+      "message": "データの自動バックアップ"
+   },
+   "repair_concat": {
+      "message": "連絡先の詳細"
+   },
+   "repair_concat_email": {
+      "message": "Eメール："
+   },
+   "repair_concat_qq": {
+      "message": "エンジニアQQ："
+   },
+   "repair_data": {
+      "message": "データを修復します"
+   },
+   "repair_data_desc_contnet": {
+      "message": "修復するデータ ファイルを次の連絡先までお送りください。できるだけ早くデータを修復します。 エンジニアが問題を解決するまでは、他の操作を行わないようにしてください。 このファイルにはアカウントなどの機密情報が含まれている可能性があります。他人に開示しないでください。"
+   },
+   "repair_data_title": {
+      "message": "紛失または破損したデータを回復する"
+   },
+   "repair_export_btn": {
+      "message": "修理するデータをエクスポートします"
+   },
+   "repeat_city": {
+      "message": "あなたは再び同じ都市を追加することはできません"
+   },
+   "reqeust_login_message": {
+      "message": "この機能を利用するにはログインが必要です"
+   },
+   "request_logout_confirm": {
+      "message": "アカウントを削除しますか？"
+   },
+   "request_reset_all_settings": {
+      "message": "設定をデフォルト値にリセットしてよくよろしいですか？"
+   },
+   "reset": {
+      "message": "リセット"
+   },
+   "reset_password": {
+      "message": "パスワードをリセットします"
+   },
+   "reset_password_by_email": {
+      "message": "電子メール検証を通じてパスワードをリセットします"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "電子メールまたは電話番号検証を通してパスワードをリセットします"
+   },
+   "reset_setting": {
+      "message": "設定のリセット"
+   },
+   "reset_your_password": {
+      "message": "パスワードの再設定をしてください。"
+   },
+   "restore_setting": {
+      "message": "設定を元に戻す"
+   },
+   "revovery_data": {
+      "message": "データを復元"
+   },
+   "row_gap": {
+      "message": "行間隔"
+   },
+   "row_num": {
+      "message": "列の数"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "図の矢印で示すようにオプションをクリックします。"
+   },
+   "safari_browser_guide2": {
+      "message": "ポップアップウィンドウで、[ホームページ]列のURL https://inftab.comを入力します。"
+   },
+   "safari_browser_guide3": {
+      "message": "URLの下のボタンをクリックしてホームページの設定を完了します。"
+   },
+   "sat": {
+      "message": "土曜日"
+   },
+   "sat_min": {
+      "message": "土曜日"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "scale": {
+      "message": "アイコンサイズ"
+   },
+   "scale_main": {
+      "message": "スクリーンズーム"
+   },
+   "scale_side": {
+      "message": "サイドコラムズーム"
+   },
+   "scheduled_backup": {
+      "message": "スケジュールのバックアップ"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "search_bookmark": {
+      "message": "ブックマークを検索"
+   },
+   "search_engine": {
+      "message": "検索エンジン"
+   },
+   "search_engine_error": {
+      "message": "検索エンジン名を入力"
+   },
+   "search_error": {
+      "message": "読み込みに失敗しました"
+   },
+   "search_extension": {
+      "message": "拡張機能を検索"
+   },
+   "search_from": {
+      "message": "から検索：$site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "アイコンを検索する"
+   },
+   "search_input": {
+      "message": "検索ボックス"
+   },
+   "search_input_shadow": {
+      "message": "検索ボックスの影"
+   },
+   "search_opacity": {
+      "message": "検索ボックスの不透明度"
+   },
+   "search_redius": {
+      "message": "検索ボックス丸みを帯びたコーナー"
+   },
+   "search_result": {
+      "message": "検索結果"
+   },
+   "search_size": {
+      "message": "検索ボックスサイズ"
+   },
+   "search_suggest": {
+      "message": "検索語句の候補を表示"
+   },
+   "search_website": {
+      "message": "サイトの検索"
+   },
+   "searching": {
+      "message": "検索中"
+   },
+   "select_date": {
+      "message": "日付を選択してください"
+   },
+   "select_icon": {
+      "message": "アイコンを選択してください"
+   },
+   "select_time": {
+      "message": "時間を選択する"
+   },
+   "send_success": {
+      "message": "確認メールを送信しました。受信箱を確認してください"
+   },
+   "set_homepage_desc": {
+      "message": "フル機能を楽しむためにブラウザ用の拡張子をインストールしてください"
+   },
+   "set_homepage_title2": {
+      "message": "この機能は現在のバージョンではサポートされていません_#_使用する前にブラウザ拡張機能をインストールしてください"
+   },
+   "set_infinity_to_homepage": {
+      "message": "ブラウザのホームページとしてInfinityを設定してください"
+   },
+   "set_new_password": {
+      "message": "新しいパスワードを設定"
+   },
+   "set_remind_time": {
+      "message": "リマインダーの時間を設定します"
+   },
+   "set_setting_default": {
+      "message": "既定のスタイルに戻す"
+   },
+   "set_to_homepage": {
+      "message": "ホームページに設定"
+   },
+   "set_top": {
+      "message": "上側"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "ニックネームとアバターを設定する"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "shadow": {
+      "message": "アイコンの影"
+   },
+   "share": {
+      "message": "共有"
+   },
+   "share_by_user": {
+      "message": "ユーザのシェア"
+   },
+   "share_desc": {
+      "message": "Infinityの新しいラベルページ、数百万人が選んだナビゲーション類の拡張、ブラウザで一番いいのは新しいタブページです。"
+   },
+   "share_title": {
+      "message": "$browser$ブラウザの最良の新しいタブかもしれません",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "買い物やグループの購入"
+   },
+   "shortcut_mode": {
+      "message": "エクスプレスモード"
+   },
+   "show_detail": {
+      "message": "今すぐ見る"
+   },
+   "show_gamil_unread_number": {
+      "message": "アイコンのGmailからの未読の電子メールの数を表示する"
+   },
+   "show_later": {
+      "message": "後で通知"
+   },
+   "show_name": {
+      "message": "表示名"
+   },
+   "show_reminders_number": {
+      "message": "アイコンにTo-Doの数を表示する"
+   },
+   "skip": {
+      "message": "スキップ"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "写真を見つける場所、表示、および共有する場所"
+   },
+   "social": {
+      "message": "ソーシャルメディアとブログ"
+   },
+   "solid_color_wallpaper": {
+      "message": "単色の壁紙"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "WeChatの公式アカウントが投稿する内容を検索できる検索エンジン"
+   },
+   "sports": {
+      "message": "スポーツと旅行"
+   },
+   "start_animation": {
+      "message": "アニメーションを開始します"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "スタートアップ、ブロガー、出版社、ウェブサイト、デザイナー、開発者、クリエイター、およびその向こう側の無料写真を提供"
+   },
+   "street_photography": {
+      "message": "ストリート"
+   },
+   "sun": {
+      "message": "日曜日"
+   },
+   "sun_min": {
+      "message": "日"
+   },
+   "support": {
+      "message": "サポート"
+   },
+   "switch_to": {
+      "message": "に切り替える"
+   },
+   "sync_fail": {
+      "message": "同期できませんでした。再試行してください"
+   },
+   "sync_suncess": {
+      "message": "同期が完了しました。"
+   },
+   "sync_type_tips": {
+      "message": "クラウドデータとローカルデータは矛盾するように検出されます。 1種類のデータを選択してください。"
+   },
+   "syncing": {
+      "message": "データの同期中…"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "あなたはこの$browser$アプリをインストールしていません",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "ターゲットを開く方法"
+   },
+   "tech": {
+      "message": "技術"
+   },
+   "technology": {
+      "message": "テクノロジー"
+   },
+   "term_of_use": {
+      "message": "利用規約"
+   },
+   "text": {
+      "message": "テキスト"
+   },
+   "text_shadow": {
+      "message": "テキストシャドウ"
+   },
+   "thirt_party": {
+      "message": "サードパーティアカウントログインを使う"
+   },
+   "thu": {
+      "message": "木曜日"
+   },
+   "thu_min": {
+      "message": "木曜日"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1.検索ボックスに「検索」ボックスに「％s」を入力して検索するには、任意のWebサイトを開きます。 （例としてグーグル付き）"
+   },
+   "tip_question_2": {
+      "message": "2.検索結果のURLを直接コピーします"
+   },
+   "tip_question_3": {
+      "message": "3.コピーしたURLをここに貼り付けてします"
+   },
+   "tip_question_title": {
+      "message": "検索語を置き換えるために \"％s\"の使用について"
+   },
+   "to_login": {
+      "message": "今すぐログイン"
+   },
+   "today": {
+      "message": "今日"
+   },
+   "todo_welcome": {
+      "message": "[Infinity New]タブページへようこそ。 これはTo-Doアイテムのサンプルです。"
+   },
+   "todos": {
+      "message": "To Do"
+   },
+   "top_bookmark": {
+      "message": "トップにブックマークを表示する"
+   },
+   "top_use_ful": {
+      "message": "上によく使われるサイトを表示します"
+   },
+   "travel": {
+      "message": "旅行"
+   },
+   "tue": {
+      "message": "火曜日"
+   },
+   "tue_min": {
+      "message": "火曜日"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "2時間後に思い出させる"
+   },
+   "type_link": {
+      "message": "リンクを入力"
+   },
+   "type_text": {
+      "message": "入力テキスト"
+   },
+   "unbind": {
+      "message": "削除"
+   },
+   "unbind_btn": {
+      "message": "関連付け解除"
+   },
+   "unbind_email": {
+      "message": "メールとの紐付けを解除"
+   },
+   "unbind_phone_number": {
+      "message": "携帯番号のバインド解除"
+   },
+   "unbind_success": {
+      "message": "削除されました"
+   },
+   "uninstall_agree": {
+      "message": "同意する"
+   },
+   "uninstall_chrome_app": {
+      "message": "アプリをアンインストール"
+   },
+   "uninstall_extension": {
+      "message": "拡張機能を削除"
+   },
+   "unknown_mistake": {
+      "message": "不明なエラー"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "世界的に有名な高品質の壁紙"
+   },
+   "unzip_folder_content": {
+      "message": "フォルダが削除され、アイコンが保存されます。 本気ですか？"
+   },
+   "unzip_folder_title": {
+      "message": "解放"
+   },
+   "update_data": {
+      "message": "データをアップグレードする"
+   },
+   "update_data_failure": {
+      "message": "プロファイルの更新に失敗しました"
+   },
+   "update_desc_1": {
+      "message": "バージョンアップグレード中にデータ変換が失敗した場合は、データを再アップアップするようにしてください。"
+   },
+   "update_desc_2": {
+      "message": "それでも問題を複数回解決できない場合は、私たちのエンジニアに連絡することができます、私たちはあなたが解決するのを助けようとします。"
+   },
+   "update_desc_3": {
+      "message": "変換データは新しいバージョンデータを上書きし、操作する前にデータをバックアップすることをお勧めします。"
+   },
+   "update_error_desc1": {
+      "message": "データを検出した場合は、再アップグレードしてください。"
+   },
+   "update_error_desc2": {
+      "message": "複数のアップグレードに失敗した場合は、右上隅から[設定]アイコンをクリックして[My]  -  [バックアップと修復]をクリックすることもできます。"
+   },
+   "update_now": {
+      "message": "今すぐ更新"
+   },
+   "update_or_repair_data": {
+      "message": "データをアップグレードまたは修復します"
+   },
+   "upload_avatar_failure": {
+      "message": "キャラクター画像のアップロードに失敗しました"
+   },
+   "upload_file_error": {
+      "message": "ファイルをアップロードできませんでした。"
+   },
+   "upload_image_error": {
+      "message": "画像をアップロードができませんでした"
+   },
+   "uploading": {
+      "message": "アップロードしています..."
+   },
+   "use_cloud": {
+      "message": "クラウドデータを使用してください"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "テキストを入力してEnterキーを押して追加します"
+   },
+   "use_local": {
+      "message": "ローカルデータを使用してください"
+   },
+   "use_mobile_screen": {
+      "message": "QRコードをスキャンするためにモバイルデバイスを使用してください"
+   },
+   "user_evaluation": {
+      "message": "ユーザー レビュー"
+   },
+   "username_cannot_empty": {
+      "message": "ユーザー名は空欄にできません"
+   },
+   "verify_password_desc": {
+      "message": "アカウントセキュリティの場合は、アカウントのパスワードを入力してください"
+   },
+   "verity_code": {
+      "message": "認証コードを送信"
+   },
+   "verity_code_no_value": {
+      "message": "認証コードを空にできません"
+   },
+   "videos": {
+      "message": "動画"
+   },
+   "view": {
+      "message": "表示"
+   },
+   "w309": {
+      "message": "霧雨"
+   },
+   "w_100": {
+      "message": "晴れ"
+   },
+   "w_101": {
+      "message": "シェイディ"
+   },
+   "w_102": {
+      "message": "ほとんど雲がない"
+   },
+   "w_103": {
+      "message": "ところにより曇り"
+   },
+   "w_104": {
+      "message": "曇り"
+   },
+   "w_200": {
+      "message": "風が強い"
+   },
+   "w_201": {
+      "message": "おだやか"
+   },
+   "w_202": {
+      "message": "そよ風"
+   },
+   "w_203": {
+      "message": "和風"
+   },
+   "w_204": {
+      "message": "疾風"
+   },
+   "w_205": {
+      "message": "雄風"
+   },
+   "w_206": {
+      "message": "強風"
+   },
+   "w_207": {
+      "message": "強風"
+   },
+   "w_208": {
+      "message": "大強風"
+   },
+   "w_209": {
+      "message": "暴風雨"
+   },
+   "w_210": {
+      "message": "暴風雨"
+   },
+   "w_211": {
+      "message": "ハリケーン"
+   },
+   "w_212": {
+      "message": "竜巻"
+   },
+   "w_213": {
+      "message": "熱帯暴風雨"
+   },
+   "w_300": {
+      "message": "にわか雨"
+   },
+   "w_301": {
+      "message": "強いにわか雨"
+   },
+   "w_302": {
+      "message": "雷雨"
+   },
+   "w_303": {
+      "message": "強い局地的雷雨"
+   },
+   "w_304": {
+      "message": "みぞれを伴う雷"
+   },
+   "w_305": {
+      "message": "弱い雨"
+   },
+   "w_306": {
+      "message": "雨"
+   },
+   "w_307": {
+      "message": "激しい雨"
+   },
+   "w_308": {
+      "message": "極端な雨があります"
+   },
+   "w_310": {
+      "message": "暴風雨"
+   },
+   "w_311": {
+      "message": "非常に激しい雨"
+   },
+   "w_312": {
+      "message": "異常な暴風雨"
+   },
+   "w_313": {
+      "message": "雨氷"
+   },
+   "w_314": {
+      "message": "中程度の雨に変化する小雨"
+   },
+   "w_315": {
+      "message": "大雨に変化する中程度の雨"
+   },
+   "w_316": {
+      "message": "強い雨または暴風雨"
+   },
+   "w_317": {
+      "message": "激しい雨のち非常に激しい雨"
+   },
+   "w_318": {
+      "message": "土砂降りまたは激しい暴風雨"
+   },
+   "w_399": {
+      "message": "雨"
+   },
+   "w_400": {
+      "message": "少ない雪"
+   },
+   "w_401": {
+      "message": "適度の雪"
+   },
+   "w_402": {
+      "message": "激しい雪"
+   },
+   "w_403": {
+      "message": "吹雪"
+   },
+   "w_404": {
+      "message": "みぞれ"
+   },
+   "w_405": {
+      "message": "みぞれ"
+   },
+   "w_406": {
+      "message": "にわかみぞれ"
+   },
+   "w_407": {
+      "message": "スノーシャワー"
+   },
+   "w_408": {
+      "message": "弱いまたはやや強い雪"
+   },
+   "w_409": {
+      "message": "やや強いまたは強い雪"
+   },
+   "w_410": {
+      "message": "強い雪または暴風雪"
+   },
+   "w_499": {
+      "message": "雪"
+   },
+   "w_500": {
+      "message": "小雨"
+   },
+   "w_501": {
+      "message": "霧"
+   },
+   "w_502": {
+      "message": "乾霧"
+   },
+   "w_503": {
+      "message": "砂"
+   },
+   "w_504": {
+      "message": "埃"
+   },
+   "w_507": {
+      "message": "砂嵐"
+   },
+   "w_508": {
+      "message": "強い砂嵐"
+   },
+   "w_509": {
+      "message": "濃霧"
+   },
+   "w_510": {
+      "message": "強い濃霧"
+   },
+   "w_511": {
+      "message": "中程度のスモッグ"
+   },
+   "w_512": {
+      "message": "強い靄"
+   },
+   "w_513": {
+      "message": "深刻なスモッグ"
+   },
+   "w_514": {
+      "message": "霧"
+   },
+   "w_515": {
+      "message": "深刻な濃霧"
+   },
+   "w_900": {
+      "message": "暑い"
+   },
+   "w_901": {
+      "message": "寒い"
+   },
+   "w_999": {
+      "message": "不明"
+   },
+   "wallpaper": {
+      "message": "壁紙"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "カスタムの色の追加"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "画像を追加できませんでした。 あとでもう一度試してみてください。"
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "地元の壁紙アプリが失敗しました。 あとでもう一度試してみてください"
+   },
+   "wallpaper_applying_library": {
+      "message": "壁紙ライブラリを適用する..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "壁紙リフレッシュ周波数"
+   },
+   "wallpaper_choose_library": {
+      "message": "壁紙を選択してください"
+   },
+   "wallpaper_choose_single": {
+      "message": "壁紙の選択"
+   },
+   "wallpaper_clear_filter": {
+      "message": "選択を解除"
+   },
+   "wallpaper_cloud": {
+      "message": "雲の壁紙"
+   },
+   "wallpaper_collect_current": {
+      "message": "現在の壁紙を集める"
+   },
+   "wallpaper_common_color": {
+      "message": "一般的な色"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "この壁紙を削除しますか？"
+   },
+   "wallpaper_create_library_error": {
+      "message": "ローカルの壁紙ライブラリの作成に失敗しました。 あとでもう一度試してみてください。"
+   },
+   "wallpaper_create_library_limit": {
+      "message": "ユーザーのカスタマイズされた壁紙ライブラリが制限を超えています"
+   },
+   "wallpaper_custom_color": {
+      "message": "カスタムカラー"
+   },
+   "wallpaper_delete_color": {
+      "message": "この色を削除します"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "削除されました"
+   },
+   "wallpaper_delete_file": {
+      "message": "壁紙を削除"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "壁紙を削除できませんでした"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "自動壁紙切り替えを無効にします"
+   },
+   "wallpaper_empty_text": {
+      "message": "データなし"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "壁紙を取得できませんでした"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "ユーザーの壁紙を取得できませんでした"
+   },
+   "wallpaper_library": {
+      "message": "壁紙ライブラリ"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$のローカル壁紙図書館",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "違法な壁紙ライブラリの名前"
+   },
+   "wallpaper_library_preview": {
+      "message": "壁紙プレビュー"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "最大20の壁紙をアップロードしてください。 各壁紙は10mを超えてはいけません。"
+   },
+   "wallpaper_loading": {
+      "message": "処理中..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "ネットワーク接続が必要です"
+   },
+   "wallpaper_remove_library": {
+      "message": "この壁紙図書館を削除してください"
+   },
+   "wallpaper_sort_default": {
+      "message": "デフォルトの並べ替え"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "人気"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "包含日"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "24時間ごとに切り替えます"
+   },
+   "wallpaper_switch_failure": {
+      "message": "スワッピング壁紙に失敗しました"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "あなたの毎日の壁紙をビングで更新します。 スイッチング周波数を選択することはできません。"
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "1時間ごとに切り替えます"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "12時間ごとに切り替えます"
+   },
+   "wallpaper_switch_success": {
+      "message": "ランダムな壁紙は正常に変更されました"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "次の壁紙に変更します"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "新しいタブを開くときに切り替えます"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "ページを開くとスイッチ"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "ファイルのアップロードが失敗しました。 理由：サイズは制限を超えています"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "ローカルの背景を選択してください"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "少なくとも1つの壁紙が必要です"
+   },
+   "want_more": {
+      "message": "もっと多くの特典を即座にお楽しみください"
+   },
+   "weather": {
+      "message": "気温の表示"
+   },
+   "weather_empty": {
+      "message": "現在利用可能な天気情報はありません"
+   },
+   "web_set_home_title": {
+      "message": "ホームページとしてInfinityを設定する方法"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Webサイト名"
+   },
+   "website_search_replace_char": {
+      "message": "URL（検索語を置き換えるには％sを使用）"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "水曜日"
+   },
+   "wed_min": {
+      "message": "水曜日"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "風力"
+   },
+   "wind_mill": {
+      "message": "右下隅にランダムな壁紙ボタンを表示する"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "ヤフー"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo SearchはYahooによって運営されている検索エンジンです"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandexはロシアの最も重要なインターネットサービスポータルの1つです。"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$年$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "昨日"
+   },
+   "you_need_login": {
+      "message": "Infinityアカウントをログインしてからこの機能を使います"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "閲覧履歴はここに表示されます"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

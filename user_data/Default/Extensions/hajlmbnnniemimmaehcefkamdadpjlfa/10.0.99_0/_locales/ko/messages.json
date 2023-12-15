@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "안전 검색 엔진"
+   },
+   "about": {
+      "message": "정보"
+   },
+   "about_us": {
+      "message": "회사소개"
+   },
+   "account_expired": {
+      "message": "귀하의 계정이 만료 된 테스트, 다시 로그인하십시오."
+   },
+   "account_setting": {
+      "message": "계정 설정"
+   },
+   "add": {
+      "message": "추가"
+   },
+   "add_city": {
+      "message": "도시 추가"
+   },
+   "add_first_note": {
+      "message": "첫 노트를 작성해 보세요"
+   },
+   "add_icon_success": {
+      "message": "성공적으로 추가"
+   },
+   "add_link": {
+      "message": "링크 추가"
+   },
+   "add_new_search_engine": {
+      "message": "새 검색 엔진 추가하기"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "새 벽지 창고"
+   },
+   "add_search_engine": {
+      "message": "검색엔진 추가"
+   },
+   "add_success": {
+      "message": "추가 성공"
+   },
+   "add_to_home_site": {
+      "message": "홈페이지에 추가"
+   },
+   "add_to_infinity": {
+      "message": "Infinity 새 탭에 추가 페이지"
+   },
+   "additional_search_engine": {
+      "message": "첨부 된 검색 엔진"
+   },
+   "air_pressure": {
+      "message": "압력"
+   },
+   "all_wallpaper_sources": {
+      "message": "모든 벽지"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "모든 월페이퍼의 모든 소스"
+   },
+   "ambiguity": {
+      "message": "흐릿한"
+   },
+   "animals": {
+      "message": "동물"
+   },
+   "animation": {
+      "message": "애니메이션"
+   },
+   "animation_tips": {
+      "message": "애니메이션 시작은 부드러움에 영향을 줄 수 있습니다"
+   },
+   "anime": {
+      "message": "연재 만화"
+   },
+   "any_money": {
+      "message": "모두"
+   },
+   "app": {
+      "message": "애플리케이션"
+   },
+   "app_disabled_enable_first": {
+      "message": "이 앱을 사용하지 않도록 설정했습니다. 이 응용 프로그램을 먼저 사용하도록 무한대 허용?"
+   },
+   "application": {
+      "message": "애플리케이션"
+   },
+   "apply": {
+      "message": "적용"
+   },
+   "architecture": {
+      "message": "건축"
+   },
+   "athletics": {
+      "message": "스포츠"
+   },
+   "avatar": {
+      "message": "아바타 선택"
+   },
+   "backing_up": {
+      "message": "백업 중…"
+   },
+   "backup_and_recovery": {
+      "message": "백업 및 복구"
+   },
+   "backup_failed": {
+      "message": "백업 실패!"
+   },
+   "backup_now": {
+      "message": "지금 백업"
+   },
+   "backup_successful": {
+      "message": "성공적인 백업"
+   },
+   "backup_tips": {
+      "message": "우리는 최대 3 개의 수동 백업 노드와 3 개의 자동 백업 노드를 유지합니다."
+   },
+   "backup_with_device": {
+      "message": "다른 기기와 동기화"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "무료 및 고품질 비 갤러리 유형 사진을 수집하는 데 중점을 둡니다."
+   },
+   "basic_info": {
+      "message": "일반 정보"
+   },
+   "bg_color": {
+      "message": "배경 색상"
+   },
+   "bg_updating": {
+      "message": "업그레이드에서 기다려주십시오 ..."
+   },
+   "bind": {
+      "message": "연결"
+   },
+   "bind_success": {
+      "message": "연결 성공"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing은 Microsoft에서 개발 한 검색 엔진입니다"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "매일 빙하 벽지 도서관"
+   },
+   "bookmarks": {
+      "message": "북마크"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$는이 기능을 지원하지 않습니다",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cancel_login": {
+      "message": "로그인 취소"
+   },
+   "cancel_remind_time": {
+      "message": "알림 시간을 취소하십시오"
+   },
+   "cancel_set_top": {
+      "message": "고정 해제"
+   },
+   "cannot_change_password": {
+      "message": "第三方账号登录无法修改密码"
+   },
+   "cannot_change_profile": {
+      "message": "로그인 한 타사 사용자는 프로필 정보를 수정할 수 없습니다."
+   },
+   "cannot_download": {
+      "message": "다운로드가 지원되지 않습니다"
+   },
+   "cannot_empty": {
+      "message": "필수 입력"
+   },
+   "celsius": {
+      "message": "섭씨"
+   },
+   "change_remind_time": {
+      "message": "알림 시간 변경"
+   },
+   "change_wallpaper": {
+      "message": "배경 화면 변경"
+   },
+   "check_olddata_desc": {
+      "message": "업그레이드 될 수있는 레거시 데이터의 이전 버전이 있음을 발견합니다.이 데이터를 업그레이드하려고 시도하십시오."
+   },
+   "choose_sync_type": {
+      "message": "계정 데이터를 선택하십시오"
+   },
+   "chose_from_mypc": {
+      "message": "내 벽지 라이브러리를 만드십시오"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$ 앱",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "크롬 웹 스토어 - 확장자"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "주소 표시줄에 chrome://settings/appearance를 입력하고 설정 페이지로 이동합니다."
+   },
+   "chrome_browser_guide2": {
+      "message": "아래쪽으로 밀어서 그림의 화살표가 표시된 옵션을 선택하십시오."
+   },
+   "chrome_browser_guide3": {
+      "message": "팝업 창에 URL https://inftab.com를 입력 한 다음 추가 단추를 클릭하여 홈 페이지 설정을 완료하십시오."
+   },
+   "clear_historys": {
+      "message": "기록 삭제"
+   },
+   "col_gap": {
+      "message": "열 간격"
+   },
+   "col_num": {
+      "message": "행"
+   },
+   "color": {
+      "message": "색"
+   },
+   "color_icon": {
+      "message": "솔리드 컬러 아이콘"
+   },
+   "come_from": {
+      "message": "사용자로부터"
+   },
+   "comming_soon": {
+      "message": "곧 선보일 예정입니다"
+   },
+   "comming_soon_title": {
+      "message": "Infinity 모바일 버전이 진행 중입니다"
+   },
+   "confirm": {
+      "message": "확인"
+   },
+   "confirm_clear_all_history": {
+      "message": "모든 기록 레코드를 지우시겠습니까?"
+   },
+   "confirm_cover_remote": {
+      "message": "로컬 데이터가 수동 백업 노드에 저장됩니다."
+   },
+   "confirm_del_folder": {
+      "message": "이 폴더를 정말로 삭제 하시겠습니까?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "완성 된 항목을 삭제 하시겠습니까?"
+   },
+   "confirm_delete_note": {
+      "message": "메모 삭제를 확인 하시겠습니까?"
+   },
+   "confirm_logout": {
+      "message": "로그아웃"
+   },
+   "confirm_password": {
+      "message": "새로운 비밀번호 확인"
+   },
+   "confirm_password_2": {
+      "message": "비밀번호 확인"
+   },
+   "confirm_recovery_data": {
+      "message": "클라우드 데이터는 로컬 데이터를 대체합니다. 이 행동에 대해 확실합니까?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "이 벽지 라이브러리를 제거하고 싶습니까?"
+   },
+   "confirm_unbind": {
+      "message": "이 계정을 연결 해제하시겠습니까?"
+   },
+   "confirm_unbind_email": {
+      "message": "메일박스$email$귀속을 해제하시겠습니까?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "전화 번호 $phone_number$ 를 해제하지 않으시겠습니까?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "접촉 엔지니어"
+   },
+   "contact_us": {
+      "message": "문의하기"
+   },
+   "copy": {
+      "message": "복사"
+   },
+   "cubic_bezier": {
+      "message": "다시 시작"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "프로필 사진"
+   },
+   "current_browser_not_support": {
+      "message": "현재 브라우저는 확장 관리를 지원하지 않습니다"
+   },
+   "current_no_reminders": {
+      "message": "저장 된 항목 없음"
+   },
+   "current_node": {
+      "message": "현재 노드"
+   },
+   "custom": {
+      "message": "맞춤설정"
+   },
+   "custom_icon": {
+      "message": "사용자 설정 아이콘"
+   },
+   "custom_layout": {
+      "message": "레이아웃 사용자지정"
+   },
+   "custom_site": {
+      "message": "사용자 정의 웹 사이트"
+   },
+   "default": {
+      "message": "기본값"
+   },
+   "del_folder": {
+      "message": "삭제"
+   },
+   "delete_all_bookmarks": {
+      "message": "이 폴더 아래의 모든 북마크를 삭제하십시오"
+   },
+   "disable_chrome_app": {
+      "message": "앱 사용 해제"
+   },
+   "disable_extension": {
+      "message": "확장을 비활성화하십시오"
+   },
+   "do_later": {
+      "message": "나중에 그것에 대해 이야기하십시오"
+   },
+   "done": {
+      "message": "완료"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "다운로드 CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "현재 배경 화면을 다운로드하십시오"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Duckduckgo 주요 웹 2.0의 내용을 가져 오는 데 중점을 둡니다. 전통적인 검색 엔진 이외에도 웹 사이트 철학은 검색 내용을 모니터링하거나 문서화하지 않는 유망한 사용자의 개인 정보를 존중하는 것입니다."
+   },
+   "ease_in": {
+      "message": "페이드 인"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "브라우저 주소 표시줄에 edge://settings/onStartup 를 입력하고 Enter 키를 누릅니다."
+   },
+   "edge_browser_guide2": {
+      "message": "그림의 화살표가 표시된 옵션을 클릭하십시오."
+   },
+   "edge_browser_guide3": {
+      "message": "팝업 창에 URL https://inftab.com를 입력 한 다음 추가 단추를 클릭하여 홈 페이지 설정을 완료하십시오."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "수정"
+   },
+   "edit_avatar": {
+      "message": "아바타 편집"
+   },
+   "edit_content": {
+      "message": "컨텐츠 편집"
+   },
+   "edit_icon": {
+      "message": "아이콘 편집"
+   },
+   "education": {
+      "message": "교육 및 직업"
+   },
+   "email": {
+      "message": "이메일"
+   },
+   "email_code": {
+      "message": "이메일 확인 코드"
+   },
+   "email_format_error": {
+      "message": "이메일 형식이 올바르지 않습니다"
+   },
+   "email_or_phone_number_tips": {
+      "message": "이메일 또는 휴대 전화 번호"
+   },
+   "empty": {
+      "message": "빈"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "폴더를 삭제하시겠습니까?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "이 북마크를 삭제하시겠습니까?"
+   },
+   "ensure_logout": {
+      "message": "로그아웃하시겠습니까?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "업무 목록 을 작성 하고 enter 를 누 르 면 항목 을 추가 합 니 다."
+   },
+   "enter_password_tips": {
+      "message": "암호 입력"
+   },
+   "enter_valid_phone_tips": {
+      "message": "올바른 전화 번호를 입력 하십시오"
+   },
+   "enter_verification_code_tips": {
+      "message": "인증 코드를 입력하세요."
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "백업 데이터 내보내기"
+   },
+   "export_local_data_desc": {
+      "message": "현재 로컬 데이터에서 내보내기"
+   },
+   "extension": {
+      "message": "확장 프로그램"
+   },
+   "extension_app": {
+      "message": "확장 프로그램"
+   },
+   "extension_des": {
+      "message": "웹 사이트 아이콘을 자유롭게 추가하고 고화질 클라우드 드라이브 배경 화면을 즐기고 수백만 명의 사용자가 선택한 새 탭 페이지에서 책갈피, 날씨 정보, 노트, 할 일 목록, 확장 관리 및 기록을 신속하게 액세스합니다."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
+   },
+   "extension_des_firefox": {
+      "message": "수백 만 명 이 선택 한 새로운 라벨 은 생산력 을 크게 향상 시 킬 수 있다.웹 아이콘,검색엔진,고 화질 벽지,날씨,노트,책 갈피,업무,역사 기록,확장 관리 등 기능 을 포함한다."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
+   },
+   "extension_mananger": {
+      "message": "확장 프로그램 관리"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "페이스북"
+   },
+   "facebook_group": {
+      "message": "페이스북 그룹 가입하기"
+   },
+   "fahrenheit": {
+      "message": "화씨"
+   },
+   "feedback": {
+      "message": "문제 신고"
+   },
+   "female": {
+      "message": "여성"
+   },
+   "filter": {
+      "message": "필터"
+   },
+   "finance": {
+      "message": "재원"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox 애드온 스토어"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "주소 표시 줄에 입력 about: preferences #home 설정 페이지를 입력하십시오."
+   },
+   "firefox_browser_guide2": {
+      "message": "그림의 화살표로 표시된 것처럼 사용자 지정 URL 옵션을 선택하십시오."
+   },
+   "firefox_browser_guide3": {
+      "message": "URL 입력 https://inftab.com 텍스트 상자에 홈 페이지 설정이 완료되었습니다."
+   },
+   "five_star": {
+      "message": "평가하기"
+   },
+   "folder": {
+      "message": "폴더"
+   },
+   "follow_us": {
+      "message": "팔로우 하기"
+   },
+   "follow_wechat": {
+      "message": "Infinity Wechat 공개 계정을 따르십시오"
+   },
+   "follow_wechat_desc": {
+      "message": "우리의 WeChat 공공 번호 (마이크로 신호 : InfinityDaily)에주의를 기울이고 Infinity 최신 제품 역학을 얻으려면 확장 및 웹 사이트를 더욱 재미있게 발견 할 수 있습니다."
+   },
+   "font": {
+      "message": "글꼴"
+   },
+   "font_color": {
+      "message": "글꼴 색상"
+   },
+   "font_size": {
+      "message": "글자 크기"
+   },
+   "food_drink": {
+      "message": "음식"
+   },
+   "forget_password": {
+      "message": "비밀번호를 잊으셨나요"
+   },
+   "format_error": {
+      "message": "형식 오류"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "매일 사용할 수 있고 업데이트 할 수있는 무료 로열티없는 사진의 다량"
+   },
+   "fri": {
+      "message": "금요일"
+   },
+   "fri_min": {
+      "message": "금"
+   },
+   "fully_authorized_to_use": {
+      "message": "사용 가능한 기능을 완벽하게 허가했습니다"
+   },
+   "games": {
+      "message": "게임 및 엔터테인먼트"
+   },
+   "gamil_notice": {
+      "message": "Gmail 알림"
+   },
+   "gender": {
+      "message": "성별 선택"
+   },
+   "get_app_permission": {
+      "message": "로컬 앱을 얻으려면 승인하십시오"
+   },
+   "get_cloud_icon": {
+      "message": "온라인으로 습득하십시오"
+   },
+   "give_money": {
+      "message": "기부"
+   },
+   "give_money_thanks": {
+      "message": "귀하의 지원은 우리의 가장 큰 보상입니다"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Infinity New Tab 페이지를 원한다면 서비스를 평가하거나 우리에게 피드백을 제공하여 우리를 도울 수 있습니다."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "질문이나 제안 사항이 있으시면 당사에 문의하십시오."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail 알림 벨소리"
+   },
+   "google": {
+      "message": "구글"
+   },
+   "google_desc": {
+      "message": "Google 검색은 Google에서 개발 한 검색 엔진입니다. 인터넷에서 가장 크고 가장 영향력있는 검색 엔진입니다."
+   },
+   "have_todo_item": {
+      "message": "당신 은 현재 업무 가 하나 있 습 니 다."
+   },
+   "hide_homepage_btn": {
+      "message": "홈으로 설정 버튼을 숨 깁니다"
+   },
+   "hide_icon_name": {
+      "message": "아이콘 이름 숨기기"
+   },
+   "hide_search_button": {
+      "message": "검색 버튼 숨기기"
+   },
+   "hide_search_category": {
+      "message": "검색 범주 숨기기"
+   },
+   "hide_search_input": {
+      "message": "검색 창 숨기기"
+   },
+   "hide_set_homepage_btn": {
+      "message": "홈으로 설정 버튼을 숨 깁니다"
+   },
+   "hint": {
+      "message": "팁"
+   },
+   "history": {
+      "message": "방문 기록"
+   },
+   "history_backup_list": {
+      "message": "기록 백업 노드 목록"
+   },
+   "history_week": {
+      "message": "1 주일 이내에 역사를 검색하십시오"
+   },
+   "host_permission": {
+      "message": "호스트 권한"
+   },
+   "hour": {
+      "message": "시간"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "웹"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "나는 팁을 보내고 싶다"
+   },
+   "icon": {
+      "message": "아이콘"
+   },
+   "icon_added": {
+      "message": "추가됨"
+   },
+   "icon_bg_text": {
+      "message": "아이콘 텍스트"
+   },
+   "icon_network_error": {
+      "message": "네트워크 오류, 클릭 하여 다시 불 러 오기"
+   },
+   "ignore": {
+      "message": "무시"
+   },
+   "img_verify_code": {
+      "message": "사진 확인 코드"
+   },
+   "import_data": {
+      "message": "백업 데이터 가져 오기"
+   },
+   "import_data_desc": {
+      "message": "백업 파일에서 데이터를 복구합니다"
+   },
+   "import_select_tile": {
+      "message": "데이터 선택"
+   },
+   "infinity_bookmarks": {
+      "message": "책갈피 폴더 계층 구조를 평평하게하고 무한대 북마크를 사용하여 더 쉽게 북마크를 찾으십시오."
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity는 애니메이션 월페이퍼를 특징으로했습니다"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "고품질 인피니티 애니메이퍼 라이브러리 라이브러리"
+   },
+   "infinity_extension": {
+      "message": "Infinity Extension Manager로 $browser$ 확장 및 앱을 쉽게 관리하십시오.",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "무한대 기록으로 브라우저 기록을 빠르게보고 관리하십시오."
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity 주장 풍경 배경 화면"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "고품질 무한대 풍경 벽지 도서관"
+   },
+   "infinity_notes": {
+      "message": "인명의 영감을 무한대로 빨리 기록하십시오"
+   },
+   "infinity_settings": {
+      "message": "무한한 설정으로 무한대 새 탭 페이지를 개인화하십시오"
+   },
+   "infinity_todos": {
+      "message": "무한대 목록으로 작업 효율성을 순서대로 정렬하고 작업 효율성을 향상시킵니다."
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Library는 풍부하고 흥미로운 월페이퍼를 제공합니다."
+   },
+   "infinity_weather": {
+      "message": "Infinity 날씨는 전 세계의 도시의 일기 예보를 제공합니다."
+   },
+   "info": {
+      "message": "정보"
+   },
+   "inportdata_desc": {
+      "message": "가져온 데이터와 로컬 데이터가 일치하지 않습니다. 병합 또는 덮어쓰기를 선택하십시오."
+   },
+   "input_and_search": {
+      "message": "검색 입력"
+   },
+   "input_city": {
+      "message": "도시/지역 입력"
+   },
+   "input_new_password": {
+      "message": "새 비밀번호 입력"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "연결됨"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "어떤 목적 으로든 무료 사진"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "검색 상자의 내용 유지"
+   },
+   "label": {
+      "message": "라벨"
+   },
+   "language": {
+      "message": "언어"
+   },
+   "language_select": {
+      "message": "언어 선택"
+   },
+   "last_sync_time": {
+      "message": "마지막 동기화 시간 : $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "최종 업데이트"
+   },
+   "layout": {
+      "message": "레이아웃"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "무료의 HD 벽지 소스"
+   },
+   "life_style": {
+      "message": "생활 양식"
+   },
+   "limit_input_length": {
+      "message": "한도를 초과하는 텍스트 길이"
+   },
+   "linkedin": {
+      "message": "링크드인"
+   },
+   "local_icon": {
+      "message": "로컬 아이콘"
+   },
+   "local_wallpaper2": {
+      "message": "지역 배경 화면"
+   },
+   "login": {
+      "message": "로그인"
+   },
+   "login_abandon_tips": {
+      "message": "현재 로그인 방법이 곧 제거됩니다. 로그인 후 가능한 한 빨리 이메일 또는 기타 타사 계정을 결합하십시오"
+   },
+   "login_now": {
+      "message": "이제 인피니티 계정에 로그인하여 더 많은 권한을 누리십시오."
+   },
+   "login_now_btn": {
+      "message": "로그인"
+   },
+   "login_register": {
+      "message": "로그인 / 회원 가입"
+   },
+   "loging": {
+      "message": "로그인"
+   },
+   "logout": {
+      "message": "로그아웃"
+   },
+   "logout_clear_something": {
+      "message": "이 장치에 대한 개인화 된 설정 및 기타 정보를 명확하게하십시오"
+   },
+   "logout_tips": {
+      "message": "이 장치의 다른 계정에서 데이터가 연결되지 않도록 계정에서 로그 아웃하기 전에 로컬 데이터를 지우아야합니까?"
+   },
+   "logout_warn": {
+      "message": "계정에서 로그 아웃 한 후이 계정의 모든 백업 정보가 삭제됩니다. 이 계정에서 로그 아웃 하시겠습니까?(메모 및 사용자 정의 벽지 라이브러리 그림을 사용할 수 없음)"
+   },
+   "male": {
+      "message": "남성"
+   },
+   "manage_backup_node": {
+      "message": "기록 백업 노드 관리"
+   },
+   "manul_backup": {
+      "message": "수동 백업"
+   },
+   "map": {
+      "message": "지도"
+   },
+   "mask_density": {
+      "message": "벽지를 어둡게"
+   },
+   "me": {
+      "message": "나"
+   },
+   "merge_cloud_local": {
+      "message": "로컬 및 클라우드 데이터를 결합하십시오"
+   },
+   "merge_data": {
+      "message": "데이터 병합"
+   },
+   "mini_mode": {
+      "message": "미니멀리스트 모드"
+   },
+   "mins": {
+      "message": "분"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "웹 사이트, 테마, 템플릿, 프로젝트, 인쇄 자료 및 신문에 사용하십시오. 매주 새로운 배경 화면과 비디오가 추가됩니다"
+   },
+   "mobile_devices": {
+      "message": "Infinity핸드폰 버 전"
+   },
+   "modify": {
+      "message": "정보 수정"
+   },
+   "modify_email": {
+      "message": "이메일 수정"
+   },
+   "modify_password": {
+      "message": "비밀번호 수정"
+   },
+   "modify_phone_number": {
+      "message": "전화 번호를 수정하십시오"
+   },
+   "modify_pwd": {
+      "message": "비밀번호 수정"
+   },
+   "modify_success": {
+      "message": "변경 성공"
+   },
+   "modify_this": {
+      "message": "수정"
+   },
+   "mon": {
+      "message": "월요일"
+   },
+   "mon_min": {
+      "message": "월"
+   },
+   "month_1": {
+      "message": "1월"
+   },
+   "month_10": {
+      "message": "10월"
+   },
+   "month_11": {
+      "message": "11월"
+   },
+   "month_12": {
+      "message": "12월"
+   },
+   "month_2": {
+      "message": "2월"
+   },
+   "month_3": {
+      "message": "3월"
+   },
+   "month_4": {
+      "message": "4월"
+   },
+   "month_5": {
+      "message": "5월"
+   },
+   "month_6": {
+      "message": "6월"
+   },
+   "month_7": {
+      "message": "7월"
+   },
+   "month_8": {
+      "message": "8월"
+   },
+   "month_9": {
+      "message": "9월"
+   },
+   "more_content_from_site": {
+      "message": "이 웹 사이트의 더 많은 콘텐츠"
+   },
+   "most_used_in_chinese": {
+      "message": "검색 엔진은 중국어로 가장 많이 사용했습니다"
+   },
+   "music_video": {
+      "message": "뮤직 비디오"
+   },
+   "my_collection": {
+      "message": "내 컬렉션"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "웹 사이트 이름을 입력하십시오"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "자연"
+   },
+   "need_you_permission": {
+      "message": "허락 필요"
+   },
+   "network_error": {
+      "message": "네트워크 오류"
+   },
+   "new_email": {
+      "message": "새 이메일"
+   },
+   "new_password": {
+      "message": "새 비밀번호 입력"
+   },
+   "new_phone_number": {
+      "message": "새 휴대 전화 번호"
+   },
+   "new_tab": {
+      "message": "새 탭"
+   },
+   "new_tab_web": {
+      "message": "Infinity 홈페이지"
+   },
+   "news": {
+      "message": "뉴스"
+   },
+   "next": {
+      "message": "다음"
+   },
+   "nickname": {
+      "message": "닉네임"
+   },
+   "no_account_register": {
+      "message": "고객님 계정이 있으십니까? 지금 회원가입 하세요."
+   },
+   "no_backup_time": {
+      "message": "없음"
+   },
+   "no_bookmark_result": {
+      "message": "북마크 없음"
+   },
+   "no_chrome_app": {
+      "message": "$browser$ 앱을 설치하지 않았습니다",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "날씨 데이터 없음"
+   },
+   "no_data": {
+      "message": "데이터 없음"
+   },
+   "no_description": {
+      "message": "설명 없음"
+   },
+   "no_more": {
+      "message": "그만이요"
+   },
+   "no_more_reminder": {
+      "message": "다시 보지 않기"
+   },
+   "no_permission_text": {
+      "message": "브라우저 주소 표시 줄이나 설정 센터 에서이 권한을 열고 부여하려고하는 것이 좋습니다."
+   },
+   "no_permission_title": {
+      "message": "아직 권한이 부여되지 않았습니다"
+   },
+   "no_permission_to_open_app": {
+      "message": "$browser$ 앱을 열 수있는 권한이 없습니다.",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "저장 된 항목 없음"
+   },
+   "no_search_result": {
+      "message": "검색 결과 없음"
+   },
+   "no_title": {
+      "message": "제목 없음"
+   },
+   "none": {
+      "message": "숨김"
+   },
+   "none_auto_backup": {
+      "message": "현재 예약 된 백업이 없습니다"
+   },
+   "none_auto_backup_desc": {
+      "message": "예약 된 백업은 무한대에 대한 정보를 수정하는 것과 같은 날짜가 시작됩니다."
+   },
+   "none_manual_backup": {
+      "message": "현재 수동 백업이 없습니다"
+   },
+   "normal_model": {
+      "message": "표준 모드"
+   },
+   "not_binding": {
+      "message": "연결되지 않음"
+   },
+   "note_title": {
+      "message": "노트의 제목을 입력하세요"
+   },
+   "note_upload_img_15": {
+      "message": "이미지 크기는 최대 15M입니다"
+   },
+   "notes": {
+      "message": "노트"
+   },
+   "notice": {
+      "message": "안내문"
+   },
+   "ocean": {
+      "message": "바다"
+   },
+   "one_day_later": {
+      "message": "내일 다시 알려주기"
+   },
+   "one_week_later": {
+      "message": "일주일 뒤 다시 알림"
+   },
+   "only_used_infinity": {
+      "message": "무한대 내부 모듈에만 사용됩니다"
+   },
+   "opacity": {
+      "message": "아이콘 불투명도"
+   },
+   "open_all": {
+      "message": "모두 열기"
+   },
+   "open_chrome_app": {
+      "message": "앱 사용"
+   },
+   "open_extension": {
+      "message": "확장 프로그램 활성화"
+   },
+   "open_folder_icons": {
+      "message": "모두 열기"
+   },
+   "open_new_tab": {
+      "message": "새 탭에서 웹 사이트를 열어 라"
+   },
+   "open_newtab_bookmarks": {
+      "message": "새 탭에서 북마크 된 링크를 엽니 다"
+   },
+   "open_newtab_history": {
+      "message": "새 탭에서 개방 된 기록"
+   },
+   "open_newtab_show_search": {
+      "message": "제 3 자 검색 결과를 새 탭으로 열 수 있습니다"
+   },
+   "origin_password": {
+      "message": "원시 비밀번호"
+   },
+   "other_bookmarks": {
+      "message": "기타 북마크"
+   },
+   "others": {
+      "message": "기타"
+   },
+   "oversize": {
+      "message": "크기는 2MB를 초과 할 수 없습니다"
+   },
+   "overwrite_data": {
+      "message": "Overwrite data"
+   },
+   "pagin": {
+      "message": "페이지 버튼"
+   },
+   "password": {
+      "message": "비밀번호"
+   },
+   "password_dont_empty": {
+      "message": "암호를 공란으로 둘 수 없습니다"
+   },
+   "password_length_low": {
+      "message": "암호 6 자리 이상이 아닙니다"
+   },
+   "password_not_equals": {
+      "message": "비밀번호가 동일하지 않습니다."
+   },
+   "password_not_some": {
+      "message": "입력한 암호가 동일하지 않음"
+   },
+   "permission": {
+      "message": "승인"
+   },
+   "permission_all": {
+      "message": "모두 승인"
+   },
+   "permission_gmail_notice_content": {
+      "message": "mail.google.com에서 데이터에 액세스하고 수정하려면; 알림 표시 요청"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail 알림"
+   },
+   "permission_gmail_num_content": {
+      "message": "mail.google.com에서 데이터에 액세스하고 수정하도록 요청하십시오"
+   },
+   "permission_gmail_num_title": {
+      "message": "Gmail 수량에 액세스하십시오"
+   },
+   "permission_serch_suggest_content": {
+      "message": "google.com 및 regortion.baidu.com에서 데이터에 액세스하고 수정하도록 요청"
+   },
+   "permission_serch_suggest_title": {
+      "message": "자동 완성"
+   },
+   "permission_todo_notice_content": {
+      "message": "디스플레이 알림 요청"
+   },
+   "permission_todo_notice_title": {
+      "message": "할 일 알림"
+   },
+   "permission_top_bookmark_content": {
+      "message": "웹 사이트 방문 및 책갈피에 해당하는 아이콘에 해당하는 아이콘에 액세스하도록 요청하십시오. 북마크에 액세스하고 수정하십시오."
+   },
+   "permission_top_bookmark_title": {
+      "message": "위에 책갈피를 보여줍니다"
+   },
+   "permission_top_useful_content": {
+      "message": "방문한 웹 사이트에 해당하는 아이콘에 해당하는 아이콘에 액세스하고 대부분의 웹 사이트 목록의 목록에 액세스하고 수정하십시오."
+   },
+   "permission_top_useful_title": {
+      "message": "자주 사용하는 사이트를 맨 위에 표시하십시오"
+   },
+   "permisson_label": {
+      "message": "권한"
+   },
+   "phone_number": {
+      "message": "전화번호"
+   },
+   "photos": {
+      "message": "이미지"
+   },
+   "pick_local_wallpaper": {
+      "message": "로컬 벽지를 선택하십시오"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "모든 사용에 사용할 수있는 무료 및 아름다운 사진"
+   },
+   "placeholder_name": {
+      "message": "이름"
+   },
+   "please_chose_picture": {
+      "message": "이미지를 선택하세요"
+   },
+   "please_enter_bookmark_name": {
+      "message": "북마크 이름을 입력해주세요"
+   },
+   "please_enter_email": {
+      "message": "이메일 주소를 입력"
+   },
+   "please_enter_img_verify_code": {
+      "message": "이미지 확인 코드를 입력하십시오"
+   },
+   "please_enter_nickname": {
+      "message": "별칭 입력"
+   },
+   "please_enter_phone": {
+      "message": "전화 번호를 입력하십시오"
+   },
+   "please_enter_right_account": {
+      "message": "올바른 이메일이나 전화 번호를 입력하십시오"
+   },
+   "please_enter_text": {
+      "message": "입력 텍스트"
+   },
+   "please_enter_url": {
+      "message": "URL 입력"
+   },
+   "please_input_bg_text": {
+      "message": "아이콘 텍스트를 입력하십시오"
+   },
+   "please_pre_login": {
+      "message": "먼저 로그인하세요"
+   },
+   "please_re_login": {
+      "message": "다시 로그인하세요."
+   },
+   "please_set_your_password": {
+      "message": "비밀번호를 설정하시기 바랍니다"
+   },
+   "please_type_link": {
+      "message": "링크를 입력하세요"
+   },
+   "please_type_right_link": {
+      "message": "올바른 링크 주소를 입력하십시오"
+   },
+   "please_upload_photos": {
+      "message": "사진을 업로드하세요"
+   },
+   "popular": {
+      "message": "인기"
+   },
+   "preview": {
+      "message": "미리보기"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "개인정보보호 및 데이터 수집"
+   },
+   "privacy_data_item_1_1": {
+      "message": "맞춤 웹 사이트 아이콘으로 생성 된 이미지"
+   },
+   "privacy_data_item_1_2": {
+      "message": "맞춤 검색 엔진에 의해 생성 된 이미지"
+   },
+   "privacy_data_item_2_1": {
+      "message": "등록 된 이메일 주소, 업로드 된 프로필 사진, 선택한 별명, 비 일반 텍스트 암호 및 기타 정보"
+   },
+   "privacy_data_item_2_2": {
+      "message": "타사 계정으로 로그인하면 닉네임, 성별, 프로필 사진 및 제 3자가 제공하는 기타 정보를 저장합니다."
+   },
+   "privacy_data_item_2_3": {
+      "message": "웹 사이트 아이콘 정보 및 검색 엔진 정보"
+   },
+   "privacy_data_item_2_4": {
+      "message": "귀하의 지역 또는 기상 정보의 날씨 정보를 설정 한 다른 분야의 기상 정보"
+   },
+   "privacy_data_item_2_5": {
+      "message": "당신이 만든 할 일 목록"
+   },
+   "privacy_data_item_2_6": {
+      "message": "작성한 메모의 내용 및 메모에 업로드 된 이미지"
+   },
+   "privacy_data_item_2_7": {
+      "message": "현재 벽지, 벽지 설정, 로컬 벽지에 업로드 된 이미지 및 로컬 벽지 도서관에 업로드 된 이미지"
+   },
+   "privacy_data_item_2_8": {
+      "message": "확장 설정"
+   },
+   "privacy_data_item_3_1": {
+      "message": "서버는 사용자 및 클라이언트와의 상호 작용 중에 생성 된 로그를 저장할 수 있습니다. 이 레코드는 주로 예외 오류를 해결하는 데 사용됩니다. 우리는이 로그에서 시간까지이 로그를 해결할 것입니다."
+   },
+   "privacy_data_item_4_1": {
+      "message": "브라우저 유형, 언어 및 버전 및 화면 해상도"
+   },
+   "privacy_data_item_4_10": {
+      "message": "현재 로그인했거나 아닙니다"
+   },
+   "privacy_data_item_4_11": {
+      "message": "현재 아이콘의 대략적인 수"
+   },
+   "privacy_data_item_4_12": {
+      "message": "현재 사용 중인 확장(확장 관리 기능 을 사용 하면)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "이 확장이 열렸을 때 횟수입니다"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP 주소 및 지리적 위치는 IP 주소에서 파생되었습니다"
+   },
+   "privacy_data_item_4_3": {
+      "message": "웹 사이트 아이콘 및 검색 엔진이 추가되었습니다"
+   },
+   "privacy_data_item_4_4": {
+      "message": "벽지 및 확장 설정"
+   },
+   "privacy_data_item_4_5": {
+      "message": "확장 버전"
+   },
+   "privacy_data_item_4_6": {
+      "message": "기능 버튼을 클릭하는 빈도"
+   },
+   "privacy_data_item_4_7": {
+      "message": "예외 오류 메시지"
+   },
+   "privacy_data_item_4_8": {
+      "message": "웹 사이트의 주소 호스트를 엽니 다"
+   },
+   "privacy_data_item_4_9": {
+      "message": "현재 검색 엔진 호스트"
+   },
+   "privacy_data_item_5_1": {
+      "message": "우리는 익명으로 일부 검색 엔진이 사용되는 횟수를 계산합니다."
+   },
+   "privacy_data_item_9": {
+      "message": "이 확장 프로그램을 사용할 수 있기 전에이 개인 정보 보호 정책에 동의해야합니다. 우리의 $the_infinity_privacy$ 를 봅니다.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "아니요, 익명 데이터를 수집하지 마십시오"
+   },
+   "privacy_data_title_1": {
+      "message": "우리는 사용 중에 자발적으로 생성 된 이미지를 저장할 수 있습니다. 다음 이미지는 익명으로 저장됩니다."
+   },
+   "privacy_data_title_2": {
+      "message": "계정에 등록하거나 로그인하면 데이터 백업 및 동기화를 완료하기 위해 서버의 다음 식별 가능한 데이터 (이하 사용자 데이터로 참조)를 저장해야합니다."
+   },
+   "privacy_data_title_3": {
+      "message": "서버 로그 :"
+   },
+   "privacy_data_title_4": {
+      "message": "다음 정보의 컬렉션은 선택 사항입니다. 정보는 Google Analytics를 통해 익명으로 수집됩니다."
+   },
+   "privacy_data_title_5": {
+      "message": "통계 분석:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Infinity New Tab 페이지를 제거하려면 확인하십시오"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Infinity New Tab Pro를 제거하려면 확인하십시오"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Infinity New Tab 페이지를 제거 하시겠습니까?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Infinity New Tab Pro 제거?"
+   },
+   "privacy_data_yes": {
+      "message": "예, 익명 데이터는 개인 정보 보호 정책에 따라 수집 할 수 있습니다."
+   },
+   "privacy_disagree": {
+      "message": "동의하지 않음"
+   },
+   "privacy_policy": {
+      "message": "개인정보 처리방침"
+   },
+   "privacy_title": {
+      "message": "개인 정보 보호 정책 계약"
+   },
+   "profile": {
+      "message": "개인정보"
+   },
+   "pure_color": {
+      "message": "순수한 색상"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ 그룹"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "랜덤 배경화면"
+   },
+   "re_update": {
+      "message": "다시 업그레이드"
+   },
+   "read": {
+      "message": "읽기"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "많은 양의 HD 사진을 개인 및 상업적으로 사용할 수 있으며 매주 7 개의 새로운 것들"
+   },
+   "recently_add": {
+      "message": "최근 추가됨"
+   },
+   "recently_use": {
+      "message": "최근 사용"
+   },
+   "recover_error": {
+      "message": "데이터 복구가 실패했습니다"
+   },
+   "recover_error_version": {
+      "message": "지원되지 않는 데이터 형식"
+   },
+   "recover_this": {
+      "message": "이 노드에서 복구하십시오"
+   },
+   "redius": {
+      "message": "아이콘 둥근 모서리"
+   },
+   "refresh_qrcode": {
+      "message": "QR 코드가 유효하지 않고 새로 고침을 클릭합니다"
+   },
+   "register": {
+      "message": "등록"
+   },
+   "register_back": {
+      "message": "뒤로가기"
+   },
+   "register_get_email_code_error": {
+      "message": "인증번호 획득 실패"
+   },
+   "register_now": {
+      "message": "더 많은 권한을 누리려면 무한대 계정을 지금 등록하십시오"
+   },
+   "relative_humidity": {
+      "message": "상대 습도"
+   },
+   "reload": {
+      "message": "다시 시도"
+   },
+   "reminder_update_text1": {
+      "message": "Infinity에서 더 나은 경험을 얻을 수 있도록 합니다"
+   },
+   "reminder_update_text2": {
+      "message": "브라우저를 최신 버전으로 업그레이드하는 것이 좋습니다. Infinity와 호환되는 브라우저를 권장합니다."
+   },
+   "reminder_update_title": {
+      "message": "페이지에 오류가 표시됩니다"
+   },
+   "remove_account": {
+      "message": "계정 삭제"
+   },
+   "remove_done": {
+      "message": "완료된 할 일 항목 제거"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "이 벽지 라이브러리의 모든 배경 화면이 함께 제거됩니다."
+   },
+   "rename_folder": {
+      "message": "이름 바꾸기"
+   },
+   "repair_auto_backup": {
+      "message": "데이터 자동 백업"
+   },
+   "repair_concat": {
+      "message": "연락처 세부 정보"
+   },
+   "repair_concat_email": {
+      "message": "이메일: "
+   },
+   "repair_concat_qq": {
+      "message": "엔지니어 QQ : "
+   },
+   "repair_data": {
+      "message": "데이터 수리"
+   },
+   "repair_data_desc_contnet": {
+      "message": "다음 연락처를 통해 복구 할 데이터 파일을 보내 주시면 최대한 빨리 복구하도록 도와 드리겠습니다. 엔지니어가 문제를 해결하기 전에 다른 작업을 수행하지 마십시오. 이 파일에는 계정과 같은 민감한 정보가 포함되어있을 수 있으므로 다른 사람에게 공개하지 마십시오."
+   },
+   "repair_data_title": {
+      "message": "손실되거나 손상된 데이터 검색"
+   },
+   "repair_export_btn": {
+      "message": "수리 할 데이터를 내보내십시오"
+   },
+   "repeat_city": {
+      "message": "같은 도시를 다시 추가 할 수 없습니다"
+   },
+   "reqeust_login_message": {
+      "message": "이 기능을 사용하려면 로그인하세요"
+   },
+   "request_logout_confirm": {
+      "message": "텔레그램을 탈퇴할까요?"
+   },
+   "request_reset_all_settings": {
+      "message": "기본값으로 설정을 재설정 하시겠습니까?"
+   },
+   "reset": {
+      "message": "초기화"
+   },
+   "reset_password": {
+      "message": "비밀번호 재설정"
+   },
+   "reset_password_by_email": {
+      "message": "이메일 확인을 통해 암호를 재설정하십시오"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "이메일이나 전화 번호 확인을 통해 비밀번호를 재설정하십시오"
+   },
+   "reset_setting": {
+      "message": "설정 초기화"
+   },
+   "reset_your_password": {
+      "message": "암호를 재설정하십시오"
+   },
+   "restore_setting": {
+      "message": "설정 복원"
+   },
+   "revovery_data": {
+      "message": "데이터 복원"
+   },
+   "row_gap": {
+      "message": "줄 간격"
+   },
+   "row_num": {
+      "message": "열"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "그림의 화살표로 표시된 옵션을 클릭하십시오."
+   },
+   "safari_browser_guide2": {
+      "message": "팝업 창에서 홈 페이지 열에 URL https://inftab.com를 입력하십시오."
+   },
+   "safari_browser_guide3": {
+      "message": "홈 페이지 설정을 완료하려면 URL 아래 버튼을 클릭하십시오."
+   },
+   "sat": {
+      "message": "토요일"
+   },
+   "sat_min": {
+      "message": "토"
+   },
+   "save": {
+      "message": "저장"
+   },
+   "scale": {
+      "message": "아이콘 크기"
+   },
+   "scale_main": {
+      "message": "화면 확대 / 축소"
+   },
+   "scale_side": {
+      "message": "사이드 컬럼 줌"
+   },
+   "scheduled_backup": {
+      "message": "백업예약"
+   },
+   "search": {
+      "message": "검색"
+   },
+   "search_bookmark": {
+      "message": "북마크 검색"
+   },
+   "search_engine": {
+      "message": "검색엔진"
+   },
+   "search_engine_error": {
+      "message": "검색 엔진 이름을 입력하세요"
+   },
+   "search_error": {
+      "message": "로드 실패"
+   },
+   "search_extension": {
+      "message": "확장 프로그램 검색"
+   },
+   "search_from": {
+      "message": "검색: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "검색 아이콘"
+   },
+   "search_input": {
+      "message": "검색창"
+   },
+   "search_input_shadow": {
+      "message": "검색 상자 그림자"
+   },
+   "search_opacity": {
+      "message": "검색 상자 불투명도"
+   },
+   "search_redius": {
+      "message": "검색 상자 둥근 모서리"
+   },
+   "search_result": {
+      "message": "검색결과"
+   },
+   "search_size": {
+      "message": "검색 상자 크기"
+   },
+   "search_suggest": {
+      "message": "추천 검색어 표시"
+   },
+   "search_website": {
+      "message": "사이트 검색"
+   },
+   "searching": {
+      "message": "검색 중"
+   },
+   "select_date": {
+      "message": "날짜 선택"
+   },
+   "select_icon": {
+      "message": "아이콘을 선택하십시오"
+   },
+   "select_time": {
+      "message": "시간 선택"
+   },
+   "send_success": {
+      "message": "확인 이메일 전송. 수신함을 확인하십시오"
+   },
+   "set_homepage_desc": {
+      "message": "전체 기능을 즐기기 위해 브라우저 확장자를 설치하십시오"
+   },
+   "set_homepage_title2": {
+      "message": "이 기능은 현재 버전에서 지원되지 않습니다_#_사용하기 전에 브라우저 확장을 설치하십시오"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Infinity 를 브라우저의 홈페이지로 설정합니다"
+   },
+   "set_new_password": {
+      "message": "새 암호 설정"
+   },
+   "set_remind_time": {
+      "message": "알림 시간 설정"
+   },
+   "set_setting_default": {
+      "message": "기본값으로 복원"
+   },
+   "set_to_homepage": {
+      "message": "홈페이지로 설정"
+   },
+   "set_top": {
+      "message": "위쪽"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "아바타와 닉네임을 설정하십시오"
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "shadow": {
+      "message": "아이콘 그림자입니다"
+   },
+   "share": {
+      "message": "공유"
+   },
+   "share_by_user": {
+      "message": "사용자 공유"
+   },
+   "share_desc": {
+      "message": "Infinity 새 탭, 수백 만 명 이 선택 한 네 비게 이 션 확장, 브 라 우 저 에서 가장 잘 사용 할 수 있 는 새 탭"
+   },
+   "share_title": {
+      "message": "$browser$브 라 우 저 에서 가장 좋 은 새 태그 일 수 있 습 니 다",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "쇼핑 및 그룹 구매"
+   },
+   "shortcut_mode": {
+      "message": "빠른 모드"
+   },
+   "show_detail": {
+      "message": "지금보기"
+   },
+   "show_gamil_unread_number": {
+      "message": "아이콘의 Gmail에서 읽지 않은 이메일 수 표시"
+   },
+   "show_later": {
+      "message": "나중에 하기"
+   },
+   "show_name": {
+      "message": "표시 이름"
+   },
+   "show_reminders_number": {
+      "message": "아이콘에 할 일을 보여줍니다."
+   },
+   "skip": {
+      "message": "건너뛰기"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "사진을 찾고 표시 및 공유하는 장소"
+   },
+   "social": {
+      "message": "소셜 미디어 및 블로그"
+   },
+   "solid_color_wallpaper": {
+      "message": "단일 컬러 벽지"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "WeChat 공식 계정이 게시하는 내용을 검색 할 수있는 검색 엔진"
+   },
+   "sports": {
+      "message": "스포츠 및 여행"
+   },
+   "start_animation": {
+      "message": "애니메이션을 시작하십시오"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "시동, 블로거, 게시자, 웹 사이트, 디자이너, 개발자, 제작자 및 무료 사진을 넘어서"
+   },
+   "street_photography": {
+      "message": "거리"
+   },
+   "sun": {
+      "message": "일요일"
+   },
+   "sun_min": {
+      "message": "일"
+   },
+   "support": {
+      "message": "지원"
+   },
+   "switch_to": {
+      "message": "로 전환"
+   },
+   "sync_fail": {
+      "message": "동기화 실패, 다시 시도하십시오"
+   },
+   "sync_suncess": {
+      "message": "동기화가 완료되었습니다."
+   },
+   "sync_type_tips": {
+      "message": "클라우드 데이터 및 로컬 데이터가 일치하지 않도록 감지됩니다. 하나의 유형의 데이터를 선택하십시오."
+   },
+   "syncing": {
+      "message": "데이터 동기화 중..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "이 $browser$ 앱을 설치하지 않았습니다.",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "목표를 열 수있는 방법"
+   },
+   "tech": {
+      "message": "과학 기술"
+   },
+   "technology": {
+      "message": "테크놀로지"
+   },
+   "term_of_use": {
+      "message": "이용 약관"
+   },
+   "text": {
+      "message": "텍스트"
+   },
+   "text_shadow": {
+      "message": "텍스트 그림자"
+   },
+   "thirt_party": {
+      "message": "타사 업체 계정 로그인 사용"
+   },
+   "thu": {
+      "message": "목요일"
+   },
+   "thu_min": {
+      "message": "목"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. 어떤 웹 사이트를 열고 검색 상자에서 \"% s\"를 입력하여 검색하십시오. (Google과 함께 Google과 함께)"
+   },
+   "tip_question_2": {
+      "message": "2. 검색 결과의 URL을 직접 복사하십시오"
+   },
+   "tip_question_3": {
+      "message": "3. 복사 한 URL을 여기에 붙여 넣으십시오"
+   },
+   "tip_question_title": {
+      "message": "검색 용어를 대체하기 위해 \"% s\"을 사용하는 것 정보"
+   },
+   "to_login": {
+      "message": "지금 로그인"
+   },
+   "today": {
+      "message": "오늘"
+   },
+   "todo_welcome": {
+      "message": "Infinity 새 탭 페이지에 오신 것을 환영합니다. 이것은 할 일 샘플입니다."
+   },
+   "todos": {
+      "message": "할 일"
+   },
+   "top_bookmark": {
+      "message": "위에 책갈피를 보여줍니다"
+   },
+   "top_use_ful": {
+      "message": "자주 사용하는 사이트를 맨 위에 표시하십시오"
+   },
+   "travel": {
+      "message": "여행"
+   },
+   "tue": {
+      "message": "화요일"
+   },
+   "tue_min": {
+      "message": "화"
+   },
+   "twitter": {
+      "message": "트위터"
+   },
+   "two_hours_later": {
+      "message": "2 시간 뒤에 알려 주세요"
+   },
+   "type_link": {
+      "message": "링크 입력"
+   },
+   "type_text": {
+      "message": "입력 텍스트"
+   },
+   "unbind": {
+      "message": "삭제"
+   },
+   "unbind_btn": {
+      "message": "연결 해제"
+   },
+   "unbind_email": {
+      "message": "이메일 주소과의 연동 해제"
+   },
+   "unbind_phone_number": {
+      "message": "핸드폰 번호 바인딩 해제"
+   },
+   "unbind_success": {
+      "message": "삭제 성공"
+   },
+   "uninstall_agree": {
+      "message": "동의"
+   },
+   "uninstall_chrome_app": {
+      "message": "앱 제거"
+   },
+   "uninstall_extension": {
+      "message": "확장 프로그램 삭제"
+   },
+   "unknown_mistake": {
+      "message": "알 수 없는 오류가 발생했습니다."
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "세계적으로 유명한 고품질의 월페이퍼"
+   },
+   "unzip_folder_content": {
+      "message": "폴더가 삭제되고 아이콘이 유지됩니다. 확실합니까?"
+   },
+   "unzip_folder_title": {
+      "message": "해제"
+   },
+   "update_data": {
+      "message": "데이터를 업그레이드하십시오"
+   },
+   "update_data_failure": {
+      "message": "프로필 업데이트 실패"
+   },
+   "update_desc_1": {
+      "message": "버전 업그레이드 중에 데이터 변환에 실패하면 데이터를 다시 업그레이드 할 수 있습니다."
+   },
+   "update_desc_2": {
+      "message": "아직도 여러 번 문제를 해결할 수없는 경우 엔지니어에게 연락 할 수 있으므로 해결할 수 있도록 노력할 것입니다."
+   },
+   "update_desc_3": {
+      "message": "변환 데이터 새 버전 데이터를 겹쳐 쓰면 작동하기 전에 데이터를 백업하는 것이 좋습니다."
+   },
+   "update_error_desc1": {
+      "message": "일부 데이터를 감지하면 다시 업그레이드하려고 할 수 있습니다."
+   },
+   "update_error_desc2": {
+      "message": "여러 업그레이드에 실패하면 오른쪽 상단 모서리에서 \"설정\"아이콘을 클릭하여 [내] - [백업 및 수리]를 입력 할 수도 있습니다."
+   },
+   "update_now": {
+      "message": "지금 업데이트"
+   },
+   "update_or_repair_data": {
+      "message": "데이터를 업그레이드하거나 복구하십시오"
+   },
+   "upload_avatar_failure": {
+      "message": "아바타 사진 업로드 실패"
+   },
+   "upload_file_error": {
+      "message": "파일을 업로드하지 못했습니다"
+   },
+   "upload_image_error": {
+      "message": "이미지를 업로드하는데 실패하였습니다."
+   },
+   "uploading": {
+      "message": "업로드 중..."
+   },
+   "use_cloud": {
+      "message": "클라우드 데이터를 사용하십시오"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "텍스트를 입력하고 Enter 키를 눌러 추가하십시오"
+   },
+   "use_local": {
+      "message": "로컬 데이터를 사용하십시오"
+   },
+   "use_mobile_screen": {
+      "message": "QR 코드를 스캔하려면 모바일 장치를 사용하십시오"
+   },
+   "user_evaluation": {
+      "message": "사용자 후기"
+   },
+   "username_cannot_empty": {
+      "message": "사용자 이름은 비울 수 없습니다"
+   },
+   "verify_password_desc": {
+      "message": "귀하의 계정 보안을 위해 계정 비밀번호를 입력하십시오."
+   },
+   "verity_code": {
+      "message": "인증 코드 전송"
+   },
+   "verity_code_no_value": {
+      "message": "인증 코드는 비워둘 수 없습니다"
+   },
+   "videos": {
+      "message": "동영상"
+   },
+   "view": {
+      "message": "보기"
+   },
+   "w309": {
+      "message": "이슬비"
+   },
+   "w_100": {
+      "message": "맑음"
+   },
+   "w_101": {
+      "message": "해와 구름"
+   },
+   "w_102": {
+      "message": "구름"
+   },
+   "w_103": {
+      "message": "구름 조금"
+   },
+   "w_104": {
+      "message": "매우 흐림"
+   },
+   "w_200": {
+      "message": "바람"
+   },
+   "w_201": {
+      "message": "평온한 분위기"
+   },
+   "w_202": {
+      "message": "미풍"
+   },
+   "w_203": {
+      "message": "건들바람"
+   },
+   "w_204": {
+      "message": "흔들바람"
+   },
+   "w_205": {
+      "message": "된바람"
+   },
+   "w_206": {
+      "message": "센바람"
+   },
+   "w_207": {
+      "message": "강풍"
+   },
+   "w_208": {
+      "message": "큰센바람"
+   },
+   "w_209": {
+      "message": "폭풍"
+   },
+   "w_210": {
+      "message": "폭풍우"
+   },
+   "w_211": {
+      "message": "허리케인"
+   },
+   "w_212": {
+      "message": "토네이도"
+   },
+   "w_213": {
+      "message": "열대성 태풍"
+   },
+   "w_300": {
+      "message": "소나기"
+   },
+   "w_301": {
+      "message": "강한 소나기"
+   },
+   "w_302": {
+      "message": "천둥 번개"
+   },
+   "w_303": {
+      "message": "천둥을 동반한 강한 소나기"
+   },
+   "w_304": {
+      "message": "진눈깨비가 섞인 뇌우"
+   },
+   "w_305": {
+      "message": "약한 비"
+   },
+   "w_306": {
+      "message": "비"
+   },
+   "w_307": {
+      "message": "큰 비"
+   },
+   "w_308": {
+      "message": "극단적 인 비이 있습니다"
+   },
+   "w_310": {
+      "message": "폭풍우"
+   },
+   "w_311": {
+      "message": "강한 폭풍"
+   },
+   "w_312": {
+      "message": "심각한 폭풍우"
+   },
+   "w_313": {
+      "message": "얼어붙는 비"
+   },
+   "w_314": {
+      "message": "가랑비 가 내리다"
+   },
+   "w_315": {
+      "message": "큰 비"
+   },
+   "w_316": {
+      "message": "강한 비에서 폭풍우"
+   },
+   "w_317": {
+      "message": "폭풍 또는 강한 폭풍"
+   },
+   "w_318": {
+      "message": "비바람에서 강한 폭풍우"
+   },
+   "w_399": {
+      "message": "비"
+   },
+   "w_400": {
+      "message": "약간 눈"
+   },
+   "w_401": {
+      "message": "보통 눈"
+   },
+   "w_402": {
+      "message": "폭설"
+   },
+   "w_403": {
+      "message": "눈보라"
+   },
+   "w_404": {
+      "message": "진눈깨비"
+   },
+   "w_405": {
+      "message": "진눈개비"
+   },
+   "w_406": {
+      "message": "소나기성 진눈깨비"
+   },
+   "w_407": {
+      "message": "눈 샤워"
+   },
+   "w_408": {
+      "message": "약한 눈에서 보통 눈"
+   },
+   "w_409": {
+      "message": "보통 눈에서 강한 눈"
+   },
+   "w_410": {
+      "message": "강한 눈에서 눈보라"
+   },
+   "w_499": {
+      "message": "눈"
+   },
+   "w_500": {
+      "message": "엷은 안개"
+   },
+   "w_501": {
+      "message": "안개"
+   },
+   "w_502": {
+      "message": "마른 안개"
+   },
+   "w_503": {
+      "message": "모래"
+   },
+   "w_504": {
+      "message": "먼지"
+   },
+   "w_507": {
+      "message": "황사"
+   },
+   "w_508": {
+      "message": "강한 모래폭풍"
+   },
+   "w_509": {
+      "message": "농무"
+   },
+   "w_510": {
+      "message": "매우 짙은 안개"
+   },
+   "w_511": {
+      "message": "연무"
+   },
+   "w_512": {
+      "message": "짙은 연무"
+   },
+   "w_513": {
+      "message": "심한 연무"
+   },
+   "w_514": {
+      "message": "안개"
+   },
+   "w_515": {
+      "message": "심한 안개"
+   },
+   "w_900": {
+      "message": "더움"
+   },
+   "w_901": {
+      "message": "추움"
+   },
+   "w_999": {
+      "message": "알 수 없음"
+   },
+   "wallpaper": {
+      "message": "배경화면"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "사용자 지정 색 추가"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "이미지를 추가하지 못했습니다. 나중에 다시 시도하십시오."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "로컬 벽지 앱이 실패했습니다. 나중에 다시 시도하십시오"
+   },
+   "wallpaper_applying_library": {
+      "message": "벽지라이브러리적용중..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "벽지 새로 고침 빈도"
+   },
+   "wallpaper_choose_library": {
+      "message": "배경 화면을 선택하십시오"
+   },
+   "wallpaper_choose_single": {
+      "message": "배경 화면 선택"
+   },
+   "wallpaper_clear_filter": {
+      "message": "선택 취소"
+   },
+   "wallpaper_cloud": {
+      "message": "구름 벽지"
+   },
+   "wallpaper_collect_current": {
+      "message": "현재 벽지를 수집하십시오"
+   },
+   "wallpaper_common_color": {
+      "message": "일반적인 색상"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "이 배경 화면을 삭제 하시겠습니까?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "로컬 벽지 라이브러리를 만드는 데 실패했습니다. 나중에 다시 시도하십시오."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "사용자의 사용자 정의 벽지 라이브러리가 제한을 초과합니다"
+   },
+   "wallpaper_custom_color": {
+      "message": "사용자 지정 색상"
+   },
+   "wallpaper_delete_color": {
+      "message": "이 색상 삭제"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "삭제 성공"
+   },
+   "wallpaper_delete_file": {
+      "message": "배경화면 삭제"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "벽지를 삭제하지 못했습니다"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "자동 벽지 스위칭을 비활성화합니다"
+   },
+   "wallpaper_empty_text": {
+      "message": "데이터 없음"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "배경 화면 획득 실패"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "사용자 벽지를 얻지 못했습니다"
+   },
+   "wallpaper_library": {
+      "message": "배경 화면 라이브러리"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$의 로컬 벽지 라이브러리",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "불법적 인 벽지 도서관 이름"
+   },
+   "wallpaper_library_preview": {
+      "message": "배경화면 미리보기"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "최대 20 개의 월페이퍼를 업로드하십시오. 각 벽지는 10m를 초과해서는 안됩니다."
+   },
+   "wallpaper_loading": {
+      "message": "처리 중..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "인터넷 연결 이 필요 해 요"
+   },
+   "wallpaper_remove_library": {
+      "message": "이 벽지 라이브러리를 제거하십시오"
+   },
+   "wallpaper_sort_default": {
+      "message": "기본 정렬"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "인기"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "포함 된 날짜"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "24 시간마다 전환하십시오"
+   },
+   "wallpaper_switch_failure": {
+      "message": "월페이퍼 변경 실패"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "매일의 월페이퍼를 빙빙으로 업데이트하십시오. 스위칭 주파수를 선택할 수 없습니다."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "1 시간마다 전환하십시오"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "12 시간 마다 한번 씩 전환"
+   },
+   "wallpaper_switch_success": {
+      "message": "무작위 벽지가 성공적으로 변경되었습니다"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "다음 배경 화면으로 변경하십시오"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "새 탭을 열 때 전환하십시오"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "페이지를 열 때 전환"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "파일 업로드가 실패했습니다. 이유 : 크기가 초과합니다"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "로컬 배경을 선택하십시오"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "하나 이상의 벽지가 필요합니다"
+   },
+   "want_more": {
+      "message": "더 많은 특혜를 즉시 즐기십시오"
+   },
+   "weather": {
+      "message": "날씨"
+   },
+   "weather_empty": {
+      "message": "현재 날씨 정보가 없습니다"
+   },
+   "web_set_home_title": {
+      "message": "Infinity를 홈페이지로 설정하는 방법"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "웹 사이트 이름"
+   },
+   "website_search_replace_char": {
+      "message": "URL (검색 단어 바꾸기 % s를 사용)"
+   },
+   "wechat": {
+      "message": "위챗"
+   },
+   "wed": {
+      "message": "수요일"
+   },
+   "wed_min": {
+      "message": "수"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "풍속"
+   },
+   "wind_mill": {
+      "message": "오른쪽 아래 모서리에 임의의 벽지 버튼을 표시하십시오."
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "야후"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search는 Yahoo가 운영하는 검색 엔진입니다"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "YANDEX는 러시아에서 가장 중요한 인터넷 서비스 포털 중 하나입니다."
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$년$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "어제"
+   },
+   "you_need_login": {
+      "message": "이 기능을 사용하려면 Infinity 계정에 로그인하세요."
+   },
+   "your_browsing_history_appears_here": {
+      "message": "여기에 히스토리가 나타납니다"
+   },
+   "zhifubao": {
+      "message": "알리페이"
+   }
+}

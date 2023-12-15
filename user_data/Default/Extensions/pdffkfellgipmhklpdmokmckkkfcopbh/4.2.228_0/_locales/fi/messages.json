@@ -1,0 +1,1028 @@
+{
+   "alert_popup_filter_enabled_desc": {
+      "message": "%filter_name% aktivoitiin automaattisesti."
+   },
+   "alert_popup_filter_enabled_title": {
+      "message": "Suodattimia aktivoitiin automaattisesti"
+   },
+   "background_tab_title": {
+      "message": "Taustavälilehti"
+   },
+   "blocking_pages_advanced_button": {
+      "message": "Lisäasetukset"
+   },
+   "blocking_pages_btn_go_back": {
+      "message": "Palaa takaisin"
+   },
+   "blocking_pages_btn_proceed": {
+      "message": "Jatka silti"
+   },
+   "blocking_pages_malware": {
+      "message": "Sijainnissa \u003Cstrong>%host%\u003C/strong> olevan verkkosivun on raportoitu olevan haittaohjelmasivu ja se on estetty suojausasetustesi perusteella."
+   },
+   "blocking_pages_more_info_button": {
+      "message": "Lisätietoja"
+   },
+   "blocking_pages_page_title": {
+      "message": "Pääsy estetty"
+   },
+   "blocking_pages_phishing": {
+      "message": "Sijainnissa \u003Cstrong>%host%\u003C/strong> olevan verkkosivun on raportoitu olevan tietojenkalastelusivu ja se on estetty suojausasetustesi perusteella."
+   },
+   "blocking_pages_rule_content_title": {
+      "message": "AdGuard esti sivun latauksen seuraavalla suodatussäännöllä"
+   },
+   "blocking_pages_rule_header_title": {
+      "message": "Estetty AdGuardilla"
+   },
+   "blocking_pages_safe_header_title": {
+      "message": "AdGuard on estänyt pääsyn sivulle"
+   },
+   "close_button_title": {
+      "message": "Sulje"
+   },
+   "context_block_site_ads": {
+      "message": "Estä mainoksia tältä sivustolta..."
+   },
+   "context_complaint_website": {
+      "message": "Ilmoita ongelmasta..."
+   },
+   "context_disable_protection": {
+      "message": "Pysäytä AdGuardin suojaus"
+   },
+   "context_enable_protection": {
+      "message": "Palauta AdGuardin suojaus"
+   },
+   "context_open_log": {
+      "message": "Suodatushistoria..."
+   },
+   "context_open_settings": {
+      "message": "AdGuardin asetukset..."
+   },
+   "context_security_report": {
+      "message": "Sivuston suojausraportti..."
+   },
+   "context_site_exception": {
+      "message": "Sivusto on lisätty poikkeuksiin"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard ei voi toimia tällä verkkotunnuksella"
+   },
+   "context_site_filtering_off": {
+      "message": "Älä suodata tätä sivustoa"
+   },
+   "context_site_filtering_on": {
+      "message": "Suodata tämä sivusto"
+   },
+   "context_site_protection_disabled": {
+      "message": "AdGuardin suojaus on keskeytetty"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Tarkista suodatinpäivitykset"
+   },
+   "description": {
+      "message": "Ylivertainen mainosestolaajennus mainontaa ja ponnahduksia vastaan. Estää mainoksia Facebookissa, YouTubessa ja muilla sivustoilla."
+   },
+   "filtering_clear_log_events": {
+      "message": "Tyhjennä historia"
+   },
+   "filtering_log_badge_tooltip_http_req_method": {
+      "message": "HTTP-pyyntömenetelmä"
+   },
+   "filtering_log_badge_tooltip_http_status_code": {
+      "message": "HTTP-tilakoodi"
+   },
+   "filtering_log_badge_tooltip_third_party": {
+      "message": "Kolmannen osapuolen pyyntö"
+   },
+   "filtering_log_details_modal_back_button": {
+      "message": "Takaisin pyyntöön"
+   },
+   "filtering_log_details_modal_beautify_button": {
+      "message": "Kaunista"
+   },
+   "filtering_log_details_modal_try_again": {
+      "message": "Yritä uudelleen"
+   },
+   "filtering_log_filter_allowed": {
+      "message": "Sallitut"
+   },
+   "filtering_log_filter_blocked": {
+      "message": "Estetty"
+   },
+   "filtering_log_filter_modified": {
+      "message": "Muokatut"
+   },
+   "filtering_log_filter_regular": {
+      "message": "Tavalliset"
+   },
+   "filtering_log_filter_user_rules": {
+      "message": "Käyttäjän säännöt"
+   },
+   "filtering_log_hide_referrer": {
+      "message": "Referrer-tieto piilotettiin kolmansilta osapuolilta"
+   },
+   "filtering_log_hide_search_queries": {
+      "message": "Hakulausekkeet piilotettiin"
+   },
+   "filtering_log_in_allowlist": {
+      "message": "Sivusto on sallittu"
+   },
+   "filtering_log_modified_rules": {
+      "message": "Muokatut säännöt:"
+   },
+   "filtering_log_preserve_log_off": {
+      "message": "Säilytä historia: EI"
+   },
+   "filtering_log_preserve_log_on": {
+      "message": "Säilytä historia: KYLLÄ"
+   },
+   "filtering_log_privacy_applied_rules": {
+      "message": "Häivetila käytössä"
+   },
+   "filtering_log_remove_client_data": {
+      "message": "X-Client-Data-tieto poistettiin"
+   },
+   "filtering_log_search_string": {
+      "message": "Suodata lokitietoja"
+   },
+   "filtering_log_search_tabs_placeholder": {
+      "message": "Etsi välilehdistä"
+   },
+   "filtering_log_send_not_track": {
+      "message": "Do-Not-Track-signaali lähetettiin"
+   },
+   "filtering_log_status_allowed": {
+      "message": "Sallitut"
+   },
+   "filtering_log_status_blocked": {
+      "message": "Estetty"
+   },
+   "filtering_log_status_modified": {
+      "message": "Muokatut"
+   },
+   "filtering_log_status_processed": {
+      "message": "Käsitelty"
+   },
+   "filtering_log_tag_tooltip_allowed": {
+      "message": "Vain sallitut pyynnöt"
+   },
+   "filtering_log_tag_tooltip_blocked": {
+      "message": "Vain estetyt pyynnöt"
+   },
+   "filtering_log_tag_tooltip_css": {
+      "message": "CSS-tyylit"
+   },
+   "filtering_log_tag_tooltip_first_party": {
+      "message": "Vain ensimmäisen osapuolen pyynnöt"
+   },
+   "filtering_log_tag_tooltip_html": {
+      "message": "Dokumentit ja alidokumentit"
+   },
+   "filtering_log_tag_tooltip_img": {
+      "message": "Kuvat"
+   },
+   "filtering_log_tag_tooltip_js": {
+      "message": "Skriptit"
+   },
+   "filtering_log_tag_tooltip_media": {
+      "message": "Media"
+   },
+   "filtering_log_tag_tooltip_modified": {
+      "message": "Vain muokatut pyynnöt"
+   },
+   "filtering_log_tag_tooltip_other": {
+      "message": "Kirjasimet, pingit, WebRTC, WebSocket, yms."
+   },
+   "filtering_log_tag_tooltip_regular": {
+      "message": "Vain suodattamattomat pyynnöt"
+   },
+   "filtering_log_tag_tooltip_third_party": {
+      "message": "Vain kolmannen osapuolen pyynnöt"
+   },
+   "filtering_log_tag_tooltip_user_rules": {
+      "message": "Vain käyttäjän sääntöjen muuttamat pyynnöt"
+   },
+   "filtering_log_tag_tooltip_xhr": {
+      "message": "XMLHttpRequest- ja fetch-pyynnöt"
+   },
+   "filtering_log_title": {
+      "message": "Suodatushistoria"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Lisää sääntö"
+   },
+   "filtering_modal_add_title": {
+      "message": "Lisätään sääntöä"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Käytä kaikilla sivustoilla"
+   },
+   "filtering_modal_block": {
+      "message": "Estä"
+   },
+   "filtering_modal_block_again": {
+      "message": "Estä uudelleen"
+   },
+   "filtering_modal_converted_to": {
+      "message": "Muunnettu:"
+   },
+   "filtering_modal_cookie": {
+      "message": "Eväste:"
+   },
+   "filtering_modal_copied": {
+      "message": "Kopioitu"
+   },
+   "filtering_modal_copy_to_clipboard": {
+      "message": "Kopioi leikepöydälle"
+   },
+   "filtering_modal_element": {
+      "message": "Elementti:"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Lisää poikkeus"
+   },
+   "filtering_modal_filter": {
+      "message": "Suodatin:"
+   },
+   "filtering_modal_filtering_status_text_desc": {
+      "message": "Suodatuksen tila:"
+   },
+   "filtering_modal_hide_full_element": {
+      "message": "Piilota koko elementti"
+   },
+   "filtering_modal_hide_full_rule": {
+      "message": "Piilota koko sääntö"
+   },
+   "filtering_modal_hide_full_url": {
+      "message": "Piilota täysi URL"
+   },
+   "filtering_modal_important": {
+      "message": "Anna säännölle korkeampi tärkeysaste"
+   },
+   "filtering_modal_info_title": {
+      "message": "Pyynnön tiedot"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Avaa uuteen välilehteen"
+   },
+   "filtering_modal_options_desc": {
+      "message": "Valinnat:"
+   },
+   "filtering_modal_patterns_desc": {
+      "message": "Kaavat:"
+   },
+   "filtering_modal_preview_request_button": {
+      "message": "Esikatselu"
+   },
+   "filtering_modal_preview_title": {
+      "message": "Esikatselu"
+   },
+   "filtering_modal_privacy": {
+      "message": "Häivetila:"
+   },
+   "filtering_modal_remove_allowlist": {
+      "message": "Poistettu sallituista"
+   },
+   "filtering_modal_remove_param": {
+      "message": "Poista pyyntöparametrit"
+   },
+   "filtering_modal_remove_user": {
+      "message": "Poista sääntö"
+   },
+   "filtering_modal_rule": {
+      "message": "Sääntö:"
+   },
+   "filtering_modal_rule_text_desc": {
+      "message": "Sääntöteksti:"
+   },
+   "filtering_modal_rules": {
+      "message": "Säännöt:"
+   },
+   "filtering_modal_show_full_element": {
+      "message": "Näytä koko elementti"
+   },
+   "filtering_modal_show_full_rule": {
+      "message": "Näytä koko sääntö"
+   },
+   "filtering_modal_show_full_url": {
+      "message": "Näytä täysi URL"
+   },
+   "filtering_modal_source": {
+      "message": "Lähde:"
+   },
+   "filtering_modal_status_text_desc": {
+      "message": "Tila:"
+   },
+   "filtering_modal_status_text_error": {
+      "message": "Vastausta ei saatu"
+   },
+   "filtering_modal_status_text_loading": {
+      "message": "Ladataan..."
+   },
+   "filtering_modal_third_party": {
+      "message": "Käytä vain kolmansien osapuolten pyynnöille"
+   },
+   "filtering_modal_type": {
+      "message": "Tyyppi:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Salli"
+   },
+   "filtering_refresh_tab_short": {
+      "message": "Päivitä"
+   },
+   "filtering_table_empty_reload_page_desc": {
+      "message": "\u003Creset>Poista suodattimet käytöstä\u003C/reset> tai \u003Crefresh>päivitä sivu\u003C/refresh> nähdäksesi suodatushistorian."
+   },
+   "filtering_table_filter": {
+      "message": "Suodatin"
+   },
+   "filtering_table_rule": {
+      "message": "Suodatussääntö"
+   },
+   "filtering_table_source": {
+      "message": "Lähde"
+   },
+   "filtering_table_status": {
+      "message": "Tila"
+   },
+   "filtering_table_type": {
+      "message": "Tyyppi"
+   },
+   "filtering_type_all": {
+      "message": "Kaikki"
+   },
+   "filtering_type_other": {
+      "message": "Muut"
+   },
+   "filters_download_loading": {
+      "message": "Odota kun suodatintietokanta latautuu..."
+   },
+   "filters_download_title": {
+      "message": "Suodatintietokanta latautuu..."
+   },
+   "fullscreen_user_rules_title": {
+      "message": "Käyttäjän säännöt"
+   },
+   "group_description_adblocking": {
+      "message": "Määritä mainosesto tehdäksesi lopullisesti selvää kaikenlaisista bannereista, ponnahduksista ja videomainoksista yms."
+   },
+   "group_description_annoyances": {
+      "message": "Poista ponnahdukset ja muut ärsyttävät ilmoitukset, kuten evästeilmoitukset."
+   },
+   "group_description_custom": {
+      "message": "Luo omia suodattimia hienosäätääksesi suodatuksen haluamaksesi."
+   },
+   "group_description_lang": {
+      "message": "Älä rajoita itseäsi — estä mainokset kaikenkielisillä verkkosivustoilla."
+   },
+   "group_description_miscellaneous": {
+      "message": "Lisää asetuksia verkkoselauksesi muokkaamiseksi AdGuardilla vielä enemmän."
+   },
+   "group_description_security": {
+      "message": "Suojaudu haittaohjelmilta, tietojenkalastelulta ja muilta verkon uhkilta."
+   },
+   "group_description_social": {
+      "message": "Piilota ei toivotut tykkäys- ja jakopainikkeet sekä muut sosiaalisen median widgetit."
+   },
+   "group_description_stealth": {
+      "message": "Suojaa identiteettiäsi ja arkaluontoisia henkilötietojasi tuhansilta verkkoseurannoita estämällä kaikki yleisimmät seurantatavat."
+   },
+   "name": {
+      "message": "AdGuard Mainosesto"
+   },
+   "options_about": {
+      "message": "Tietoja"
+   },
+   "options_about_title": {
+      "message": "AdGuard Selainlaajennus"
+   },
+   "options_about_version": {
+      "message": "Versio"
+   },
+   "options_acknowledgment": {
+      "message": "Kiitokset"
+   },
+   "options_add_custom_filter": {
+      "message": "Lisää oma suodatin"
+   },
+   "options_allowlist": {
+      "message": "Sallittujen lista"
+   },
+   "options_allowlist_alert_invert": {
+      "message": "Käänteinen sallittujen lista on käytössä. Mainokset estetään vain listalla olevilla sivustoilla. \u003Ca>Poista käytöstä\u003C/a>"
+   },
+   "options_allowlist_desc": {
+      "message": "AdGuard ei suodata sallittujen listalla olevia sivustoja."
+   },
+   "options_allowlist_invert": {
+      "message": "Käänteinen sallittujen lista"
+   },
+   "options_allowlist_invert_desc": {
+      "message": "Salli mainokset kaikkialla, paitsi sallittujen listan sivustoilla."
+   },
+   "options_antibanner_custom_filter_already_exists": {
+      "message": "Tämä suodatin on jo lisätty"
+   },
+   "options_antibanner_custom_group": {
+      "message": "Mukautettu"
+   },
+   "options_antibanner_rules_count": {
+      "message": "Suodatussääntöjen määrä: %rules_count%"
+   },
+   "options_block_acceptable_ads": {
+      "message": "Estä hakumainonta ja sivustojen oma markkinointi"
+   },
+   "options_block_acceptable_ads_desc": {
+      "message": "Hankkiudu eroon \u003Ca>sivustojen omasta mainonnasta ja sisältöön perustuvista mainoksista\u003C/a>, joita näytetään hakutuloksissa."
+   },
+   "options_block_known_trackers_description": {
+      "message": "Estä tunnetut analytiikkatyökalut AdGuardin seurantatosuodattimella."
+   },
+   "options_block_known_trackers_title": {
+      "message": "Estä seurannat"
+   },
+   "options_check_update": {
+      "message": "Tarkista päivitykset"
+   },
+   "options_check_update_progress": {
+      "message": "Tarkistetaan..."
+   },
+   "options_clear_stats_confirm_modal_clear_button": {
+      "message": "Tyhjennä"
+   },
+   "options_clear_stats_confirm_modal_title": {
+      "message": "Tyhjennetäänkö tilastot?"
+   },
+   "options_collect_hit_stats_desc": {
+      "message": "Lähetä \u003Ca>mainossuodatinten käytöstä nimettömiä tilastoja\u003C/a>, jotka auttavat niiden kehityksessä ja optimoinnissa."
+   },
+   "options_collect_hit_stats_title": {
+      "message": "Auta AdGuardin suodatinten kehityksessä"
+   },
+   "options_confirm_modal_cancel_button": {
+      "message": "Peruuta"
+   },
+   "options_copyright": {
+      "message": "Kaikki oikeudet pidätetään."
+   },
+   "options_disable_webrtc_desc": {
+      "message": "WebRTC voi vuotaa IP-osoitteesi vaikka käyttäisitkin välityspalvelinta tai VPN-yhteyttä. Sen käytöstä poisto saattaa rikkoa joitakin sivustoja."
+   },
+   "options_disable_webrtc_title": {
+      "message": "Poista WebRTC käytöstä"
+   },
+   "options_discuss": {
+      "message": "Keskustele AdGuardista"
+   },
+   "options_do_you_like_question": {
+      "message": "Pidätkö AdGuardista?"
+   },
+   "options_editor_close_fullscreen_button_tooltip": {
+      "message": "Poistu ikkunatilasta"
+   },
+   "options_editor_indicator_saved": {
+      "message": "Säästetty"
+   },
+   "options_editor_indicator_saving": {
+      "message": "Tallennetaan..."
+   },
+   "options_editor_open_fullscreen_button_tooltip": {
+      "message": "Avaa editori uudessa ikkunassa"
+   },
+   "options_editor_save": {
+      "message": "Tallenna"
+   },
+   "options_empty_custom_filter": {
+      "message": "Sinulla ei vielä ole omia suodattimia"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Käytä sopivimpia suodattimia automaattisesti"
+   },
+   "options_enable_autodetect_filter_desc": {
+      "message": "Kielikohtaiset suodattimet otetaan käyttöön sivuston kielen perusteella."
+   },
+   "options_export_settings": {
+      "message": "Vie asetukset"
+   },
+   "options_filters": {
+      "message": "Suodattimet"
+   },
+   "options_filters_empty_title": {
+      "message": "Ei tuloksia"
+   },
+   "options_filters_enabled": {
+      "message": "Käytössä:"
+   },
+   "options_filters_enabled_and_last": {
+      "message": "%enabled% ja %last%"
+   },
+   "options_filters_enabled_and_more": {
+      "message": "%enabled% ja %more% muuta"
+   },
+   "options_filters_filter_link": {
+      "message": "Avaa verkkosivusto"
+   },
+   "options_filters_filter_trusted_tag_desc": {
+      "message": "Olet merkinnyt suodattimen luotettavaksi."
+   },
+   "options_filters_filter_updated": {
+      "message": "päivitetty:"
+   },
+   "options_filters_filter_version": {
+      "message": "versio:"
+   },
+   "options_filters_list_search_display_option_all_filters": {
+      "message": "Kaikki suodattimet"
+   },
+   "options_filters_list_search_display_option_disabled": {
+      "message": "Ei käytössä"
+   },
+   "options_filters_list_search_display_option_enabled": {
+      "message": "Käytössä"
+   },
+   "options_filters_no_enabled": {
+      "message": "Suodattimia ei ole käytössä"
+   },
+   "options_filters_search": {
+      "message": "Haku"
+   },
+   "options_first_party_desc": {
+      "message": "Rajoita ensimmäisen osapuolen evästeiden elinaikaa (minuuteina)."
+   },
+   "options_first_party_title": {
+      "message": "Ensimmäisen osapuolen evästeet tuohoutuvat itsestään (ei suositella)"
+   },
+   "options_footer_like_us_cta": {
+      "message": "Arvioi se!"
+   },
+   "options_general_settings": {
+      "message": "Yleiset"
+   },
+   "options_github": {
+      "message": "GitHub"
+   },
+   "options_hide_referrer_desc": {
+      "message": "Estä ulkopuolisia tahoja näkemästä mitä sivustoja olet käyttänyt."
+   },
+   "options_hide_referrer_title": {
+      "message": "Piilota Referer-tieto 3. osapuolilta"
+   },
+   "options_hide_search_queries_desc": {
+      "message": "Piilota käytetyt hakulausekkeet sivustoilta, joille siirryt hakukoneen tuloksista."
+   },
+   "options_hide_search_queries_title": {
+      "message": "Piilota hakulausekkeet"
+   },
+   "options_import_settings": {
+      "message": "Tuo asetukset"
+   },
+   "options_leave_feedback": {
+      "message": "Lähetä palautetta"
+   },
+   "options_miscellaneous_settings": {
+      "message": "Muut asetukset"
+   },
+   "options_modified_first_party_cookie": {
+      "message": "Sovelletaan ensimmäisen osapuolen evästeiden rajoituksia"
+   },
+   "options_modified_third_party_cookie": {
+      "message": "Sovelletaan kolmannen osapuolen evästeiden rajoituksia"
+   },
+   "options_nav_better_than_extension": {
+      "message": "Mikä tekee AdGuard-sovelluksesta laajennusta paremman?"
+   },
+   "options_nav_compare": {
+      "message": "Vertaile"
+   },
+   "options_open_changelog": {
+      "message": "Muutoshistoria"
+   },
+   "options_open_log": {
+      "message": "Suodatushistoria"
+   },
+   "options_popup_call_to_action": {
+      "message": "Syötä yllä olevaan kenttään suodattimen toimiva URL-osoite tai tiedostosijainti."
+   },
+   "options_popup_check_false_description": {
+      "message": "Virhe lisättäessä suodatintasi."
+   },
+   "options_popup_check_false_title": {
+      "message": "Virhe"
+   },
+   "options_popup_checking_filter": {
+      "message": "Tarkastetaan suodatinta"
+   },
+   "options_popup_description": {
+      "message": "Sinut liitetään suodattimen tilaajaksi."
+   },
+   "options_popup_filter_description": {
+      "message": "Kuvaus:"
+   },
+   "options_popup_filter_homepage": {
+      "message": "Verkkosivusto:"
+   },
+   "options_popup_filter_rules_count": {
+      "message": "Sääntöjen määrä:"
+   },
+   "options_popup_filter_title": {
+      "message": "Nimi:"
+   },
+   "options_popup_filter_url": {
+      "message": "URL:"
+   },
+   "options_popup_filter_version": {
+      "message": "Versio: "
+   },
+   "options_popup_import_error_file_description": {
+      "message": "Jokin meni pieleen."
+   },
+   "options_popup_import_error_required_privacy_permission": {
+      "message": "Tuodaksesi tämän asetustiedoston, salli AdGuardin muuttaa tietosuojaan liittyviä asetuksiasi."
+   },
+   "options_popup_import_error_title": {
+      "message": "Virhe asetusten tuonnissa"
+   },
+   "options_popup_import_settings_wrong_file_ext": {
+      "message": "Tiedostopäätteen on oltava %extension%"
+   },
+   "options_popup_import_success_title": {
+      "message": "Asetusten tuonti onnistui"
+   },
+   "options_popup_next_button": {
+      "message": "Seuraava"
+   },
+   "options_popup_subscribe_button": {
+      "message": "Tilaa"
+   },
+   "options_popup_title_placeholder": {
+      "message": "Syötä suodattimelle nimi"
+   },
+   "options_popup_trusted_filter_description": {
+      "message": "Luotetut suodattimet pystyvät hyödyntämään tekohokkaita suodatus ominaisuuksia, jotka saattavat olla vaarallisia väärissä käsissä. Älä valitse tätä, jos et luota siihen täysin."
+   },
+   "options_popup_trusted_filter_title": {
+      "message": "Luotettu"
+   },
+   "options_popup_try_again_button": {
+      "message": "Yritä uudelleen"
+   },
+   "options_popup_update_error": {
+      "message": "Päivtysten nouto epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "options_popup_update_filter": {
+      "message": "päivitettiin."
+   },
+   "options_popup_update_filters": {
+      "message": "päivitettiin."
+   },
+   "options_popup_update_not_found": {
+      "message": "Päivityksiä ei löytynyt"
+   },
+   "options_popup_update_title_error": {
+      "message": "Virhe päivitettäessä suodattimia"
+   },
+   "options_popup_url_placeholder": {
+      "message": "Syötä URL tai tiedostosijainti"
+   },
+   "options_popup_url_title": {
+      "message": "Uusi suodatintilaus"
+   },
+   "options_popup_version_update_changelog_text": {
+      "message": "Mitä uutta tämä versio sisältää?"
+   },
+   "options_popup_version_update_description_major": {
+      "message": "Tämä on merkittävä päivitys, joka sisältää paljon uusia ominaisuuksia ja parannuksia."
+   },
+   "options_popup_version_update_description_minor": {
+      "message": "Tämä versio sisältää lähinnä virhekorjauksia ja pieniä parannuksia."
+   },
+   "options_popup_version_update_disable_notification": {
+      "message": "Poista ilmoitukset"
+   },
+   "options_popup_version_update_offer": {
+      "message": "Tiesitkö, ettei AdGuard ole vain tätä selainta varten?"
+   },
+   "options_popup_version_update_offer_button_text": {
+      "message": "LUE LISÄÄ"
+   },
+   "options_popup_version_update_title_text": {
+      "message": "AdGuard-laajennus päivitettiin versioon %current_version%."
+   },
+   "options_privacy": {
+      "message": "Häivetila"
+   },
+   "options_privacy_desc": {
+      "message": "Suojaa identiteettiäsi ja arkaluontoisia henkilötietoja tuhansilta verkkoseurannoilta estämällä yleisimmät seurantakäytännöt."
+   },
+   "options_privacy_policy": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "options_privacy_title": {
+      "message": "Häivetila"
+   },
+   "options_remove_client_data_desc": {
+      "message": "Estä Google Chromea lähettämästä versio- ja kustomointitietoja Googlen palvelimille."
+   },
+   "options_remove_client_data_title": {
+      "message": "Poista X-Client-Data-tieto"
+   },
+   "options_remove_filter_confirm_modal_ok_button": {
+      "message": "Poista"
+   },
+   "options_remove_filter_confirm_modal_title": {
+      "message": "Poistetaanko tämä suodatin?"
+   },
+   "options_report_bug": {
+      "message": "Ilmoita viasta"
+   },
+   "options_reset_settings": {
+      "message": "Tyhjennä asetukset"
+   },
+   "options_reset_settings_confirm_modal_clear_button": {
+      "message": "Palauta"
+   },
+   "options_reset_settings_confirm_modal_title": {
+      "message": "Palautetaanko asetukset?"
+   },
+   "options_reset_settings_done": {
+      "message": "Asetukset on palautettu"
+   },
+   "options_reset_settings_error": {
+      "message": "Virhe asetusten palautuksessa"
+   },
+   "options_reset_stats": {
+      "message": "Tyhjennä tilastot"
+   },
+   "options_reset_stats_done": {
+      "message": "Tilastot on tyhjennetty"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Tietojenkalastelu- ja haittaohjelmasuojaus"
+   },
+   "options_safebrowsing_enabled_desc": {
+      "message": "Käytä AdGuardin Turvallinen selaus -moduulia, joka havaitsee mahdollisesti haitalliset ja tietojenkalastelusivustot vertaamalla niitä verkkotietokantaan. \u003Ca>Lue lisää\u003C/a>"
+   },
+   "options_select_theme": {
+      "message": "Teema"
+   },
+   "options_select_update_period_12h": {
+      "message": "12 tuntia"
+   },
+   "options_select_update_period_1h": {
+      "message": "1 tunti"
+   },
+   "options_select_update_period_24h": {
+      "message": "24 tuntia"
+   },
+   "options_select_update_period_48h": {
+      "message": "48 tuntia"
+   },
+   "options_select_update_period_6h": {
+      "message": "6 tuntia"
+   },
+   "options_select_update_period_default": {
+      "message": "Oletus"
+   },
+   "options_select_update_period_disabled": {
+      "message": "Ei käytössä"
+   },
+   "options_send_not_track_desc": {
+      "message": "Lähetä \u003Cgpc>Global Privacy Control\u003C/gpc> ja \u003Cdnt>Do Not Track\u003C/dnt> -signaalit käyttämillesi verkkosivustoille."
+   },
+   "options_send_not_track_title": {
+      "message": "Pyydä, etteivät sivustot seuraa sinua"
+   },
+   "options_set_update_interval": {
+      "message": "Suodatinten automaattinen päivitys"
+   },
+   "options_set_update_interval_desc": {
+      "message": "Tehokasta estoa varten suodattimet on päivitettävä säännöllisesti."
+   },
+   "options_settings": {
+      "message": "AdGuardin asetukset"
+   },
+   "options_show_adguard_full_version_title": {
+      "message": "Näytä tietoja AdGuardin täysversiosta"
+   },
+   "options_show_app_updated_notification": {
+      "message": "Ilmoita laajennuksen päivityksistä"
+   },
+   "options_show_blocked_ads_count_title": {
+      "message": "Näytä estettyjen mainosten määrä AdGuard-laajennuksen kuvakkeessa"
+   },
+   "options_show_context_menu_title": {
+      "message": "Lisää AdGuard selaimen valikkoon"
+   },
+   "options_site": {
+      "message": "Virallinen sivusto"
+   },
+   "options_stealth_cookies_title": {
+      "message": "Evästeet"
+   },
+   "options_stealth_general_title": {
+      "message": "Yleiset"
+   },
+   "options_stealth_miscellaneous_title": {
+      "message": "Muut asetukset"
+   },
+   "options_strip_tracking_params_description": {
+      "message": "Poista verkkopyyntöjen parametrit AdGuardin URL-seurannanestosuodattimella."
+   },
+   "options_strip_tracking_params_title": {
+      "message": "Poista seurantaparametrit"
+   },
+   "options_stripped_tracking_parameters": {
+      "message": "Poistetaan seurantaparametrit"
+   },
+   "options_theme_selector_dark": {
+      "message": "Tumma"
+   },
+   "options_theme_selector_light": {
+      "message": "Vaalea"
+   },
+   "options_theme_selector_system": {
+      "message": "Järjestelmä"
+   },
+   "options_third_party_desc": {
+      "message": "Rajoita kolmannen osapuolen evästeiden elinaikaa (minuuteina)."
+   },
+   "options_third_party_title": {
+      "message": "Itsestään tuhoutuvat 3. osapuolen evästeet"
+   },
+   "options_update_antibanner_filters": {
+      "message": "Tarkista suodatinpäivitykset"
+   },
+   "options_use_optimized_filters": {
+      "message": "Käytä optimoituja suodattimia"
+   },
+   "options_use_optimized_filters_desc": {
+      "message": "Käyttää lyhyempiä suodatinversioita, jotka sisältävät vain suosituimmat säännöt tietoliikenteen säästöön. Sopii paremmin mobiiliselaimille."
+   },
+   "options_user_rules_editor_stub_go_to_editor_button": {
+      "message": "Siirry editoriin"
+   },
+   "options_user_rules_editor_stub_title": {
+      "message": "Editori on jo avoinna"
+   },
+   "options_userfilter": {
+      "message": "Käyttäjän säännöt"
+   },
+   "options_userfilter_description_key": {
+      "message": "Tässä voit lisätä omia sääntöjäsi. Tämä vaihtoehto soveltuu edistyneille käyttäjille, jotka ymmärtävät HTML/CSS-ohjelmointikieliä. Lue \u003Ca>suodatussääntöjen opas\u003C/a> oppiaksesi miten luot omia sääntöjä."
+   },
+   "options_userfilter_export": {
+      "message": "Vie"
+   },
+   "options_userfilter_import": {
+      "message": "Tuo"
+   },
+   "options_userfilter_line_break_off": {
+      "message": "Rivinvaihto: EI"
+   },
+   "options_userfilter_line_break_on": {
+      "message": "Rivinvaihto: KYLLÄ"
+   },
+   "popup_abuse_site": {
+      "message": "Ilmoita ongelmasta"
+   },
+   "popup_adguard_footer_title": {
+      "message": "AdGuard mobiililaitteellesi"
+   },
+   "popup_adguard_for_android": {
+      "message": "AdGuard Androidille"
+   },
+   "popup_adguard_for_ios": {
+      "message": "AdGuard iOS:lle"
+   },
+   "popup_block_site_ads_option": {
+      "message": "Estä mainoksia tältä sivustolta"
+   },
+   "popup_header_cta_link": {
+      "message": "Haluatko estää enemmän?"
+   },
+   "popup_header_update_filters": {
+      "message": "Tarkista suodatinpäivitykset"
+   },
+   "popup_open_filtering_log": {
+      "message": "Suodatushistoria"
+   },
+   "popup_reset_custom_rules": {
+      "message": "Tyhjennä sivulle luodut käyttäjän säännöt"
+   },
+   "popup_security_report": {
+      "message": "Sivuston suojausraportti"
+   },
+   "popup_site_exception_information": {
+      "message": "Suodatus on poistettu käytöstä, koska se saattaa vaikuttaa sivuston toimintaan."
+   },
+   "popup_site_filtering_state_disabled": {
+      "message": "Suojaus ei ole käytössä"
+   },
+   "popup_site_filtering_state_enabled": {
+      "message": "Suojaus on käytössä"
+   },
+   "popup_site_filtering_state_paused": {
+      "message": "Suojaus on keskeytetty"
+   },
+   "popup_site_filtering_state_secure_page": {
+      "message": "Salattu sivu"
+   },
+   "popup_statistics_months_apr": {
+      "message": "Huhti"
+   },
+   "popup_statistics_months_aug": {
+      "message": "Elo"
+   },
+   "popup_statistics_months_dec": {
+      "message": "Joulu"
+   },
+   "popup_statistics_months_feb": {
+      "message": "Helmi"
+   },
+   "popup_statistics_months_jan": {
+      "message": "Tammi"
+   },
+   "popup_statistics_months_jul": {
+      "message": "Heinä"
+   },
+   "popup_statistics_months_jun": {
+      "message": "Kesä"
+   },
+   "popup_statistics_months_mar": {
+      "message": "Maalis"
+   },
+   "popup_statistics_months_may": {
+      "message": "Touko"
+   },
+   "popup_statistics_months_nov": {
+      "message": "Marras"
+   },
+   "popup_statistics_months_oct": {
+      "message": "Loka"
+   },
+   "popup_statistics_months_sep": {
+      "message": "Syys"
+   },
+   "popup_statistics_time_day": {
+      "message": "Vuorokausi"
+   },
+   "popup_statistics_time_month": {
+      "message": "Kuukausi"
+   },
+   "popup_statistics_time_week": {
+      "message": "Viikko"
+   },
+   "popup_statistics_time_year": {
+      "message": "Vuosi"
+   },
+   "popup_statistics_total": {
+      "message": "Kaikki yhteensä"
+   },
+   "popup_statistics_week_days_fri": {
+      "message": "Pe"
+   },
+   "popup_statistics_week_days_mon": {
+      "message": "Ma"
+   },
+   "popup_statistics_week_days_sat": {
+      "message": "La"
+   },
+   "popup_statistics_week_days_sun": {
+      "message": "Su"
+   },
+   "popup_statistics_week_days_thu": {
+      "message": "To"
+   },
+   "popup_statistics_week_days_tue": {
+      "message": "Ti"
+   },
+   "popup_statistics_week_days_wed": {
+      "message": "Ke"
+   },
+   "popup_switch_button": {
+      "message": "Suojauksen kytkin"
+   },
+   "popup_tab_actions": {
+      "message": "Toiminnot"
+   },
+   "popup_tab_blocked_all_count": {
+      "message": "Kokonaismäärä: %num%"
+   },
+   "popup_tab_blocked_count": {
+      "message": "Estetty: %num%"
+   },
+   "popup_tab_statistics": {
+      "message": "Tilastot"
+   },
+   "short_name": {
+      "message": "AdGuard"
+   },
+   "text_collapser_hide_default": {
+      "message": "Piilota koko teksti"
+   },
+   "text_collapser_show_default": {
+      "message": "Näytä koko teksti"
+   }
+}

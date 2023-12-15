@@ -1,0 +1,62 @@
+{
+   "author": "Gerald",
+   "background": {
+      "scripts": [ "background/index.js" ]
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_icon": {
+         "16": "public/images/icon16b.png",
+         "32": "public/images/icon32b.png"
+      },
+      "default_popup": "popup/index.html",
+      "default_title": "__MSG_extName__"
+   },
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "{aecec67f-0d10-4fa7-b7c7-609a2db280cf}",
+         "strict_min_version": "57.0"
+      }
+   },
+   "commands": {
+      "SkipScripts": {
+         "description": "__MSG_skipScripts__"
+      },
+      "_execute_browser_action": {
+      },
+      "dashboard": {
+         "description": "__MSG_menuDashboard__"
+      },
+      "newScript": {
+         "description": "__MSG_menuNewScript__"
+      },
+      "settings": {
+         "description": "__MSG_labelSettings__"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "injected-web.js", "injected.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "https://violentmonkey.github.io/",
+   "icons": {
+      "128": "public/images/icon128.png",
+      "16": "public/images/icon16.png",
+      "48": "public/images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0HnVQ3f6j/JTjpacyTySZP2xrYDhJvxkvenUEBDPTgY4TlGWpQYoVRXR9fRryaM2Z36CaYvRVZv4LYQZAoSg7TNIrmJtjJ5OgRlTOH+bPKnDbAnLjrQnQklsbuzp9xxRle6AKjUP9XYI6Kl0nTDg1UllBjEDQNd8K+xaEA9nazbqLhQ45BSNgmcpe9eSVQeYpsWDrBO12zS50kVMLMsU47npJSCECwDoKDVFMhBrqazNXZKRdAxp79qMfvRYfAaqViRyl13ZWedZhRTjc4dte3jznEdzx7Fh9VhdaIrXj7nsNwa/fmoaySahMII+RZQMLsE+pNeOXwJa8881G3PHVQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "61.0",
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options/index.html#settings"
+   },
+   "permissions": [ "tabs", "\u003Call_urls>", "webRequest", "webRequestBlocking", "notifications", "storage", "unlimitedStorage", "clipboardWrite", "contextMenus", "cookies" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "2.16.0"
+}

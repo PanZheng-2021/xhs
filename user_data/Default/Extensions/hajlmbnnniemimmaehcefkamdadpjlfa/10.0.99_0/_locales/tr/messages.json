@@ -1,0 +1,2413 @@
+{
+   "360_desc": {
+      "message": "Güvenli arama motoru"
+   },
+   "about": {
+      "message": "Hakkında"
+   },
+   "about_us": {
+      "message": "Hakkımızda"
+   },
+   "account_expired": {
+      "message": "Hesabınızın süresi dolduğunu test edin, lütfen tekrar giriş yapın."
+   },
+   "account_setting": {
+      "message": "Hesap ayarları"
+   },
+   "add": {
+      "message": "Ekle"
+   },
+   "add_city": {
+      "message": "Şehir ekle"
+   },
+   "add_first_note": {
+      "message": "İlk notunuzu alın"
+   },
+   "add_icon_success": {
+      "message": "başarıyla eklendi"
+   },
+   "add_link": {
+      "message": "Bağlantı ekler"
+   },
+   "add_new_search_engine": {
+      "message": "Yeni bir arama motoru ekle"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Yeni Duvar Kağıdı Kütüphanesi"
+   },
+   "add_search_engine": {
+      "message": "Arama motoru ekleyin"
+   },
+   "add_success": {
+      "message": "Başarılı şekilde eklendi"
+   },
+   "add_to_home_site": {
+      "message": "Ana sayfaya ekle"
+   },
+   "add_to_infinity": {
+      "message": "Infinity Yeni sekme sayfasına ekle"
+   },
+   "additional_search_engine": {
+      "message": "Ekli arama motoru"
+   },
+   "air_pressure": {
+      "message": "Basınç"
+   },
+   "all_wallpaper_sources": {
+      "message": "Tüm duvar kağıdı"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Tüm duvar kağıtları kaynakları"
+   },
+   "ambiguity": {
+      "message": "belirsizlik"
+   },
+   "animals": {
+      "message": "Hayvanlar"
+   },
+   "animation": {
+      "message": "Animasyonlar"
+   },
+   "animation_tips": {
+      "message": "Başlangıç animasyonu pürüzsüzlüğü etkileyebilir"
+   },
+   "anime": {
+      "message": "Karikatür"
+   },
+   "any_money": {
+      "message": "Hepsi"
+   },
+   "app": {
+      "message": "Uygulama"
+   },
+   "app_disabled_enable_first": {
+      "message": "Bu uygulamayı engellediniz. Önce bu uygulamayı etkinleştirmek için sonsuzluğa izin ver."
+   },
+   "application": {
+      "message": "Uygulama"
+   },
+   "apply": {
+      "message": "Uygula"
+   },
+   "architecture": {
+      "message": "Mimari"
+   },
+   "athletics": {
+      "message": "Spor"
+   },
+   "avatar": {
+      "message": "Avatar Seç"
+   },
+   "backing_up": {
+      "message": "Yedekleniyor…"
+   },
+   "backup_and_recovery": {
+      "message": "Yedekleme ve kurtarma"
+   },
+   "backup_failed": {
+      "message": "Yedekleme başarısız"
+   },
+   "backup_now": {
+      "message": "Şimdi yedekle"
+   },
+   "backup_successful": {
+      "message": "Yedekleme Başarılı"
+   },
+   "backup_tips": {
+      "message": "En fazla 3 manuel yedekleme düğümü ve 3 otomatik yedekleme düğümünü sizin için saklıyoruz."
+   },
+   "backup_with_device": {
+      "message": "Diğer cihazlarla senkronize edin"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Ücretsiz ve yüksek kaliteli Galeri olmayan tür fotoğrafçılığa odaklanın"
+   },
+   "basic_info": {
+      "message": "Genel bilgiler"
+   },
+   "bg_color": {
+      "message": "Arka plan rengi"
+   },
+   "bg_updating": {
+      "message": "Yükseltme sırasında, lütfen bekleyin ..."
+   },
+   "bind": {
+      "message": "İlişkilendir"
+   },
+   "bind_success": {
+      "message": "İlişkilendirme başarılı"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing, Microsoft tarafından geliştirilen bir arama motorudur."
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Günlük Bing Duvar Kağıdı Kütüphanesi"
+   },
+   "bookmarks": {
+      "message": "Favoriler"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ bu özelliği desteklemiyor",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "cancel_login": {
+      "message": "Oturum açmayı iptal et"
+   },
+   "cancel_remind_time": {
+      "message": "Hatırlatma zamanını iptal et"
+   },
+   "cancel_set_top": {
+      "message": "İliştirilen öğeyi kaldır"
+   },
+   "cannot_change_password": {
+      "message": "Üçüncü parti hesabı yoluyla giriş, parolayı değiştirmeyi desteklemez"
+   },
+   "cannot_change_profile": {
+      "message": "Giriş yapan üçüncü taraf kullanıcılar Profil bilgilerini değiştiremez"
+   },
+   "cannot_download": {
+      "message": "İndirme işlemleri desteklenmiyor"
+   },
+   "cannot_empty": {
+      "message": "Bu Kısım Boş Bırakılamaz"
+   },
+   "celsius": {
+      "message": "Santigrat"
+   },
+   "change_remind_time": {
+      "message": "Hatırlatma zamanını değiştir"
+   },
+   "change_wallpaper": {
+      "message": "Duvar kağıdını değiştir"
+   },
+   "check_olddata_desc": {
+      "message": "Yükseltilebilecek eski verilerin eski bir versiyonunun olduğu tespit edilir. İhtiyacınız olursa, bu verileri yükseltmeyi deneyin"
+   },
+   "choose_sync_type": {
+      "message": "Hesap verilerini seçin"
+   },
+   "chose_from_mypc": {
+      "message": "Duvar kağıdı kütüphanemi oluştur"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$ Uygulamaları",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Mağazası - Uzantılar"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Adres çubuğuna chrome://settings/appearance girin ve ayarlar sayfasına gidin;"
+   },
+   "chrome_browser_guide2": {
+      "message": "Altına kaydırın ve Şekildeki ok ile gösterilen seçeneği seçin."
+   },
+   "chrome_browser_guide3": {
+      "message": "Açılır pencerede URL https://inftab.com girin ve ardından Ana Sayfa ayarını tamamlamak için Ekle düğmesini tıklatın."
+   },
+   "clear_historys": {
+      "message": "Geçmişi temizle"
+   },
+   "col_gap": {
+      "message": "Sütun aralığı"
+   },
+   "col_num": {
+      "message": "Satırlar"
+   },
+   "color": {
+      "message": "Renk"
+   },
+   "color_icon": {
+      "message": "Düz renk simgesi"
+   },
+   "come_from": {
+      "message": "Kullanıcıdan"
+   },
+   "comming_soon": {
+      "message": "Çok Yakında"
+   },
+   "comming_soon_title": {
+      "message": "Infinity Mobile versiyonu yolda"
+   },
+   "confirm": {
+      "message": "Tamam"
+   },
+   "confirm_clear_all_history": {
+      "message": "Tüm geçmiş kayıtlarını temizlemek istediğinize emin misin?"
+   },
+   "confirm_cover_remote": {
+      "message": "Yerel veriler manuel bir yedekleme düğümüne kaydedilecektir."
+   },
+   "confirm_del_folder": {
+      "message": "Bu klasörü silmek istediğinizden emin misiniz?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Tamamlanan öğeleri silmek istediğinize emin misiniz?"
+   },
+   "confirm_delete_note": {
+      "message": "Not silme işlemini onayladın mı?"
+   },
+   "confirm_logout": {
+      "message": "Oturumu kapat"
+   },
+   "confirm_password": {
+      "message": "Yeni şifreyi onayla"
+   },
+   "confirm_password_2": {
+      "message": "Şifreyi onaylayın"
+   },
+   "confirm_recovery_data": {
+      "message": "Bulut verileri yerel verilerin yerini alır. Bu eylemden emin misin?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Bu duvar kağıdı kütüphanesini kaldırmak istediğinizden emin misiniz?"
+   },
+   "confirm_unbind": {
+      "message": "Bu hesabın bağlantısını kes?"
+   },
+   "confirm_unbind_email": {
+      "message": "$email$ e-posta göndermek istediğinize emin misiniz?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Telefon numaranızı kaldırmak istediğinizden emin misiniz $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "İletişim mühendisi"
+   },
+   "contact_us": {
+      "message": "Bize ulaşın"
+   },
+   "copy": {
+      "message": "Kopyala"
+   },
+   "cubic_bezier": {
+      "message": "Geri dönmek"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Profil fotoğrafı"
+   },
+   "current_browser_not_support": {
+      "message": "Mevcut tarayıcı uzatma yönetimini desteklemiyor"
+   },
+   "current_no_reminders": {
+      "message": "Hiç Yapılacaklar Ögesi Yok"
+   },
+   "current_node": {
+      "message": "Geçerli düğüm"
+   },
+   "custom": {
+      "message": "Özelleştir"
+   },
+   "custom_icon": {
+      "message": "Simgeyi kişiselleştir"
+   },
+   "custom_layout": {
+      "message": "Düzeni özelleştir"
+   },
+   "custom_site": {
+      "message": "Özel web sitesi"
+   },
+   "default": {
+      "message": "Varsayılan"
+   },
+   "del_folder": {
+      "message": "Sil"
+   },
+   "delete_all_bookmarks": {
+      "message": "Bu dizin altında tüm yer imzaları sil"
+   },
+   "disable_chrome_app": {
+      "message": "Uygulamayı devre dışı bırak"
+   },
+   "disable_extension": {
+      "message": "Uzantıları devre dışı bırak"
+   },
+   "do_later": {
+      "message": "Daha sonra konuşun"
+   },
+   "done": {
+      "message": "Bitti"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Crx indir"
+   },
+   "download_current_wallpaper": {
+      "message": "Mevcut duvar kağıdını indirin"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckgo, geleneksel bir arama motorunun yanı sıra, geleneksel bir arama motorunun yanı sıra, web sitesinin felsefesi, kullanıcıların gizliliğini saygı duymak, arama içeriğini izlememeye ya da belgelenmemeye söz vermektir."
+   },
+   "ease_in": {
+      "message": "Aydınlat"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Enter edge://settings/onStartup Tarayıcı Adres çubuğunda, ardından ENTER tuşuna basın."
+   },
+   "edge_browser_guide2": {
+      "message": "Şekildeki ok tarafından belirtilen seçeneği tıklayın."
+   },
+   "edge_browser_guide3": {
+      "message": "Açılır pencerede URL https://inftab.com girin ve ardından Ana Sayfa ayarını tamamlamak için Ekle düğmesini tıklatın."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "edit_avatar": {
+      "message": "Kullanıcı resmi düzenleme"
+   },
+   "edit_content": {
+      "message": "İçerik düzenle"
+   },
+   "edit_icon": {
+      "message": "Simgeyi Düzenle"
+   },
+   "education": {
+      "message": "Eğitim ve işler"
+   },
+   "email": {
+      "message": "E-posta"
+   },
+   "email_code": {
+      "message": "Email kodu"
+   },
+   "email_format_error": {
+      "message": "E-posta biçimi doğru değil"
+   },
+   "email_or_phone_number_tips": {
+      "message": "E-posta veya cep telefonu numarası"
+   },
+   "empty": {
+      "message": "Boş"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Klasörü silmek istiyor musun?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Yer imini silmek istiyor musunuz?"
+   },
+   "ensure_logout": {
+      "message": "Oturumu kapatmak istediğinizden emin misiniz?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "Yapılacaklarınızı doldurun, giriş tıklayıp öğeleri ekleyin"
+   },
+   "enter_password_tips": {
+      "message": "Parolayı Girin"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Doğru telefon numarasını girin"
+   },
+   "enter_verification_code_tips": {
+      "message": "Lütfen doğrulama kodunu girin"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Yedekleme verilerini dışa aktarın"
+   },
+   "export_local_data_desc": {
+      "message": "Mevcut yerel verilerin dışa aktarılması"
+   },
+   "extension": {
+      "message": "Uzantılar"
+   },
+   "extension_app": {
+      "message": "Uzantılar"
+   },
+   "extension_des": {
+      "message": "Serbestçe web sitesi simgeleri ekleyin, yüksek çözünürlüklü bulut sürücüsü duvar kağıtları keyfini çıkarın ve Milyonlarca kullanıcı tarafından seçilen yeni sekme sayfasındaki yer imlerine, hava durumu bilgilerine, notlara, yapılacaklar listelerine, uzatma yönetimine ve geçmişine hızlı bir şekilde erişin."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tech APP Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
+   },
+   "extension_des_firefox": {
+      "message": "Yeni Tab Milyonlarca kullanıcılar tarafından seçildi. Bu, Web Ikonları, Arama Makineleri, HD Duvarkağıtlar, Hava, Notlar, Kayıtlar, Yapılan Listesi, Tarih, Uzantı Yönetimi, ETC dahil olabilir."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tech Pro Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
+   },
+   "extension_mananger": {
+      "message": "Uzantıları yönet"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Facebook Grubuna Katılın"
+   },
+   "fahrenheit": {
+      "message": "Fahrenhayt"
+   },
+   "feedback": {
+      "message": "Geri Bildirim"
+   },
+   "female": {
+      "message": "Kadın"
+   },
+   "filter": {
+      "message": "Seçenekler"
+   },
+   "finance": {
+      "message": "maliye"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox Eklenti Mağazası"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Giriş about: preferences #home Adres çubuğunda ayar sayfasına girmek için."
+   },
+   "firefox_browser_guide2": {
+      "message": "Şekildeki ok tarafından gösterildiği gibi, özel URL'lerin seçeneğini seçin."
+   },
+   "firefox_browser_guide3": {
+      "message": "URL'yi https://inftab.com metin kutusuna girin, Ana Sayfa Kurulumu tamamlandı."
+   },
+   "five_star": {
+      "message": "5 yıldız ver"
+   },
+   "folder": {
+      "message": "Klasör"
+   },
+   "follow_us": {
+      "message": "Bizi Takip Edin"
+   },
+   "follow_wechat": {
+      "message": "Infinity Wechat Halk Hesaplarını takip edin"
+   },
+   "follow_wechat_desc": {
+      "message": "Wechat kamu numaramıza dikkat edin (mikro sinyal: InfinityDaily), Sonsuz son ürün dinamiklerini edinin ve genişletilecek ve web sitesini daha fazla daha eğlenceli keşfedebilirsiniz."
+   },
+   "font": {
+      "message": "Yazı tipleri"
+   },
+   "font_color": {
+      "message": "Yazı tipi rengi"
+   },
+   "font_size": {
+      "message": "Metin boyutu"
+   },
+   "food_drink": {
+      "message": "Yiyecek"
+   },
+   "forget_password": {
+      "message": "Şifremi Unuttum"
+   },
+   "format_error": {
+      "message": "Biçim hatası"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Büyük miktarda telif ücretsiz fotoğraf, günlük kullanmak ve güncellemek için ücretsiz"
+   },
+   "fri": {
+      "message": "Cuma"
+   },
+   "fri_min": {
+      "message": "Cum"
+   },
+   "fully_authorized_to_use": {
+      "message": "İşlevleri kullanmaya tamamen yetkili"
+   },
+   "games": {
+      "message": "Oyun ve eğlence"
+   },
+   "gamil_notice": {
+      "message": "Gmail bildirimleri"
+   },
+   "gender": {
+      "message": "Cinsiyet seçin"
+   },
+   "get_app_permission": {
+      "message": "Yerel uygulamanızı alma yetkisi"
+   },
+   "get_cloud_icon": {
+      "message": "Çevrimiçi edinmek"
+   },
+   "give_money": {
+      "message": "Bağış yap"
+   },
+   "give_money_thanks": {
+      "message": "Desteğiniz en büyük ödülümüz"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Infinity New Sekme sayfasını seviyorsanız, lütfen servisimize oy verin veya bize ignemize yardımcı olmak için bize geri bildirim verin."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Herhangi bir sorunuz veya öneriniz varsa, lütfen bizimle iletişime geçin."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail bildirim zil sesi"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Arama, Google tarafından geliştirilen bir arama motorudur. İnternetteki en büyük, en etkili arama motorudur"
+   },
+   "have_todo_item": {
+      "message": "Şu anda yapılacak bir şey var"
+   },
+   "hide_homepage_btn": {
+      "message": "Ev düğmesi olarak ayarlayın"
+   },
+   "hide_icon_name": {
+      "message": "Simge adını gizle"
+   },
+   "hide_search_button": {
+      "message": "Aramayı gizle düğmesi"
+   },
+   "hide_search_category": {
+      "message": "Arama kategorisini gizle"
+   },
+   "hide_search_input": {
+      "message": "Arama kutusunu gizle"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Ev düğmesi olarak ayarlayın"
+   },
+   "hint": {
+      "message": "İpucu"
+   },
+   "history": {
+      "message": "Geçmiş"
+   },
+   "history_backup_list": {
+      "message": "Geçmiş Yedekleme Düğümü Listesi"
+   },
+   "history_week": {
+      "message": "Bir hafta içinde tarihi arayın"
+   },
+   "host_permission": {
+      "message": "Ana Bilgisayar İzinleri"
+   },
+   "hour": {
+      "message": "saat"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "İnternet sitesi"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Ödüllendirmek istiyorum"
+   },
+   "icon": {
+      "message": "Simge"
+   },
+   "icon_added": {
+      "message": "Eklendi"
+   },
+   "icon_bg_text": {
+      "message": "Simge metni"
+   },
+   "icon_network_error": {
+      "message": "Ağ istisnası, yeniden yüklemek için tıklayın"
+   },
+   "ignore": {
+      "message": "Yoksay"
+   },
+   "img_verify_code": {
+      "message": "Doğrulama Resmi"
+   },
+   "import_data": {
+      "message": "Yedekleme verilerini alma"
+   },
+   "import_data_desc": {
+      "message": "Yedekleme dosyasından veri kurtarma"
+   },
+   "import_select_tile": {
+      "message": "Veri seç"
+   },
+   "infinity_bookmarks": {
+      "message": "Yer imi klasörünüzü hiyerarşinizi düzleştirin ve Infinity yer imleri ile yer imlerini daha kolay bul"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Sonsuzluk özellikli anime duvar kağıtları"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Yüksek kaliteli sonsuzluk anime duvar kağıdı kütüphanesi"
+   },
+   "infinity_extension": {
+      "message": "Infinity Extension Manager ile krom uzantılarınızı ve uygulamalarınızı kolayca yönetin"
+   },
+   "infinity_history": {
+      "message": "Tarayıcı geçmişinizi sonsuzluk tarihi ile hızlı bir şekilde görüntüleyin ve yönetin"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Sonsuzluk özellikli manzara duvar kağıtları"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Yüksek kaliteli sonsuzluk manzarası duvar kağıdı kütüphanesi"
+   },
+   "infinity_notes": {
+      "message": "Yaşamın ilhamlarını sonsuzluk notlarıyla hızlı bir şekilde kaydedin"
+   },
+   "infinity_settings": {
+      "message": "Infinity Yeni Sekme sayfanızı sonsuzluk ayarlarıyla kişiselleştirin"
+   },
+   "infinity_todos": {
+      "message": "Görevlerinizi sırayla düzenleyin ve iş verimliliğinizi sonsuza dek listesi ile geliştirin"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Kütüphanesi size zengin ve heyecan verici duvar kağıtları sunar"
+   },
+   "infinity_weather": {
+      "message": "Sonsuzluk havası size dünyadaki şehirlerin hava tahminlerini sağlar"
+   },
+   "info": {
+      "message": "Bilgi"
+   },
+   "inportdata_desc": {
+      "message": "İtal veriler yerel verilerle uyumlu değil. Lütfen birleştir ya da üstüne yaz."
+   },
+   "input_and_search": {
+      "message": "Arama terimini girin"
+   },
+   "input_city": {
+      "message": "Şehir/Bölge girin"
+   },
+   "input_new_password": {
+      "message": "Yeni şifreyi girin"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "İlişkili"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Herhangi bir amaç için ücretsiz fotoğraflar"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Arama kutusunun içeriklerini tut"
+   },
+   "label": {
+      "message": "Etiketler"
+   },
+   "language": {
+      "message": "Dil"
+   },
+   "language_select": {
+      "message": "Dil seçin"
+   },
+   "last_sync_time": {
+      "message": "Son Sync Saati: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Son Güncelleme Tarihi"
+   },
+   "layout": {
+      "message": "Düzen"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Ücretsiz HD Duvar Kağıdı Kaynağı"
+   },
+   "life_style": {
+      "message": "Yaşam tarzı"
+   },
+   "limit_input_length": {
+      "message": "Sınır ötesindeki metin uzunluğu"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Yerel simgesi"
+   },
+   "local_wallpaper2": {
+      "message": "Yerel Duvar Kağıtları"
+   },
+   "login": {
+      "message": "Oturum açın"
+   },
+   "login_abandon_tips": {
+      "message": "Mevcut oturum açma yöntemi yakında kaldırılacaktır, lütfen oturum açtıktan sonra e-postanızı veya diğer üçüncü taraf hesabınızı bağlayın"
+   },
+   "login_now": {
+      "message": "Daha fazla izin keyfini çıkarmak için şimdi sonsuzluk hesabınıza giriş yapın"
+   },
+   "login_now_btn": {
+      "message": "Oturum aç"
+   },
+   "login_register": {
+      "message": "Giriş / Hesap oluşturun"
+   },
+   "loging": {
+      "message": "Oturum açılıyor"
+   },
+   "logout": {
+      "message": "Oturumu kapat"
+   },
+   "logout_clear_something": {
+      "message": "Kişiselleştirilmiş ayarları ve bu cihazdaki diğer bilgileri temizleyin"
+   },
+   "logout_tips": {
+      "message": "Bu cihazdaki farklı hesaplardan gelen verileri bağlantı kurmak için hesabınızdan çıkmadan önce yerel verileri temizlemeniz gerekir mi?"
+   },
+   "logout_warn": {
+      "message": "Hesaptan çıktıktan sonra, bu hesabın altındaki yedekleme bilgilerinin tümü silinir. Bu hesaptan çıkmak istediğinize emin misiniz? (Notes ve özel duvar kağıdı kütüphaneleri resmi mevcut olmayabilir)"
+   },
+   "male": {
+      "message": "Erkek"
+   },
+   "manage_backup_node": {
+      "message": "Geçmişi Yedekleme Düğümlerini Yönet"
+   },
+   "manul_backup": {
+      "message": "Manuel yedekleme"
+   },
+   "map": {
+      "message": "Haritalar"
+   },
+   "mask_density": {
+      "message": "Duvar kağıdı düşür"
+   },
+   "me": {
+      "message": "Ben"
+   },
+   "merge_cloud_local": {
+      "message": "Yerel ve bulut verilerini birleştirin"
+   },
+   "merge_data": {
+      "message": "Verileri birleştir"
+   },
+   "mini_mode": {
+      "message": "Minimalist mod"
+   },
+   "mins": {
+      "message": "Dk"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Web sitelerinizde, temalarınızda, şablonlarınızda, projelerinizde, baskı malzemelerinin ve gazetelerde kullanın. Her hafta yeni duvar kağıtları ve videolar eklendi"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobil Versyonu"
+   },
+   "modify": {
+      "message": "Bilgileri düzenleyin"
+   },
+   "modify_email": {
+      "message": "E-postayı değiştir"
+   },
+   "modify_password": {
+      "message": "Şifreyi düzenle"
+   },
+   "modify_phone_number": {
+      "message": "Telefon numarasını değiştir"
+   },
+   "modify_pwd": {
+      "message": "Şifreyi düzenle"
+   },
+   "modify_success": {
+      "message": "Başarıyla değiştirildi"
+   },
+   "modify_this": {
+      "message": "Düzenle"
+   },
+   "mon": {
+      "message": "Pazartesi"
+   },
+   "mon_min": {
+      "message": "Pzt"
+   },
+   "month_1": {
+      "message": "Ocak"
+   },
+   "month_10": {
+      "message": "Ekim"
+   },
+   "month_11": {
+      "message": "Kasım"
+   },
+   "month_12": {
+      "message": "Aralık"
+   },
+   "month_2": {
+      "message": "Şubat"
+   },
+   "month_3": {
+      "message": "Mart"
+   },
+   "month_4": {
+      "message": "Nisan"
+   },
+   "month_5": {
+      "message": "Mayıs"
+   },
+   "month_6": {
+      "message": "Haziran"
+   },
+   "month_7": {
+      "message": "Temmuz"
+   },
+   "month_8": {
+      "message": "Ağustos"
+   },
+   "month_9": {
+      "message": "Eylül"
+   },
+   "more_content_from_site": {
+      "message": "Bu web sitesinden daha fazla içerik"
+   },
+   "most_used_in_chinese": {
+      "message": "Arama motoru Çince en çok kullandı"
+   },
+   "music_video": {
+      "message": "Video Klip"
+   },
+   "my_collection": {
+      "message": "Seçkim"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Lütfen web sitesi adını girin"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Doğa"
+   },
+   "need_you_permission": {
+      "message": "İzin gerekli"
+   },
+   "network_error": {
+      "message": "Ağ hatası"
+   },
+   "new_email": {
+      "message": "Yeni E-Posta"
+   },
+   "new_password": {
+      "message": "Yeni şifreyi girin"
+   },
+   "new_phone_number": {
+      "message": "Yeni Telefon Numarası"
+   },
+   "new_tab": {
+      "message": "Yeni Sekme"
+   },
+   "new_tab_web": {
+      "message": "Infinity Anasayfa"
+   },
+   "news": {
+      "message": "Haberler"
+   },
+   "next": {
+      "message": "İleri"
+   },
+   "nickname": {
+      "message": "Takma ad"
+   },
+   "no_account_register": {
+      "message": "Hesabınız yok mu? Hemen kaydolun."
+   },
+   "no_backup_time": {
+      "message": "Yok"
+   },
+   "no_bookmark_result": {
+      "message": "Yer işareti yok"
+   },
+   "no_chrome_app": {
+      "message": "Herhangi bir $browser$ uygulaması kurmadın",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Hava durumu verisi yok"
+   },
+   "no_data": {
+      "message": "Veri bulunmuyor"
+   },
+   "no_description": {
+      "message": "Açıklama Yok"
+   },
+   "no_more": {
+      "message": "Başka yok"
+   },
+   "no_more_reminder": {
+      "message": "Tekrar gösterme"
+   },
+   "no_permission_text": {
+      "message": "Tarayıcı Adres Çubuğu veya Ayarlar Merkezi'nde bu izni açıp vermeye çalışmanız önerilir."
+   },
+   "no_permission_title": {
+      "message": "Henüz izin verilmedi"
+   },
+   "no_permission_to_open_app": {
+      "message": "$browser$ uygulamasını açmak için izin yok",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Hiç Yapılacaklar Ögesi Yok"
+   },
+   "no_search_result": {
+      "message": "Arama sonucu yok"
+   },
+   "no_title": {
+      "message": "Başlıksız"
+   },
+   "none": {
+      "message": "Gizli"
+   },
+   "none_auto_backup": {
+      "message": "Şu anda programlanmış yedekler yok"
+   },
+   "none_auto_backup_desc": {
+      "message": "Zamanlanmış yedeklemeler aynı günde sonsuzluk hakkındaki bilgileri değiştirirsiniz"
+   },
+   "none_manual_backup": {
+      "message": "Şu anda manuel yedekleme yok"
+   },
+   "normal_model": {
+      "message": "Standart mod"
+   },
+   "not_binding": {
+      "message": "İlişkili değil"
+   },
+   "note_title": {
+      "message": "Notların başlığını girin"
+   },
+   "note_upload_img_15": {
+      "message": "Bu resim boyutu 15M'yi aşamaz"
+   },
+   "notes": {
+      "message": "Notlar"
+   },
+   "notice": {
+      "message": "Bildirim"
+   },
+   "ocean": {
+      "message": "Okyanus"
+   },
+   "one_day_later": {
+      "message": "Yarın hatırlat"
+   },
+   "one_week_later": {
+      "message": "1 haftaya hatırlat"
+   },
+   "only_used_infinity": {
+      "message": "Sadece sonsuzluk iç modülleri için kullanılır"
+   },
+   "opacity": {
+      "message": "Simgelerin Saydamlığı"
+   },
+   "open_all": {
+      "message": "Tümünü aç"
+   },
+   "open_chrome_app": {
+      "message": "Uygulamayı etkinleştir"
+   },
+   "open_extension": {
+      "message": "Genişletmeyi Etkinleştir"
+   },
+   "open_folder_icons": {
+      "message": "Tümünü aç"
+   },
+   "open_new_tab": {
+      "message": "Yeni sekmesinde Web Sitesini Açın"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Bookmarked bağlantısını yeni sekmede açın"
+   },
+   "open_newtab_history": {
+      "message": "Yeni sekmede tarihi aç"
+   },
+   "open_newtab_show_search": {
+      "message": "Yeni sekmede üçüncü taraf arama sonuçları"
+   },
+   "origin_password": {
+      "message": "Mevcut şifre"
+   },
+   "other_bookmarks": {
+      "message": "Diğer Yer İşaretleri"
+   },
+   "others": {
+      "message": "Diğerleri"
+   },
+   "oversize": {
+      "message": "Büyüklük 2MB'den fazla olamaz"
+   },
+   "overwrite_data": {
+      "message": "Üzerine yaz"
+   },
+   "pagin": {
+      "message": "Sayfa düğmesi"
+   },
+   "password": {
+      "message": "Şifre"
+   },
+   "password_dont_empty": {
+      "message": "Parola boş olamaz"
+   },
+   "password_length_low": {
+      "message": "Şifre 6 rakamdan az değil"
+   },
+   "password_not_equals": {
+      "message": "Parolalar aynı değil"
+   },
+   "password_not_some": {
+      "message": "Girilen şifreler eşleşmiyor"
+   },
+   "permission": {
+      "message": "Yetkilendir"
+   },
+   "permission_all": {
+      "message": "Hepsini yetkilendirmek"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Mail.google.com'daki verilerinize erişme ve değiştirme isteği; bildirimleri gösterme isteği"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail bildirimleri"
+   },
+   "permission_gmail_num_content": {
+      "message": "Mail.google.com adresindeki verilerinize erişme ve değiştirme isteği"
+   },
+   "permission_gmail_num_title": {
+      "message": "Gmail miktarına erişin"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Google.com ve önerideki verilerinize erişme ve değiştirme isteği."
+   },
+   "permission_serch_suggest_title": {
+      "message": "Arama önerisi"
+   },
+   "permission_todo_notice_content": {
+      "message": "Ekran bildirimi isteyin"
+   },
+   "permission_todo_notice_title": {
+      "message": "Yapılacaklar bildirimleri"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Ziyaret edilen web sitelerine karşılık gelen simgelere erişme ve yer imlerinize erişin ve değiştirme isteği"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Yer imlerini üstüne göster"
+   },
+   "permission_top_useful_content": {
+      "message": "Ziyaret edilen web sitelerine karşılık gelen simgelere erişme ve en sık web sitelerinin listenize erişme ve değiştirme isteği"
+   },
+   "permission_top_useful_title": {
+      "message": "Üstte sık kullanılan siteleri göster"
+   },
+   "permisson_label": {
+      "message": "İzinler"
+   },
+   "phone_number": {
+      "message": "Telefon numarası"
+   },
+   "photos": {
+      "message": "Resimler"
+   },
+   "pick_local_wallpaper": {
+      "message": "Yerel bir duvar kağıdı seçin"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Herhangi bir kullanım için mevcut olan ücretsiz ve güzel fotoğraflar"
+   },
+   "placeholder_name": {
+      "message": "Ad"
+   },
+   "please_chose_picture": {
+      "message": "Resmi Seçiniz"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Lütfen bir yer işareti adı girin"
+   },
+   "please_enter_email": {
+      "message": "E-posta adresini girin"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Lütfen görüntü doğrulama kodunu girin"
+   },
+   "please_enter_nickname": {
+      "message": "Takma ad girin"
+   },
+   "please_enter_phone": {
+      "message": "Lütfen telefon numarası girin"
+   },
+   "please_enter_right_account": {
+      "message": "Lütfen doğru e-posta veya telefon numarasını girin"
+   },
+   "please_enter_text": {
+      "message": "Giriş metni"
+   },
+   "please_enter_url": {
+      "message": "URL yaz"
+   },
+   "please_input_bg_text": {
+      "message": "Lütfen simge metnini girin"
+   },
+   "please_pre_login": {
+      "message": "Lütfen önce oturum açın"
+   },
+   "please_re_login": {
+      "message": "Lütfen yeniden oturum açın"
+   },
+   "please_set_your_password": {
+      "message": "Lütfen bir şifre ayarlayın"
+   },
+   "please_type_link": {
+      "message": "linki giriniz"
+   },
+   "please_type_right_link": {
+      "message": "Lütfen doğru bağlantı adresini girin"
+   },
+   "please_upload_photos": {
+      "message": "Lütfen bir resim yükleyin"
+   },
+   "popular": {
+      "message": "Popüler"
+   },
+   "preview": {
+      "message": "Önizleme"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Gizlilik ve Veri Toplama"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Özelleştirilmiş web sitesi simgesi tarafından oluşturulan görüntüler"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Özelleştirilmiş arama motoru tarafından oluşturulan görüntüler"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Kayıtlı e-posta adresiniz, yüklenen profil resmi, seçilen takma ad, düz olmayan metin şifresi ve diğer bilgiler"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Üçüncü taraf bir hesapla giriş yaparsanız, takma adınızı, cinsiyetinizi, profil resminizi ve üçüncü taraf tarafından sağlanan diğer bilgileri saklayacağız."
+   },
+   "privacy_data_item_2_3": {
+      "message": "Web Sitesi Simge Bilgi ve Arama Motoru Bilgileri Eklediğiniz"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Alanınızdaki hava durumu bilgileri veya hava durumu bilgileri"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Oluşturduğunuz listeler"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Oluşturduğunuz notların içeriği ve notlarınıza yüklenen görüntüler"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Mevcut duvar kağıdınız, duvar kağıdı ayarlarınız, yerel duvar kağıdınıza yüklenen görüntüler ve yerel duvar kağıdı kütüphanenize yüklenen görüntüler"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Uzatma ayarları"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Sunucu, kullanıcılar ve istemcilerle etkileşimler sırasında oluşturulan günlükleri saklayabilir. Bu kayıt esas olarak istisna hatalarını gidermek için kullanılır. Bu günlüğü zaman zaman temizleyeceğiz."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Tarayıcı Tipi, Dil ve Sürüm ve Ekran Çözünürlüğü"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Şu anda giriş yapmış veya değil"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Yaklaşık mevcut simgelerin sayısı"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Halen etkin uzantılar (uzatma yönetimi kullanıyorsanız)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Bu uzantının açıldığı sayısı"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP adresi ve IP adresinden türetilmiş coğrafi konum"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Web sitesi simgeleri ve arama motorları eklendi"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Duvar Kağıdı ve Uzatma Ayarları"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Uzatma sürümü"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Fonksiyon düğmelerine tıklama sıklığı"
+   },
+   "privacy_data_item_4_7": {
+      "message": "İstisna hata mesajı"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Web sitesinin adres ana bilgisayarını açın"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Mevcut Arama Motoru Host"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Anonim olarak bazı arama motorlarının kullanıldığını sayısını sayacağız."
+   },
+   "privacy_data_item_9": {
+      "message": "Bu uzantıyı kullanmadan önce bu Gizlilik Politikasını kabul etmelisiniz. $the_infinity_privacy$'ı daha fazla bilgi edinin.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Hayır, isimsiz verileri toplamayın"
+   },
+   "privacy_data_title_1": {
+      "message": "Kullanım sırasında gönüllü olarak oluşturulan görüntüleri saklayabiliriz. Aşağıdaki görüntüler isimsiz olarak depolanır:"
+   },
+   "privacy_data_title_2": {
+      "message": "Hesabınıza kaydolur veya giriş yaparsanız, veri yedekleme ve senkronizasyonu tamamlamak için sunucumuzda aşağıdaki tanımlanabilir verileri (bundan sonra kullanıcı verisi olarak adlandırılır) saklamamız gerekir:"
+   },
+   "privacy_data_title_3": {
+      "message": "Sunucu Günlüğü:"
+   },
+   "privacy_data_title_4": {
+      "message": "Aşağıdaki bilgilerin toplanması isteğe bağlıdır. Bilgi, Google Analytics aracılığıyla anonim olarak toplanacak ürünlerimizi geliştirmemize yardımcı olur:"
+   },
+   "privacy_data_title_5": {
+      "message": "Istatistiksel Analiz:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Lütfen Infinity Yeni sekme sayfasını kaldırmak için onaylayın"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Lütfen Infinity Yeni Tab Pro'yu kaldırmak için onaylayın"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Infinity Yeni sekme sayfasını kaldırın?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Infinity New TAB Pro'yu kaldırın?"
+   },
+   "privacy_data_yes": {
+      "message": "Evet, isimsiz veriler Gizlilik Politikasına uygun olarak toplanabilir."
+   },
+   "privacy_disagree": {
+      "message": "Kabul etmiyorum"
+   },
+   "privacy_policy": {
+      "message": "Gizlilik Politikası"
+   },
+   "privacy_title": {
+      "message": "Gizlilik Politikası Sözleşmesi"
+   },
+   "profile": {
+      "message": "Kişisel bilgiler"
+   },
+   "pure_color": {
+      "message": "Saf renk"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ grubu"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Rastgele Duvar Kağıdı Seç"
+   },
+   "re_update": {
+      "message": "Yeniden yükseltmek"
+   },
+   "read": {
+      "message": "Oku"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Kişisel ve ticari kullanım için büyük miktarda HD fotoğraf, her hafta 7 yenisi"
+   },
+   "recently_add": {
+      "message": "Son Eklenenler"
+   },
+   "recently_use": {
+      "message": "Son kullanılan"
+   },
+   "recover_error": {
+      "message": "Veri Kurtarma Başarısız"
+   },
+   "recover_error_version": {
+      "message": "Desteklenmeyen veri formatı"
+   },
+   "recover_this": {
+      "message": "Bu düğümden kurtarma"
+   },
+   "redius": {
+      "message": "Simge yuvarlatılmış köşeleri"
+   },
+   "refresh_qrcode": {
+      "message": "QR kodu geçersiz, Yenile'yi tıklatın"
+   },
+   "register": {
+      "message": "Kayıt ol"
+   },
+   "register_back": {
+      "message": "Geri git"
+   },
+   "register_get_email_code_error": {
+      "message": "Doğrulama kodu alınamadı"
+   },
+   "register_now": {
+      "message": "Daha fazla izin keyfini çıkarmak için şimdi sonsuzluk hesabınızı kaydedin"
+   },
+   "relative_humidity": {
+      "message": "Bağıl nem"
+   },
+   "reload": {
+      "message": "Yeniden deneyin"
+   },
+   "reminder_update_text1": {
+      "message": "Infinity deki deneyiminizi geliştirmek için"
+   },
+   "reminder_update_text2": {
+      "message": "Tarayıcıyı en son sürüme yükseltmeniz önerilir ve Infinity ile uyumlu bir tarayıcı kullanmanız önerilir"
+   },
+   "reminder_update_title": {
+      "message": "Sayfada hata görüntüleme"
+   },
+   "remove_account": {
+      "message": "Hesabı Sil"
+   },
+   "remove_done": {
+      "message": "Tamamlanan öğeleri kaldırın"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Bu duvar kağıdı kütüphanesi altındaki tüm duvar kağıtları birlikte kaldırılacak"
+   },
+   "rename_folder": {
+      "message": "Yeniden adlandır"
+   },
+   "repair_auto_backup": {
+      "message": "Verileri otomatik olarak yedekleme"
+   },
+   "repair_concat": {
+      "message": "iletişim detayları"
+   },
+   "repair_concat_email": {
+      "message": "e-posta: "
+   },
+   "repair_concat_qq": {
+      "message": "Mühendis QQ: "
+   },
+   "repair_data": {
+      "message": "Onarım verileri"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Lütfen tamir edilecek veri dosyasını aşağıdaki iletişim bilgileri aracılığıyla bize gönderin, verileri en kısa sürede onarmanıza yardımcı olalım. Mühendis sorunu çözmeden önce lütfen başka işlemler yapmamaya çalışın. Bu dosya, hesaplar gibi hassas bilgiler içerebilir, lütfen başkalarına açıklamayın."
+   },
+   "repair_data_title": {
+      "message": "Kayıp veya hasarlı verileri alın"
+   },
+   "repair_export_btn": {
+      "message": "Onarılacak Verileri İhracat"
+   },
+   "repeat_city": {
+      "message": "Aynı şehri tekrar ekleyemezsiniz"
+   },
+   "reqeust_login_message": {
+      "message": "Bu özelliği kullanmak için oturum açmanız gerekir"
+   },
+   "request_logout_confirm": {
+      "message": "Hesabınız silinsin mi?"
+   },
+   "request_reset_all_settings": {
+      "message": "Ayarları varsayılan değerlere sıfırlamak istediğinizden emin misiniz?"
+   },
+   "reset": {
+      "message": "Sıfırla"
+   },
+   "reset_password": {
+      "message": "Şifreleri sıfırla"
+   },
+   "reset_password_by_email": {
+      "message": "Parolanızı e-posta doğrulaması yoluyla sıfırlayın"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Parolanızı e-posta veya telefon numarası doğrulaması yoluyla sıfırlayın"
+   },
+   "reset_setting": {
+      "message": "Ayarları sıfırla"
+   },
+   "reset_your_password": {
+      "message": "Harap mereset kata sandi Anda"
+   },
+   "restore_setting": {
+      "message": "Ayarları Geri Yükle"
+   },
+   "revovery_data": {
+      "message": "Verileri geri yükle"
+   },
+   "row_gap": {
+      "message": "Satır aralığı"
+   },
+   "row_num": {
+      "message": "Sütunlar"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Şekildeki ok tarafından gösterildiği gibi seçeneği tıklayın."
+   },
+   "safari_browser_guide2": {
+      "message": "Açılır pencerede, Ana Sayfa sütununda URL https://inftab.com adresini girin."
+   },
+   "safari_browser_guide3": {
+      "message": "Ana sayfa ayarını tamamlamak için URL'nin altındaki düğmesini tıklayın."
+   },
+   "sat": {
+      "message": "Cumartesi"
+   },
+   "sat_min": {
+      "message": "Ctsi"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "scale": {
+      "message": "Simge boyutu"
+   },
+   "scale_main": {
+      "message": "Ekran yakınlaştırma"
+   },
+   "scale_side": {
+      "message": "Yan sütun zoom"
+   },
+   "scheduled_backup": {
+      "message": "Yedekleme zamanlaması"
+   },
+   "search": {
+      "message": "Ara"
+   },
+   "search_bookmark": {
+      "message": "Yer işaretlerinizde arayın"
+   },
+   "search_engine": {
+      "message": "Arama Motoru"
+   },
+   "search_engine_error": {
+      "message": "Arama motoru adını yazın"
+   },
+   "search_error": {
+      "message": "Yükleme Başarısız Oldu"
+   },
+   "search_extension": {
+      "message": "Uzantılarda ara"
+   },
+   "search_from": {
+      "message": "Arandı: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Arama simgesi"
+   },
+   "search_input": {
+      "message": "arama kutusu"
+   },
+   "search_input_shadow": {
+      "message": "Arama kutusu gölge"
+   },
+   "search_opacity": {
+      "message": "Arama kutusu opaklığı"
+   },
+   "search_redius": {
+      "message": "Arama kutusu yuvarlatılmış köşeleri"
+   },
+   "search_result": {
+      "message": "Arama Sonuçları"
+   },
+   "search_size": {
+      "message": "Arama kutusu boyutu"
+   },
+   "search_suggest": {
+      "message": "Arama önerilerini göster"
+   },
+   "search_website": {
+      "message": "Siteleri ara"
+   },
+   "searching": {
+      "message": "Aranıyor"
+   },
+   "select_date": {
+      "message": "Tarih Seç"
+   },
+   "select_icon": {
+      "message": "Simge seçin"
+   },
+   "select_time": {
+      "message": "Zamanı Seçin"
+   },
+   "send_success": {
+      "message": "Doğrulama e-postası gönderildi. Lütfen gelen kutusunu kontrol edin"
+   },
+   "set_homepage_desc": {
+      "message": "Tam özelliklerin tadını çıkarmak için tarayıcının uzantısını yükleyin"
+   },
+   "set_homepage_title2": {
+      "message": "Bu özellik mevcut sürümde desteklenmiyor_#_Lütfen kullanmadan önce tarayıcı uzantısını yükleyin"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Tarayıcınız için ana sayfa olarak Infinity ayarlayın"
+   },
+   "set_new_password": {
+      "message": "Yeni şifreyi ayarla"
+   },
+   "set_remind_time": {
+      "message": "Hatırlatma zamanını ayarla"
+   },
+   "set_setting_default": {
+      "message": "Varsayılan ayarlara geri dön"
+   },
+   "set_to_homepage": {
+      "message": "Giriş sayfası yap"
+   },
+   "set_top": {
+      "message": "Üstte"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "takma adı ve avatarı ayarlayın"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "shadow": {
+      "message": "Icons shadow"
+   },
+   "share": {
+      "message": "Paylaş"
+   },
+   "share_by_user": {
+      "message": "Halka Açık Yerlerin"
+   },
+   "share_desc": {
+      "message": "Infinity Yeni sekmesi, Milyonlarca seçilen bir navigasyon uzantısı, tarayıcıdaki en kullanıcı dostu yeni sekme"
+   },
+   "share_title": {
+      "message": "$browser$ tarayıcısındaki en iyi yeni sekme olabilir",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Alışveriş ve grup satın alma"
+   },
+   "shortcut_mode": {
+      "message": "Hızlı Giriş"
+   },
+   "show_detail": {
+      "message": "Şimdi görüntüleyin"
+   },
+   "show_gamil_unread_number": {
+      "message": "Gmail'den Gmail'den okunmamış e-postaların numarasını göster"
+   },
+   "show_later": {
+      "message": "Sonra hatırlat"
+   },
+   "show_name": {
+      "message": "Görüntülenecek isim"
+   },
+   "show_reminders_number": {
+      "message": "Simgenin üzerinde yapılacakların sayısını göster"
+   },
+   "skip": {
+      "message": "Atla"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Fotoğrafları bulmak, görüntülemek ve paylaşmak için bir yer"
+   },
+   "social": {
+      "message": "Sosyal Medya ve Bloglar"
+   },
+   "solid_color_wallpaper": {
+      "message": "Tek renkli duvar kağıdı"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Wechat Resmi Hesaplar tarafından gönderilen içerikleri arayabilecek arama motoru"
+   },
+   "sports": {
+      "message": "Spor ve Seyahat"
+   },
+   "start_animation": {
+      "message": "Animasyona başlamak"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "BEDAVA fotoğraflarla başlangıç, blogcular, yayıncılar, web siteleri, tasarımcılar, geliştiriciler, yaratıcılar ve öteleri sağlayın"
+   },
+   "street_photography": {
+      "message": "Sokak"
+   },
+   "sun": {
+      "message": "Pazar"
+   },
+   "sun_min": {
+      "message": "Paz"
+   },
+   "support": {
+      "message": "Destek"
+   },
+   "switch_to": {
+      "message": "İçeri değiştir"
+   },
+   "sync_fail": {
+      "message": "Senkronizasyon başarısız oldu, lütfen tekrar deneyin"
+   },
+   "sync_suncess": {
+      "message": "Eşitleme tamamlandı."
+   },
+   "sync_type_tips": {
+      "message": "Bulut verileri ve yerel verilerin tutarsız olduğu tespit edilir. Lütfen bir tür veri seçin."
+   },
+   "syncing": {
+      "message": "Senkronize ediliyor..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Bu $browser$ uygulamasını yüklemediniz",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Hedefi açmanın yolu"
+   },
+   "tech": {
+      "message": "Teknoloji"
+   },
+   "technology": {
+      "message": "Teknoloji"
+   },
+   "term_of_use": {
+      "message": "Kullanım Şartları"
+   },
+   "text": {
+      "message": "Metin"
+   },
+   "text_shadow": {
+      "message": "Metin Gölgesi"
+   },
+   "thirt_party": {
+      "message": "Üçüncü taraf bir hesap girişi kullanın"
+   },
+   "thu": {
+      "message": "Perşembe"
+   },
+   "thu_min": {
+      "message": "Prş"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Herhangi bir web sitesini açın ve arama kutusuna arama kutusuna \"% s\" girin. (Örnek olarak Google ile)"
+   },
+   "tip_question_2": {
+      "message": "2. Arama sonucunun URL'sini doğrudan kopyalayın"
+   },
+   "tip_question_3": {
+      "message": "3. Kopyalanan URL'yi burada yapıştırın ve bitirdiniz"
+   },
+   "tip_question_title": {
+      "message": "Arama terimlerini değiştirmek için \"% s\" kullanma hakkında"
+   },
+   "to_login": {
+      "message": "Şimdi Giriş Yap"
+   },
+   "today": {
+      "message": "Bugün"
+   },
+   "todo_welcome": {
+      "message": "Infinity Yeni sekme sayfasına hoş geldiniz. Bu, yapılacak bir örnektir."
+   },
+   "todos": {
+      "message": "Yapılacaklar"
+   },
+   "top_bookmark": {
+      "message": "Yer imlerini üstüne göster"
+   },
+   "top_use_ful": {
+      "message": "Üstte sık kullanılan siteleri göster"
+   },
+   "travel": {
+      "message": "Seyahat"
+   },
+   "tue": {
+      "message": "Salı"
+   },
+   "tue_min": {
+      "message": "Salı"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Bana 2 saat içinde hatırlat"
+   },
+   "type_link": {
+      "message": "Bağlantı Gir"
+   },
+   "type_text": {
+      "message": "Giriş metni"
+   },
+   "unbind": {
+      "message": "Sil"
+   },
+   "unbind_btn": {
+      "message": "İlişkiyi kes"
+   },
+   "unbind_email": {
+      "message": "E-postanın kilidini aç"
+   },
+   "unbind_phone_number": {
+      "message": "Telefon numaranızın bağını çöz"
+   },
+   "unbind_success": {
+      "message": "Başarıyla silindi"
+   },
+   "uninstall_agree": {
+      "message": "Kabul Ediyorum"
+   },
+   "uninstall_chrome_app": {
+      "message": "Uygulamanın yüklemesini kaldır"
+   },
+   "uninstall_extension": {
+      "message": "Uzantıyı kaldır"
+   },
+   "unknown_mistake": {
+      "message": "Bilinmeyen hata"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Dünyaca ünlü yüksek kaliteli duvar kağıtları"
+   },
+   "unzip_folder_content": {
+      "message": "Klasör silinir ve simge tutulacaktır. Emin misiniz?"
+   },
+   "unzip_folder_title": {
+      "message": "Yayınla"
+   },
+   "update_data": {
+      "message": "Verileri yükseltme"
+   },
+   "update_data_failure": {
+      "message": "Güncelleme Profili Başarısız"
+   },
+   "update_desc_1": {
+      "message": "Veri dönüştürme sürüm yükseltme sırasında başarısız olursa, verileri yeniden yükseltmeyi deneyebilirsiniz."
+   },
+   "update_desc_2": {
+      "message": "Hala sorunu birden çok kez çözemezseniz, mühendislerimizle iletişime geçebilirsiniz, çözmenize yardımcı olmaya çalışacağız."
+   },
+   "update_desc_3": {
+      "message": "Dönüşüm Verileri Yeni sürüm verilerinin üzerine yazar, çalıştırmadan önce verileri yedeklemeniz önerilir."
+   },
+   "update_error_desc1": {
+      "message": "Bazı verileri tespit ederseniz tekrar yükseltmeyi deneyebilirsiniz."
+   },
+   "update_error_desc2": {
+      "message": "Birden fazla yükseltmeyle başarısız olursanız, giriş için sağ üst köşeden \"Ayarlar\" simgesini de tıklayabilirsiniz - [My] - [Yedekleme ve Onarma]."
+   },
+   "update_now": {
+      "message": "Şimdi güncelleştir"
+   },
+   "update_or_repair_data": {
+      "message": "Verileri yükseltin veya onarın"
+   },
+   "upload_avatar_failure": {
+      "message": "Kullanıcı resminiz karşıya yüklenemedi"
+   },
+   "upload_file_error": {
+      "message": "Dosya yüklenmesi başarısız"
+   },
+   "upload_image_error": {
+      "message": "Resim yüklenemedi"
+   },
+   "uploading": {
+      "message": "Yüklüyor..."
+   },
+   "use_cloud": {
+      "message": "Bulut Verilerini Kullan"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Metin girin ve eklemek için ENTER tuşuna basın."
+   },
+   "use_local": {
+      "message": "Yerel verileri kullanın"
+   },
+   "use_mobile_screen": {
+      "message": "QR kodunu taramak için bir mobil cihaz kullanın"
+   },
+   "user_evaluation": {
+      "message": "Kullanıcı Yorumu"
+   },
+   "username_cannot_empty": {
+      "message": "Kullanıcı adı boş olamaz"
+   },
+   "verify_password_desc": {
+      "message": "Hesap güvenliğiniz için lütfen hesap şifresini girin"
+   },
+   "verity_code": {
+      "message": "Doğrulama Kodu Gönder"
+   },
+   "verity_code_no_value": {
+      "message": "Doğrulama kodu boş olamaz"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Görüntüle"
+   },
+   "w309": {
+      "message": "Çiselemek"
+   },
+   "w_100": {
+      "message": "Güneşli"
+   },
+   "w_101": {
+      "message": "Parçalı Bulutlu"
+   },
+   "w_102": {
+      "message": "Az bulutlu"
+   },
+   "w_103": {
+      "message": "Parçalı Bulutlu"
+   },
+   "w_104": {
+      "message": "Kapalı"
+   },
+   "w_200": {
+      "message": "Rüzgârlı"
+   },
+   "w_201": {
+      "message": "Soğukkanlı"
+   },
+   "w_202": {
+      "message": "Esintili"
+   },
+   "w_203": {
+      "message": "Ilımlı esinti"
+   },
+   "w_204": {
+      "message": "Serin esinti"
+   },
+   "w_205": {
+      "message": "Kuvvetli esinti"
+   },
+   "w_206": {
+      "message": "Sert rüzgar"
+   },
+   "w_207": {
+      "message": "Yüksek Rüzgar"
+   },
+   "w_208": {
+      "message": "Kuvvetli Fırtına"
+   },
+   "w_209": {
+      "message": "Fırtınalar"
+   },
+   "w_210": {
+      "message": "Fırtınalı"
+   },
+   "w_211": {
+      "message": "Kasırga"
+   },
+   "w_212": {
+      "message": "Tayfun"
+   },
+   "w_213": {
+      "message": "Tropik fırtına"
+   },
+   "w_300": {
+      "message": "Sağanak Yağışlı"
+   },
+   "w_301": {
+      "message": "Şiddetli yağmur duşu"
+   },
+   "w_302": {
+      "message": "Gök gürültülü ve sağanak yağışlı"
+   },
+   "w_303": {
+      "message": "Şiddetli sağanak yağışlı"
+   },
+   "w_304": {
+      "message": "Sulu karlı gök gürültülü hava"
+   },
+   "w_305": {
+      "message": "Hafif yağmur"
+   },
+   "w_306": {
+      "message": "Orta şiddette yağmur"
+   },
+   "w_307": {
+      "message": "Şiddetli yağmur"
+   },
+   "w_308": {
+      "message": "Aşırı yağmur vardır"
+   },
+   "w_310": {
+      "message": "Yağmur fırtınası"
+   },
+   "w_311": {
+      "message": "Şiddetli fırtına"
+   },
+   "w_312": {
+      "message": "Olağanüstü yağmur fırtınası"
+   },
+   "w_313": {
+      "message": "Donan yağmur"
+   },
+   "w_314": {
+      "message": "Orta yağmura dönen Hafif yağmur"
+   },
+   "w_315": {
+      "message": "Şiddetli yağmura dönen Orta Yağmur"
+   },
+   "w_316": {
+      "message": "Ağır yağmur - yağmur fırtınası"
+   },
+   "w_317": {
+      "message": "Fırtına ila ağır fırtına"
+   },
+   "w_318": {
+      "message": "Sağanak - yağmur fırtınası"
+   },
+   "w_399": {
+      "message": "Yağmur"
+   },
+   "w_400": {
+      "message": "Hafif kar yağışı"
+   },
+   "w_401": {
+      "message": "Orta şiddetli kar yağışı"
+   },
+   "w_402": {
+      "message": "Ağır kar yağışı"
+   },
+   "w_403": {
+      "message": "Kar fırtınası"
+   },
+   "w_404": {
+      "message": "Karla karışık yağmur"
+   },
+   "w_405": {
+      "message": "Karlı yağmur"
+   },
+   "w_406": {
+      "message": "Yer yer karla karışık yağmur"
+   },
+   "w_407": {
+      "message": "Kar duş"
+   },
+   "w_408": {
+      "message": "Açık orta karlı"
+   },
+   "w_409": {
+      "message": "Orta şiddetli kar yağışı"
+   },
+   "w_410": {
+      "message": "Kar fırtınası"
+   },
+   "w_499": {
+      "message": "Kar yağışlı"
+   },
+   "w_500": {
+      "message": "Sisli"
+   },
+   "w_501": {
+      "message": "Sisli"
+   },
+   "w_502": {
+      "message": "Kuru sis"
+   },
+   "w_503": {
+      "message": "Kum"
+   },
+   "w_504": {
+      "message": "Toz"
+   },
+   "w_507": {
+      "message": "Kum fırtınası"
+   },
+   "w_508": {
+      "message": "Şiddetli kum fırtınası"
+   },
+   "w_509": {
+      "message": "Yoğun Sis"
+   },
+   "w_510": {
+      "message": "Güçlü, yoğun sisli"
+   },
+   "w_511": {
+      "message": "Orta sis"
+   },
+   "w_512": {
+      "message": "Yoğun puslu"
+   },
+   "w_513": {
+      "message": "Ağır sis"
+   },
+   "w_514": {
+      "message": "Sisli"
+   },
+   "w_515": {
+      "message": "Ağır sis"
+   },
+   "w_900": {
+      "message": "Sıcak"
+   },
+   "w_901": {
+      "message": "Soğuk"
+   },
+   "w_999": {
+      "message": "Bilinmiyor"
+   },
+   "wallpaper": {
+      "message": "Duvar kağıdı"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Özel renk ekle"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Resim eklenemedi. Daha sonra tekrar deneyin."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Yerel duvar kağıdı uygulaması başarısız oldu. Daha sonra tekrar deneyin"
+   },
+   "wallpaper_applying_library": {
+      "message": "Duvar Kağıdı Kütüphanesi uygulanıyor..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Duvar Kağıdı Yenileme Frekansı"
+   },
+   "wallpaper_choose_library": {
+      "message": "Duvar Kağıdı Seçin Kaynak"
+   },
+   "wallpaper_choose_single": {
+      "message": "Bir duvar kağıdı seçin"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Seçimi temizle"
+   },
+   "wallpaper_cloud": {
+      "message": "Bulut duvar kağıdı"
+   },
+   "wallpaper_collect_current": {
+      "message": "Akım duvar kağıdı toplamak"
+   },
+   "wallpaper_common_color": {
+      "message": "Ortak bir renk"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Bu duvar kağıdı silinsin mi?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Yerel duvar kağıdı kütüphanesi oluşturulamadı. Daha sonra tekrar deneyin."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Kullanıcının özelleştirilmiş duvar kağıdı kütüphanesi sınırını aşıyor"
+   },
+   "wallpaper_custom_color": {
+      "message": "Özel Renk"
+   },
+   "wallpaper_delete_color": {
+      "message": "Bu renk sil"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Başarıyla silindi"
+   },
+   "wallpaper_delete_file": {
+      "message": "Duvar kağıdı silmek"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Duvar kağıdı silinemedi"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Otomatik duvar kağıdı değiştirme devre dışı bırakma"
+   },
+   "wallpaper_empty_text": {
+      "message": "Veri bulunmuyor"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Duvar kâğıdı alınamadı"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Kullanıcı duvar kağıdı alamadı"
+   },
+   "wallpaper_library": {
+      "message": "Duvar Kağıtları Kütüphanesi"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$'ın yerel duvar kağıdı kütüphanesi",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Yasadışı Duvar Kağıdı Kütüphanesi Adı"
+   },
+   "wallpaper_library_preview": {
+      "message": "Duvar Kağıdı Önizlemesi"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Maksimum 20 duvar kağıdı yükleyin. Her duvar kağıdı 10 m'yi geçmemelidir."
+   },
+   "wallpaper_loading": {
+      "message": "İşleniyor…"
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Bunu yapman için internet bağlantısı gerekli"
+   },
+   "wallpaper_remove_library": {
+      "message": "Bu duvar kağıdı kütüphanesini kaldırın"
+   },
+   "wallpaper_sort_default": {
+      "message": "Standart sıralama"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Popülerlik"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Dahil Tarihi"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Her 24 saatte bir anahtar"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Duvar kağıdı değiştirme başarısız oldu"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Günlük duvar kağıtlarınızı Bing ile güncelleyin. Anahtarlama frekansını seçemezsiniz."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Her 1 saatte bir anahtar"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Her 12 saatte bir anahtar"
+   },
+   "wallpaper_switch_success": {
+      "message": "Rastgele duvar kağıdı başarıyla değiştirildi"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Bir sonraki duvar kağıdına geçin"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Yeni bir sekme açarken anahtarı"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Sayfayı açarken geçiş yap"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Dosya yükleme başarısız oldu. Sebep: Boyut sınırını aşıyor"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Yerel bir arka plan seçin"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "En az bir duvar kağıdı gereklidir"
+   },
+   "want_more": {
+      "message": "Anında daha fazla avantajın tadını çıkarın"
+   },
+   "weather": {
+      "message": "Hava durumu"
+   },
+   "weather_empty": {
+      "message": "Şu anda mevcut hava durumu bilgisi yok"
+   },
+   "web_set_home_title": {
+      "message": "Ana sayfa olarak Infinity nasıl ayarlanır"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Web sitesi adı"
+   },
+   "website_search_replace_char": {
+      "message": "URL (Arama kelimesini değiştirmek için% s kullanın)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Çarşamba"
+   },
+   "wed_min": {
+      "message": "Çrş"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Kuvvet"
+   },
+   "wind_mill": {
+      "message": "Sağ alt köşedeki rastgele duvar kağıdı düğmesini görüntüleyin"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Arama Yahoo tarafından işletilen bir arama motorudur"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex, Rusya'daki en önemli internet servis portallarından biridir."
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$yıl$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Dün"
+   },
+   "you_need_login": {
+      "message": "Bu özelliği kullanmak için sonsuz hesabına imzalayın"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Tarihiniz burada gösterilecek"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

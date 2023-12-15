@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>右 (1)@2x</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="书签-编辑文书签下拉" transform="translate(-344.000000, -343.000000)" fill="#333333" fill-rule="nonzero" stroke="#333333" stroke-width="0.8">
+            <g id="编组-3" transform="translate(60.000000, 311.000000)">
+                <g id="右-(1)" transform="translate(292.000000, 40.000000) rotate(-270.000000) translate(-292.000000, -40.000000) translate(284.000000, 32.000000)">
+                    <path d="M4.810625,3.35375 L5.564375,2.52125 L11.189375,7.58375 C11.2675678,7.65482168 11.4131172,7.79357168 11.626023,8 C11.4131172,8.20642832 11.2675678,8.34517832 11.189375,8.41625 L5.564375,13.47875 L4.810625,12.64625 L9.974375,8 L4.810625,3.35375 Z" id="路径"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Asiguraţi motorul de căutare"
+   },
+   "about": {
+      "message": "Despre"
+   },
+   "about_us": {
+      "message": "Despre noi"
+   },
+   "account_expired": {
+      "message": "Testați-vă contul a expirat, vă rugăm să vă conectați din nou"
+   },
+   "account_setting": {
+      "message": "Setările contului"
+   },
+   "add": {
+      "message": "Adaugă"
+   },
+   "add_city": {
+      "message": "Adăugare oraş"
+   },
+   "add_first_note": {
+      "message": "Luați prima notă"
+   },
+   "add_icon_success": {
+      "message": "a adăugat cu succes"
+   },
+   "add_link": {
+      "message": "Adaugă un link"
+   },
+   "add_new_search_engine": {
+      "message": "Adaugă un nou motor de căutare"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Biblioteca de tapet nou"
+   },
+   "add_search_engine": {
+      "message": "Adaugă motorul de căutare"
+   },
+   "add_success": {
+      "message": "Adăugată cu succes"
+   },
+   "add_to_home_site": {
+      "message": "Adaugă la pagina principală"
+   },
+   "add_to_infinity": {
+      "message": "Adăugați la pagina de fila Infinity Noua pagină"
+   },
+   "additional_search_engine": {
+      "message": "Ataşat motor de căutare"
+   },
+   "air_pressure": {
+      "message": "Presiune"
+   },
+   "all_wallpaper_sources": {
+      "message": "Toate tapetele"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Toate sursele de imagini de fundal"
+   },
+   "ambiguity": {
+      "message": "Ambiguitate"
+   },
+   "animals": {
+      "message": "Animale"
+   },
+   "animation": {
+      "message": "Animații"
+   },
+   "animation_tips": {
+      "message": "Animația de pornire poate afecta netezimea"
+   },
+   "anime": {
+      "message": "Benzi desenate"
+   },
+   "any_money": {
+      "message": "Oricare"
+   },
+   "app": {
+      "message": "Aplicație"
+   },
+   "app_disabled_enable_first": {
+      "message": "Ați dezactivat această aplicație. Permiteți infinitului să activeze mai întâi această aplicație?"
+   },
+   "application": {
+      "message": "Aplicație"
+   },
+   "apply": {
+      "message": "Aplicați"
+   },
+   "architecture": {
+      "message": "Arhitectură"
+   },
+   "athletics": {
+      "message": "Sporturi"
+   },
+   "avatar": {
+      "message": "Alegeţi un avatar"
+   },
+   "backing_up": {
+      "message": "Copiere de siguranță…"
+   },
+   "backup_and_recovery": {
+      "message": "Backup și recuperare"
+   },
+   "backup_failed": {
+      "message": "Copiere de siguranta esuata"
+   },
+   "backup_now": {
+      "message": "Fă backup acum"
+   },
+   "backup_successful": {
+      "message": "Backup de succes"
+   },
+   "backup_tips": {
+      "message": "Păstram maximum 3 noduri de rezervă manuală și 3 noduri automate de rezervă pentru dvs."
+   },
+   "backup_with_device": {
+      "message": "Sincronizează cu alte dispozitive"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Concentrați-vă pe colectarea fotografiilor de tip non-galerie gratuite și de înaltă calitate"
+   },
+   "basic_info": {
+      "message": "Informații generale"
+   },
+   "bg_color": {
+      "message": "Culoarea fundalului"
+   },
+   "bg_updating": {
+      "message": "În upgrade, vă rugăm să așteptați ..."
+   },
+   "bind": {
+      "message": "Asociere"
+   },
+   "bind_success": {
+      "message": "Asociere reuşită"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing este un motor de căutare dezvoltat de Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Biblioteca zilnică Bing Wallpaper"
+   },
+   "bookmarks": {
+      "message": "Marcaje"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ nu susține această caracteristică",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Anulează"
+   },
+   "cancel_login": {
+      "message": "Anulează conectarea"
+   },
+   "cancel_remind_time": {
+      "message": "Anulați timpul de memento"
+   },
+   "cancel_set_top": {
+      "message": "Eliminare fixare"
+   },
+   "cannot_change_password": {
+      "message": "Nu puteți schimba parola dacă vă conectați cu contul terțului"
+   },
+   "cannot_change_profile": {
+      "message": "Utilizatorii terți care se conectează nu pot modifica informațiile despre profil"
+   },
+   "cannot_download": {
+      "message": "Descărcările nu sunt acceptate"
+   },
+   "cannot_empty": {
+      "message": "Nu poate fi gol"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Schimbați timpul de reamintire"
+   },
+   "change_wallpaper": {
+      "message": "Schimbă imaginea de fundal"
+   },
+   "check_olddata_desc": {
+      "message": "Se detectează că există o versiune veche a datelor Legacy, care pot fi actualizate. Dacă aveți nevoie să încercați să actualizați aceste date"
+   },
+   "choose_sync_type": {
+      "message": "Alegeți datele contului"
+   },
+   "chose_from_mypc": {
+      "message": "Creați biblioteca mea de tapet"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "Aplicații $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - Extensii"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Introduceți chrome://settings/appearance în bara de adrese și introduceți pagina Setări."
+   },
+   "chrome_browser_guide2": {
+      "message": "Glisați în jos în partea de jos și selectați opțiunea indicată de săgeata din figura."
+   },
+   "chrome_browser_guide3": {
+      "message": "Introduceți adresa URL https://inftab.com în fereastra pop-up, apoi faceți clic pe butonul Adăugați pentru a finaliza setarea paginii de pornire."
+   },
+   "clear_historys": {
+      "message": "Goliți istoricul"
+   },
+   "col_gap": {
+      "message": "Spațierea coloanelor"
+   },
+   "col_num": {
+      "message": "Rânduri"
+   },
+   "color": {
+      "message": "Culoare"
+   },
+   "color_icon": {
+      "message": "Pictogramă de culoare solidă"
+   },
+   "come_from": {
+      "message": "De la utilizator"
+   },
+   "comming_soon": {
+      "message": "În curând"
+   },
+   "comming_soon_title": {
+      "message": "Versiunea mobilă Infinity este pe drum"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Confirmaţi că doriţi să eliminaţi toate înregistrările istoricului?"
+   },
+   "confirm_cover_remote": {
+      "message": "Datele locale vor fi salvate la un nod de rezervă manuală"
+   },
+   "confirm_del_folder": {
+      "message": "Sigur doriți să ștergeți acest dosar?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Sigur doriți să ștergeți elementele completate?"
+   },
+   "confirm_delete_note": {
+      "message": "Confirmați ștergerea notei?"
+   },
+   "confirm_logout": {
+      "message": "Deconectare"
+   },
+   "confirm_password": {
+      "message": "Confirmă noua parolă"
+   },
+   "confirm_password_2": {
+      "message": "Confirmați parola"
+   },
+   "confirm_recovery_data": {
+      "message": "Datele Cloud vor înlocui datele locale. Ești sigur de această acțiune?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Sigur doriți să eliminați această bibliotecă de fundal?"
+   },
+   "confirm_unbind": {
+      "message": "Deconectează acest cont?"
+   },
+   "confirm_unbind_email": {
+      "message": "Eşti sigur că vrei să debordezi cutia poştală $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "OK pentru a anula numărul de telefon $phone_number$ bound?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Contact Inginer."
+   },
+   "contact_us": {
+      "message": "Contactați-ne"
+   },
+   "copy": {
+      "message": "Copiază"
+   },
+   "cubic_bezier": {
+      "message": "Scoateți înapoi"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Fotografie de profil"
+   },
+   "current_browser_not_support": {
+      "message": "Browserul curent nu acceptă managementul extensiei"
+   },
+   "current_no_reminders": {
+      "message": "Niciun articol de făcut"
+   },
+   "current_node": {
+      "message": "Nodul curent"
+   },
+   "custom": {
+      "message": "Personalizează"
+   },
+   "custom_icon": {
+      "message": "Personalizare pictogramă"
+   },
+   "custom_layout": {
+      "message": "Personalizați aspectul"
+   },
+   "custom_site": {
+      "message": "Website personalizat"
+   },
+   "default": {
+      "message": "Prestabilit"
+   },
+   "del_folder": {
+      "message": "Șterge"
+   },
+   "delete_all_bookmarks": {
+      "message": "Șterge toate marcajele sub acest dosar"
+   },
+   "disable_chrome_app": {
+      "message": "Dezactivare aplicaţie"
+   },
+   "disable_extension": {
+      "message": "Dezactivați extensiile"
+   },
+   "do_later": {
+      "message": "vorbi despre asta mai târziu"
+   },
+   "done": {
+      "message": "Terminat"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Descărcați CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Descărcați monitorul curente"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckgo se concentrează asupra importului de conținut de pe site-urile Web 2.0 majore, pe lângă faptul că este un motor de căutare tradițional, filozofia site-ului web este de a respecta confidențialitatea utilizatorilor, promițând să nu monitorizeze sau să documenteze conținutul de căutare."
+   },
+   "ease_in": {
+      "message": "Atenuare graduală"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Introduceți edge://settings/onStartup în bara de adrese a browserului și apăsați Enter."
+   },
+   "edge_browser_guide2": {
+      "message": "Dați clic pe opțiunea indicată de săgeata din cifră."
+   },
+   "edge_browser_guide3": {
+      "message": "Introduceți adresa URL https://inftab.com în fereastra pop-up, apoi faceți clic pe butonul Adăugați pentru a finaliza setarea paginii de pornire."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Editează"
+   },
+   "edit_avatar": {
+      "message": "Editare avatar"
+   },
+   "edit_content": {
+      "message": "Editare conţinut"
+   },
+   "edit_icon": {
+      "message": "Editare pictogramă"
+   },
+   "education": {
+      "message": "Educație și locuri de muncă"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_code": {
+      "message": "Verificare e-mail"
+   },
+   "email_format_error": {
+      "message": "Forma email-ului este incorectă"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Email sau număr de telefon mobil"
+   },
+   "empty": {
+      "message": "Gol"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Confirm ă ștergerea dosarului?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Doriţi să ştergeţi acest semn de carte?"
+   },
+   "ensure_logout": {
+      "message": "Sigur doriți să vă deconectați?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "completați lista de lucruri de făcut, adăugați elemente făcând clic pe Enter"
+   },
+   "enter_password_tips": {
+      "message": "Introdu expresia de acces"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Vă rugăm să introduceți numărul de telefon corect"
+   },
+   "enter_verification_code_tips": {
+      "message": "Introduceți codul de verificare"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Exportați datele de rezervă"
+   },
+   "export_local_data_desc": {
+      "message": "Exportul din datele locale curente"
+   },
+   "extension": {
+      "message": "Extensii"
+   },
+   "extension_app": {
+      "message": "Extensii"
+   },
+   "extension_des": {
+      "message": "În mod liber, adăugați pictograme de site-uri, bucurați-vă de wallpapere de înaltă definiție a cloud-ului, și accesați rapid marcajele, informațiile despre vreme, notele, listele de sarcini, gestionarea extensiei și istoricul pe pagina de fila nouă, aleasă de milioane de utilizatori."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP vă permite să personalizați noua pagină de fila"
+   },
+   "extension_des_firefox": {
+      "message": "Noua filă aleasă de milioane, care poate îmbunătăți foarte mult productivitatea. Includerea icoanelor web, motoarele de căutare, imagini de fundal HD, vremea, notele, marcajele, lista de sarcini, istoria, managementul extensiei etc."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro vă permite să personalizați noua pagină de fila"
+   },
+   "extension_mananger": {
+      "message": "Gestionează extensiile"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Alăturați-vă grupului Facebook"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "female": {
+      "message": "Feminin"
+   },
+   "filter": {
+      "message": "Filtrează"
+   },
+   "finance": {
+      "message": "finanţa"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox add-on magazin"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Introduceți about: preferences #home în bara de adrese pentru a introduce pagina de setare."
+   },
+   "firefox_browser_guide2": {
+      "message": "După cum arată săgeata din figură, selectați opțiunea URL-urilor personalizate."
+   },
+   "firefox_browser_guide3": {
+      "message": "Introduceți adresa URL https://inftab.com în caseta de text, setarea paginii de pornire este completă."
+   },
+   "five_star": {
+      "message": "Acordați 5 stele"
+   },
+   "folder": {
+      "message": "Dosar"
+   },
+   "follow_us": {
+      "message": "Urmărește-ne"
+   },
+   "follow_wechat": {
+      "message": "Urmați Infinity Wechat Public Cont"
+   },
+   "follow_wechat_desc": {
+      "message": "Fiți atenți la numărul public Wechat (Micro Semnal: InfinityDaily), obțineți dinamica celei mai recente produse Infinity și puteți descoperi mai multă distracție pentru a vă extinde și site-ul web."
+   },
+   "font": {
+      "message": "Fonturi"
+   },
+   "font_color": {
+      "message": "Culoarea fontului"
+   },
+   "font_size": {
+      "message": "Dimensiunea textului"
+   },
+   "food_drink": {
+      "message": "Alimentație"
+   },
+   "forget_password": {
+      "message": "Am uitat parola"
+   },
+   "format_error": {
+      "message": "Eroare format"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Cantitate mare de fotografii gratuite, gratuit de utilizat și actualizat zilnic"
+   },
+   "fri": {
+      "message": "Vineri"
+   },
+   "fri_min": {
+      "message": "Vi"
+   },
+   "fully_authorized_to_use": {
+      "message": "Complet autorizat să utilizeze funcții"
+   },
+   "games": {
+      "message": "Gaming și divertisment"
+   },
+   "gamil_notice": {
+      "message": "Notificări Gmail"
+   },
+   "gender": {
+      "message": "Selectați sexul"
+   },
+   "get_app_permission": {
+      "message": "Autorizați pentru a obține aplicația dvs. locală"
+   },
+   "get_cloud_icon": {
+      "message": "Achiziționați online"
+   },
+   "give_money": {
+      "message": "Donație"
+   },
+   "give_money_thanks": {
+      "message": "Suportul dvs. este cea mai mare răsplată a noastră"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Dacă vă place Pagina de fila Infinity Noua pagină, vă rugăm să evaluați serviciul nostru sau să ne oferiți feedback pentru a ne ajuta."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Dacă aveți întrebări sau sugestii, vă rugăm să ne contactați."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail ton de apel de notificare"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Căutarea Google este un motor de căutare dezvoltat de Google. Este cel mai mare și mai influent motor de căutare de pe Internet"
+   },
+   "have_todo_item": {
+      "message": "Aveți în prezent un element de făcut"
+   },
+   "hide_homepage_btn": {
+      "message": "Ascundeți setul de buton Home"
+   },
+   "hide_icon_name": {
+      "message": "Ascundeți numele pictogramei"
+   },
+   "hide_search_button": {
+      "message": "Ascundeți butonul de căutare"
+   },
+   "hide_search_category": {
+      "message": "Ascundeți categoria de căutare"
+   },
+   "hide_search_input": {
+      "message": "Ascundeți caseta de căutare"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Ascundeți setul de buton Home"
+   },
+   "hint": {
+      "message": "Sfat"
+   },
+   "history": {
+      "message": "Istoric"
+   },
+   "history_backup_list": {
+      "message": "Lista nodurilor de backup"
+   },
+   "history_week": {
+      "message": "Căutarea istoriei într-o săptămână"
+   },
+   "host_permission": {
+      "message": "Permisiuni gazdă"
+   },
+   "hour": {
+      "message": "oră"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Vreau să recompensez"
+   },
+   "icon": {
+      "message": "Pictogramă"
+   },
+   "icon_added": {
+      "message": "Adăugat"
+   },
+   "icon_bg_text": {
+      "message": "Textul pictogramei"
+   },
+   "icon_network_error": {
+      "message": "Excepție de rețea, faceți clic pentru a reîncărca"
+   },
+   "ignore": {
+      "message": "Ignorați"
+   },
+   "img_verify_code": {
+      "message": "Imagine de verificare"
+   },
+   "import_data": {
+      "message": "Importați date de backup"
+   },
+   "import_data_desc": {
+      "message": "Recuperați datele din fișierul de backup"
+   },
+   "import_select_tile": {
+      "message": "Selectare date"
+   },
+   "infinity_bookmarks": {
+      "message": "Aplatizați ierarhia dosarului de marcaj și găsiți marcaje mai ușor cu Bookmarks Infinity"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinit Imagini de Fundal Anime"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Biblioteca de tapet de înaltă calitate Infinity Anime"
+   },
+   "infinity_extension": {
+      "message": "Gestionați-vă cu ușurință extensiile $browser$ și Apps cu Managerul de extensie Infinity",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Vizualizați rapid și gestionați istoricul browserului cu istoricul infinității"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinit Wallpapere de peisaj prezentate"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Biblioteca de wallpaper de înaltă calitate Infinity"
+   },
+   "infinity_notes": {
+      "message": "Înregistrați-vă rapid inspirațiile vieții cu notele Infinity"
+   },
+   "infinity_settings": {
+      "message": "Personalizați pagina filă nouă Infinity cu setările Infinity"
+   },
+   "infinity_todos": {
+      "message": "Aranjați-vă sarcinile în ordine și îmbunătățiți eficiența muncii cu lista de probleme Infinity"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Biblioteca vă oferă imagini de fundal bogate și interesante"
+   },
+   "infinity_weather": {
+      "message": "Infinity Vremea vă oferă prognozele meteo pentru orașele din întreaga lume"
+   },
+   "info": {
+      "message": "Informații"
+   },
+   "inportdata_desc": {
+      "message": "Datele importate nu sunt conforme cu datele locale. Selectați îmbinare sau suprascriere."
+   },
+   "input_and_search": {
+      "message": "Introduceți căutarea"
+   },
+   "input_city": {
+      "message": "Introduceţi oraşul/Regiunea"
+   },
+   "input_new_password": {
+      "message": "Introdu noua parolă"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Asociată"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Fotografii gratuite pentru orice scop"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Păstrați conținutul în caseta de căutare"
+   },
+   "label": {
+      "message": "Etichete"
+   },
+   "language": {
+      "message": "Limbă"
+   },
+   "language_select": {
+      "message": "Selectaţi limba"
+   },
+   "last_sync_time": {
+      "message": "Ultimul timp de sincronizare: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Data ultimei modificări"
+   },
+   "layout": {
+      "message": "Aspect"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Free HD Sursa de fundal"
+   },
+   "life_style": {
+      "message": "Mod de viata"
+   },
+   "limit_input_length": {
+      "message": "Lungimea textului dincolo de limită"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Icoana locală"
+   },
+   "local_wallpaper2": {
+      "message": "Tapetă locală"
+   },
+   "login": {
+      "message": "Conectează-te"
+   },
+   "login_abandon_tips": {
+      "message": "Metoda curentă de autentificare va fi eliminată în curând, vă rugăm să legați e-mailul sau alt cont terț cât mai curând posibil după autentificare"
+   },
+   "login_now": {
+      "message": "Conectați-vă la contul dvs. Infinity acum pentru a vă bucura de mai multe permisiuni"
+   },
+   "login_now_btn": {
+      "message": "Conectează-te"
+   },
+   "login_register": {
+      "message": "Conectare / Înscriere"
+   },
+   "loging": {
+      "message": "Conectare"
+   },
+   "logout": {
+      "message": "Deconectare"
+   },
+   "logout_clear_something": {
+      "message": "Setări clar personalizate și alte informații despre acest dispozitiv"
+   },
+   "logout_tips": {
+      "message": "Aveți nevoie să ștergeți datele locale înainte de a vă deconecta din cont pentru a preveni datele din diferite conturi de pe acest dispozitiv de la conectare?"
+   },
+   "logout_warn": {
+      "message": "După deconectarea din cont, toate informațiile de backup din acest cont vor fi șterse. Sunteți sigur că doriți să vă deconectați din acest cont? (Imagine de note și bibliotecile personalizate de tapet nu pot fi disponibile)"
+   },
+   "male": {
+      "message": "Masculin"
+   },
+   "manage_backup_node": {
+      "message": "Gestionați nodurile de backup de istorie"
+   },
+   "manul_backup": {
+      "message": "Copie de rezervă manuală"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "Dim tapet"
+   },
+   "me": {
+      "message": "Eu"
+   },
+   "merge_cloud_local": {
+      "message": "Combinați datele locale și cloud"
+   },
+   "merge_data": {
+      "message": "Îmbinați datele"
+   },
+   "mini_mode": {
+      "message": "Modul minimalist."
+   },
+   "mins": {
+      "message": "Min"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Utilizați în site-urile, temele, șabloanele, proiectele, materialele de tipărire și ziare. În fiecare săptămână sunt adăugate noi imagini de fundal și videoclipuri"
+   },
+   "mobile_devices": {
+      "message": "Mobilă Infinity"
+   },
+   "modify": {
+      "message": "Editați detaliile"
+   },
+   "modify_email": {
+      "message": "Modifică email"
+   },
+   "modify_password": {
+      "message": "Editează parola"
+   },
+   "modify_phone_number": {
+      "message": "Modificați numărul de telefon"
+   },
+   "modify_pwd": {
+      "message": "Editează parola"
+   },
+   "modify_success": {
+      "message": "Modificare realizată cu succes"
+   },
+   "modify_this": {
+      "message": "Editează"
+   },
+   "mon": {
+      "message": "Luni"
+   },
+   "mon_min": {
+      "message": "Lun"
+   },
+   "month_1": {
+      "message": "Ianuarie"
+   },
+   "month_10": {
+      "message": "Octombrie"
+   },
+   "month_11": {
+      "message": "Noiembrie"
+   },
+   "month_12": {
+      "message": "Decembrie"
+   },
+   "month_2": {
+      "message": "Februarie"
+   },
+   "month_3": {
+      "message": "Martie"
+   },
+   "month_4": {
+      "message": "Aprilie"
+   },
+   "month_5": {
+      "message": "Mai"
+   },
+   "month_6": {
+      "message": "Iunie"
+   },
+   "month_7": {
+      "message": "Iulie"
+   },
+   "month_8": {
+      "message": "August"
+   },
+   "month_9": {
+      "message": "Septembrie"
+   },
+   "more_content_from_site": {
+      "message": "Mai mult conținut de pe acest site"
+   },
+   "most_used_in_chinese": {
+      "message": "Motorul de căutare a folosit cel mai mult de chineză"
+   },
+   "music_video": {
+      "message": "Clip muzical"
+   },
+   "my_collection": {
+      "message": "Colecţia mea"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Introduceți numele site-ului web"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Natură"
+   },
+   "need_you_permission": {
+      "message": "Acordă permisiune"
+   },
+   "network_error": {
+      "message": "Eroare de rețea"
+   },
+   "new_email": {
+      "message": "Email nou"
+   },
+   "new_password": {
+      "message": "Introdu noua parolă"
+   },
+   "new_phone_number": {
+      "message": "Numărul de telefon nou"
+   },
+   "new_tab": {
+      "message": "Filă nouă"
+   },
+   "new_tab_web": {
+      "message": "Infinity Pagina de start"
+   },
+   "news": {
+      "message": "Știri"
+   },
+   "next": {
+      "message": "Înainte"
+   },
+   "nickname": {
+      "message": "Pseudonim"
+   },
+   "no_account_register": {
+      "message": "Nu aveți încă un cont? Creați unul acum"
+   },
+   "no_backup_time": {
+      "message": "Niciuna"
+   },
+   "no_bookmark_result": {
+      "message": "Nici un marcaj"
+   },
+   "no_chrome_app": {
+      "message": "Nu ați instalat aplicația $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Nu există informații meteo"
+   },
+   "no_data": {
+      "message": "Nu există date"
+   },
+   "no_description": {
+      "message": "Nicio descriere"
+   },
+   "no_more": {
+      "message": "Atât"
+   },
+   "no_more_reminder": {
+      "message": "Nu se afișează din nou"
+   },
+   "no_permission_text": {
+      "message": "Se recomandă să încercați să deschideți și să acordați această permisiune în bara de adrese a browserului sau în centrul de setări."
+   },
+   "no_permission_title": {
+      "message": "Permisiunea nu a fost încă acordată"
+   },
+   "no_permission_to_open_app": {
+      "message": "Nu aveți permisiunea de a deschide aplicațiile $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Niciun articol de făcut"
+   },
+   "no_search_result": {
+      "message": "Niciun rezultat al căutării"
+   },
+   "no_title": {
+      "message": "Fără titlu"
+   },
+   "none": {
+      "message": "Ascuns"
+   },
+   "none_auto_backup": {
+      "message": "În prezent nu există copii de rezervă programată"
+   },
+   "none_auto_backup_desc": {
+      "message": "Backup-urile programate vor începe în aceeași zi modificați informațiile despre infinit"
+   },
+   "none_manual_backup": {
+      "message": "În prezent nu există copii de siguranță manuale"
+   },
+   "normal_model": {
+      "message": "Mod standard"
+   },
+   "not_binding": {
+      "message": "Neasociată"
+   },
+   "note_title": {
+      "message": "Te rog să introduci titlul notiţei"
+   },
+   "note_upload_img_15": {
+      "message": "Această dimensiune a imaginii nu poate depăși 15M"
+   },
+   "notes": {
+      "message": "Notițe"
+   },
+   "notice": {
+      "message": "Anunț"
+   },
+   "ocean": {
+      "message": "Ocean"
+   },
+   "one_day_later": {
+      "message": "Adu-mi aminte mâine"
+   },
+   "one_week_later": {
+      "message": "Amintește-mi într-o săptămână"
+   },
+   "only_used_infinity": {
+      "message": "Utilizat numai pentru modulele interne de infinit"
+   },
+   "opacity": {
+      "message": "Opacitatea pictogramelor"
+   },
+   "open_all": {
+      "message": "Deschideți-le pe toate"
+   },
+   "open_chrome_app": {
+      "message": "Activați aplicația"
+   },
+   "open_extension": {
+      "message": "Activați extensia"
+   },
+   "open_folder_icons": {
+      "message": "Deschideți-le pe toate"
+   },
+   "open_new_tab": {
+      "message": "Deschideți site-ul în fila Nou"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Deschideți legătura marcajată în fila Nouă"
+   },
+   "open_newtab_history": {
+      "message": "Open Istoric în fila Nouă"
+   },
+   "open_newtab_show_search": {
+      "message": "Deschideți rezultatele căutării terțe în fila Nou"
+   },
+   "origin_password": {
+      "message": "Parola originală"
+   },
+   "other_bookmarks": {
+      "message": "Alte marcaje"
+   },
+   "others": {
+      "message": "Altele"
+   },
+   "oversize": {
+      "message": "Dimensiunea nu poate depăși 2MB"
+   },
+   "overwrite_data": {
+      "message": "Date suprapuse"
+   },
+   "pagin": {
+      "message": "Butonul rotire pagină"
+   },
+   "password": {
+      "message": "Parolă"
+   },
+   "password_dont_empty": {
+      "message": "Câmpul pentru parolă nu poate fi gol"
+   },
+   "password_length_low": {
+      "message": "Parola nu mai puțin de 6 cifre"
+   },
+   "password_not_equals": {
+      "message": "Parolele nu sunt identice"
+   },
+   "password_not_some": {
+      "message": "Parolele introduse nu se potrivesc"
+   },
+   "permission": {
+      "message": "Autorizați"
+   },
+   "permission_all": {
+      "message": "Autorizați all"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Solicitați accesul și modificarea datelor dvs. pe mail.google.com; Cerere de a afișa notificări"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Notificări Gmail"
+   },
+   "permission_gmail_num_content": {
+      "message": "Solicitați accesul și modificarea datelor dvs. pe mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Accesați cantitatea de gmail"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Solicitați accesul și modificarea datelor dvs. pe Google.com și sugestiv.baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Sugestii de căutare"
+   },
+   "permission_todo_notice_content": {
+      "message": "Solicitați notificarea afișării"
+   },
+   "permission_todo_notice_title": {
+      "message": "Pentru a face notificarea"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Solicitarea de a accesa pictogramele corespunzătoare site-urilor vizitate și accesați și modificați marcajele dvs."
+   },
+   "permission_top_bookmark_title": {
+      "message": "Afișați marcajele deasupra"
+   },
+   "permission_top_useful_content": {
+      "message": "Solicitarea de a accesa pictogramele corespunzătoare site-urilor vizitate și accesați și modificați lista dvs. de cele mai frecvent site-uri web"
+   },
+   "permission_top_useful_title": {
+      "message": "Afișați site-uri frecvent utilizate în partea de sus"
+   },
+   "permisson_label": {
+      "message": "Permisiuni"
+   },
+   "phone_number": {
+      "message": "Număr telefon"
+   },
+   "photos": {
+      "message": "Imagini"
+   },
+   "pick_local_wallpaper": {
+      "message": "Selectați o imagine de fundal locală"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Fotografii gratuite și frumoase care sunt disponibile pentru orice utilizare"
+   },
+   "placeholder_name": {
+      "message": "Nume"
+   },
+   "please_chose_picture": {
+      "message": "Vă rugăm să selectați Imagine"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Vă rugăm să introduceți un nume de marcare"
+   },
+   "please_enter_email": {
+      "message": "Introduceți adresa e-mail"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Introduceți codul de verificare a imaginilor"
+   },
+   "please_enter_nickname": {
+      "message": "Introduceţi pseudonimul"
+   },
+   "please_enter_phone": {
+      "message": "Introduceți numărul de telefon"
+   },
+   "please_enter_right_account": {
+      "message": "Introduceți e-mailul corect sau numărul de telefon"
+   },
+   "please_enter_text": {
+      "message": "Introducere text"
+   },
+   "please_enter_url": {
+      "message": "Introduceți adresa URL"
+   },
+   "please_input_bg_text": {
+      "message": "Introduceți textul pictogramei"
+   },
+   "please_pre_login": {
+      "message": "Conectați-vă, mai întâi"
+   },
+   "please_re_login": {
+      "message": "Conectați-vă din nou"
+   },
+   "please_set_your_password": {
+      "message": "Setați-vă o parolă"
+   },
+   "please_type_link": {
+      "message": "Vă rugăm să introduceți link-"
+   },
+   "please_type_right_link": {
+      "message": "Introduceți adresa corectă a link-ului"
+   },
+   "please_upload_photos": {
+      "message": "Vă rugăm să încărcați imaginea"
+   },
+   "popular": {
+      "message": "Popular"
+   },
+   "preview": {
+      "message": "Previzualizare"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Instrucțiuni de confidențialitate și de colectare a datelor"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Imagini generate de pictograma personalizată a site-ului web"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Imagini generate de motorul de căutare personalizat"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Adresa dvs. de e-mail înregistrată, imaginea profilului încărcat, pseudonimul ales, parola textului non-simple și alte informații"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Dacă vă conectați cu un cont terț, vom stoca porecla, sexul, imaginea de profil și alte informații furnizate de terța parte"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Informații despre pictogramele site-ului și informațiile despre motorul de căutare pe care le-ați adăugat"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Informații meteo în zona dvs. sau informații despre vreme în alte zone pe care le-ați setat"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Liste de la-do pe care le-ați creat"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Conținutul notelor pe care le-ați creat și imagini încărcate în notele dvs."
+   },
+   "privacy_data_item_2_7": {
+      "message": "Imaginea de fundal curentă, setările de fundal, imaginile încărcate la tapetul dvs. local și imaginile încărcate în biblioteca dvs. de tapet locală"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Setări de extensie"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Serverul poate stoca jurnalele generate în timpul interacțiunilor cu utilizatorii și clienții. Această înregistrare este utilizată în principal pentru depanarea erorilor de excepție. Vom șterge acest jurnal din când în când."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Tipul de browser, limbă și versiune și rezoluția ecranului"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Este conectat în prezent sau nu"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Numărul aproximativ de icoane curente"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Extensii activate în prezent (dacă se utilizează managementul extensiei)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "De câte ori a fost deschisă această extensie"
+   },
+   "privacy_data_item_4_2": {
+      "message": "Adresa IP și locația geografică derivată din adresa IP"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Icoanele site-ului și motoarele de căutare au fost adăugate"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Wallpaper și setări de extensie"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Versiunea extensibilă"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Frecvența de a face clic pe butoanele funcționale"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Mesaj de eroare de excepție"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Deschideți adresa gazdă a site-ului web"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Gazdă curentă a motorului de căutare"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Numărăm anonim de câte ori sunt folosite câteva motoare de căutare."
+   },
+   "privacy_data_item_9": {
+      "message": "Trebuie să fiți de acord cu această politică de confidențialitate înainte de a putea utiliza această extensie. Vizualizați-vă $the_infinity_privacy$ pentru a afla mai multe.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Nu, nu colectați datele anonime"
+   },
+   "privacy_data_title_1": {
+      "message": "Putem stoca imagini generate în mod voluntar de către utilizatori în timpul utilizării. Următoarele imagini sunt stocate anonim:"
+   },
+   "privacy_data_title_2": {
+      "message": "Dacă vă înregistrați sau conectați-vă la contul dvs., trebuie să stocăm următoarele date identificabile (denumite în continuare date de utilizator) pe serverul nostru pentru a completa backupul de date și sincronizarea:"
+   },
+   "privacy_data_title_3": {
+      "message": "Jurnalul serverului:"
+   },
+   "privacy_data_title_4": {
+      "message": "Colectarea următoarelor informații este opțională. Informațiile vor fi colectate anonim prin Google Analytics ne ajuta să îmbunătățim produsele noastre:"
+   },
+   "privacy_data_title_5": {
+      "message": "Analize statistice:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Vă rugăm să confirmați pentru a dezinstala pagina fila Infinity Noua pagină"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Vă rugăm să confirmați pentru a dezinstala Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Dezinstalați pagina filă nouă Infinity?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Dezinstalați Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Da, datele anonime pot fi colectate în conformitate cu Politica de confidențialitate"
+   },
+   "privacy_disagree": {
+      "message": "Nu sunt de acord"
+   },
+   "privacy_policy": {
+      "message": "Politica de confidențialitate"
+   },
+   "privacy_title": {
+      "message": "Acordul privind politica de confidențialitate"
+   },
+   "profile": {
+      "message": "Informații cu caracter personal"
+   },
+   "pure_color": {
+      "message": "Culoare pură"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Grup QQ"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Perete aleatoare"
+   },
+   "re_update": {
+      "message": "Re-upgrade-ul"
+   },
+   "read": {
+      "message": "Citește"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Cantitate mare de fotografii HD disponibile pentru uz personal și comercial, 7 noi în fiecare săptămână"
+   },
+   "recently_add": {
+      "message": "Recent adăugate"
+   },
+   "recently_use": {
+      "message": "Utilizate recent"
+   },
+   "recover_error": {
+      "message": "Recuperarea datelor a eșuat"
+   },
+   "recover_error_version": {
+      "message": "Formatul de date care nu sunt acceptate"
+   },
+   "recover_this": {
+      "message": "Recuperați din acest nod"
+   },
+   "redius": {
+      "message": "Icon Corners rotunjit"
+   },
+   "refresh_qrcode": {
+      "message": "Codul QR este nevalid, faceți clic pe Reîmprospătare"
+   },
+   "register": {
+      "message": "Înregistrează"
+   },
+   "register_back": {
+      "message": "Înapoi"
+   },
+   "register_get_email_code_error": {
+      "message": "Obţinerea codului de verificare nu a reuşit"
+   },
+   "register_now": {
+      "message": "Înregistrați-vă acum contul Infinity pentru a vă bucura de mai multe permisiuni"
+   },
+   "relative_humidity": {
+      "message": "Umiditate relativă"
+   },
+   "reload": {
+      "message": "Încercați din nou"
+   },
+   "reminder_update_text1": {
+      "message": "Pentru a obține o experiență mai bună de a utiliza Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Se recomandă actualizarea browser-ului la cea mai recentă versiune, și se recomandă utilizarea unui browser compatibil cu Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Eroare la pagină"
+   },
+   "remove_account": {
+      "message": "Șterge contul"
+   },
+   "remove_done": {
+      "message": "Elimină elementele de lucru completate"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Toate imaginile de fundal din această bibliotecă de tapet vor fi îndepărtate împreună"
+   },
+   "rename_folder": {
+      "message": "Redenumește"
+   },
+   "repair_auto_backup": {
+      "message": "Se face backup automat al datelor"
+   },
+   "repair_concat": {
+      "message": "detalii de contact"
+   },
+   "repair_concat_email": {
+      "message": "E-mail: "
+   },
+   "repair_concat_qq": {
+      "message": "Inginer QQ: "
+   },
+   "repair_data": {
+      "message": "Data de reparații"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Vă rugăm să ne trimiteți fișierul de date pentru a fi reparat prin următoarele informații de contact și vă vom ajuta să reparați datele cât mai curând posibil. Înainte ca inginerul să rezolve problema, vă rugăm să încercați să nu efectuați alte operații. Acest fișier poate conține informații sensibile, cum ar fi conturi, vă rugăm să nu le divulgați altora."
+   },
+   "repair_data_title": {
+      "message": "Recuperați datele pierdute sau deteriorate"
+   },
+   "repair_export_btn": {
+      "message": "Datele de export pentru a fi reparate"
+   },
+   "repeat_city": {
+      "message": "Nu puteți adăuga din nou același oraș"
+   },
+   "reqeust_login_message": {
+      "message": "Pentru a folosi această funcție trebuie să vă conectați"
+   },
+   "request_logout_confirm": {
+      "message": "Sterge-ti contul?"
+   },
+   "request_reset_all_settings": {
+      "message": "Sigur doriți să resetați setările la valorile implicite?"
+   },
+   "reset": {
+      "message": "Resetează"
+   },
+   "reset_password": {
+      "message": "Resetează parola"
+   },
+   "reset_password_by_email": {
+      "message": "Resetați parola prin verificarea prin e-mail"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Resetați parola prin verificarea e-mailului sau a numărului de telefon"
+   },
+   "reset_setting": {
+      "message": "Resetează browserul"
+   },
+   "reset_your_password": {
+      "message": "va rugam sa va resetati parola"
+   },
+   "restore_setting": {
+      "message": "Restabilește setările"
+   },
+   "revovery_data": {
+      "message": "Restabilire date"
+   },
+   "row_gap": {
+      "message": "Spațiere între rânduri"
+   },
+   "row_num": {
+      "message": "Coloane"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Faceți clic pe opțiunea afișată de săgeata din figura."
+   },
+   "safari_browser_guide2": {
+      "message": "În fereastra pop-up, introduceți adresa URL https://inftab.com în coloana pagină de pornire."
+   },
+   "safari_browser_guide3": {
+      "message": "Faceți clic pe butonul de sub adresa URL pentru a finaliza setarea paginii de pornire."
+   },
+   "sat": {
+      "message": "Sâmbătă"
+   },
+   "sat_min": {
+      "message": "Sâm"
+   },
+   "save": {
+      "message": "Salvează"
+   },
+   "scale": {
+      "message": "Dimensiune pictogramă"
+   },
+   "scale_main": {
+      "message": "Ecranul Zoom"
+   },
+   "scale_side": {
+      "message": "Zoom-ul coloanei laterale"
+   },
+   "scheduled_backup": {
+      "message": "Programul de backup"
+   },
+   "search": {
+      "message": "Caută"
+   },
+   "search_bookmark": {
+      "message": "Caută în marcaje"
+   },
+   "search_engine": {
+      "message": "Motor de căutare"
+   },
+   "search_engine_error": {
+      "message": "Introdu numele motorului de căutare"
+   },
+   "search_error": {
+      "message": "Încărcarea a eșuat"
+   },
+   "search_extension": {
+      "message": "Caută extensii"
+   },
+   "search_from": {
+      "message": "Căutat de la: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Pictogramă căutare"
+   },
+   "search_input": {
+      "message": "casetă de căutare"
+   },
+   "search_input_shadow": {
+      "message": "Căutați caseta de căutare"
+   },
+   "search_opacity": {
+      "message": "Căutați opacitatea casetei de căutare"
+   },
+   "search_redius": {
+      "message": "Căutați caseta de căutare colțuri rotunjite"
+   },
+   "search_result": {
+      "message": "Rezultatele căutării"
+   },
+   "search_size": {
+      "message": "Căutați caseta de căutare"
+   },
+   "search_suggest": {
+      "message": "Arată sugestii de căutare"
+   },
+   "search_website": {
+      "message": "Căutați site-uri"
+   },
+   "searching": {
+      "message": "Se caută"
+   },
+   "select_date": {
+      "message": "Alege data"
+   },
+   "select_icon": {
+      "message": "Selectați pictograma"
+   },
+   "select_time": {
+      "message": "Selectează ora"
+   },
+   "send_success": {
+      "message": "E-mail de verificare trimis. Verificaţi-vă e-mailurile"
+   },
+   "set_homepage_desc": {
+      "message": "Instalați extensia pentru browser pentru a vă bucura de funcții complete"
+   },
+   "set_homepage_title2": {
+      "message": "Această caracteristică nu este susținută în versiunea curentă_#_Vă rugăm să instalați extensia browser înainte de a utiliza"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Setați Infinity ca pagină de pornire pentru browserul dvs"
+   },
+   "set_new_password": {
+      "message": "Setați parola nouă"
+   },
+   "set_remind_time": {
+      "message": "Configuraţi ora mementoului"
+   },
+   "set_setting_default": {
+      "message": "Reveniți la valorile implicite"
+   },
+   "set_to_homepage": {
+      "message": "Setează ca pagină de start"
+   },
+   "set_top": {
+      "message": "Sus"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "setați porecla și avatar"
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "shadow": {
+      "message": "Icoane Shadow"
+   },
+   "share": {
+      "message": "Trimite"
+   },
+   "share_by_user": {
+      "message": "utilizatorii împărtășesc"
+   },
+   "share_desc": {
+      "message": "Infinity noua fila, o extensie de navigare aleasă de milioane, cea mai prietenoasă nouă fila pe browser"
+   },
+   "share_title": {
+      "message": "Poate fi cea mai bună filă nouă din browserul $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Cumpărături și cumpărare de grup"
+   },
+   "shortcut_mode": {
+      "message": "Mod Expres"
+   },
+   "show_detail": {
+      "message": "Vezi acum"
+   },
+   "show_gamil_unread_number": {
+      "message": "Afișați numărul de e-mailuri necitite de la Gmail pe pictograma"
+   },
+   "show_later": {
+      "message": "Reamintește-mi mai târziu"
+   },
+   "show_name": {
+      "message": "Nume afișat"
+   },
+   "show_reminders_number": {
+      "message": "Afișați numărul de to-do pe pictograma"
+   },
+   "skip": {
+      "message": "Omite"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Un loc pentru a găsi, afișa și partaja fotografii"
+   },
+   "social": {
+      "message": "Social media și bloguri"
+   },
+   "solid_color_wallpaper": {
+      "message": "Fundal de tapet cu o singură culoare"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Motor de căutare care poate căuta conținut postat de conturile oficiale Wechat"
+   },
+   "sports": {
+      "message": "Sport și călătorii"
+   },
+   "start_animation": {
+      "message": "Începeți animația"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Oferiți start-up-uri, bloggeri, editori, site-uri web, designeri, dezvoltatori, creatori și dincolo de fotografii gratuite"
+   },
+   "street_photography": {
+      "message": "Stradă"
+   },
+   "sun": {
+      "message": "Duminică"
+   },
+   "sun_min": {
+      "message": "D"
+   },
+   "support": {
+      "message": "Asistență"
+   },
+   "switch_to": {
+      "message": "Comutați la"
+   },
+   "sync_fail": {
+      "message": "Sincronizarea nu a reușit, vă rugăm să încercați din nou"
+   },
+   "sync_suncess": {
+      "message": "Sincronizare finalizată"
+   },
+   "sync_type_tips": {
+      "message": "Datele cloud și datele locale sunt detectate pentru a fi inconsecvente. Alegeți un tip de date."
+   },
+   "syncing": {
+      "message": "Sincronizare date..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Nu ați instalat această aplicație $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Mod de a deschide ținta"
+   },
+   "tech": {
+      "message": "Tehnologie"
+   },
+   "technology": {
+      "message": "Tehnologie"
+   },
+   "term_of_use": {
+      "message": "Termeni și condiții"
+   },
+   "text": {
+      "message": "Text"
+   },
+   "text_shadow": {
+      "message": "Text Shadow."
+   },
+   "thirt_party": {
+      "message": "Autentificare cu un cont de terță parte"
+   },
+   "thu": {
+      "message": "Joi"
+   },
+   "thu_min": {
+      "message": "Joi"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Deschideți orice site web și introduceți \"% S\" în caseta de căutare pentru a căuta. (Cu Google ca exemplu)"
+   },
+   "tip_question_2": {
+      "message": "2. Copiați direct URL-ul rezultatului căutării"
+   },
+   "tip_question_3": {
+      "message": "3. Lipiți URL-ul copiat aici și ați terminat"
+   },
+   "tip_question_title": {
+      "message": "Despre utilizarea \"% s\" pentru a înlocui termenii de căutare"
+   },
+   "to_login": {
+      "message": "Acum autentificare"
+   },
+   "today": {
+      "message": "Astăzi"
+   },
+   "todo_welcome": {
+      "message": "Bine ați venit la pagina filă nouă Infinity. Acesta este un element de lucru pentru a face."
+   },
+   "todos": {
+      "message": "Activități de făcut"
+   },
+   "top_bookmark": {
+      "message": "Afișați marcajele deasupra"
+   },
+   "top_use_ful": {
+      "message": "Afișați site-uri frecvent utilizate în partea de sus"
+   },
+   "travel": {
+      "message": "Călătorii"
+   },
+   "tue": {
+      "message": "Marţi"
+   },
+   "tue_min": {
+      "message": "Mar"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Înștiințează-mă peste 2 ore"
+   },
+   "type_link": {
+      "message": "Introdu linkul"
+   },
+   "type_text": {
+      "message": "Introducere text"
+   },
+   "unbind": {
+      "message": "Șterge"
+   },
+   "unbind_btn": {
+      "message": "Anulare asociere"
+   },
+   "unbind_email": {
+      "message": "Deblocați această adresă de e-mail"
+   },
+   "unbind_phone_number": {
+      "message": "Desfă numărul de telefon mobil"
+   },
+   "unbind_success": {
+      "message": "Eliminat cu succes"
+   },
+   "uninstall_agree": {
+      "message": "Acceptă"
+   },
+   "uninstall_chrome_app": {
+      "message": "Dezinstalați aplicația"
+   },
+   "uninstall_extension": {
+      "message": "Eliminați extensia"
+   },
+   "unknown_mistake": {
+      "message": "Eroare necunoscută"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Imagini de fundal renumite de înaltă calitate"
+   },
+   "unzip_folder_content": {
+      "message": "Dosarul va fi șters și pictograma va fi păstrată. Esti sigur?"
+   },
+   "unzip_folder_title": {
+      "message": "Lansare"
+   },
+   "update_data": {
+      "message": "Actualizați datele"
+   },
+   "update_data_failure": {
+      "message": "Actualizarea profilului a eșuat"
+   },
+   "update_desc_1": {
+      "message": "Dacă conversia datelor a eșuat în timpul actualizării versiunii, puteți încerca să reinstalați datele."
+   },
+   "update_desc_2": {
+      "message": "Dacă încă nu puteți rezolva problema de mai multe ori, puteți contacta inginerii noștri, vom încerca să vă ajutăm să rezolvați."
+   },
+   "update_desc_3": {
+      "message": "Datele de conversie suprascrie date de versiune noi, este recomandat să faceți copii de siguranță de date înainte de a funcționa."
+   },
+   "update_error_desc1": {
+      "message": "Puteți încerca să reinstalați dacă detectați unele date."
+   },
+   "update_error_desc2": {
+      "message": "Dacă nu reușiți mai multe upgrade, puteți să faceți clic pe pictograma \"Setări\" din colțul din dreapta sus pentru a intra - [My] - [Backup and Reparații]."
+   },
+   "update_now": {
+      "message": "Actualizează acum"
+   },
+   "update_or_repair_data": {
+      "message": "Actualizați sau reparați datele"
+   },
+   "upload_avatar_failure": {
+      "message": "Încărcarea imaginii dumneavoastră avatar a eşuat"
+   },
+   "upload_file_error": {
+      "message": "Încărcarea fișierului a eșuat"
+   },
+   "upload_image_error": {
+      "message": "Încărcare imagine eșuată"
+   },
+   "uploading": {
+      "message": "Se încarcă..."
+   },
+   "use_cloud": {
+      "message": "Utilizați datele cloud."
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Introduceți text și apăsați ENTER pentru a adăuga"
+   },
+   "use_local": {
+      "message": "Utilizați datele locale."
+   },
+   "use_mobile_screen": {
+      "message": "Utilizați un dispozitiv mobil pentru a scana codul QR"
+   },
+   "user_evaluation": {
+      "message": "Evaluarea utilizatorului"
+   },
+   "username_cannot_empty": {
+      "message": "Numele utilizator nu poate fi necompletat"
+   },
+   "verify_password_desc": {
+      "message": "Pentru securitatea contului dvs., introduceți parola contului"
+   },
+   "verity_code": {
+      "message": "Trimite codul de confirmare"
+   },
+   "verity_code_no_value": {
+      "message": "Codul de verificare nu poate fi necompletat"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Afișează"
+   },
+   "w309": {
+      "message": "Burniță"
+   },
+   "w_100": {
+      "message": "Vreme însorită"
+   },
+   "w_101": {
+      "message": "Norișor"
+   },
+   "w_102": {
+      "message": "Câțiva nori"
+   },
+   "w_103": {
+      "message": "Parţial noros"
+   },
+   "w_104": {
+      "message": "Mohorât"
+   },
+   "w_200": {
+      "message": "Vântos"
+   },
+   "w_201": {
+      "message": "Calm"
+   },
+   "w_202": {
+      "message": "Cu adieri"
+   },
+   "w_203": {
+      "message": "Vânt moderat"
+   },
+   "w_204": {
+      "message": "Vânt semnificativ"
+   },
+   "w_205": {
+      "message": "Vânt puternic"
+   },
+   "w_206": {
+      "message": "Vânt foarte puternic"
+   },
+   "w_207": {
+      "message": "Vânt puternic"
+   },
+   "w_208": {
+      "message": "Început de furtună"
+   },
+   "w_209": {
+      "message": "Furtuni"
+   },
+   "w_210": {
+      "message": "Furtunoasă"
+   },
+   "w_211": {
+      "message": "Uragan"
+   },
+   "w_212": {
+      "message": "Tornadă"
+   },
+   "w_213": {
+      "message": "Furtună tropicală"
+   },
+   "w_300": {
+      "message": "Averse"
+   },
+   "w_301": {
+      "message": "Ploaie rapidă și intensă"
+   },
+   "w_302": {
+      "message": "Furtuni cu fulgere"
+   },
+   "w_303": {
+      "message": "Furtuni rapide și intense, cu fulgere"
+   },
+   "w_304": {
+      "message": "Furtuni cu lapoviţă"
+   },
+   "w_305": {
+      "message": "Ploaie ușoară"
+   },
+   "w_306": {
+      "message": "Ploaie moderată"
+   },
+   "w_307": {
+      "message": "Ploaie torențială"
+   },
+   "w_308": {
+      "message": "Există ploaie extremă"
+   },
+   "w_310": {
+      "message": "Furtună"
+   },
+   "w_311": {
+      "message": "Furtună puternică"
+   },
+   "w_312": {
+      "message": "Furtună extraordinară"
+   },
+   "w_313": {
+      "message": "Ploaie îngheţată"
+   },
+   "w_314": {
+      "message": "Ploaie ușoară care se transformă în ploaie moderată"
+   },
+   "w_315": {
+      "message": "Ploaie moderată care se transformă în furtună intensă"
+   },
+   "w_316": {
+      "message": "Ploaie torenţială până la furtună"
+   },
+   "w_317": {
+      "message": "Furtună spre furtună puternică"
+   },
+   "w_318": {
+      "message": "Averse până la furtună"
+   },
+   "w_399": {
+      "message": "Ploaie"
+   },
+   "w_400": {
+      "message": "Zăpadă ușoară"
+   },
+   "w_401": {
+      "message": "Zăpadă moderată"
+   },
+   "w_402": {
+      "message": "Zăpadă puternică"
+   },
+   "w_403": {
+      "message": "Furtună de zăpadă"
+   },
+   "w_404": {
+      "message": "Ploaie şi zăpadă"
+   },
+   "w_405": {
+      "message": "Lapoviță"
+   },
+   "w_406": {
+      "message": "Averse de lapoviţă"
+   },
+   "w_407": {
+      "message": "Cabină de duș ninsoare"
+   },
+   "w_408": {
+      "message": "Zăpadă ușoară până la moderată"
+   },
+   "w_409": {
+      "message": "Zăpadă moderată până la zăpadă mare"
+   },
+   "w_410": {
+      "message": "Zăpadă mare până la viscol"
+   },
+   "w_499": {
+      "message": "Zăpadă"
+   },
+   "w_500": {
+      "message": "Ceață"
+   },
+   "w_501": {
+      "message": "Ceață"
+   },
+   "w_502": {
+      "message": "Negură"
+   },
+   "w_503": {
+      "message": "Nisip"
+   },
+   "w_504": {
+      "message": "Praf"
+   },
+   "w_507": {
+      "message": "Furtună de nisip"
+   },
+   "w_508": {
+      "message": "Furtună de nisip puternică"
+   },
+   "w_509": {
+      "message": "Ceaţă densă"
+   },
+   "w_510": {
+      "message": "Ceață densă și intensă"
+   },
+   "w_511": {
+      "message": "Ceață moderată"
+   },
+   "w_512": {
+      "message": "Ceaţă densă"
+   },
+   "w_513": {
+      "message": "Ceață severă"
+   },
+   "w_514": {
+      "message": "Ceaţă"
+   },
+   "w_515": {
+      "message": "Ceață severă"
+   },
+   "w_900": {
+      "message": "Fierbinte"
+   },
+   "w_901": {
+      "message": "Rece"
+   },
+   "w_999": {
+      "message": "Necunoscut"
+   },
+   "wallpaper": {
+      "message": "Imaginea de fundal"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Adăugați o culoare particularizată"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Nu a reușit să adăugați imaginea. Încercați mai târziu."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Aplicația Wallpaper locală a eșuat. Încercați mai târziu"
+   },
+   "wallpaper_applying_library": {
+      "message": "Activarea bibliotecii de tapet..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Frecvența reîmprospătării tapetului"
+   },
+   "wallpaper_choose_library": {
+      "message": "Alegeți sursa de fundal"
+   },
+   "wallpaper_choose_single": {
+      "message": "Selectați o imagine de fundal"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Ștergeți selecția"
+   },
+   "wallpaper_cloud": {
+      "message": "Cloud tapet"
+   },
+   "wallpaper_collect_current": {
+      "message": "Colectați tapetul curent"
+   },
+   "wallpaper_common_color": {
+      "message": "Culoare comun"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Ștergeți acest tapet?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Nu a reușit să creeze biblioteca de tapet local. Încercați mai târziu."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Biblioteca de tapet personalizată a utilizatorului depășește limita"
+   },
+   "wallpaper_custom_color": {
+      "message": "Culoare personalizată"
+   },
+   "wallpaper_delete_color": {
+      "message": "Ștergeți această culoare"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Eliminat cu succes"
+   },
+   "wallpaper_delete_file": {
+      "message": "Șterge tapet"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Nu a reușit să ștergeți tapetul"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Dezactivați comutarea automată a imaginii de fundal"
+   },
+   "wallpaper_empty_text": {
+      "message": "Nu există date"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Achiziția tapetului a eșuat"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Nu a reușit să obțină tapetul utilizatorului"
+   },
+   "wallpaper_library": {
+      "message": "Bibliotecă de wallpaper-uri"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$ biblioteca local ă de tapet",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Nume de bibliotecă ilegală"
+   },
+   "wallpaper_library_preview": {
+      "message": "Previzualizare Fundal"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Încărcați un maxim de 20 de imagini de fundal. Fiecare tapet nu trebuie să depășească 10 m."
+   },
+   "wallpaper_loading": {
+      "message": "Progresare…"
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Nevoie de o conexiune de rețea pentru a face acest lucru"
+   },
+   "wallpaper_remove_library": {
+      "message": "Eliminați această bibliotecă de fundal"
+   },
+   "wallpaper_sort_default": {
+      "message": "Sortare standard"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Popularitate"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Data includerii incluziunii"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Comutați la fiecare 24 de ore"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Swapping Wallpaper a eșuat"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Actualizați-vă imaginile de fundal zilnic cu Bing. Nu puteți alege frecvența de comutare."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Comutați la fiecare oră"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Comută la fiecare 12 ore"
+   },
+   "wallpaper_switch_success": {
+      "message": "Imagine de fundal aleatoare a fost schimbată cu succes"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Schimbați imaginea următoare"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Comutați la deschiderea unei noi fila"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Comutați când deschideți pagina"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Încărcarea fișierelor a eșuat. Motiv: Dimensiunea depășește limita"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Selectați un fundal local"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Cel puțin un tapet este necesar"
+   },
+   "want_more": {
+      "message": "Bucurați-vă de mai multe avantaje instantaneu"
+   },
+   "weather": {
+      "message": "Meteo"
+   },
+   "weather_empty": {
+      "message": "Momentan nu sunt disponibile informații despre vreme"
+   },
+   "web_set_home_title": {
+      "message": "Cum să setați Infinity ca pagină de pornire"
+   },
+   "website_address": {
+      "message": "Adresă URL"
+   },
+   "website_name": {
+      "message": "Nume site web"
+   },
+   "website_search_replace_char": {
+      "message": "URL (utilizați% s pentru a înlocui cuvântul de căutare)"
+   },
+   "wechat": {
+      "message": "WeChat"
+   },
+   "wed": {
+      "message": "Miercuri"
+   },
+   "wed_min": {
+      "message": "Mie"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Vânt"
+   },
+   "wind_mill": {
+      "message": "Afișați butonul de fundal aleatoriu din colțul din dreapta jos"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search este un motor de căutare operate de Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex este unul dintre cele mai importante portaluri de servicii Internet din Rusia"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$year$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Ieri"
+   },
+   "you_need_login": {
+      "message": "Trebuie să semnezi în Contul Infinity mai întâi"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Istoria navigarii va fi afișată aici"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

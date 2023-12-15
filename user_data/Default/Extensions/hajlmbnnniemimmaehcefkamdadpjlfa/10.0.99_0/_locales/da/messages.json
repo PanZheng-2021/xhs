@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Sikker søgemaskine"
+   },
+   "about": {
+      "message": "Om"
+   },
+   "about_us": {
+      "message": "Om os"
+   },
+   "account_expired": {
+      "message": "Test din konto er udløbet, skal du logge ind igen"
+   },
+   "account_setting": {
+      "message": "Kontoindstillinger"
+   },
+   "add": {
+      "message": "Tilføj"
+   },
+   "add_city": {
+      "message": "Tilføj by"
+   },
+   "add_first_note": {
+      "message": "Tag din første note"
+   },
+   "add_icon_success": {
+      "message": "Tilføjet succes"
+   },
+   "add_link": {
+      "message": "Tilføj et link"
+   },
+   "add_new_search_engine": {
+      "message": "Tilføj en ny søgemaskine"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Nyt tapetbibliotek"
+   },
+   "add_search_engine": {
+      "message": "Tilføj søgemaskine"
+   },
+   "add_success": {
+      "message": "Tilføjet succes"
+   },
+   "add_to_home_site": {
+      "message": "Tilføj til hjemmeside"
+   },
+   "add_to_infinity": {
+      "message": "Tilføj til Infinity New Tab PAGE"
+   },
+   "additional_search_engine": {
+      "message": "Yderligere søgemaskine"
+   },
+   "air_pressure": {
+      "message": "Lufttryk"
+   },
+   "all_wallpaper_sources": {
+      "message": "Alle tapet"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Alle kilder til baggrunde"
+   },
+   "ambiguity": {
+      "message": "Sløring"
+   },
+   "animals": {
+      "message": "Dyr"
+   },
+   "animation": {
+      "message": "Animationer"
+   },
+   "animation_tips": {
+      "message": "Start animation kan påvirke glathed"
+   },
+   "anime": {
+      "message": "Tegneserie"
+   },
+   "any_money": {
+      "message": "Alle"
+   },
+   "app": {
+      "message": "Applikation"
+   },
+   "app_disabled_enable_first": {
+      "message": "Du har deaktiveret denne app. Tillad Infinity at aktivere denne app først?"
+   },
+   "application": {
+      "message": "Applikation"
+   },
+   "apply": {
+      "message": "Anvend"
+   },
+   "architecture": {
+      "message": "Arkitektur"
+   },
+   "athletics": {
+      "message": "Sport"
+   },
+   "avatar": {
+      "message": "Vælg en avatar"
+   },
+   "backing_up": {
+      "message": "Sikkerhedskopierer …"
+   },
+   "backup_and_recovery": {
+      "message": "Backup og Recovery."
+   },
+   "backup_failed": {
+      "message": "Sikkerhedskopiering fejlet"
+   },
+   "backup_now": {
+      "message": "Sikkerhedskopiér nu"
+   },
+   "backup_successful": {
+      "message": "Sikkerhedskopi lykkedes"
+   },
+   "backup_tips": {
+      "message": "Vi beholder maksimalt 3 Manual Backup Nodes og 3 Automatic Backup Nodes til dig"
+   },
+   "backup_with_device": {
+      "message": "Synk med andre enheder"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Fokus på at indsamle gratis og høj kvalitet, ikke-galleri type fotografering"
+   },
+   "basic_info": {
+      "message": "Generelle oplysninger"
+   },
+   "bg_color": {
+      "message": "Baggrundsfarve"
+   },
+   "bg_updating": {
+      "message": "I opgraderingen, vent venligst ..."
+   },
+   "bind": {
+      "message": "Tilknyt"
+   },
+   "bind_success": {
+      "message": "Tilknytning lykkedes"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing er en søgemaskine udviklet af Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Dagligt Bing Baggrundsbibliotek"
+   },
+   "bookmarks": {
+      "message": "Bogmærker"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ understøtter ikke denne funktion",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Annuller"
+   },
+   "cancel_login": {
+      "message": "Annuller login"
+   },
+   "cancel_remind_time": {
+      "message": "Annuller påmindelse Time."
+   },
+   "cancel_set_top": {
+      "message": "Annuller fastgørelse"
+   },
+   "cannot_change_password": {
+      "message": "Du kan ikke ændre adgangskode, hvis du logger ind med tredjepartskonto"
+   },
+   "cannot_change_profile": {
+      "message": "Tredjeparts brugere, der logger ind, kan ikke ændre profilinformation"
+   },
+   "cannot_download": {
+      "message": "Downloads understøttes ikke"
+   },
+   "cannot_empty": {
+      "message": "Må ikke være tomt"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Skift påmindelse tid"
+   },
+   "change_wallpaper": {
+      "message": "Skift baggrund"
+   },
+   "check_olddata_desc": {
+      "message": "Det opdages, at der er en gammel version af de gamle data, som kan opgraderes. Hvis du har brug for dig, forsøger du at opgradere disse data"
+   },
+   "choose_sync_type": {
+      "message": "Vælg konto data"
+   },
+   "chose_from_mypc": {
+      "message": "Opret mit tapetbibliotek"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$-apps",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - Udvidelser"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Indtast chrome://settings/appearance i adresselinjen og indtast indstillingssiden."
+   },
+   "chrome_browser_guide2": {
+      "message": "Skub ned til bunden, og vælg den indstilling, der er angivet med pilen i figuren."
+   },
+   "chrome_browser_guide3": {
+      "message": "Indtast URL https://inftab.com i pop op-vinduet, og klik derefter på knappen Tilføj for at afslutte startsiden."
+   },
+   "clear_historys": {
+      "message": "Ryd historik"
+   },
+   "col_gap": {
+      "message": "Kolonnemellemrum"
+   },
+   "col_num": {
+      "message": "Rækker"
+   },
+   "color": {
+      "message": "Farve"
+   },
+   "color_icon": {
+      "message": "Solid Color Icon."
+   },
+   "come_from": {
+      "message": "Fra brugeren"
+   },
+   "comming_soon": {
+      "message": "Kommer snart"
+   },
+   "comming_soon_title": {
+      "message": "Infinity mobilversion er på vej"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Vil du rydde alle historikposter?"
+   },
+   "confirm_cover_remote": {
+      "message": "Lokale data gemmes på en manuel backup node"
+   },
+   "confirm_del_folder": {
+      "message": "Er du sikker på, at du vil slette denne mappe?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Er du sikker på, at du vil slette de færdige elementer?"
+   },
+   "confirm_delete_note": {
+      "message": "Bekræft note sletning?"
+   },
+   "confirm_logout": {
+      "message": "Log ud"
+   },
+   "confirm_password": {
+      "message": "Bekræft ny adgangskode"
+   },
+   "confirm_password_2": {
+      "message": "Bekræft adgangskode"
+   },
+   "confirm_recovery_data": {
+      "message": "Cloud Data erstatter lokale data. Er du sikker på denne handling?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Er du sikker på, at du vil fjerne dette tapetbibliotek?"
+   },
+   "confirm_unbind": {
+      "message": "Afbryd denne konto?"
+   },
+   "confirm_unbind_email": {
+      "message": "Er du sikker på, at du vil fjerne din email $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Er du sikker på, at du vil unpalde dit telefonnummer $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Kontakt Engineer."
+   },
+   "contact_us": {
+      "message": "Kontakt os"
+   },
+   "copy": {
+      "message": "Kopiér"
+   },
+   "cubic_bezier": {
+      "message": "Spark tilbage"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Profilbillede"
+   },
+   "current_browser_not_support": {
+      "message": "Den nuværende browser understøtter ikke udvidelsesstyring"
+   },
+   "current_no_reminders": {
+      "message": "Har ikke noget at gøre"
+   },
+   "current_node": {
+      "message": "Nuværende node"
+   },
+   "custom": {
+      "message": "Tilpas"
+   },
+   "custom_icon": {
+      "message": "Tilpas ikon"
+   },
+   "custom_layout": {
+      "message": "Tilpas layout"
+   },
+   "custom_site": {
+      "message": "Custom Website"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "del_folder": {
+      "message": "Slet"
+   },
+   "delete_all_bookmarks": {
+      "message": "Slet alle bogmærker under denne mappe"
+   },
+   "disable_chrome_app": {
+      "message": "Deaktivér applikation"
+   },
+   "disable_extension": {
+      "message": "Deaktiver Extensions."
+   },
+   "do_later": {
+      "message": "Tal om det senere"
+   },
+   "done": {
+      "message": "Udfør"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Download CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Download baggrund"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DUCKDUCKGO fokuserer på at importere indhold fra store web 2.0-steder udover at være en traditionel søgemaskiner, som hjemmesiden for hjemmesiden er at respektere brugernes privatliv, lovende ikke at overvåge eller dokumentere søgeindhold."
+   },
+   "ease_in": {
+      "message": "Fade in."
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Indtast edge://settings/onStartup i browser- adresselinjen for at indtaste indstillingssiden."
+   },
+   "edge_browser_guide2": {
+      "message": "Klik på den indstilling, der er angivet ved pilen i figuren."
+   },
+   "edge_browser_guide3": {
+      "message": "Indtast URL https://inftab.com i pop op-vinduet, og klik derefter på knappen Tilføj for at afslutte startsiden."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Rediger"
+   },
+   "edit_avatar": {
+      "message": "Redigér avatar"
+   },
+   "edit_content": {
+      "message": "Rediger indhold"
+   },
+   "edit_icon": {
+      "message": "Rediger ikon"
+   },
+   "education": {
+      "message": "Uddannelse og Jobs."
+   },
+   "email": {
+      "message": "E-mailadresse"
+   },
+   "email_code": {
+      "message": "Verificering af e-mail"
+   },
+   "email_format_error": {
+      "message": "E-mail-format forkert"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Email eller mobiltelefonnummer"
+   },
+   "empty": {
+      "message": "Tom"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Ønsker du at slette denne mappe?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Vil du slette dette bogmærke?"
+   },
+   "ensure_logout": {
+      "message": "Er du sikker på, du vil logge ud?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "udfylde din gøremålsliste, tilføje elementer ved at klikke på indtastning"
+   },
+   "enter_password_tips": {
+      "message": "Angiv adgangssætning"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Indtast det korrekte telefonnummer"
+   },
+   "enter_verification_code_tips": {
+      "message": "Angiv bekræftelseskoden"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Eksporter backup data"
+   },
+   "export_local_data_desc": {
+      "message": "Eksporter fra nuværende lokale data"
+   },
+   "extension": {
+      "message": "Udvidelser"
+   },
+   "extension_app": {
+      "message": "Udvidelser"
+   },
+   "extension_des": {
+      "message": "Freely Tilføj website ikoner, nyd High Definition Cloud Drive Baggrunde, og hurtigt få adgang til bogmærker, vejrinformation, noter, to-do lister, udvidelsesstyring og historie på ny faneblad, der vælges af millioner af brugere."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP giver dig mulighed for at tilpasse din nye fane side"
+   },
+   "extension_des_firefox": {
+      "message": "Den nye fane valgt af millioner, som i høj grad kan forbedre produktiviteten. Inkluderende webikoner, søgemaskiner, HD Baggrunde, Vejret, Noter, Bogmærker, Opgaveliste, Historie, Extension Management osv."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro giver dig mulighed for at tilpasse din nye fane side"
+   },
+   "extension_mananger": {
+      "message": "Administrer udvidelser"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Tilmeld dig Facebook-gruppen"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "female": {
+      "message": "Kvinde"
+   },
+   "filter": {
+      "message": "Filter"
+   },
+   "finance": {
+      "message": "finansiere"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox add-on butik"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Input about: preferences #home i adresselinjen for at indtaste indstillingssiden."
+   },
+   "firefox_browser_guide2": {
+      "message": "Som vist ved pilen i figuren skal du vælge indstillingen for brugerdefinerede webadresser."
+   },
+   "firefox_browser_guide3": {
+      "message": "Indtast URL'en https://inftab.com I tekstfeltet er startsiden opsætning komplet."
+   },
+   "five_star": {
+      "message": "Giv 5 stjerner"
+   },
+   "folder": {
+      "message": "Mappe"
+   },
+   "follow_us": {
+      "message": "Følg os"
+   },
+   "follow_wechat": {
+      "message": "Følg Infinity Wechat Offentlig Konto"
+   },
+   "follow_wechat_desc": {
+      "message": "Vær opmærksom på vores WeChat Public Antal (Micro Signal: InfinityDaily), få ​​uendelig nyeste produktdynamik, og du kan opdage mere sjovt at udvide og hjemmeside."
+   },
+   "font": {
+      "message": "Skrifttyper"
+   },
+   "font_color": {
+      "message": "Skriftfarve"
+   },
+   "font_size": {
+      "message": "Tekststørrelse"
+   },
+   "food_drink": {
+      "message": "Mad"
+   },
+   "forget_password": {
+      "message": "Glemt Adgangskode"
+   },
+   "format_error": {
+      "message": "Formatfejl"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Stor mængde royaltyfrie billeder, gratis at bruge og opdateres dagligt"
+   },
+   "fri": {
+      "message": "Fredag"
+   },
+   "fri_min": {
+      "message": "Fre"
+   },
+   "fully_authorized_to_use": {
+      "message": "Fuldt autoriseret til at bruge funktioner"
+   },
+   "games": {
+      "message": "Gaming og underholdning"
+   },
+   "gamil_notice": {
+      "message": "Gmail notifikationer"
+   },
+   "gender": {
+      "message": "Vælg køn"
+   },
+   "get_app_permission": {
+      "message": "Godkend at få din lokale app"
+   },
+   "get_cloud_icon": {
+      "message": "Erhverve online."
+   },
+   "give_money": {
+      "message": "Belønning"
+   },
+   "give_money_thanks": {
+      "message": "Din støtte er vores største belønning"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Hvis du kan lide uendelig ny faneblad, bedes du bedømme vores service eller give os feedback for at hjælpe os med at ign."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Hvis du har spørgsmål eller forslag, bedes du kontakte os."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail notifikation ringetone"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google-søgning er en søgemaskine udviklet af Google. Det er den største, mest indflydelsesrige søgemaskine på internettet"
+   },
+   "have_todo_item": {
+      "message": "Du har for øjeblikket et gøremål"
+   },
+   "hide_homepage_btn": {
+      "message": "Skjul indstillet som hjemme-knap"
+   },
+   "hide_icon_name": {
+      "message": "Skjul ikonets navn"
+   },
+   "hide_search_button": {
+      "message": "Skjul søge-knap"
+   },
+   "hide_search_category": {
+      "message": "Skjul søgning Kategori"
+   },
+   "hide_search_input": {
+      "message": "Skjul søgefelt"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Skjul indstillet som hjemme-knap"
+   },
+   "hint": {
+      "message": "Tip"
+   },
+   "history": {
+      "message": "Historik"
+   },
+   "history_backup_list": {
+      "message": "Historie backup node liste"
+   },
+   "history_week": {
+      "message": "Søg efter historie inden for en uge"
+   },
+   "host_permission": {
+      "message": "Host Tilladelser"
+   },
+   "hour": {
+      "message": "time"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Jeg vil belønne"
+   },
+   "icon": {
+      "message": "Ikon"
+   },
+   "icon_added": {
+      "message": "Tilføjet"
+   },
+   "icon_bg_text": {
+      "message": "Ikontekst"
+   },
+   "icon_network_error": {
+      "message": "Netværksundtagelse, klik for et genindlæse"
+   },
+   "ignore": {
+      "message": "Ignorer"
+   },
+   "img_verify_code": {
+      "message": "Verificeringsbillede"
+   },
+   "import_data": {
+      "message": "Import backup data"
+   },
+   "import_data_desc": {
+      "message": "Gendan data fra backup fil"
+   },
+   "import_select_tile": {
+      "message": "Vælg data"
+   },
+   "infinity_bookmarks": {
+      "message": "Flad din bogmærke mappe hierarki og find bogmærker lettere med Infinity Bookmarks"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity featured anime wallpapers"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Højkvalitets Infinity Anime Wallpaper Library"
+   },
+   "infinity_extension": {
+      "message": "Administrer dine $browser$ Extensions og Apps nemt med Infinity Extension Manager",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Se hurtigt og administrer din browserhistorik med Infinity History"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Featured Landscape Wallpapers"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Højkvalitets Infinity Landskab Baggrundsbibliotek"
+   },
+   "infinity_notes": {
+      "message": "Optag livets inspirationer hurtigt med uendelige noter"
+   },
+   "infinity_settings": {
+      "message": "Tilpas din uendelig ny faneblad med uendelig indstillinger"
+   },
+   "infinity_todos": {
+      "message": "Arranger dine opgaver i rækkefølge og forbedre din arbejdseffektivitet med Infinity to-do liste"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Bibliotek giver dig rige og spændende baggrunde"
+   },
+   "infinity_weather": {
+      "message": "Infinity vejr giver dig vejrudsigter fra byer rundt om i verden"
+   },
+   "info": {
+      "message": "Oplysninger"
+   },
+   "inportdata_desc": {
+      "message": "Importerede data er inkonsekvent med de lokale data. Vælg flet eller overskriv."
+   },
+   "input_and_search": {
+      "message": "Start søgning"
+   },
+   "input_city": {
+      "message": "Indtast en by/region"
+   },
+   "input_new_password": {
+      "message": "Angiv ny adgangskode"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Tilknyttet"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Gratis billeder til ethvert formål"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Behold indholdet af søgefeltet"
+   },
+   "label": {
+      "message": "Mærker"
+   },
+   "language": {
+      "message": "Sprog"
+   },
+   "language_select": {
+      "message": "Vælg sprog"
+   },
+   "last_sync_time": {
+      "message": "Sidste synkroniseringstid: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Sidst opdateret"
+   },
+   "layout": {
+      "message": "Layout"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Gratis HD Baggrundskilde"
+   },
+   "life_style": {
+      "message": "Livsstil"
+   },
+   "limit_input_length": {
+      "message": "Tekstlængde ud over grænsen"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Lokalt ikon"
+   },
+   "local_wallpaper2": {
+      "message": "Lokale baggrundsbilleder"
+   },
+   "login": {
+      "message": "Log ind"
+   },
+   "login_abandon_tips": {
+      "message": "Den nuværende login-metode vil snart blive fjernet. Bind venligst din e-mail eller anden tredjepartskonto så hurtigt som muligt efter login"
+   },
+   "login_now": {
+      "message": "Log ind på din Infinity-konto nu for at nyde flere tilladelser"
+   },
+   "login_now_btn": {
+      "message": "Log ind"
+   },
+   "login_register": {
+      "message": "Log ind / Tilmeld"
+   },
+   "loging": {
+      "message": "Login"
+   },
+   "logout": {
+      "message": "Log ud"
+   },
+   "logout_clear_something": {
+      "message": "Ryd personlige indstillinger og andre oplysninger på denne enhed"
+   },
+   "logout_tips": {
+      "message": "Har du brug for at rydde lokale data, før du logger ud af din konto for at forhindre data fra forskellige konti på denne enhed fra at forbinde?"
+   },
+   "logout_warn": {
+      "message": "Når du har logget ud fra kontoen, slettes alle sikkerhedsoplysninger under denne konto. Er du sikker på, at du vil logge ud fra denne konto? (Billede af Notes og Custom Wallpaper Biblioteker er muligvis ikke tilgængelige)"
+   },
+   "male": {
+      "message": "Mand"
+   },
+   "manage_backup_node": {
+      "message": "Administrer historie backup noder"
+   },
+   "manul_backup": {
+      "message": "Manuel back-up"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "Dæmp tapetet"
+   },
+   "me": {
+      "message": "Mig"
+   },
+   "merge_cloud_local": {
+      "message": "Kombinere lokale og cloud data"
+   },
+   "merge_data": {
+      "message": "Flet data"
+   },
+   "mini_mode": {
+      "message": "Minimalistisk tilstand"
+   },
+   "mins": {
+      "message": "Min."
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Brug på dine hjemmesider, temaer, skabeloner, projekter, trykningsmaterialer og aviser. Hver uge tilføjes nye tapeter og videoer"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobil-version"
+   },
+   "modify": {
+      "message": "Rediger oplysninger"
+   },
+   "modify_email": {
+      "message": "Ændre mail"
+   },
+   "modify_password": {
+      "message": "Rediger adgangskode"
+   },
+   "modify_phone_number": {
+      "message": "Ændre telefonnummer"
+   },
+   "modify_pwd": {
+      "message": "Rediger adgangskode"
+   },
+   "modify_success": {
+      "message": "Ændring en succes"
+   },
+   "modify_this": {
+      "message": "Rediger"
+   },
+   "mon": {
+      "message": "Mandag"
+   },
+   "mon_min": {
+      "message": "Man"
+   },
+   "month_1": {
+      "message": "Januar"
+   },
+   "month_10": {
+      "message": "Oktober"
+   },
+   "month_11": {
+      "message": "November"
+   },
+   "month_12": {
+      "message": "December"
+   },
+   "month_2": {
+      "message": "Februar"
+   },
+   "month_3": {
+      "message": "Marts"
+   },
+   "month_4": {
+      "message": "April"
+   },
+   "month_5": {
+      "message": "Maj"
+   },
+   "month_6": {
+      "message": "Juni"
+   },
+   "month_7": {
+      "message": "Juli"
+   },
+   "month_8": {
+      "message": "August"
+   },
+   "month_9": {
+      "message": "September"
+   },
+   "more_content_from_site": {
+      "message": "Mere indhold fra denne hjemmeside"
+   },
+   "most_used_in_chinese": {
+      "message": "Søgemaskinen brugte mest af kinesisk"
+   },
+   "music_video": {
+      "message": "Musikvideo"
+   },
+   "my_collection": {
+      "message": "Min samling"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Indtast venligst webstedets navn"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Natur"
+   },
+   "need_you_permission": {
+      "message": "Kræver tilladelse"
+   },
+   "network_error": {
+      "message": "Netværksfejl"
+   },
+   "new_email": {
+      "message": "Ny e-mail"
+   },
+   "new_password": {
+      "message": "Angiv ny adgangskode"
+   },
+   "new_phone_number": {
+      "message": "Nyt telefonnummer"
+   },
+   "new_tab": {
+      "message": "Ny fane"
+   },
+   "new_tab_web": {
+      "message": "Infinity Hjemmeside"
+   },
+   "news": {
+      "message": "Nyheder"
+   },
+   "next": {
+      "message": "Næste"
+   },
+   "nickname": {
+      "message": "Kaldenavn"
+   },
+   "no_account_register": {
+      "message": "Har du ikke en konto? Lav en nu."
+   },
+   "no_backup_time": {
+      "message": "Ingen"
+   },
+   "no_bookmark_result": {
+      "message": "Ingen bogmærke."
+   },
+   "no_chrome_app": {
+      "message": "Du har ikke installeret nogen $browser$ apps",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Ingen vejrdata"
+   },
+   "no_data": {
+      "message": "Ingen data"
+   },
+   "no_description": {
+      "message": "Ingen beskrivelse"
+   },
+   "no_more": {
+      "message": "Ikke yderligere"
+   },
+   "no_more_reminder": {
+      "message": "Vis ikke igen"
+   },
+   "no_permission_text": {
+      "message": "Det anbefales, at du forsøger at åbne og give denne tilladelse i browseradresselinjen eller indstillingscentret."
+   },
+   "no_permission_title": {
+      "message": "Tilladelsen er ikke givet endnu"
+   },
+   "no_permission_to_open_app": {
+      "message": "Ingen tilladelse til at åbne $browser$ App",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Har ikke noget at gøre"
+   },
+   "no_search_result": {
+      "message": "Ingen søgeresultater"
+   },
+   "no_title": {
+      "message": "Ingen titel"
+   },
+   "none": {
+      "message": "Skjult"
+   },
+   "none_auto_backup": {
+      "message": "Der er i øjeblikket ingen planlagte backups"
+   },
+   "none_auto_backup_desc": {
+      "message": "Planlagte backups starter samme dag, du ændrer oplysninger om uendelig"
+   },
+   "none_manual_backup": {
+      "message": "Der er i øjeblikket ingen manuelle sikkerhedskopier"
+   },
+   "normal_model": {
+      "message": "Standardtilstand"
+   },
+   "not_binding": {
+      "message": "Ikke tilknyttet"
+   },
+   "note_title": {
+      "message": "Indtast notens titel"
+   },
+   "note_upload_img_15": {
+      "message": "Denne billedstørrelse kan ikke overstige 15M"
+   },
+   "notes": {
+      "message": "Noter"
+   },
+   "notice": {
+      "message": "Meddelelse"
+   },
+   "ocean": {
+      "message": "Ocean"
+   },
+   "one_day_later": {
+      "message": "Påmind mig i morgen"
+   },
+   "one_week_later": {
+      "message": "Påmind mig om en uge"
+   },
+   "only_used_infinity": {
+      "message": "Bruges kun til uendelige interne moduler"
+   },
+   "opacity": {
+      "message": "Ikon gennemsigtighed"
+   },
+   "open_all": {
+      "message": "Åbn alle"
+   },
+   "open_chrome_app": {
+      "message": "Aktivér app"
+   },
+   "open_extension": {
+      "message": "Slå udvidelse til"
+   },
+   "open_folder_icons": {
+      "message": "Åbn alle"
+   },
+   "open_new_tab": {
+      "message": "Åbn hjemmeside i ny fane"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Åbn bogmærket link i ny fane"
+   },
+   "open_newtab_history": {
+      "message": "Åbn historie i ny fane"
+   },
+   "open_newtab_show_search": {
+      "message": "Åbn tredjeparts søgeresultater i New Tab"
+   },
+   "origin_password": {
+      "message": "Nuværende adgangskode"
+   },
+   "other_bookmarks": {
+      "message": "Andre bogmærker"
+   },
+   "others": {
+      "message": "Andre"
+   },
+   "oversize": {
+      "message": "Størrelsen kan ikke overstige 2MB"
+   },
+   "overwrite_data": {
+      "message": "Overskriv data"
+   },
+   "pagin": {
+      "message": "Knap til side"
+   },
+   "password": {
+      "message": "Adgangskode"
+   },
+   "password_dont_empty": {
+      "message": "Adgangskode skal udfyldes"
+   },
+   "password_length_low": {
+      "message": "Adgangskode ikke mindre end 6 cifre"
+   },
+   "password_not_equals": {
+      "message": "Adgangskoder ikke identiske"
+   },
+   "password_not_some": {
+      "message": "De indtastede adgangskoder matcher ikke"
+   },
+   "permission": {
+      "message": "Autoriser"
+   },
+   "permission_all": {
+      "message": "Godkend alt."
+   },
+   "permission_gmail_notice_content": {
+      "message": "Anmodning om at få adgang til og ændre dine data på mail.google.com; Anmodning om at vise meddelelser"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail notifikationer"
+   },
+   "permission_gmail_num_content": {
+      "message": "Anmodning om at få adgang til og ændre dine data på mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Adgang Gmail mængde"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Anmodning om at få adgang til og ændre dine data på google.com og forslag.baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Søgeforslag"
+   },
+   "permission_todo_notice_content": {
+      "message": "Anmode om, at der vises en meddelelse"
+   },
+   "permission_todo_notice_title": {
+      "message": "At-gøre meddelelse"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Anmodning om at få adgang til ikoner svarende til besøgte websteder og få adgang til og ændre dine bogmærker"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Vis bogmærker på toppen"
+   },
+   "permission_top_useful_content": {
+      "message": "Anmodning om at få adgang til ikoner svarende til besøgte websteder og få adgang til og ændre din liste over oftest websites"
+   },
+   "permission_top_useful_title": {
+      "message": "Vis ofte brugte websteder på toppen"
+   },
+   "permisson_label": {
+      "message": "Tilladelser"
+   },
+   "phone_number": {
+      "message": "Telefonnummer"
+   },
+   "photos": {
+      "message": "Billeder"
+   },
+   "pick_local_wallpaper": {
+      "message": "Vælg en lokal baggrund"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Gratis og smukke billeder, der er tilgængelige til enhver brug"
+   },
+   "placeholder_name": {
+      "message": "Navn"
+   },
+   "please_chose_picture": {
+      "message": "Vælg venligst Billede"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Indtast et bogmærkenavn"
+   },
+   "please_enter_email": {
+      "message": "Angiv e-mail"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Indtast venligst billedverifikationskoden"
+   },
+   "please_enter_nickname": {
+      "message": "Indtast tilnavn"
+   },
+   "please_enter_phone": {
+      "message": "Indtast venligst telefonnummeret"
+   },
+   "please_enter_right_account": {
+      "message": "Indtast venligst den korrekte e-mail eller telefonnummer"
+   },
+   "please_enter_text": {
+      "message": "Input Text"
+   },
+   "please_enter_url": {
+      "message": "Angiv webadresse"
+   },
+   "please_input_bg_text": {
+      "message": "Indtast venligst ikoneteksten"
+   },
+   "please_pre_login": {
+      "message": "Log først ind"
+   },
+   "please_re_login": {
+      "message": "Log på igen"
+   },
+   "please_set_your_password": {
+      "message": "Indstil venligst en adgangskode"
+   },
+   "please_type_link": {
+      "message": "Indtast venligst link"
+   },
+   "please_type_right_link": {
+      "message": "Indtast venligst den korrekte linkadresse"
+   },
+   "please_upload_photos": {
+      "message": "Upload et billede"
+   },
+   "popular": {
+      "message": "Populær"
+   },
+   "preview": {
+      "message": "Forhåndsvisning"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Beskyttelse af personlige oplysninger og dataindsamling"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Billeder genereret af tilpasset website ikon"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Billeder genereret af tilpasset søgemaskine"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Din registrerede e-mail-adresse, uploadet profilbillede, valgt kaldenavn, ikke-almindeligt tekstadgangskode og andre oplysninger"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Hvis du logger ind med en tredjeparts konto, gemmer vi dit kaldenavn, køn, profilbillede og andre oplysninger fra tredjeparten"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Website ikon Information og søgemaskineoplysninger, du tilføjede"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Vejrinformation i dit område eller vejrinformation på andre områder, du sætter"
+   },
+   "privacy_data_item_2_5": {
+      "message": "At-do lister du oprettede"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Indholdet af noter, du oprettede og billeder uploadet i dine noter"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Dit nuværende tapet, tapetindstillinger, billeder uploadet til dit lokale tapet, og billeder uploadet til dit lokale tapetbibliotek"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Forlængelsesindstillinger."
+   },
+   "privacy_data_item_3_1": {
+      "message": "Serveren kan gemme logfiler genereret under interaktioner med brugere og klienter. Denne post bruges hovedsagelig til fejlfinding af undtagelsesfejl. Vi vil rydde denne logfaste fra tid til anden."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Browser type, sprog og version og skærmopløsning"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Er i øjeblikket logget ind eller ej"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Omtrentlig antal aktuelle ikoner"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Aktuelt aktiverede udvidelser (hvis du bruger udvidelsesstyring)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Antallet af gange denne udvidelse er blevet åbnet"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP-adresse og geografisk placering afledt af IP-adresse"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Website ikoner og søgemaskiner tilføjet"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Baggrund og udvidelsesindstillinger"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Udvidelsesversion"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Frekvens for at klikke på funktionsknapper"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Undtagelsesfejlmeddelelse"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Åbn adresseværket på webstedet"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Nuværende søgemaskine vært"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Vi vil anonymt tælle antallet af gange, at nogle søgemaskiner anvendes."
+   },
+   "privacy_data_item_9": {
+      "message": "Du skal acceptere denne privatlivspolitik, før du kan bruge denne udvidelse. Se vores $the_infinity_privacy$ for at lære mere.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Nej, indsamle ikke de anonyme data"
+   },
+   "privacy_data_title_1": {
+      "message": "Vi kan muligvis gemme billeder, der genereres frivilligt af brugere under brug. Følgende billeder opbevares anonymt:"
+   },
+   "privacy_data_title_2": {
+      "message": "Hvis du registrerer eller logger på din konto, skal vi gemme følgende identificerbare data (i det følgende benævnt brugerdata) på vores server for at fuldføre data backup og synkronisering:"
+   },
+   "privacy_data_title_3": {
+      "message": "Server log:"
+   },
+   "privacy_data_title_4": {
+      "message": "Indsamling af følgende oplysninger er valgfri. Oplysningerne vil blive indsamlet anonymt gennem Google Analytics Hjælp os med at forbedre vores produkter:"
+   },
+   "privacy_data_title_5": {
+      "message": "Statistisk analyse:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Venligst bekræft for at afinstallere Infinity New Tab-siden"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Venligst bekræft for at afinstallere Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Afinstaller Infinity New Tab side?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Afinstaller Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Ja, de anonyme data kan indsamles i overensstemmelse med privatlivspolitikken"
+   },
+   "privacy_disagree": {
+      "message": "Jeg accepterer ikke"
+   },
+   "privacy_policy": {
+      "message": "privatlivspolitik"
+   },
+   "privacy_title": {
+      "message": "Aftale om beskyttelse af personlige oplysninger"
+   },
+   "profile": {
+      "message": "Personlige oplysninger"
+   },
+   "pure_color": {
+      "message": "Ren farve."
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ-gruppe"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Tilfældige baggrunde"
+   },
+   "re_update": {
+      "message": "Re-upgrade"
+   },
+   "read": {
+      "message": "Læs"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Stor mængde HD-fotos til personlig og kommerciel brug, 7 nye hver uge"
+   },
+   "recently_add": {
+      "message": "Nyligt tilføjet"
+   },
+   "recently_use": {
+      "message": "Senest brugt"
+   },
+   "recover_error": {
+      "message": "Data Recovery Failed."
+   },
+   "recover_error_version": {
+      "message": "Ikke understøttet dataformat"
+   },
+   "recover_this": {
+      "message": "Gendan fra denne node"
+   },
+   "redius": {
+      "message": "Ikon afrundede hjørner"
+   },
+   "refresh_qrcode": {
+      "message": "QR-koden er ugyldig, klik på Opdater"
+   },
+   "register": {
+      "message": "Registrer"
+   },
+   "register_back": {
+      "message": "Gå tilbage"
+   },
+   "register_get_email_code_error": {
+      "message": "Kunne ikke hente bekræftelseskoden"
+   },
+   "register_now": {
+      "message": "Tilmeld din Infinity-konto nu for at nyde flere tilladelser"
+   },
+   "relative_humidity": {
+      "message": "Relativ luftfugtighed"
+   },
+   "reload": {
+      "message": "Prøv igen"
+   },
+   "reminder_update_text1": {
+      "message": "For at du får en bedre oplevelse af at bruge Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Det anbefales at opgradere browseren til den nyeste version, og det anbefales at bruge en browser, der er kompatibel med Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Fejlvisning på side"
+   },
+   "remove_account": {
+      "message": "Slet konto"
+   },
+   "remove_done": {
+      "message": "Klare afsluttede ventende spørgsmål"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Alle wallpapers under dette tapetbibliotek vil blive fjernet sammen"
+   },
+   "rename_folder": {
+      "message": "Omdøb"
+   },
+   "repair_auto_backup": {
+      "message": "Automatisk sikkerhedskopiering af data"
+   },
+   "repair_concat": {
+      "message": "Kontaktoplysninger"
+   },
+   "repair_concat_email": {
+      "message": "E-mail: "
+   },
+   "repair_concat_qq": {
+      "message": "Ingeniør QQ: "
+   },
+   "repair_data": {
+      "message": "Reparationsdata"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Send os den datafil, der skal repareres, gennem følgende kontaktoplysninger, og vi hjælper dig med at reparere dataene så hurtigt som muligt. Inden ingeniøren løser problemet, skal du prøve ikke at udføre andre handlinger. Denne fil kan indeholde følsomme oplysninger som f.eks. Konti. Du må ikke videregive dem til andre."
+   },
+   "repair_data_title": {
+      "message": "Hent mistede eller beskadigede data"
+   },
+   "repair_export_btn": {
+      "message": "Eksportdata, der skal repareres"
+   },
+   "repeat_city": {
+      "message": "Du kan ikke tilføje den samme by igen"
+   },
+   "reqeust_login_message": {
+      "message": "Du skal være logget ind for at bruge denne funktion"
+   },
+   "request_logout_confirm": {
+      "message": "Slet din konto?"
+   },
+   "request_reset_all_settings": {
+      "message": "Er du sikker på, at du vil nulstille indstillinger til standardværdier?"
+   },
+   "reset": {
+      "message": "Nulstil"
+   },
+   "reset_password": {
+      "message": "Nulstil adgangskoder"
+   },
+   "reset_password_by_email": {
+      "message": "Nulstil dit kodeord via e-mail-verifikation"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Nulstil dit kodeord via e-mail eller telefonnummer verifikation"
+   },
+   "reset_setting": {
+      "message": "Nulstil indstillinger"
+   },
+   "reset_your_password": {
+      "message": "Venligst nulstil dit kodeord"
+   },
+   "restore_setting": {
+      "message": "Gendan indstillinger"
+   },
+   "revovery_data": {
+      "message": "Gendan data"
+   },
+   "row_gap": {
+      "message": "Linjeafstand"
+   },
+   "row_num": {
+      "message": "Kolonner"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Klik på indstillingen som vist ved pilen i figuren."
+   },
+   "safari_browser_guide2": {
+      "message": "I pop op-vinduet skal du indtaste URL'en https://inftab.com i kolonnen Hjemmeside."
+   },
+   "safari_browser_guide3": {
+      "message": "Klik på knappen under URL'en for at udfylde startsiden."
+   },
+   "sat": {
+      "message": "Lørdag"
+   },
+   "sat_min": {
+      "message": "Lør"
+   },
+   "save": {
+      "message": "Gem"
+   },
+   "scale": {
+      "message": "Ikonstørrelse"
+   },
+   "scale_main": {
+      "message": "skærmzoom"
+   },
+   "scale_side": {
+      "message": "Sidekolonne zoom"
+   },
+   "scheduled_backup": {
+      "message": "Planlæg backup"
+   },
+   "search": {
+      "message": "Søg"
+   },
+   "search_bookmark": {
+      "message": "Søg i dine bogmærker"
+   },
+   "search_engine": {
+      "message": "Søgemaskine"
+   },
+   "search_engine_error": {
+      "message": "Indtast søgetjenestens navn"
+   },
+   "search_error": {
+      "message": "Indlæsning mislykkedes"
+   },
+   "search_extension": {
+      "message": "Søg efter udvidelser"
+   },
+   "search_from": {
+      "message": "Søges fra: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Søgeikon"
+   },
+   "search_input": {
+      "message": "søgefelt"
+   },
+   "search_input_shadow": {
+      "message": "Søg Box Shadow"
+   },
+   "search_opacity": {
+      "message": "Søg boks opacity"
+   },
+   "search_redius": {
+      "message": "Søg boks afrundede hjørner"
+   },
+   "search_result": {
+      "message": "Søgeresultater"
+   },
+   "search_size": {
+      "message": "Søg boks størrelse"
+   },
+   "search_suggest": {
+      "message": "Vis søgeforslag"
+   },
+   "search_website": {
+      "message": "Søg efter websteder"
+   },
+   "searching": {
+      "message": "Søger"
+   },
+   "select_date": {
+      "message": "Vælg dato"
+   },
+   "select_icon": {
+      "message": "Vælg ikon"
+   },
+   "select_time": {
+      "message": "Vælg tidspunkt"
+   },
+   "send_success": {
+      "message": "En bekræftelses-e-mail er afsendt. Se din Indbakke"
+   },
+   "set_homepage_desc": {
+      "message": "Installer udvidelsen for browseren for at nyde fulde funktioner"
+   },
+   "set_homepage_title2": {
+      "message": "Denne funktion er ikke understøttet i den nuværende version_#_Installér venligst browserens udvidelse før brug"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Indstil Infinity som hjemmesiden for din browser"
+   },
+   "set_new_password": {
+      "message": "Indstil ny adgangskode"
+   },
+   "set_remind_time": {
+      "message": "Indstil påmindelsestid"
+   },
+   "set_setting_default": {
+      "message": "Nulstil til standard"
+   },
+   "set_to_homepage": {
+      "message": "Angiv som startside"
+   },
+   "set_top": {
+      "message": "På toppen"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "angiv kaldenavn og avatar"
+   },
+   "settings": {
+      "message": "Indstillinger"
+   },
+   "shadow": {
+      "message": "Ikoner skygge"
+   },
+   "share": {
+      "message": "Del"
+   },
+   "share_by_user": {
+      "message": "Deles af andre brugere"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab, en navigationsudvidelse valgt af millioner, den mest brugervenlige nye fane på browseren"
+   },
+   "share_title": {
+      "message": "Det kan være den bedste nye fane på $browser$ browseren",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Shopping og gruppe køb"
+   },
+   "shortcut_mode": {
+      "message": "Ekspresfunktion"
+   },
+   "show_detail": {
+      "message": "Se nu"
+   },
+   "show_gamil_unread_number": {
+      "message": "Vis antallet af ulæste emails fra Gmail på ikonet"
+   },
+   "show_later": {
+      "message": "Påmind mig senere"
+   },
+   "show_name": {
+      "message": "Vis navn"
+   },
+   "show_reminders_number": {
+      "message": "Vis antallet af to-dos to-do's på ikonet"
+   },
+   "skip": {
+      "message": "Spring over"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Et sted at finde, vise og dele billeder"
+   },
+   "social": {
+      "message": "Sociale medier og blogs"
+   },
+   "solid_color_wallpaper": {
+      "message": "Single Color Wallpaper"
+   },
+   "sougou": {
+      "message": "Sogou IM"
+   },
+   "sougou_desc": {
+      "message": "Søgemaskine, der kan søge efter indhold indsendt af WeChat officielle konti"
+   },
+   "sports": {
+      "message": "Sport og rejse"
+   },
+   "start_animation": {
+      "message": "Start animation"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Give start-ups, bloggere, udgivere, hjemmesider, designere, udviklere, skabere og ud over gratis billeder"
+   },
+   "street_photography": {
+      "message": "Gade"
+   },
+   "sun": {
+      "message": "Søndag"
+   },
+   "sun_min": {
+      "message": "Søn"
+   },
+   "support": {
+      "message": "Support"
+   },
+   "switch_to": {
+      "message": "Skifte til"
+   },
+   "sync_fail": {
+      "message": "Synkronisering mislykkedes, prøv igen"
+   },
+   "sync_suncess": {
+      "message": "Synkronisering udført"
+   },
+   "sync_type_tips": {
+      "message": "Cloud Data og Local Data opdages for at være inkonsekvente. Vælg venligst en type data."
+   },
+   "syncing": {
+      "message": "Data synkroniseres…"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Du har ikke installeret denne $browser$ App",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Måde at åbne målet"
+   },
+   "tech": {
+      "message": "Teknologi"
+   },
+   "technology": {
+      "message": "Teknologi"
+   },
+   "term_of_use": {
+      "message": "Brugsvilkår"
+   },
+   "text": {
+      "message": "Tekst"
+   },
+   "text_shadow": {
+      "message": "Tekstskygge"
+   },
+   "thirt_party": {
+      "message": "Brug en tredje parts konto-login"
+   },
+   "thu": {
+      "message": "Torsdag"
+   },
+   "thu_min": {
+      "message": "Tor"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Åbn ethvert websted og indtast \"% s\" i søgefeltet for at søge. (Med Google som et eksempel)"
+   },
+   "tip_question_2": {
+      "message": "2. Kopier webadressen for søgeresultatet direkte"
+   },
+   "tip_question_3": {
+      "message": "3. Indsæt den kopierede URL her, og du er færdig"
+   },
+   "tip_question_title": {
+      "message": "Om at bruge \"% s\" for at erstatte søgeord"
+   },
+   "to_login": {
+      "message": "Log ind nu"
+   },
+   "today": {
+      "message": "I dag"
+   },
+   "todo_welcome": {
+      "message": "Velkommen til Infinity New Tab-siden. Dette er en prøve til at gøre vare."
+   },
+   "todos": {
+      "message": "Opgaver"
+   },
+   "top_bookmark": {
+      "message": "Vis bogmærker på toppen"
+   },
+   "top_use_ful": {
+      "message": "Vis ofte brugte websteder på toppen"
+   },
+   "travel": {
+      "message": "Rejser"
+   },
+   "tue": {
+      "message": "Tirsdag"
+   },
+   "tue_min": {
+      "message": "Tir"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Påmind mig om 2 timer"
+   },
+   "type_link": {
+      "message": "Indtast link"
+   },
+   "type_text": {
+      "message": "Input Text"
+   },
+   "unbind": {
+      "message": "Fjern tilknytning"
+   },
+   "unbind_btn": {
+      "message": "Fjern tilknytning"
+   },
+   "unbind_email": {
+      "message": "Unbind denne e-mail-adresse"
+   },
+   "unbind_phone_number": {
+      "message": "Afbind dit telefonnummer"
+   },
+   "unbind_success": {
+      "message": "Slettet succes"
+   },
+   "uninstall_agree": {
+      "message": "Acceptér"
+   },
+   "uninstall_chrome_app": {
+      "message": "Afinstaller appen"
+   },
+   "uninstall_extension": {
+      "message": "Fjern udvidelse"
+   },
+   "unknown_mistake": {
+      "message": "Ukendt fejl"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "World-Renowned High-Quality Wallpapers"
+   },
+   "unzip_folder_content": {
+      "message": "Mappen vil blive slettet, og ikonet holdes. Er du sikker?"
+   },
+   "unzip_folder_title": {
+      "message": "Frigør"
+   },
+   "update_data": {
+      "message": "Opgrader data"
+   },
+   "update_data_failure": {
+      "message": "Opdater profil mislykkedes"
+   },
+   "update_desc_1": {
+      "message": "Hvis datakonveringen mislykkedes under versionsopgraderingen, kan du prøve at genoprette data."
+   },
+   "update_desc_2": {
+      "message": "Hvis du stadig ikke kan løse problemet flere gange, kan du kontakte vores ingeniører, vi vil forsøge at hjælpe dig med at løse."
+   },
+   "update_desc_3": {
+      "message": "Konverteringsdata overskriver nye versionsdata, det anbefales, at du sikkerhedskopierer data, før du arbejder."
+   },
+   "update_error_desc1": {
+      "message": "Du kan forsøge at genoprette, hvis du opdager nogle data."
+   },
+   "update_error_desc2": {
+      "message": "Hvis du fejler flere opgraderinger, kan du også klikke på ikonet \"Indstillinger\" fra øverste højre hjørne for at indtaste - [My] - [Backup and Repair]."
+   },
+   "update_now": {
+      "message": "Opdatér nu"
+   },
+   "update_or_repair_data": {
+      "message": "Opgrader eller reparationsdata"
+   },
+   "upload_avatar_failure": {
+      "message": "Kunne ikke overføre dit avatarbillede"
+   },
+   "upload_file_error": {
+      "message": "Kunne ikke overføre fil"
+   },
+   "upload_image_error": {
+      "message": "Kunne ikke uploade billede"
+   },
+   "uploading": {
+      "message": "Overfører..."
+   },
+   "use_cloud": {
+      "message": "Brug Cloud Data"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Indtast tekst og tryk på Enter for at tilføje"
+   },
+   "use_local": {
+      "message": "Brug lokale data"
+   },
+   "use_mobile_screen": {
+      "message": "Brug en mobilenhed til at scanne QR-koden"
+   },
+   "user_evaluation": {
+      "message": "Brugerevaluering"
+   },
+   "username_cannot_empty": {
+      "message": "Brugernavn må ikke være tomt"
+   },
+   "verify_password_desc": {
+      "message": "For din konto sikkerhed, angiv venligst kontoadgangskoden"
+   },
+   "verity_code": {
+      "message": "Send en bekræftelseskode"
+   },
+   "verity_code_no_value": {
+      "message": "Kontrolkoden kan ikke være tom"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Vis"
+   },
+   "w309": {
+      "message": "Støvregn"
+   },
+   "w_100": {
+      "message": "Sol"
+   },
+   "w_101": {
+      "message": "Voldborg"
+   },
+   "w_102": {
+      "message": "Få skyer"
+   },
+   "w_103": {
+      "message": "Delvist skyet"
+   },
+   "w_104": {
+      "message": "Gråvejr"
+   },
+   "w_200": {
+      "message": "Blæsende"
+   },
+   "w_201": {
+      "message": "Rolig"
+   },
+   "w_202": {
+      "message": "Brise"
+   },
+   "w_203": {
+      "message": "Moderat brise"
+   },
+   "w_204": {
+      "message": "Frisk brise"
+   },
+   "w_205": {
+      "message": "Stærk brise"
+   },
+   "w_206": {
+      "message": "Høj vind"
+   },
+   "w_207": {
+      "message": "Kraftig vind"
+   },
+   "w_208": {
+      "message": "Stærk storm"
+   },
+   "w_209": {
+      "message": "Storme"
+   },
+   "w_210": {
+      "message": "Stormende"
+   },
+   "w_211": {
+      "message": "Orkan"
+   },
+   "w_212": {
+      "message": "Tornado"
+   },
+   "w_213": {
+      "message": "Tropisk storm"
+   },
+   "w_300": {
+      "message": "Regnbyger"
+   },
+   "w_301": {
+      "message": "Kraftige regnbyger"
+   },
+   "w_302": {
+      "message": "Tordenvejr"
+   },
+   "w_303": {
+      "message": "Kraftige tordenbyger"
+   },
+   "w_304": {
+      "message": "Torden med slud"
+   },
+   "w_305": {
+      "message": "Let regn"
+   },
+   "w_306": {
+      "message": "Moderat regn"
+   },
+   "w_307": {
+      "message": "Kraftig regn"
+   },
+   "w_308": {
+      "message": "Der er ekstrem regn"
+   },
+   "w_310": {
+      "message": "Blæsende regnvejr"
+   },
+   "w_311": {
+      "message": "Kraftigt snevejr"
+   },
+   "w_312": {
+      "message": "Ekstraordinært blæsende regnvejr"
+   },
+   "w_313": {
+      "message": "Isslag"
+   },
+   "w_314": {
+      "message": "Let regn ændrende sig til moderat regn"
+   },
+   "w_315": {
+      "message": "Moderat ændrende sig til kraftig regn"
+   },
+   "w_316": {
+      "message": "Heavy rain to rainstorm"
+   },
+   "w_317": {
+      "message": "Storm til kraftig storm"
+   },
+   "w_318": {
+      "message": "Downpour to heavy rainstorm"
+   },
+   "w_399": {
+      "message": "Regn"
+   },
+   "w_400": {
+      "message": "Let sne"
+   },
+   "w_401": {
+      "message": "Moderat sne"
+   },
+   "w_402": {
+      "message": "Kraftig sne"
+   },
+   "w_403": {
+      "message": "Snestorm"
+   },
+   "w_404": {
+      "message": "Blandet vintervejr"
+   },
+   "w_405": {
+      "message": "Slud"
+   },
+   "w_406": {
+      "message": "Sludbyger"
+   },
+   "w_407": {
+      "message": "Sne bruser"
+   },
+   "w_408": {
+      "message": "Light to moderate snow"
+   },
+   "w_409": {
+      "message": "Moderate to heavy snow"
+   },
+   "w_410": {
+      "message": "Heavy to blizzard"
+   },
+   "w_499": {
+      "message": "Sne"
+   },
+   "w_500": {
+      "message": "Tåge"
+   },
+   "w_501": {
+      "message": "Tåge"
+   },
+   "w_502": {
+      "message": "Tåge"
+   },
+   "w_503": {
+      "message": "Sand"
+   },
+   "w_504": {
+      "message": "Støv"
+   },
+   "w_507": {
+      "message": "Sandstorm"
+   },
+   "w_508": {
+      "message": "Kraftig sandstorm"
+   },
+   "w_509": {
+      "message": "Tæt tåge"
+   },
+   "w_510": {
+      "message": "Kraftigt og tæt tåget"
+   },
+   "w_511": {
+      "message": "Moderate haze"
+   },
+   "w_512": {
+      "message": "Stærkt diset"
+   },
+   "w_513": {
+      "message": "Severe haze"
+   },
+   "w_514": {
+      "message": "Tåget"
+   },
+   "w_515": {
+      "message": "Severe fog"
+   },
+   "w_900": {
+      "message": "Varme"
+   },
+   "w_901": {
+      "message": "Kulde"
+   },
+   "w_999": {
+      "message": "Ukendt"
+   },
+   "wallpaper": {
+      "message": "Baggrund"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Tilføj brugerdefineret farve"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Kunne ikke tilføje billede. Prøv igen senere."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Lokal tapet app mislykkedes. Prøv igen senere"
+   },
+   "wallpaper_applying_library": {
+      "message": "Aktiverer tapet- bibliotek..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Baggrund Opdater frekvens"
+   },
+   "wallpaper_choose_library": {
+      "message": "Vælg tapet kilde"
+   },
+   "wallpaper_choose_single": {
+      "message": "Vælg en baggrund"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Ryd markeringen"
+   },
+   "wallpaper_cloud": {
+      "message": "Cloud Wallpaper."
+   },
+   "wallpaper_collect_current": {
+      "message": "Indsamle nuværende tapet"
+   },
+   "wallpaper_common_color": {
+      "message": "Almindelige farve"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Slet dette tapet?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Kunne ikke oprette lokale tapetbibliotek. Prøv igen senere."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Brugerens tilpassede tapetbibliotek overstiger grænsen"
+   },
+   "wallpaper_custom_color": {
+      "message": "Tilpas farve"
+   },
+   "wallpaper_delete_color": {
+      "message": "Slet denne farve"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Slettet succes"
+   },
+   "wallpaper_delete_file": {
+      "message": "Slet baggrundsbillede"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Kunne ikke slette tapet"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Deaktiver automatisk tapetomkobling"
+   },
+   "wallpaper_empty_text": {
+      "message": "Ingen data"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Kunne ikke indhente baggrundsbillede"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Kunne ikke få brugerens tapet"
+   },
+   "wallpaper_library": {
+      "message": "Bibliotek med baggrunde"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$'s lokale tapet bibliotek",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Ulovligt tapet bibliotek navn"
+   },
+   "wallpaper_library_preview": {
+      "message": "Baggrund eksempel"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Upload maksimalt 20 wallpapers. Hver tapet må ikke overstige 10m."
+   },
+   "wallpaper_loading": {
+      "message": "Behandler ..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Behøver en netværksforbindelse til at gøre det"
+   },
+   "wallpaper_remove_library": {
+      "message": "Fjern dette tapetbibliotek"
+   },
+   "wallpaper_sort_default": {
+      "message": "Standard sort"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Popularitet"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Dato for optagelse"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Skift hver 24. time"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Bytte tapet mislykkedes"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Opdater dine daglige wallpapers med Bing. Du kan ikke vælge omskifterfrekvensen."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Skift hver 1 time"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Skift hver 12 timer"
+   },
+   "wallpaper_switch_success": {
+      "message": "Tilfældig tapet ændret succesfuldt"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Skift til næste tapet"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Skift, når du åbner en ny fane"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Skift, når du åbner siden"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "File Upload mislykkedes. Årsag: Størrelsen overstiger grænsen"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Vælg en lokal baggrund"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Mindst et tapet er påkrævet"
+   },
+   "want_more": {
+      "message": "Nyd flere frynsegoder øjeblikkeligt"
+   },
+   "weather": {
+      "message": "Vejr"
+   },
+   "weather_empty": {
+      "message": "Ingen vejrinformation i øjeblikket tilgængelig"
+   },
+   "web_set_home_title": {
+      "message": "Sådan sættes Infinity til din hjemmeside"
+   },
+   "website_address": {
+      "message": "Webadresse"
+   },
+   "website_name": {
+      "message": "Navn på websted"
+   },
+   "website_search_replace_char": {
+      "message": "URL (brug% s til at erstatte søgeord)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Onsdag"
+   },
+   "wed_min": {
+      "message": "Ons"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Vindstyrke"
+   },
+   "wind_mill": {
+      "message": "Vis knappen til at tilfældigt skifte baggrunde i hjørnet nederst til højre"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search er en søgemaskine, der drives af Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex er en af de vigtigste internetportaler i Rusland"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$år$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "I går"
+   },
+   "you_need_login": {
+      "message": "Sign ér til Infinity Konto for at bruge denne funktion"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Din browsing record vil blive vist her"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

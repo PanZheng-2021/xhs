@@ -1,0 +1,2423 @@
+{
+   "360_desc": {
+      "message": "安全搜索引擎"
+   },
+   "about": {
+      "message": "关于"
+   },
+   "about_us": {
+      "message": "关于我们"
+   },
+   "account_expired": {
+      "message": "检测到您的账号已过期，请重新登录"
+   },
+   "account_setting": {
+      "message": "账号设置"
+   },
+   "add": {
+      "message": "添加"
+   },
+   "add_city": {
+      "message": "添加城市"
+   },
+   "add_first_note": {
+      "message": "快来添加第一条笔记吧"
+   },
+   "add_icon_success": {
+      "message": "添加成功"
+   },
+   "add_link": {
+      "message": "添加链接"
+   },
+   "add_new_search_engine": {
+      "message": "添加新的搜索引擎"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "新建壁纸库"
+   },
+   "add_search_engine": {
+      "message": "添加搜索引擎"
+   },
+   "add_success": {
+      "message": "添加成功"
+   },
+   "add_to_home_site": {
+      "message": "添加到主页"
+   },
+   "add_to_infinity": {
+      "message": "添加Infinity新标签页"
+   },
+   "additional_search_engine": {
+      "message": "附加搜索"
+   },
+   "air_pressure": {
+      "message": "气压"
+   },
+   "all_wallpaper_sources": {
+      "message": "全部壁纸"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "所有壁纸源"
+   },
+   "ambiguity": {
+      "message": "模糊度"
+   },
+   "animals": {
+      "message": "动物"
+   },
+   "animation": {
+      "message": "动画"
+   },
+   "animation_tips": {
+      "message": "开启动画将可能影响流畅性"
+   },
+   "anime": {
+      "message": "动漫"
+   },
+   "any_money": {
+      "message": "随意"
+   },
+   "app": {
+      "message": "应用程序"
+   },
+   "app_disabled_enable_first": {
+      "message": "此应用被您禁用，允许Infinity先启用此应用吗？"
+   },
+   "application": {
+      "message": "应用"
+   },
+   "apply": {
+      "message": "应用"
+   },
+   "architecture": {
+      "message": "建筑"
+   },
+   "athletics": {
+      "message": "运动"
+   },
+   "avatar": {
+      "message": "选择头像"
+   },
+   "backing_up": {
+      "message": "备份中…"
+   },
+   "backup_and_recovery": {
+      "message": "备份与恢复"
+   },
+   "backup_failed": {
+      "message": "备份失败"
+   },
+   "backup_now": {
+      "message": "立即备份"
+   },
+   "backup_successful": {
+      "message": "备份成功"
+   },
+   "backup_tips": {
+      "message": "我们至多为您保留3个手动备份节点与3个自动备份节点"
+   },
+   "backup_with_device": {
+      "message": "与其他设备保持同步"
+   },
+   "baidu": {
+      "message": "百度"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "以收集免费、高画质且非图库性质的摄影相片为主"
+   },
+   "basic_info": {
+      "message": "基本信息"
+   },
+   "bg_color": {
+      "message": "背景颜色"
+   },
+   "bg_updating": {
+      "message": "升级中，请稍等…"
+   },
+   "bind": {
+      "message": "绑定"
+   },
+   "bind_success": {
+      "message": "绑定成功"
+   },
+   "bing": {
+      "message": "必应"
+   },
+   "bing_desc": {
+      "message": "必应是一款由微软公司推出的网络搜索引擎"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "bing每日壁纸库"
+   },
+   "bookmarks": {
+      "message": "书签"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$浏览器不支持该功能",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancel_login": {
+      "message": "取消登录"
+   },
+   "cancel_remind_time": {
+      "message": "取消提醒时间"
+   },
+   "cancel_set_top": {
+      "message": "取消置顶"
+   },
+   "cannot_change_password": {
+      "message": "第三方登录用户无法修改密码"
+   },
+   "cannot_change_profile": {
+      "message": "第三方登录用户不能修改个人资料"
+   },
+   "cannot_download": {
+      "message": "不支持下载"
+   },
+   "cannot_empty": {
+      "message": "不能为空"
+   },
+   "celsius": {
+      "message": "摄氏度"
+   },
+   "change_remind_time": {
+      "message": "修改提醒时间"
+   },
+   "change_wallpaper": {
+      "message": "更换壁纸"
+   },
+   "check_olddata_desc": {
+      "message": "检测到有一份旧版本遗留数据，可能是升级失败导致，如果有需要您可以尝试重新升级这份数据"
+   },
+   "choose_sync_type": {
+      "message": "选择账号数据"
+   },
+   "chose_from_mypc": {
+      "message": "新建我的壁纸库"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$ 应用",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome扩展商店"
+   },
+   "chrome_browser": {
+      "message": "Chrome 浏览器"
+   },
+   "chrome_browser_guide1": {
+      "message": "在地址栏输入 chrome://settings/appearance，回车进入设置页面；"
+   },
+   "chrome_browser_guide2": {
+      "message": "往下滑动到底部，在【启动时】一栏里选择【打开特定网页或一组网页】，再选中【添加新网页】；"
+   },
+   "chrome_browser_guide3": {
+      "message": "在弹窗里输入 Infinity 主页的网址 https://inftab.com，点击【添加】，主页设置完成。"
+   },
+   "clear_historys": {
+      "message": "清除历史记录"
+   },
+   "col_gap": {
+      "message": "列间距"
+   },
+   "col_num": {
+      "message": "行数"
+   },
+   "color": {
+      "message": "颜色"
+   },
+   "color_icon": {
+      "message": "纯色图标"
+   },
+   "come_from": {
+      "message": "来自用户"
+   },
+   "comming_soon": {
+      "message": "敬请期待"
+   },
+   "comming_soon_title": {
+      "message": "Infinity移动版正在快马加鞭的路上"
+   },
+   "confirm": {
+      "message": "确定"
+   },
+   "confirm_clear_all_history": {
+      "message": "确认清除所有历史记录？"
+   },
+   "confirm_cover_remote": {
+      "message": "本地数据将保存至手动备份节点"
+   },
+   "confirm_del_folder": {
+      "message": "文件夹将被删除，确定吗？"
+   },
+   "confirm_delete_done_todos": {
+      "message": "确认删除已完成的事项？"
+   },
+   "confirm_delete_note": {
+      "message": "确认删除当前笔记？"
+   },
+   "confirm_logout": {
+      "message": "退出账号"
+   },
+   "confirm_password": {
+      "message": "确认新密码"
+   },
+   "confirm_password_2": {
+      "message": "确认密码"
+   },
+   "confirm_recovery_data": {
+      "message": "云端数据将覆盖本地数据，确定吗？"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "确认删除该壁纸库吗？"
+   },
+   "confirm_unbind": {
+      "message": "确认解除绑定吗？"
+   },
+   "confirm_unbind_email": {
+      "message": "确定要邮箱$email$解除绑定吗？",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "确定要将手机号$phone_number$解除绑定吗？",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "联系工程师"
+   },
+   "contact_us": {
+      "message": "联系我们"
+   },
+   "copy": {
+      "message": "复制"
+   },
+   "cubic_bezier": {
+      "message": "回弹"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "头像"
+   },
+   "current_browser_not_support": {
+      "message": "当前浏览器不支持扩展管理"
+   },
+   "current_no_reminders": {
+      "message": "暂无待办事项"
+   },
+   "current_node": {
+      "message": "当前节点"
+   },
+   "custom": {
+      "message": "自定义"
+   },
+   "custom_icon": {
+      "message": "自定义图标"
+   },
+   "custom_layout": {
+      "message": "自定义布局"
+   },
+   "custom_site": {
+      "message": "自定义网站"
+   },
+   "default": {
+      "message": "默认"
+   },
+   "del_folder": {
+      "message": "删除"
+   },
+   "delete_all_bookmarks": {
+      "message": "该文件夹下的子书签将一并删除"
+   },
+   "disable_chrome_app": {
+      "message": "禁用应用"
+   },
+   "disable_extension": {
+      "message": "禁用扩展"
+   },
+   "do_later": {
+      "message": "稍后再说"
+   },
+   "done": {
+      "message": "完成"
+   },
+   "douban": {
+      "message": "豆瓣"
+   },
+   "download_crx": {
+      "message": "下载CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "下载当前壁纸"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo强调在传统搜寻引擎的基础上引入各大Web 2.0站点的内容。其办站哲学主张维护使用者的隐私权，并承诺不监控、不记录使用者的搜寻内容。"
+   },
+   "ease_in": {
+      "message": "淡入"
+   },
+   "edge": {
+      "message": "Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge外接程序"
+   },
+   "edge_browser": {
+      "message": "Edge 浏览器"
+   },
+   "edge_browser_guide1": {
+      "message": "在浏览器地址栏输入 edge://settings/onStartup，回车进入设置页面。"
+   },
+   "edge_browser_guide2": {
+      "message": "在【启动时】这一栏中选择【打开一个或多个特定页面】，再点击后侧的【添加新页面】按钮。"
+   },
+   "edge_browser_guide3": {
+      "message": "在弹窗里输入Infinity主页的网址https://inftab.com，点击【添加】，主页设置完成。"
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) 从工具栏->扩展打开扩展程序页面，或者地址栏输入 edge://extensions/ 按下回车打开扩展程序页面"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) 打开扩展程序页面的“开发人员模式”和“允许来自其他应用商店的扩展”"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) 将crx文件拖拽到扩展程序页面，完成安装"
+   },
+   "edit": {
+      "message": "编辑"
+   },
+   "edit_avatar": {
+      "message": "编辑头像"
+   },
+   "edit_content": {
+      "message": "编辑内容"
+   },
+   "edit_icon": {
+      "message": "编辑图标"
+   },
+   "education": {
+      "message": "教育与招聘"
+   },
+   "email": {
+      "message": "邮箱"
+   },
+   "email_code": {
+      "message": "邮箱验证码"
+   },
+   "email_format_error": {
+      "message": "邮箱格式不正确"
+   },
+   "email_or_phone_number_tips": {
+      "message": "邮箱或手机号码"
+   },
+   "empty": {
+      "message": "空"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "确认删除该文件夹?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "确认删除该书签？"
+   },
+   "ensure_logout": {
+      "message": "确认退出账号？"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "输入待办事项按回车添加"
+   },
+   "enter_password_tips": {
+      "message": "请输入密码"
+   },
+   "enter_valid_phone_tips": {
+      "message": "请输入正确的手机号"
+   },
+   "enter_verification_code_tips": {
+      "message": "请输入验证码"
+   },
+   "exfans": {
+      "message": "扩展迷"
+   },
+   "export_local_data": {
+      "message": "导出备份数据"
+   },
+   "export_local_data_desc": {
+      "message": "从当前本地数据导出"
+   },
+   "extension": {
+      "message": "扩展管理"
+   },
+   "extension_app": {
+      "message": "扩展程序"
+   },
+   "extension_des": {
+      "message": "百万用户选择的新标签页，自由添加网站图标，云端高清壁纸，快速访问书签、天气、笔记、待办事项、扩展管理与历史记录。"
+   },
+   "extension_des_app": {
+      "message": "Infinity新标签页APP让你可以自定义你的新标签页"
+   },
+   "extension_des_firefox": {
+      "message": "数百万人选择的新标签页，可以极大地提高生产力。支持自定义添加网页图标、搜索引擎、高清壁纸，以及天气、笔记、书签、待办事项、历史记录、扩展管理等小组件。"
+   },
+   "extension_des_pro": {
+      "message": "Infinity新标签页Pro让你可以自定义你的新标签页"
+   },
+   "extension_mananger": {
+      "message": "扩展管理"
+   },
+   "extfans": {
+      "message": "Extfans扩展迷"
+   },
+   "facebook": {
+      "message": "脸书"
+   },
+   "facebook_group": {
+      "message": "Facebook社群"
+   },
+   "fahrenheit": {
+      "message": "华氏度"
+   },
+   "feedback": {
+      "message": "反馈"
+   },
+   "female": {
+      "message": "女"
+   },
+   "filter": {
+      "message": "筛选"
+   },
+   "finance": {
+      "message": "金融"
+   },
+   "firefox": {
+      "message": "FireFox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox附加组件"
+   },
+   "firefox_browser": {
+      "message": "Firefox 浏览器"
+   },
+   "firefox_browser_guide1": {
+      "message": "在地址栏输入 about:preferences#home，回车进入设置页面。"
+   },
+   "firefox_browser_guide2": {
+      "message": "点击【主页和新窗口】后面的下拉栏，在下拉菜单中选中【自定义网址】。"
+   },
+   "firefox_browser_guide3": {
+      "message": "在文本框中输入 Infinity 主页的网址 https://inftab.com，主页设置完成。"
+   },
+   "five_star": {
+      "message": "五星好评"
+   },
+   "folder": {
+      "message": "文件夹"
+   },
+   "follow_us": {
+      "message": "关注我们"
+   },
+   "follow_wechat": {
+      "message": "关注Infinity微信公众号"
+   },
+   "follow_wechat_desc": {
+      "message": "关注我们的微信公众号（微信号：infinitydaily），获取Infinity最新产品动态，还能带你发现更多好玩有趣的扩展和网站。"
+   },
+   "font": {
+      "message": "字体"
+   },
+   "font_color": {
+      "message": "字体颜色"
+   },
+   "font_size": {
+      "message": "字体大小"
+   },
+   "food_drink": {
+      "message": "美食"
+   },
+   "forget_password": {
+      "message": "忘记密码"
+   },
+   "format_error": {
+      "message": "格式错误"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "大量免版税照片，任意使用，每日更新"
+   },
+   "fri": {
+      "message": "周五"
+   },
+   "fri_min": {
+      "message": "五"
+   },
+   "fully_authorized_to_use": {
+      "message": "授权以使用完整功能"
+   },
+   "games": {
+      "message": "游戏与娱乐"
+   },
+   "gamil_notice": {
+      "message": "Gmail邮件通知"
+   },
+   "gender": {
+      "message": "选择性别"
+   },
+   "get_app_permission": {
+      "message": "授权以获取您的本地应用"
+   },
+   "get_cloud_icon": {
+      "message": "在线获取"
+   },
+   "give_money": {
+      "message": "打赏"
+   },
+   "give_money_thanks": {
+      "message": "您的支持是对我们极大的肯定"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "如果您喜欢Infinity新标签页，请给我们打分或者反馈帮助我们进行优化。"
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "如果您有任何问题或建议，请联系我们进行反馈。"
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail邮件通知铃声"
+   },
+   "google": {
+      "message": "谷歌"
+   },
+   "google_desc": {
+      "message": "Google搜索是由Google公司推出的一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎"
+   },
+   "have_todo_item": {
+      "message": "您当前有一个待办事项"
+   },
+   "hide_homepage_btn": {
+      "message": "隐藏设为主页按钮"
+   },
+   "hide_icon_name": {
+      "message": "隐藏图标名称"
+   },
+   "hide_search_button": {
+      "message": "隐藏搜索按钮"
+   },
+   "hide_search_category": {
+      "message": "隐藏搜索类别"
+   },
+   "hide_search_input": {
+      "message": "隐藏搜索框"
+   },
+   "hide_set_homepage_btn": {
+      "message": "隐藏设为主页"
+   },
+   "hint": {
+      "message": "提示"
+   },
+   "history": {
+      "message": "历史记录"
+   },
+   "history_backup_list": {
+      "message": "历史备份节点列表"
+   },
+   "history_week": {
+      "message": "搜索一周内历史记录"
+   },
+   "host_permission": {
+      "message": "Host权限"
+   },
+   "hour": {
+      "message": "时"
+   },
+   "how_to_install_crx": {
+      "message": "如何安装crx文件?"
+   },
+   "html": {
+      "message": "网页"
+   },
+   "i_taobao": {
+      "message": "爱淘宝"
+   },
+   "i_want_to_reward": {
+      "message": "我要打赏"
+   },
+   "icon": {
+      "message": "图标"
+   },
+   "icon_added": {
+      "message": "已添加"
+   },
+   "icon_bg_text": {
+      "message": "图标文字"
+   },
+   "icon_network_error": {
+      "message": "网络错误，点击重新加载"
+   },
+   "ignore": {
+      "message": "忽略"
+   },
+   "img_verify_code": {
+      "message": "图片验证码"
+   },
+   "import_data": {
+      "message": "导入备份数据"
+   },
+   "import_data_desc": {
+      "message": "从备份文件恢复数据"
+   },
+   "import_select_tile": {
+      "message": "选择数据"
+   },
+   "infinity_bookmarks": {
+      "message": "Infinity书签，扁平化您的书签文件夹层级，更方便的查找书签"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity精选动漫壁纸"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "高质量的infinity动漫壁纸库"
+   },
+   "infinity_extension": {
+      "message": "Infinity扩展管理，简单明了的管理您的$browser$扩展和App",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Infinity历史记录，快速查看和管理您浏览器的历史记录"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity精选风景壁纸"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "高质量的infinity风景壁纸库"
+   },
+   "infinity_notes": {
+      "message": "Infinity笔记，快速记录您的生活灵感"
+   },
+   "infinity_settings": {
+      "message": "Infinity设置，对您的Infinity新标签页进行个性化设置"
+   },
+   "infinity_todos": {
+      "message": "Infinity待办事项，将您的任务安排的井然有序，提高您的工作效率"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity壁纸库，为您提供丰富、精彩的壁纸"
+   },
+   "infinity_weather": {
+      "message": "Infinity天气，为您提供全球城市的天气预报"
+   },
+   "info": {
+      "message": "信息"
+   },
+   "inportdata_desc": {
+      "message": "导入数据和本地数据不一致，请选择合并或者覆盖。"
+   },
+   "input_and_search": {
+      "message": "输入并搜索"
+   },
+   "input_city": {
+      "message": "输入城市/地区"
+   },
+   "input_new_password": {
+      "message": "输入新密码"
+   },
+   "install_crx_home_des": {
+      "message": "本教程由最佳增强主页-Infinity提供，已有100万用户使用，赶紧去设为主页吧！"
+   },
+   "install_crx_item_1": {
+      "message": "(1) 从设置->更多工具->扩展程序打开扩展程序页面，或者地址栏输入 chrome://extensions/ 按下回车打开扩展程序页面"
+   },
+   "install_crx_item_2": {
+      "message": "(2) 打开扩展程序页面的“开发者模式”"
+   },
+   "install_crx_item_3": {
+      "message": "(3) 将crx文件拖拽到扩展程序页面，完成安装"
+   },
+   "install_crx_wx_des": {
+      "message": "如果您在安装使用过程中碰到任何问题，请添加我们的客服微信，我们将尽力帮您解决问题。"
+   },
+   "instann_crx_title": {
+      "message": "扩展安装说明"
+   },
+   "is_binding": {
+      "message": "已绑定"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "免费照片，任意使用"
+   },
+   "jindong_shopping": {
+      "message": "京东商城"
+   },
+   "keep_search_input": {
+      "message": "保留搜索框内容"
+   },
+   "label": {
+      "message": "标签"
+   },
+   "language": {
+      "message": "语言"
+   },
+   "language_select": {
+      "message": "语言选择"
+   },
+   "last_sync_time": {
+      "message": "上次同步时间：$time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "上次更新时间"
+   },
+   "layout": {
+      "message": "布局"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "免费的高清壁纸源"
+   },
+   "life_style": {
+      "message": "生活方式"
+   },
+   "limit_input_length": {
+      "message": "文字长度超出限制"
+   },
+   "linkedin": {
+      "message": "领英"
+   },
+   "local_icon": {
+      "message": "本地图标"
+   },
+   "local_wallpaper2": {
+      "message": "本地壁纸"
+   },
+   "login": {
+      "message": "登录"
+   },
+   "login_abandon_tips": {
+      "message": "当前登录方式即将被移除，请登录后尽快绑定邮箱或者其他第三方账号"
+   },
+   "login_now": {
+      "message": "现在登录你的Infinity账号，享受更多权限"
+   },
+   "login_now_btn": {
+      "message": "立即登录"
+   },
+   "login_register": {
+      "message": "登录/注册"
+   },
+   "loging": {
+      "message": "正在登录"
+   },
+   "logout": {
+      "message": "退出账号"
+   },
+   "logout_clear_something": {
+      "message": "清除此设备上的个性化设置等信息"
+   },
+   "logout_tips": {
+      "message": "在您退出账号前是否需要清除本地数据，以防止此设备不同账号数据串联"
+   },
+   "logout_warn": {
+      "message": "删除账号之后，此账号下的所有备份信息均会被清除，是否确认删除此账号？（笔记和自定义壁纸库的图片可能会不可用）"
+   },
+   "male": {
+      "message": "男"
+   },
+   "manage_backup_node": {
+      "message": "管理历史备份节点"
+   },
+   "manul_backup": {
+      "message": "手动备份"
+   },
+   "map": {
+      "message": "地图"
+   },
+   "mask_density": {
+      "message": "遮罩浓度"
+   },
+   "me": {
+      "message": "我的"
+   },
+   "merge_cloud_local": {
+      "message": "合并本地和云端数据"
+   },
+   "merge_data": {
+      "message": "合并数据"
+   },
+   "mini_mode": {
+      "message": "极简模式"
+   },
+   "mins": {
+      "message": "分"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "在你的网站，主题，模板，项目，印刷材料，报刊等处使用，每周都有新的壁纸和视屏加入"
+   },
+   "mobile_devices": {
+      "message": "Infinity 移动版"
+   },
+   "modify": {
+      "message": "修改信息"
+   },
+   "modify_email": {
+      "message": "修改邮箱"
+   },
+   "modify_password": {
+      "message": "修改密钥"
+   },
+   "modify_phone_number": {
+      "message": "修改手机号"
+   },
+   "modify_pwd": {
+      "message": "修改密码"
+   },
+   "modify_success": {
+      "message": "修改成功"
+   },
+   "modify_this": {
+      "message": "修改"
+   },
+   "mon": {
+      "message": "周一"
+   },
+   "mon_min": {
+      "message": "一"
+   },
+   "month_1": {
+      "message": "一月"
+   },
+   "month_10": {
+      "message": "十月"
+   },
+   "month_11": {
+      "message": "十一月"
+   },
+   "month_12": {
+      "message": "十二月"
+   },
+   "month_2": {
+      "message": "二月"
+   },
+   "month_3": {
+      "message": "三月"
+   },
+   "month_4": {
+      "message": "四月"
+   },
+   "month_5": {
+      "message": "五月"
+   },
+   "month_6": {
+      "message": "六月"
+   },
+   "month_7": {
+      "message": "七月"
+   },
+   "month_8": {
+      "message": "八月"
+   },
+   "month_9": {
+      "message": "九月"
+   },
+   "more_content_from_site": {
+      "message": "来自该网站的更多内容"
+   },
+   "most_used_in_chinese": {
+      "message": "中国人用的最多的搜索引擎"
+   },
+   "music_video": {
+      "message": "音乐视频"
+   },
+   "my_collection": {
+      "message": "我的收藏"
+   },
+   "n_360": {
+      "message": "360搜索"
+   },
+   "name": {
+      "message": "Infinity 新标签页"
+   },
+   "name_app": {
+      "message": "Infinity 新标签页 (APP)"
+   },
+   "name_error": {
+      "message": "请输入网站名称"
+   },
+   "name_pro": {
+      "message": "Infinity 新标签页 (Pro)"
+   },
+   "nature": {
+      "message": "自然"
+   },
+   "need_you_permission": {
+      "message": "以下功能需要您的授权"
+   },
+   "network_error": {
+      "message": "网络错误"
+   },
+   "new_email": {
+      "message": "新邮箱"
+   },
+   "new_password": {
+      "message": "输入新密码"
+   },
+   "new_phone_number": {
+      "message": "新手机号"
+   },
+   "new_tab": {
+      "message": "新标签页"
+   },
+   "new_tab_web": {
+      "message": "Infinity 主页"
+   },
+   "news": {
+      "message": "新闻"
+   },
+   "next": {
+      "message": "下一步"
+   },
+   "nickname": {
+      "message": "昵称"
+   },
+   "no_account_register": {
+      "message": "还没有账号？现在注册"
+   },
+   "no_backup_time": {
+      "message": "无"
+   },
+   "no_bookmark_result": {
+      "message": "没有任何书签"
+   },
+   "no_chrome_app": {
+      "message": "当前暂无$browser$应用",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "没有当前城市天气数据"
+   },
+   "no_data": {
+      "message": "暂无数据"
+   },
+   "no_description": {
+      "message": "无描述"
+   },
+   "no_more": {
+      "message": "没有更多了"
+   },
+   "no_more_reminder": {
+      "message": "不再提示"
+   },
+   "no_permission_text": {
+      "message": "建议您尝试前往浏览器地址栏或设置中心开启并授予该权限。"
+   },
+   "no_permission_title": {
+      "message": "暂未授予该权限"
+   },
+   "no_permission_to_open_app": {
+      "message": "没有打开$browser$应用的权限",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "暂无待办事项"
+   },
+   "no_search_result": {
+      "message": "暂无搜索结果"
+   },
+   "no_title": {
+      "message": "无标题"
+   },
+   "none": {
+      "message": "不显示"
+   },
+   "none_auto_backup": {
+      "message": "当前暂无定时备份"
+   },
+   "none_auto_backup_desc": {
+      "message": "定时备份将在您对infinity进行修改的当天备份"
+   },
+   "none_manual_backup": {
+      "message": "当前暂无手动备份"
+   },
+   "normal_model": {
+      "message": "标准模式"
+   },
+   "not_binding": {
+      "message": "未绑定"
+   },
+   "note_title": {
+      "message": "输入笔记标题"
+   },
+   "note_upload_img_15": {
+      "message": "图片不能超过15M"
+   },
+   "notes": {
+      "message": "笔记"
+   },
+   "notice": {
+      "message": "通知"
+   },
+   "ocean": {
+      "message": "海洋"
+   },
+   "one_day_later": {
+      "message": "明天提醒我"
+   },
+   "one_week_later": {
+      "message": "一周后提醒我"
+   },
+   "only_used_infinity": {
+      "message": "仅作用于Infinity内部模块"
+   },
+   "opacity": {
+      "message": "图标不透明度"
+   },
+   "open_all": {
+      "message": "打开全部"
+   },
+   "open_chrome_app": {
+      "message": "启用应用"
+   },
+   "open_extension": {
+      "message": "启用扩展"
+   },
+   "open_folder_icons": {
+      "message": "打开全部"
+   },
+   "open_new_tab": {
+      "message": "在新标签页中打开网站"
+   },
+   "open_newtab_bookmarks": {
+      "message": "在新标签页中打开书签链接"
+   },
+   "open_newtab_history": {
+      "message": "在新标签页中打开历史记录"
+   },
+   "open_newtab_show_search": {
+      "message": "在新标签页中打开第三方搜索结果"
+   },
+   "origin_password": {
+      "message": "原始密钥"
+   },
+   "other_bookmarks": {
+      "message": "其他书签"
+   },
+   "others": {
+      "message": "其他"
+   },
+   "oversize": {
+      "message": "大小不能超过2MB"
+   },
+   "overwrite_data": {
+      "message": "覆盖数据"
+   },
+   "pagin": {
+      "message": "翻页按钮"
+   },
+   "password": {
+      "message": "密码"
+   },
+   "password_dont_empty": {
+      "message": "密码不能为空"
+   },
+   "password_length_low": {
+      "message": "密码不能少于6位数"
+   },
+   "password_not_equals": {
+      "message": "密码不相同"
+   },
+   "password_not_some": {
+      "message": "两次密码输入不一致"
+   },
+   "permission": {
+      "message": "授权"
+   },
+   "permission_all": {
+      "message": "全部授权"
+   },
+   "permission_gmail_notice_content": {
+      "message": "请求读取和更改您在mail.google.com上的数据;请求显示通知"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail邮件通知"
+   },
+   "permission_gmail_num_content": {
+      "message": "请求读取和更改您在mail.google.com上的数据"
+   },
+   "permission_gmail_num_title": {
+      "message": "Gmail数量读取"
+   },
+   "permission_serch_suggest_content": {
+      "message": "请求读取和更改您在google.com和suggestion.baidu.com上的数据"
+   },
+   "permission_serch_suggest_title": {
+      "message": "搜索建议"
+   },
+   "permission_todo_notice_content": {
+      "message": "请求显示通知"
+   },
+   "permission_todo_notice_title": {
+      "message": "待办事项通知"
+   },
+   "permission_top_bookmark_content": {
+      "message": "请求读取您访问过的网站对应的图标，读取和更改您的书签"
+   },
+   "permission_top_bookmark_title": {
+      "message": "顶部显示书签"
+   },
+   "permission_top_useful_content": {
+      "message": "请求读取您访问过的网站对应的图标，读取和更改您最常访问的网站列表"
+   },
+   "permission_top_useful_title": {
+      "message": "顶部显示常用网站"
+   },
+   "permisson_label": {
+      "message": "权限"
+   },
+   "phone_number": {
+      "message": "手机号"
+   },
+   "photos": {
+      "message": "图片"
+   },
+   "pick_local_wallpaper": {
+      "message": "选择本地壁纸"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "可以任意使用的漂亮的免费照片"
+   },
+   "placeholder_name": {
+      "message": "名称"
+   },
+   "please_chose_picture": {
+      "message": "请选择图片"
+   },
+   "please_enter_bookmark_name": {
+      "message": "请输入书签名称"
+   },
+   "please_enter_email": {
+      "message": "请输入邮箱"
+   },
+   "please_enter_img_verify_code": {
+      "message": "请输入图片验证码"
+   },
+   "please_enter_nickname": {
+      "message": "请输入昵称"
+   },
+   "please_enter_phone": {
+      "message": "请输入手机号"
+   },
+   "please_enter_right_account": {
+      "message": "请输入正确的邮箱或者手机号"
+   },
+   "please_enter_text": {
+      "message": "请输入文本"
+   },
+   "please_enter_url": {
+      "message": "请输入网站地址"
+   },
+   "please_input_bg_text": {
+      "message": "请输入图标文字"
+   },
+   "please_pre_login": {
+      "message": "请先登录"
+   },
+   "please_re_login": {
+      "message": "请重新登录"
+   },
+   "please_set_your_password": {
+      "message": "请设置你的登录密码"
+   },
+   "please_type_link": {
+      "message": "请输入链接"
+   },
+   "please_type_right_link": {
+      "message": "请输入正确的链接"
+   },
+   "please_upload_photos": {
+      "message": "请上传图片"
+   },
+   "popular": {
+      "message": "受欢迎的"
+   },
+   "preview": {
+      "message": "预览"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "隐私和数据收集说明"
+   },
+   "privacy_data_item_1_1": {
+      "message": "自定义网站图标生成的图片"
+   },
+   "privacy_data_item_1_2": {
+      "message": "自定义搜索引擎生成的图片"
+   },
+   "privacy_data_item_2_1": {
+      "message": "您注册所使用的的邮箱，上传的头像，设置的昵称，以及非明文密码等信息"
+   },
+   "privacy_data_item_2_2": {
+      "message": "如果您使用第三方账号登录，我们会存储第三方提供的您的昵称、性别、头像等信息"
+   },
+   "privacy_data_item_2_3": {
+      "message": "您添加的网站图标信息和搜索引擎信息"
+   },
+   "privacy_data_item_2_4": {
+      "message": "您所在地区的天气信息或您设置的其他地区的天气信息"
+   },
+   "privacy_data_item_2_5": {
+      "message": "您创建的待办事项"
+   },
+   "privacy_data_item_2_6": {
+      "message": "您创建的笔记内容以及笔记内容中上传的图片"
+   },
+   "privacy_data_item_2_7": {
+      "message": "您的当前壁纸、壁纸设置项、本地壁纸上传的图片和本地壁纸库中上传的图片"
+   },
+   "privacy_data_item_2_8": {
+      "message": "扩展的设置项"
+   },
+   "privacy_data_item_3_1": {
+      "message": "服务器可能会存储与用户客户端交互过程中产生的日志记录，此记录主要用作帮助排查异常错误，我们会不定期清除此日志记录。"
+   },
+   "privacy_data_item_4_1": {
+      "message": "浏览器型号、语言与版本、屏幕分辨率"
+   },
+   "privacy_data_item_4_10": {
+      "message": "当前是否登陆"
+   },
+   "privacy_data_item_4_11": {
+      "message": "当前图标的大致数量"
+   },
+   "privacy_data_item_4_12": {
+      "message": "当前已启用的扩展（如果使用扩展管理功能）"
+   },
+   "privacy_data_item_4_13": {
+      "message": "本扩展打开的次数"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP地址以及由IP地址推导出来的地理位置"
+   },
+   "privacy_data_item_4_3": {
+      "message": "添加的网站图标与搜索引擎"
+   },
+   "privacy_data_item_4_4": {
+      "message": "壁纸和扩展的设置项"
+   },
+   "privacy_data_item_4_5": {
+      "message": "扩展版本"
+   },
+   "privacy_data_item_4_6": {
+      "message": "功能按钮被点击的次数"
+   },
+   "privacy_data_item_4_7": {
+      "message": "异常错误信息"
+   },
+   "privacy_data_item_4_8": {
+      "message": "打开网站的地址host"
+   },
+   "privacy_data_item_4_9": {
+      "message": "当前的搜索引擎host"
+   },
+   "privacy_data_item_5_1": {
+      "message": "我们会匿名统计部分搜索引擎的使用次数。"
+   },
+   "privacy_data_item_9": {
+      "message": "您必须同意此隐私政策，才可以使用该扩展，您也可以查看我们的$the_infinity_privacy$以了解更多。",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "不，不收集这些匿名数据"
+   },
+   "privacy_data_title_1": {
+      "message": "我们可能会存储用户使用过程中主动生成的图片，以下图片是匿名化存储的："
+   },
+   "privacy_data_title_2": {
+      "message": "如果您注册或者登录您的账号，我们需要将您的以下可识别身份的数据（以下称为用户数据）存储在我们的服务器上以实现备份数据和同步功能："
+   },
+   "privacy_data_title_3": {
+      "message": "服务器日志："
+   },
+   "privacy_data_title_4": {
+      "message": "以下信息收集是可选的，并将以匿名的方式通过Google Analytics进行收集，以帮助我们更好的改进产品："
+   },
+   "privacy_data_title_5": {
+      "message": "统计分析："
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "请确认您将要卸载Infinity新标签页"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "请确认您将要卸载Infinity新标签页Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "卸载Infinity新标签页？"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "卸载Infinity新标签页Pro？"
+   },
+   "privacy_data_yes": {
+      "message": "是的，可以根据隐私政策收集这些匿名数据"
+   },
+   "privacy_disagree": {
+      "message": "不同意"
+   },
+   "privacy_policy": {
+      "message": "隐私政策"
+   },
+   "privacy_title": {
+      "message": "隐私政策协议"
+   },
+   "profile": {
+      "message": "个人信息"
+   },
+   "pure_color": {
+      "message": "纯色"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ群"
+   },
+   "qq_zone": {
+      "message": "QQ空间"
+   },
+   "random_wallpaper": {
+      "message": "随机壁纸"
+   },
+   "re_update": {
+      "message": "重新升级"
+   },
+   "read": {
+      "message": "阅读"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "可以给个人和商业使用的大量高清的照片，每周新增7张"
+   },
+   "recently_add": {
+      "message": "最近添加"
+   },
+   "recently_use": {
+      "message": "最近使用"
+   },
+   "recover_error": {
+      "message": "数据恢复失败"
+   },
+   "recover_error_version": {
+      "message": "不支持的数据格式"
+   },
+   "recover_this": {
+      "message": "从此节点恢复"
+   },
+   "redius": {
+      "message": "图标圆角"
+   },
+   "refresh_qrcode": {
+      "message": "二维码已失效，点击刷新"
+   },
+   "register": {
+      "message": "注册"
+   },
+   "register_back": {
+      "message": "返回上一层"
+   },
+   "register_get_email_code_error": {
+      "message": "获取验证码失败"
+   },
+   "register_now": {
+      "message": "现在注册你的Infinity账号，享受更多权限"
+   },
+   "relative_humidity": {
+      "message": "相对湿度"
+   },
+   "reload": {
+      "message": "点击重试"
+   },
+   "reminder_update_text1": {
+      "message": "为了您获得Infinity更好的使用体验"
+   },
+   "reminder_update_text2": {
+      "message": "建议将浏览器升级到最新版本，推荐使用兼容【Infinity】的浏览器"
+   },
+   "reminder_update_title": {
+      "message": "页面存在错误显示"
+   },
+   "remove_account": {
+      "message": "删除账号"
+   },
+   "remove_done": {
+      "message": "清除已完成的待办事项"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "该壁纸库下的所有壁纸将一并删除"
+   },
+   "rename_folder": {
+      "message": "重命名"
+   },
+   "repair_auto_backup": {
+      "message": "正在自动备份数据"
+   },
+   "repair_concat": {
+      "message": "联系方式"
+   },
+   "repair_concat_email": {
+      "message": "邮箱："
+   },
+   "repair_concat_qq": {
+      "message": "工程师 QQ："
+   },
+   "repair_data": {
+      "message": "修复数据"
+   },
+   "repair_data_desc_contnet": {
+      "message": "请将待修复数据文件通过以下联系方式发给我们，我们会尽快帮您修复数据。工程师解决问题前，请尽量不要进行其他操作。此文件可能包含账户等敏感信息，请勿泄漏给其他人。"
+   },
+   "repair_data_title": {
+      "message": "找回丢失或损坏的数据"
+   },
+   "repair_export_btn": {
+      "message": "导出待修复的数据"
+   },
+   "repeat_city": {
+      "message": "不能重复添加城市"
+   },
+   "reqeust_login_message": {
+      "message": "此功能需要登录之后使用"
+   },
+   "request_logout_confirm": {
+      "message": "确认删除账号？"
+   },
+   "request_reset_all_settings": {
+      "message": "是否确认重置所有设置？"
+   },
+   "reset": {
+      "message": "重置"
+   },
+   "reset_password": {
+      "message": "重置密码"
+   },
+   "reset_password_by_email": {
+      "message": "通过邮箱验证重新设置您的密码"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "通过邮箱或手机号验证重新设置您的密码"
+   },
+   "reset_setting": {
+      "message": "重置设置"
+   },
+   "reset_your_password": {
+      "message": "重新设置您的密码"
+   },
+   "restore_setting": {
+      "message": "还原设置"
+   },
+   "revovery_data": {
+      "message": "恢复数据"
+   },
+   "row_gap": {
+      "message": "行间距"
+   },
+   "row_num": {
+      "message": "列数"
+   },
+   "safari_browser": {
+      "message": "Safari 浏览器"
+   },
+   "safari_browser_guide1": {
+      "message": "单击浏览器左上角【Safari浏览器】，选择【偏好设置】。"
+   },
+   "safari_browser_guide2": {
+      "message": "在弹出的【通用】窗口下，找到【主页】选项，并输入Infinity主页的网址https://inftab.com。"
+   },
+   "safari_browser_guide3": {
+      "message": "点击【设定为当前页面】，主页设置完成。"
+   },
+   "sat": {
+      "message": "周六"
+   },
+   "sat_min": {
+      "message": "六"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "scale": {
+      "message": "图标大小"
+   },
+   "scale_main": {
+      "message": "屏幕缩放"
+   },
+   "scale_side": {
+      "message": "侧边栏缩放"
+   },
+   "scheduled_backup": {
+      "message": "定时备份"
+   },
+   "search": {
+      "message": "搜索"
+   },
+   "search_bookmark": {
+      "message": "搜索书签"
+   },
+   "search_engine": {
+      "message": "搜索引擎"
+   },
+   "search_engine_error": {
+      "message": "请输入搜索引擎名称"
+   },
+   "search_error": {
+      "message": "加载失败"
+   },
+   "search_extension": {
+      "message": "搜索扩展"
+   },
+   "search_from": {
+      "message": "搜索自：$site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "搜索图标"
+   },
+   "search_input": {
+      "message": "搜索框"
+   },
+   "search_input_shadow": {
+      "message": "搜索框阴影"
+   },
+   "search_opacity": {
+      "message": "搜索框不透明度"
+   },
+   "search_redius": {
+      "message": "搜索框圆角"
+   },
+   "search_result": {
+      "message": "搜索结果"
+   },
+   "search_size": {
+      "message": "搜索框大小"
+   },
+   "search_suggest": {
+      "message": "显示搜索建议"
+   },
+   "search_website": {
+      "message": "搜索网站"
+   },
+   "searching": {
+      "message": "搜索中"
+   },
+   "select_date": {
+      "message": "选择日期"
+   },
+   "select_icon": {
+      "message": "选择图标"
+   },
+   "select_time": {
+      "message": "选择时间"
+   },
+   "send_success": {
+      "message": "已发送，请查收"
+   },
+   "set_homepage_desc": {
+      "message": "推荐您安装浏览器扩展_#_体验完整功能"
+   },
+   "set_homepage_title2": {
+      "message": "当前版本不支持该功能_#_请安装浏览器扩展后再使用"
+   },
+   "set_infinity_to_homepage": {
+      "message": "将Infinity设为主页_#_让你的主页更加生动有趣"
+   },
+   "set_new_password": {
+      "message": "设置新密码"
+   },
+   "set_remind_time": {
+      "message": "设置提醒时间"
+   },
+   "set_setting_default": {
+      "message": "恢复默认设置"
+   },
+   "set_to_homepage": {
+      "message": "设为主页"
+   },
+   "set_top": {
+      "message": "置顶"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "设置您的头像和昵称"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "shadow": {
+      "message": "图标阴影"
+   },
+   "share": {
+      "message": "分享"
+   },
+   "share_by_user": {
+      "message": "用户分享"
+   },
+   "share_desc": {
+      "message": "Infinity 新标签页，数百万人选择的导航类扩展，浏览器上最好用的新标签页"
+   },
+   "share_title": {
+      "message": "可能是$browser$浏览器上最好用的新标签页",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "购物与团购"
+   },
+   "shortcut_mode": {
+      "message": "快捷模式"
+   },
+   "show_detail": {
+      "message": "立即查看"
+   },
+   "show_gamil_unread_number": {
+      "message": "在图标上显示未读Gmail邮件数量"
+   },
+   "show_later": {
+      "message": "稍后提醒我"
+   },
+   "show_name": {
+      "message": "显示名称"
+   },
+   "show_reminders_number": {
+      "message": "在图标上显示待办事项数量"
+   },
+   "skip": {
+      "message": "跳过"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "一个寻找，展示，分享照片的地方"
+   },
+   "social": {
+      "message": "社交与博客"
+   },
+   "solid_color_wallpaper": {
+      "message": "纯色壁纸"
+   },
+   "sougou": {
+      "message": "搜狗"
+   },
+   "sougou_desc": {
+      "message": "能搜微信公众号内容的搜索引擎"
+   },
+   "sports": {
+      "message": "体育与旅行"
+   },
+   "start_animation": {
+      "message": "启动动画"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "为创业公司，博主，出版者，网站，设计师，开发者，创造者，以及更多人提供的免费照片"
+   },
+   "street_photography": {
+      "message": "街头"
+   },
+   "sun": {
+      "message": "周天"
+   },
+   "sun_min": {
+      "message": "日"
+   },
+   "support": {
+      "message": "支持"
+   },
+   "switch_to": {
+      "message": "切换为"
+   },
+   "sync_fail": {
+      "message": "同步失败，请重试"
+   },
+   "sync_suncess": {
+      "message": "同步完成！"
+   },
+   "sync_type_tips": {
+      "message": "检测到云端数据和本地数据不一致，请选择使用其中某一项数据"
+   },
+   "syncing": {
+      "message": "正在同步数据..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "您还没有安装此$browser$应用",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "目标打开方式"
+   },
+   "tech": {
+      "message": "数码科技"
+   },
+   "technology": {
+      "message": "技术"
+   },
+   "term_of_use": {
+      "message": "使用条款"
+   },
+   "text": {
+      "message": "文本"
+   },
+   "text_shadow": {
+      "message": "字体阴影"
+   },
+   "thirt_party": {
+      "message": "使用第三方登录"
+   },
+   "thu": {
+      "message": "周四"
+   },
+   "thu_min": {
+      "message": "四"
+   },
+   "tian_mao": {
+      "message": "天猫精选"
+   },
+   "tip_question_1": {
+      "message": "1.打开任意网站，在搜索框中输入“%s”进行搜索。（以Google示例）"
+   },
+   "tip_question_2": {
+      "message": "2.直接复制搜索结果的网址"
+   },
+   "tip_question_3": {
+      "message": "3.将复制的网址粘贴到此处即可"
+   },
+   "tip_question_title": {
+      "message": "关于用“%s”代替搜索词"
+   },
+   "to_login": {
+      "message": "去登录"
+   },
+   "today": {
+      "message": "今天"
+   },
+   "todo_welcome": {
+      "message": "欢迎使用Infinity新标签页，这是一条示例待办事项。"
+   },
+   "todos": {
+      "message": "待办事项"
+   },
+   "top_bookmark": {
+      "message": "在顶部显示书签"
+   },
+   "top_use_ful": {
+      "message": "在顶部显示常用网站"
+   },
+   "travel": {
+      "message": "旅行"
+   },
+   "tue": {
+      "message": "周二"
+   },
+   "tue_min": {
+      "message": "二"
+   },
+   "twitter": {
+      "message": "推特"
+   },
+   "two_hours_later": {
+      "message": "2小时后提醒我"
+   },
+   "type_link": {
+      "message": "输入链接"
+   },
+   "type_text": {
+      "message": "请输入文本"
+   },
+   "unbind": {
+      "message": "解绑"
+   },
+   "unbind_btn": {
+      "message": "解除绑定"
+   },
+   "unbind_email": {
+      "message": "邮箱解绑"
+   },
+   "unbind_phone_number": {
+      "message": "手机号解绑"
+   },
+   "unbind_success": {
+      "message": "解绑成功"
+   },
+   "uninstall_agree": {
+      "message": "同意"
+   },
+   "uninstall_chrome_app": {
+      "message": "卸载应用"
+   },
+   "uninstall_extension": {
+      "message": "卸载扩展"
+   },
+   "unknown_mistake": {
+      "message": "未知错误"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "全球知名的高品质壁纸"
+   },
+   "unzip_folder_content": {
+      "message": "文件夹将被删除，图标会保留，确定吗？"
+   },
+   "unzip_folder_title": {
+      "message": "释放"
+   },
+   "update_data": {
+      "message": "升级数据"
+   },
+   "update_data_failure": {
+      "message": "更新资料失败"
+   },
+   "update_desc_1": {
+      "message": "如果版本升级过程中出现数据转换失败的情况，您可以尝试重新升级数据。"
+   },
+   "update_desc_2": {
+      "message": "如果您多次尝试仍不能解决问题，您可以联系我们的工程师，我们会尽量帮您解决。"
+   },
+   "update_desc_3": {
+      "message": "转换数据会覆盖新版本数据，建议您操作之前先备份数据。"
+   },
+   "update_error_desc1": {
+      "message": "检测到部分数据可能出现损坏，您可以尝试重新升级；"
+   },
+   "update_error_desc2": {
+      "message": "如果多次升级失败，您也可以从右上角点击“$btn$”图标进入-【我的】-【备份与修复】中修复数据。",
+      "placeholders": {
+         "btn": {
+            "content": "$1"
+         }
+      }
+   },
+   "update_now": {
+      "message": "现在升级"
+   },
+   "update_or_repair_data": {
+      "message": "升级或修复数据"
+   },
+   "upload_avatar_failure": {
+      "message": "头像上传失败"
+   },
+   "upload_file_error": {
+      "message": "文件上传失败"
+   },
+   "upload_image_error": {
+      "message": "图片上传失败"
+   },
+   "uploading": {
+      "message": "上传中..."
+   },
+   "use_cloud": {
+      "message": "使用云端数据"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "输入文本并按回车添加"
+   },
+   "use_local": {
+      "message": "使用本地数据"
+   },
+   "use_mobile_screen": {
+      "message": "使用移动设备扫描二维码"
+   },
+   "user_evaluation": {
+      "message": "用户评价"
+   },
+   "username_cannot_empty": {
+      "message": "用户名不能为空"
+   },
+   "verify_password_desc": {
+      "message": "为了您的账号安全，请输入账号密码"
+   },
+   "verity_code": {
+      "message": "发送验证码"
+   },
+   "verity_code_no_value": {
+      "message": "验证码不能为空"
+   },
+   "videos": {
+      "message": "视频"
+   },
+   "view": {
+      "message": "视图"
+   },
+   "w309": {
+      "message": "细雨"
+   },
+   "w_100": {
+      "message": "晴"
+   },
+   "w_101": {
+      "message": "多云"
+   },
+   "w_102": {
+      "message": "少云"
+   },
+   "w_103": {
+      "message": "晴间多云"
+   },
+   "w_104": {
+      "message": "阴"
+   },
+   "w_200": {
+      "message": "有风"
+   },
+   "w_201": {
+      "message": "平静"
+   },
+   "w_202": {
+      "message": "微风"
+   },
+   "w_203": {
+      "message": "和风"
+   },
+   "w_204": {
+      "message": "清风"
+   },
+   "w_205": {
+      "message": "强风"
+   },
+   "w_206": {
+      "message": "疾风"
+   },
+   "w_207": {
+      "message": "大风"
+   },
+   "w_208": {
+      "message": "烈风"
+   },
+   "w_209": {
+      "message": "风暴"
+   },
+   "w_210": {
+      "message": "狂爆风"
+   },
+   "w_211": {
+      "message": "飓风"
+   },
+   "w_212": {
+      "message": "龙卷风"
+   },
+   "w_213": {
+      "message": "热带风暴"
+   },
+   "w_300": {
+      "message": "阵雨"
+   },
+   "w_301": {
+      "message": "强阵雨"
+   },
+   "w_302": {
+      "message": "雷阵雨"
+   },
+   "w_303": {
+      "message": "强雷阵雨"
+   },
+   "w_304": {
+      "message": "雷阵雨伴有冰雹"
+   },
+   "w_305": {
+      "message": "小雨"
+   },
+   "w_306": {
+      "message": "中雨"
+   },
+   "w_307": {
+      "message": "大雨"
+   },
+   "w_308": {
+      "message": "极端降雨"
+   },
+   "w_310": {
+      "message": "暴雨"
+   },
+   "w_311": {
+      "message": "大暴雨"
+   },
+   "w_312": {
+      "message": "特大暴雨"
+   },
+   "w_313": {
+      "message": "冻雨"
+   },
+   "w_314": {
+      "message": "小到中雨"
+   },
+   "w_315": {
+      "message": "中到大雨"
+   },
+   "w_316": {
+      "message": "大到暴雨"
+   },
+   "w_317": {
+      "message": "暴雨到大暴雨"
+   },
+   "w_318": {
+      "message": "大暴雨到特大暴雨"
+   },
+   "w_399": {
+      "message": "雨"
+   },
+   "w_400": {
+      "message": "小雪"
+   },
+   "w_401": {
+      "message": "中雪"
+   },
+   "w_402": {
+      "message": "大雪"
+   },
+   "w_403": {
+      "message": "暴雪"
+   },
+   "w_404": {
+      "message": "雨夹雪"
+   },
+   "w_405": {
+      "message": "雨雪天气"
+   },
+   "w_406": {
+      "message": "阵雨夹雪"
+   },
+   "w_407": {
+      "message": "阵雪"
+   },
+   "w_408": {
+      "message": "小到中雪"
+   },
+   "w_409": {
+      "message": "中到大雪"
+   },
+   "w_410": {
+      "message": "大到暴雪"
+   },
+   "w_499": {
+      "message": "雪"
+   },
+   "w_500": {
+      "message": "薄雾"
+   },
+   "w_501": {
+      "message": "雾"
+   },
+   "w_502": {
+      "message": "霾"
+   },
+   "w_503": {
+      "message": "扬沙"
+   },
+   "w_504": {
+      "message": "浮尘"
+   },
+   "w_507": {
+      "message": "沙尘暴"
+   },
+   "w_508": {
+      "message": "强沙尘暴"
+   },
+   "w_509": {
+      "message": "浓雾"
+   },
+   "w_510": {
+      "message": "强浓雾"
+   },
+   "w_511": {
+      "message": "中度霾"
+   },
+   "w_512": {
+      "message": "重度霾"
+   },
+   "w_513": {
+      "message": "严重霾"
+   },
+   "w_514": {
+      "message": "大雾"
+   },
+   "w_515": {
+      "message": "特强浓雾"
+   },
+   "w_900": {
+      "message": "热"
+   },
+   "w_901": {
+      "message": "冷"
+   },
+   "w_999": {
+      "message": "未知"
+   },
+   "wallpaper": {
+      "message": "壁纸"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "添加自定义颜色"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "添加图片失败，可稍后再次尝试"
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "本地壁纸应用失败，可稍后再次尝试"
+   },
+   "wallpaper_applying_library": {
+      "message": "正在应用壁纸库..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "壁纸更换频率"
+   },
+   "wallpaper_choose_library": {
+      "message": "选择壁纸源"
+   },
+   "wallpaper_choose_single": {
+      "message": "选择单张壁纸"
+   },
+   "wallpaper_clear_filter": {
+      "message": "清除选择"
+   },
+   "wallpaper_cloud": {
+      "message": "云端壁纸"
+   },
+   "wallpaper_collect_current": {
+      "message": "收藏当前壁纸"
+   },
+   "wallpaper_common_color": {
+      "message": "通用颜色"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "确认删除该壁纸吗?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "创建本地壁纸库失败，可稍后再次尝试"
+   },
+   "wallpaper_create_library_limit": {
+      "message": "用户自定义壁纸库超出限制"
+   },
+   "wallpaper_custom_color": {
+      "message": "自定义颜色"
+   },
+   "wallpaper_delete_color": {
+      "message": "删除该颜色"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "删除成功"
+   },
+   "wallpaper_delete_file": {
+      "message": "删除该壁纸"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "删除壁纸失败"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "禁止自动更换壁纸"
+   },
+   "wallpaper_empty_text": {
+      "message": "暂无数据"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "获取用户壁纸库失败"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "获取用户壁纸失败"
+   },
+   "wallpaper_library": {
+      "message": "壁纸库"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$的本地壁纸库",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "壁纸库名字非法"
+   },
+   "wallpaper_library_preview": {
+      "message": "预览壁纸"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "最多上传20张，单张大小不超过10M"
+   },
+   "wallpaper_loading": {
+      "message": "正在处理中..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "需要连接网络才能应用此设置"
+   },
+   "wallpaper_remove_library": {
+      "message": "删除该壁纸库"
+   },
+   "wallpaper_sort_default": {
+      "message": "默认排序"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "热度"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "收录时间"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "每隔24小时更换"
+   },
+   "wallpaper_switch_failure": {
+      "message": "壁纸切换失败"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "跟随Bing官网更新每日壁纸，不可选择更换频率"
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "每隔1小时更换"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "每隔12小时更换"
+   },
+   "wallpaper_switch_success": {
+      "message": "壁纸切换成功"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "切换到下一张壁纸"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "打开新标签页切换"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "打开页面切换"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "文件上传失败, 原因: 大小超过限制"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "从我的电脑选取壁纸"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "至少需要一张壁纸"
+   },
+   "want_more": {
+      "message": "即刻享受更多特权"
+   },
+   "weather": {
+      "message": "天气"
+   },
+   "weather_empty": {
+      "message": "当前暂无城市天气"
+   },
+   "web_set_home_title": {
+      "message": "如何将 Infinity 设置为您的主页"
+   },
+   "website_address": {
+      "message": "网站地址"
+   },
+   "website_name": {
+      "message": "网站名称"
+   },
+   "website_search_replace_char": {
+      "message": "网址（用%s代替搜索字词）"
+   },
+   "wechat": {
+      "message": "微信"
+   },
+   "wed": {
+      "message": "周三"
+   },
+   "wed_min": {
+      "message": "三"
+   },
+   "welcome_infinity": {
+      "message": "欢迎使用Infinity"
+   },
+   "wind_force": {
+      "message": "风力"
+   },
+   "wind_mill": {
+      "message": "在右下角显示随机壁纸按钮"
+   },
+   "xie_cheng": {
+      "message": "携程网"
+   },
+   "xin_lang_weibo": {
+      "message": "微博"
+   },
+   "yahoo": {
+      "message": "雅虎"
+   },
+   "yahoo_desc": {
+      "message": "雅虎搜索是一个由Yahoo!运营的互联网搜索引擎"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex是俄罗斯重要网络服务门户之一"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$年$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "昨天"
+   },
+   "you_need_login": {
+      "message": "该功能需登录 Infinity 账号后使用"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "您的浏览记录会显示在此处"
+   },
+   "zhifubao": {
+      "message": "支付宝"
+   }
+}

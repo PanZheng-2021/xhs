@@ -1,0 +1,722 @@
+{
+   "buttonApply": {
+      "message": "Terapkan"
+   },
+   "buttonCancel": {
+      "message": "Batal"
+   },
+   "buttonCheckForUpdates": {
+      "message": "Periksa pembaruan"
+   },
+   "buttonClose": {
+      "message": "Tutup"
+   },
+   "buttonDisable": {
+      "message": "Nonaktifkan"
+   },
+   "buttonEdit": {
+      "message": "Sunting"
+   },
+   "buttonEditClickHint": {
+      "message": "Anda juga bisa Klik-kanan, Ctrl-klik, Wheel-klik pada nama skrip."
+   },
+   "buttonEmptyRecycleBin": {
+      "message": "Kosongkan keranjang sampah sekarang!"
+   },
+   "buttonEnable": {
+      "message": "Aktifkan"
+   },
+   "buttonExportData": {
+      "message": "Ekspor ke zip"
+   },
+   "buttonHome": {
+      "message": "Situs Web"
+   },
+   "buttonImportData": {
+      "message": "Impor dari zip"
+   },
+   "buttonInstallFromURL": {
+      "message": "Pasang dari URL"
+   },
+   "buttonNew": {
+      "message": "Baru"
+   },
+   "buttonOK": {
+      "message": "OKE"
+   },
+   "buttonRecycleBin": {
+      "message": "Keranjang Sampah"
+   },
+   "buttonRemove": {
+      "message": "Hapus"
+   },
+   "buttonReplace": {
+      "message": "Ganti"
+   },
+   "buttonReplaceAll": {
+      "message": "Semua"
+   },
+   "buttonReset": {
+      "message": "Setel ulang"
+   },
+   "buttonRestore": {
+      "message": "Pulihkan"
+   },
+   "buttonSave": {
+      "message": "Simpan"
+   },
+   "buttonSaveClose": {
+      "message": "Simpan & Tutup"
+   },
+   "buttonSaved": {
+      "message": "Saved"
+   },
+   "buttonShowEditorState": {
+      "message": "Tampilkan status penyunting"
+   },
+   "buttonSupport": {
+      "message": "Halaman dukungan"
+   },
+   "buttonUndo": {
+      "message": "Undo"
+   },
+   "buttonUpdate": {
+      "message": "Perbarui"
+   },
+   "buttonUpdateAll": {
+      "message": "Periksa semua pembaruan"
+   },
+   "buttonVacuum": {
+      "message": "Vakum basis data"
+   },
+   "buttonVacuumed": {
+      "message": "Data tervakum"
+   },
+   "buttonVacuuming": {
+      "message": "Melakukan vakum data..."
+   },
+   "confirmManualUpdate": {
+      "message": "Pembaruan otomatis dinonaktifkan untuk skrip ini! Klik OK untuk tetap memperbarui."
+   },
+   "confirmNotSaved": {
+      "message": "Modifikasi belum disimpan!\nKlik OKE untuk menghapusnya atau batal untuk tinggal."
+   },
+   "descBlacklist": {
+      "message": "URL yang cocok di dalam daftar ini tidak akan diinjeksi skrip."
+   },
+   "descCustomCSS": {
+      "message": "CSS khusus untuk halaman opsi dan halaman pemasangan skrip. Jika Anda tidak yakin untuk apa ini, mohon jangan menyuntingnya."
+   },
+   "descEditorOptions": {
+      "message": "Opsi khusus untuk CodeMirror dan addon di dalam obyek JSON seperti \u003Ccode>{\"indentUnit\":2, \"smartIndent\":true}\u003C/code> meskipun demikian beberapa diantaranya mungkin tidak bisa digunakan di Violentmonkey. Lihat \u003Ca href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">daftar lengkap\u003C/a>. Untuk menggunakan tema CodeMirror khusus, tulis nama berkasnya di sini \u003Ccode>\"theme\": \"3024-day\"\u003C/code> dan tempel \u003Ca href=\"https://github.com/codemirror/CodeMirror/tree/master/theme\" target=\"_blank\" rel=\"noopener noreferrer\">kode CSS tema\u003C/a> di dalam kotak \"Gaya Khusus\" di bawah."
+   },
+   "editHelpDocumention": {
+      "message": "Dokumentasi tentang blok data meta skrip dan API \u003Ccode>GM\u003C/code>:"
+   },
+   "editHelpKeyboard": {
+      "message": "Pintasan kibor:"
+   },
+   "editHowToHint": {
+      "message": "Gunakan penyunting lainnya?"
+   },
+   "editLabelMeta": {
+      "message": "Data meta khusus"
+   },
+   "editLabelSettings": {
+      "message": "Pengaturan skrip"
+   },
+   "editLongLine": {
+      "message": "Baris terlalu panjang"
+   },
+   "editLongLineTooltip": {
+      "message": "Baris ini terlalu panjang, teks diperpendek untuk menghindari penurunan performa saat menyunting.\nAnda bisa mengatur batasannya di dalam pengaturan lanjutan, contoh: \"maxDisplayLength\": 20000"
+   },
+   "editNavCode": {
+      "message": "Kode"
+   },
+   "editNavSettings": {
+      "message": "Pengaturan"
+   },
+   "editNavValues": {
+      "message": "Nilai"
+   },
+   "editValueAllHint": {
+      "message": "Tampilkan/sunting keseluruhan penyimpanan nilai skrip"
+   },
+   "extDescription": {
+      "message": "Pengelola userscript sumber terbuka yang mendukung banyak peramban"
+   },
+   "extName": {
+      "message": "Violentmonkey"
+   },
+   "failureReasonBlacklisted": {
+      "message": "Dalam daftar hitam di pengaturan Violentmonkey"
+   },
+   "failureReasonNoninjectable": {
+      "message": "Violentmonkey tidak bisa menjalankan userscript di halaman ini\n(contoh: UI peramban atau ekstensi)"
+   },
+   "fileInstallBlocked": {
+      "message": "There are several methods to install or track edits in a local file: \u003C1> Drag'n'drop the file into an open Violentmonkey page or popup, including this one. \u003C2> Install a local HTTP server for this file and open it via http://localhost. \u003C3> Enable \"Allow access to file URLs\" in details for Violentmonkey in chrome://extensions page. This is dangerous because any userscript may read any local file."
+   },
+   "filterAlphabeticalOrder": {
+      "message": "urutan abjad"
+   },
+   "filterExecutionOrder": {
+      "message": "urutan eksekusi"
+   },
+   "filterLastUpdateOrder": {
+      "message": "terakhir diperbarui"
+   },
+   "filterScopeAll": {
+      "message": "Semua"
+   },
+   "filterScopeCode": {
+      "message": "Kode"
+   },
+   "filterScopeName": {
+      "message": "Nama"
+   },
+   "filterSize": {
+      "message": "ukuran"
+   },
+   "genericError": {
+      "message": "Galat"
+   },
+   "genericOff": {
+      "message": "nonaktif"
+   },
+   "genericOn": {
+      "message": "aktif"
+   },
+   "genericUseGlobal": {
+      "message": "gunakan pengaturan global"
+   },
+   "headerRecycleBin": {
+      "message": "Keranjang Sampah"
+   },
+   "helpForLocalFile": {
+      "message": "Show the instruction for drag'n'dropped local scripts"
+   },
+   "hintInputURL": {
+      "message": "Masukkan URL:"
+   },
+   "hintRecycleBin": {
+      "message": "Skrip yang dihapus ditampilkan di sini dan akan disimpan selama 7 hari."
+   },
+   "hintUseDownloadURL": {
+      "message": "Gunakan @downloadURL"
+   },
+   "hintVacuum": {
+      "message": "Buang redundansi dan coba memuat ulang sumber daya yang hilang di dalam cache."
+   },
+   "install": {
+      "message": "Install"
+   },
+   "installFrom": {
+      "message": "Pasang dari $1"
+   },
+   "installOptionTrackTooltip": {
+      "message": "Tab sumber berkas harus tetap terbuka di Firefox 68 dan terbaru."
+   },
+   "labelAdvanced": {
+      "message": "Lanjutan"
+   },
+   "labelAllowUpdate": {
+      "message": "Izinkan pembaruan"
+   },
+   "labelAuthor": {
+      "message": "Pembuat: "
+   },
+   "labelAutoReloadCurrentTab": {
+      "message": "Muat ulang tab saat ini setelah memilih mengaktif/nonaktifkan skrip dari menu"
+   },
+   "labelAutoUpdate": {
+      "message": "Periksa pembaruan skrip setiap $1 hari, gunakan 0 untuk menonaktifkan"
+   },
+   "labelBackup": {
+      "message": "Cadangkan"
+   },
+   "labelBadge": {
+      "message": "Ditampilkan pada lencana: "
+   },
+   "labelBadgeColors": {
+      "message": "Warna lencana:"
+   },
+   "labelBadgeNone": {
+      "message": "tidak ada"
+   },
+   "labelBadgeTotal": {
+      "message": "jumlah skrip yang aktif"
+   },
+   "labelBadgeUnique": {
+      "message": "jumlah skrip unik yang aktif"
+   },
+   "labelBlacklist": {
+      "message": "Daftar hitam"
+   },
+   "labelContributors": {
+      "message": "Kontributor"
+   },
+   "labelCurrentLang": {
+      "message": "Bahasa Saat Ini: "
+   },
+   "labelCustomCSS": {
+      "message": "Gaya Khusus"
+   },
+   "labelDownloadURL": {
+      "message": "URL Unduhan:"
+   },
+   "labelEditValue": {
+      "message": "Menyunting nilai skrip"
+   },
+   "labelEditValueAll": {
+      "message": "Menyunting penyimpanan skrip"
+   },
+   "labelEditor": {
+      "message": "Penyunting"
+   },
+   "labelEnabledScriptsOnly": {
+      "message": "hanya skrip aktif"
+   },
+   "labelExclude": {
+      "message": "Aturan @exclude"
+   },
+   "labelExcludeMatch": {
+      "message": "Aturan @exclude-match"
+   },
+   "labelExportScriptData": {
+      "message": "Ekspor data skrip"
+   },
+   "labelExposeStatus": {
+      "message": "Bagikan versi skrip terpasang pada situs katalog userscript: $1"
+   },
+   "labelFastFirefoxInject": {
+      "message": "Mode $1alternatif di Firefox"
+   },
+   "labelFastFirefoxInjectHint": {
+      "message": "Metode injeksi alternatif untuk skrip \u003Cdocument-start> sejak Firefox 59, lebih cepat daripada mode default. Sama halnya dengan \"Mode halaman sinkron\", mode ini juga meningkatkan konsumsi memori, jadi Anda mungkin ingin menonaktifkannya jika skrip Anda bekerja dengan baik tanpa opsi ini."
+   },
+   "labelFeedback": {
+      "message": "Umpanbalik"
+   },
+   "labelFilterSort": {
+      "message": "Urutkan menurut $1"
+   },
+   "labelGeneral": {
+      "message": "Umum"
+   },
+   "labelHelpTranslate": {
+      "message": "Bantu menerjemahkan"
+   },
+   "labelHomepage": {
+      "message": "Situs Web"
+   },
+   "labelHomepageURL": {
+      "message": "URL Situs Web:"
+   },
+   "labelImportScriptData": {
+      "message": "Impor data skrip"
+   },
+   "labelImportSettings": {
+      "message": "Impor pengaturan"
+   },
+   "labelInclude": {
+      "message": "Aturan @include"
+   },
+   "labelInjectionMode": {
+      "message": "Mode injeksi: "
+   },
+   "labelInstall": {
+      "message": "Memasang skrip"
+   },
+   "labelKeepOriginal": {
+      "message": "Simpan yang asli"
+   },
+   "labelLastUpdatedAt": {
+      "message": "Terakhir diperbarui pada $1"
+   },
+   "labelLineNumber": {
+      "message": "No. baris: "
+   },
+   "labelMatch": {
+      "message": "Aturan @match"
+   },
+   "labelName": {
+      "message": "Nama:"
+   },
+   "labelNoFrames": {
+      "message": "Berjalan di dalam frame:"
+   },
+   "labelNoName": {
+      "message": "Tanpa Nama"
+   },
+   "labelNoSearchScripts": {
+      "message": "Tidak ada skrip yang ditemukan."
+   },
+   "labelNotifyThisUpdated": {
+      "message": ", lalu beri tahu:"
+   },
+   "labelNotifyUpdates": {
+      "message": "Beri tahu pembaruan skrip"
+   },
+   "labelNotifyUpdatesGlobal": {
+      "message": "abaikan notifikasi per skrip (tab \"pengaturan\" di dalam penyunting)"
+   },
+   "labelPopupSort": {
+      "message": "Urutkan skrip di popup menurut $1"
+   },
+   "labelPrivacyPolicy": {
+      "message": "Kebijakan Privasi"
+   },
+   "labelReinstall": {
+      "message": "Memasang ulang skrip"
+   },
+   "labelRelated": {
+      "message": "Tautan terkait: "
+   },
+   "labelRemovedAt": {
+      "message": "Dihapus pada $1"
+   },
+   "labelReplace": {
+      "message": "Ganti dengan: "
+   },
+   "labelRunAt": {
+      "message": "Run-At: "
+   },
+   "labelRunAtDefault": {
+      "message": "(Bawaan)"
+   },
+   "labelScriptTemplate": {
+      "message": "Templat Skrip Khusus"
+   },
+   "labelSearch": {
+      "message": "Pencarian untuk: "
+   },
+   "labelSearchScript": {
+      "message": "Cari skrip..."
+   },
+   "labelSettings": {
+      "message": "Pengaturan"
+   },
+   "labelShowOrder": {
+      "message": "Tampilkan posisi urutan dijalankan"
+   },
+   "labelSync": {
+      "message": "Sinkronisasi"
+   },
+   "labelSyncAnonymous": {
+      "message": "Gunakan akun anonim"
+   },
+   "labelSyncAuthorize": {
+      "message": "Izinkan"
+   },
+   "labelSyncAuthorizing": {
+      "message": "Mengizinkan"
+   },
+   "labelSyncDisabled": {
+      "message": "Nihil"
+   },
+   "labelSyncPassword": {
+      "message": "Sandi: "
+   },
+   "labelSyncRevoke": {
+      "message": "Cabut"
+   },
+   "labelSyncScriptStatus": {
+      "message": "Status sinkronisasi skrip"
+   },
+   "labelSyncServerUrl": {
+      "message": "URL Server: "
+   },
+   "labelSyncService": {
+      "message": "Sinkronkan ke"
+   },
+   "labelSyncUsername": {
+      "message": "Nama pengguna: "
+   },
+   "labelTheme": {
+      "message": "Tema:"
+   },
+   "labelUpdateURL": {
+      "message": "URL Pembaruan:"
+   },
+   "labelViewSingleColumn": {
+      "message": "Kolom tunggal"
+   },
+   "labelViewTable": {
+      "message": "Tampilan tabel"
+   },
+   "labelXhrInject": {
+      "message": "Mode $1 sinkronis"
+   },
+   "labelXhrInjectHint": {
+      "message": "Hanya aktifkan jika Anda memiliki skrip yang perlu dijalankan sebelum halaman mulai dimuat dan saat ini terlambat dijalankan. Seperti mode injeksi instan di Tampermonkey, opsi ini menggunakan XHR sinkronis yang sudah usang, sehingga di Chrome/Chromium Anda akan melihat peringatan di dalam konsol devtool, meskipun Anda masih bisa mengabaikannya dengan aman karena pengaruh buruknya masih bisa diabaikan untuk saat ini. Anda bisa menyembunyikan peringatan ini memlalui klik kanan pada teks tersebut."
+   },
+   "labelXhrInjectNote": {
+      "message": "(except incognito and sites with disabled cookies)"
+   },
+   "lastSync": {
+      "message": "Sinkron terakhir pada $1"
+   },
+   "learnBlacklist": {
+      "message": "Pelajari lebih lanjut tentang pola daftar hitam."
+   },
+   "learnInjectionMode": {
+      "message": "Pelajari lebih lanjut tentang mode injeksi."
+   },
+   "menuDashboard": {
+      "message": "Buka Dasbor"
+   },
+   "menuExclude": {
+      "message": "Pengecualian..."
+   },
+   "menuExcludeHint": {
+      "message": "Tab saat ini akan otomatis dimuat ulang jika Anda mengaktifkan opsi ini di dalam pengaturan umum.\nUntuk menerapkan perubahan ke semua tab, silakan muat ulang secara manual.\nGunakan tab \"Pengaturan\" dari penyunting untuk opsi lainnya."
+   },
+   "menuFeedback": {
+      "message": "Umpanbalik"
+   },
+   "menuFindScripts": {
+      "message": "Temukan skrip untuk situs ini"
+   },
+   "menuInjectionFailed": {
+      "message": "Tidak bisa menginjeksi beberapa skrip."
+   },
+   "menuInjectionFailedFix": {
+      "message": "Ulangi dalam mode \"otomatis\""
+   },
+   "menuMatchedDisabledScripts": {
+      "message": "Cocok skrip nonaktif"
+   },
+   "menuMatchedFrameScripts": {
+      "message": "Skrip hanya sub-frame"
+   },
+   "menuMatchedScripts": {
+      "message": "Skrip yang cocok"
+   },
+   "menuNewScript": {
+      "message": "Buat skrip baru"
+   },
+   "menuScriptDisabled": {
+      "message": "Skrip dinonaktifkan"
+   },
+   "menuScriptEnabled": {
+      "message": "Skrip diaktifkan"
+   },
+   "msgCheckingForUpdate": {
+      "message": "Memeriksa pembaruan..."
+   },
+   "msgDateFormatInfo": {
+      "message": "Klik untuk membuka dokumentasi MomentJS. Token yang diizinkan: $1. Gunakan [tanda kurung siku] untuk melindungi teks harfiah."
+   },
+   "msgErrorFetchingResource": {
+      "message": "Kesalahan saat mengambil sumber daya!"
+   },
+   "msgErrorFetchingScript": {
+      "message": "Kesalahan saat mengambil skrip!"
+   },
+   "msgErrorFetchingUpdateInfo": {
+      "message": "Gagal mengambil informasi pembaruan."
+   },
+   "msgErrorLoadingData": {
+      "message": "Kesalahan memuat data skrip."
+   },
+   "msgErrorLoadingDependency": {
+      "message": "Kesalahan saat memuat dependensi."
+   },
+   "msgImported": {
+      "message": "$1 item diimpor."
+   },
+   "msgIncognitoChanges": {
+      "message": "Perubahan yang Anda buat dalam mode penjelajahan Pribadi juga diterapkan ke profil utama Anda."
+   },
+   "msgInstalled": {
+      "message": "Skrip telah terpasang."
+   },
+   "msgInvalidScript": {
+      "message": "Skrip tidak valid!"
+   },
+   "msgLoadingData": {
+      "message": "Memuat data skrip..."
+   },
+   "msgLoadingDependency": {
+      "message": "Memuat dependensi... ($1/$2)"
+   },
+   "msgMissingResources": {
+      "message": "Kehilangan sumber daya yang dibutuhkan."
+   },
+   "msgNamespaceConflict": {
+      "message": "Skrip ini sudah terpasang.\nSilakan gunakan @name dan @namespace yang berbeda di sini atau sunting skrip tersebut."
+   },
+   "msgNamespaceConflictRestore": {
+      "message": "Skrip dengan @name dan @namespace yang sama sudah terpasang."
+   },
+   "msgNewVersion": {
+      "message": "Tersedia versi baru."
+   },
+   "msgNoUpdate": {
+      "message": "Pembaruan tidak tersedia."
+   },
+   "msgOpenUpdateErrors": {
+      "message": "Galat saat memperbarui skrip. Klik untuk membuka."
+   },
+   "msgReinstallScripts": {
+      "message": "Harap simpan atau pasang ulang skrip ini:"
+   },
+   "msgSameCode": {
+      "message": "(kode sama)"
+   },
+   "msgScriptUpdated": {
+      "message": "Skrip [$1] diperbarui!"
+   },
+   "msgShowHide": {
+      "message": "Tampilkan/Sembunyikan"
+   },
+   "msgSyncError": {
+      "message": "Kesalahan sinkron!"
+   },
+   "msgSyncInit": {
+      "message": "Sedang memulai..."
+   },
+   "msgSyncInitError": {
+      "message": "Kesalahan saat memulai!"
+   },
+   "msgSyncNoAuthYet": {
+      "message": "Belum diotorisasi."
+   },
+   "msgSyncReady": {
+      "message": "Sinkronisasi akan segera dimulai..."
+   },
+   "msgSyncing": {
+      "message": "Dalam proses sinkronisasi..."
+   },
+   "msgSyntaxError": {
+      "message": "Galat sintaksis?"
+   },
+   "msgUpdated": {
+      "message": "Skrip diperbarui."
+   },
+   "msgUpdating": {
+      "message": "Memperbarui..."
+   },
+   "noValues": {
+      "message": "Tidak ada nilai yang disimpan"
+   },
+   "optionEditorWindow": {
+      "message": "Buka penyunting dari popup di jendela baru"
+   },
+   "optionEditorWindowHint": {
+      "message": "Posisi jendela penyunting hanya akan diingat pada saat mengubah ukuran atau menyimpan"
+   },
+   "optionEditorWindowSimple": {
+      "message": "Sembunyikan omnibox"
+   },
+   "optionPopup": {
+      "message": "Ikon dan menu popup"
+   },
+   "optionPopupEnabledFirst": {
+      "message": "Aktif di atas"
+   },
+   "optionPopupGroupDisabled": {
+      "message": "Grup skrip nonaktif"
+   },
+   "optionPopupGroupRunAt": {
+      "message": "Kelompokkan menurut tahap @run-at"
+   },
+   "optionPopupHideDisabled": {
+      "message": "Sembunyikan nonaktif"
+   },
+   "optionPopupShowDisabled": {
+      "message": "Tampilkan skrip nonaktif"
+   },
+   "optionShowEnabledFirst": {
+      "message": "Tampilkan skrip aktif di atas"
+   },
+   "optionUiTheme": {
+      "message": "Tema UI:"
+   },
+   "optionUiThemeAuto": {
+      "message": "otomatis"
+   },
+   "optionUiThemeDark": {
+      "message": "gelap"
+   },
+   "optionUiThemeLight": {
+      "message": "terang"
+   },
+   "optionUpdate": {
+      "message": "Perbarui"
+   },
+   "readonly": {
+      "message": "Read-only"
+   },
+   "readonlyNote": {
+      "message": "Auto-updated script is read-only unless you disable updates or allow editing."
+   },
+   "readonlyOpt": {
+      "message": "Allow edits"
+   },
+   "readonlyOptWarn": {
+      "message": "(next update will overwrite them)"
+   },
+   "reinstall": {
+      "message": "Reinstall"
+   },
+   "reloadTab": {
+      "message": "Muat ulang tab"
+   },
+   "reloadTabTrackHint": {
+      "message": "If enabled, the active tab will be reloaded when changes are detected and this script matches the tab's URL."
+   },
+   "searchCaseSensitive": {
+      "message": "Sesuai besar kecil huruf"
+   },
+   "searchUseRegex": {
+      "message": "Gunakan Regex"
+   },
+   "sideMenuAbout": {
+      "message": "Tentang"
+   },
+   "sideMenuInstalled": {
+      "message": "Skrip terpasang"
+   },
+   "sideMenuSettings": {
+      "message": "Pengaturan"
+   },
+   "skipScripts": {
+      "message": "Muat ulang halaman tanpa userscript"
+   },
+   "skipScriptsMsg": {
+      "message": "You disabled userscripts for this page. To run them, reload or navigate the tab."
+   },
+   "stopTracking": {
+      "message": "Stop tracking"
+   },
+   "titleBadgeColor": {
+      "message": "Warna lencana normal"
+   },
+   "titleBadgeColorBlocked": {
+      "message": "Warna lencana untuk situs yang tidak bisa diinjeksi (daftar hitam atau tidak didukung)"
+   },
+   "titleSearchHint": {
+      "message": "* \u003CEnter> menambahkan teks ke riwayat autocomplete\n* Sintaksis RegExp didukung: /re/ dan /re/flags"
+   },
+   "trackEdits": {
+      "message": "Track external edits"
+   },
+   "trackEditsNote": {
+      "message": "Keep this page open to track your edits in local file"
+   },
+   "updateListedCmd": {
+      "message": "Perbarui skrip ($1)"
+   },
+   "valueLabelKey": {
+      "message": "Key (string)"
+   },
+   "valueLabelValue": {
+      "message": "Nilai (serialisasi sebagai JSON)"
+   },
+   "valueLabelValueAll": {
+      "message": "Semua nilai (serialisasi sebagai JSON)"
+   }
+}

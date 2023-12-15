@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Suojattu hakukone"
+   },
+   "about": {
+      "message": "Tietoja asetuksista"
+   },
+   "about_us": {
+      "message": "Meistä"
+   },
+   "account_expired": {
+      "message": "Testaa tilisi on vanhentunut, kirjaudu sisään uudelleen"
+   },
+   "account_setting": {
+      "message": "Tilin asetukset"
+   },
+   "add": {
+      "message": "Lisää"
+   },
+   "add_city": {
+      "message": "Lisää kaupunki"
+   },
+   "add_first_note": {
+      "message": "Tee ensimmäinen muistiinpanosi"
+   },
+   "add_icon_success": {
+      "message": "lisätty onnistuneesti"
+   },
+   "add_link": {
+      "message": "Lisää linkki"
+   },
+   "add_new_search_engine": {
+      "message": "Lisää uusi hakukone"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Uusi taustakuvakirjasto"
+   },
+   "add_search_engine": {
+      "message": "Lisää hakukone"
+   },
+   "add_success": {
+      "message": "Lisääminen onnistui"
+   },
+   "add_to_home_site": {
+      "message": "Lisää etusivulle"
+   },
+   "add_to_infinity": {
+      "message": "Lisää Infinity Uusi välilehden sivu"
+   },
+   "additional_search_engine": {
+      "message": "Liitteenä hakukone"
+   },
+   "air_pressure": {
+      "message": "Paine"
+   },
+   "all_wallpaper_sources": {
+      "message": "Kaikki taustakuvat"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Kaikki taustakuvien lähteet"
+   },
+   "ambiguity": {
+      "message": "Sumennus"
+   },
+   "animals": {
+      "message": "Eläin"
+   },
+   "animation": {
+      "message": "Animaatiot"
+   },
+   "animation_tips": {
+      "message": "Aloitus animaatio voi vaikuttaa sileyden"
+   },
+   "anime": {
+      "message": "Sarjakuvat"
+   },
+   "any_money": {
+      "message": "Mikä tahansa"
+   },
+   "app": {
+      "message": "Sovellus"
+   },
+   "app_disabled_enable_first": {
+      "message": "Olet poistanut tämän sovelluksen käytöstä. Salli äärettömyyden mahdollistaa tämän sovelluksen ensin?"
+   },
+   "application": {
+      "message": "Sovellus"
+   },
+   "apply": {
+      "message": "Käytä"
+   },
+   "architecture": {
+      "message": "Arkkitehtuuri"
+   },
+   "athletics": {
+      "message": "Urheilu"
+   },
+   "avatar": {
+      "message": "Valitse avatar"
+   },
+   "backing_up": {
+      "message": "Varmuuskopioidaan…"
+   },
+   "backup_and_recovery": {
+      "message": "Varmuuskopiointi ja palautus"
+   },
+   "backup_failed": {
+      "message": "Varmistus epäonnistui"
+   },
+   "backup_now": {
+      "message": "Varmuuskopioi nyt"
+   },
+   "backup_successful": {
+      "message": "Varmuuskopiointi onnistui"
+   },
+   "backup_tips": {
+      "message": "Pidämme enintään 3 manuaalista varmuuskopiosolmua ja 3 automaattista varmuuskopiointia"
+   },
+   "backup_with_device": {
+      "message": "synkronoi muihin laitteisiin"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Keskity vapaan ja korkealaatuisen ei-galleria-tyypin kuvaamiseen"
+   },
+   "basic_info": {
+      "message": "Yleistiedot"
+   },
+   "bg_color": {
+      "message": "Taustaväri"
+   },
+   "bg_updating": {
+      "message": "Päivityksessä odota ..."
+   },
+   "bind": {
+      "message": "Yhdistä"
+   },
+   "bind_success": {
+      "message": "Liittäminen onnistui"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing on Microsoftin kehittämä hakukone"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Daily Bing Wallpaper -kirjasto"
+   },
+   "bookmarks": {
+      "message": "Kirjanmerkit"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ ei tue tätä ominaisuutta",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "cancel_login": {
+      "message": "Peruuta sisäänkirjautuminen"
+   },
+   "cancel_remind_time": {
+      "message": "Peruuta muistutusaika"
+   },
+   "cancel_set_top": {
+      "message": "Irrota kiinnitys"
+   },
+   "cannot_change_password": {
+      "message": "Et voi vaihtaa salasanaa, jos kirjaudu sisään kolmannen osapuolen tilillä"
+   },
+   "cannot_change_profile": {
+      "message": "Kolmannen osapuolen käyttäjät, jotka eivät voi muokata profiilitietoja"
+   },
+   "cannot_download": {
+      "message": "Latauksia ei tueta"
+   },
+   "cannot_empty": {
+      "message": "Ei voi olla tyhjä"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Vaihda muistutusaika"
+   },
+   "change_wallpaper": {
+      "message": "Vaihda taustakuva"
+   },
+   "check_olddata_desc": {
+      "message": "On havaittu, että vanhoja versioita on vanhoja tietoja, joita voidaan päivittää. Jos tarvitset yrität päivittää nämä tiedot"
+   },
+   "choose_sync_type": {
+      "message": "Valitse tilin tiedot"
+   },
+   "chose_from_mypc": {
+      "message": "Luo tapetti kirjasto"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$-sovellukset",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - laajennukset"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Syötä osoitepalkissa chrome://settings/appearance ja anna asetussivu."
+   },
+   "chrome_browser_guide2": {
+      "message": "Liu'uta alas alas ja valitse kuvion nuolen ilmoittama vaihtoehto."
+   },
+   "chrome_browser_guide3": {
+      "message": "Syötä URL https://inftab.com ponnahdusikkunassa ja napsauta sitten Lisää-painiketta, jos haluat suorittaa kotisivun asetukset."
+   },
+   "clear_historys": {
+      "message": "Tyhjennä historia"
+   },
+   "col_gap": {
+      "message": "Sarakeväli"
+   },
+   "col_num": {
+      "message": "Rivit"
+   },
+   "color": {
+      "message": "Väri"
+   },
+   "color_icon": {
+      "message": "Solid Color Icon"
+   },
+   "come_from": {
+      "message": "Käyttäjältä"
+   },
+   "comming_soon": {
+      "message": "Tulossa pian"
+   },
+   "comming_soon_title": {
+      "message": "Infinity Mobile -versio on matkalla"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Haluatko varmasti tyhjentää kaikki historiatietueet?"
+   },
+   "confirm_cover_remote": {
+      "message": "Paikalliset tiedot tallennetaan manuaaliseen varmuuskopiointiin"
+   },
+   "confirm_del_folder": {
+      "message": "Haluatko varmasti poistaa tämän kansion?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Haluatko varmasti poistaa valmiit kohteet?"
+   },
+   "confirm_delete_note": {
+      "message": "Vahvista huomautuksen poisto?"
+   },
+   "confirm_logout": {
+      "message": "Kirjaudu ulos"
+   },
+   "confirm_password": {
+      "message": "Vahvista uusi salasana"
+   },
+   "confirm_password_2": {
+      "message": "Vahvista salasana"
+   },
+   "confirm_recovery_data": {
+      "message": "Pilvitiedot korvaavat paikalliset tiedot. Oletko varma tästä toiminnasta?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Haluatko varmasti poistaa tämän taustakuvakirjaston?"
+   },
+   "confirm_unbind": {
+      "message": "Irrota tämä tili?"
+   },
+   "confirm_unbind_email": {
+      "message": "Haluatko varmasti poistaa sähköpostia $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Haluatko varmasti poistaa puhelinnumerosi $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Ota yhteyttä insinöörille"
+   },
+   "contact_us": {
+      "message": "Ota yht"
+   },
+   "copy": {
+      "message": "Kopioi"
+   },
+   "cubic_bezier": {
+      "message": "Potkaista"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Profiilikuva"
+   },
+   "current_browser_not_support": {
+      "message": "Nykyinen selain ei tue laajennushallinta"
+   },
+   "current_no_reminders": {
+      "message": "Ei tehtäviä"
+   },
+   "current_node": {
+      "message": "Nykyinen solmu"
+   },
+   "custom": {
+      "message": "Muokkaa"
+   },
+   "custom_icon": {
+      "message": "Mukauta kuvaketta"
+   },
+   "custom_layout": {
+      "message": "Kustomoi asettelua"
+   },
+   "custom_site": {
+      "message": "Mukautettu verkkosivusto"
+   },
+   "default": {
+      "message": "Oletus"
+   },
+   "del_folder": {
+      "message": "Poista"
+   },
+   "delete_all_bookmarks": {
+      "message": "Poista kaikki kirjanmerkit tästä kansiosta"
+   },
+   "disable_chrome_app": {
+      "message": "Poista sovellus käytöstä"
+   },
+   "disable_extension": {
+      "message": "Poista laajennukset käytöstä"
+   },
+   "do_later": {
+      "message": "puhu siitä myöhemmin"
+   },
+   "done": {
+      "message": "Valmis"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Lataa CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Lataa nykyinen taustakuva"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckgo keskittyy tuomaan sisältöä tärkeimmistä Web 2.0-sivustoista, jotka ovat perinteisiä hakukoneita, jotka verkkosivuston filosofia on kunnioittaa käyttäjien yksityisyyttä, lupausta valvoa tai dokumentoida haun sisältöä."
+   },
+   "ease_in": {
+      "message": "Häivytys sisään"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Anna edge://settings/onStartup selaimen osoiteriville ja paina sitten Enter-näppäintä."
+   },
+   "edge_browser_guide2": {
+      "message": "Napsauta valintaa, jonka nuoli on antanut kuvioon."
+   },
+   "edge_browser_guide3": {
+      "message": "Syötä URL https://inftab.com ponnahdusikkunassa ja napsauta sitten Lisää-painiketta, jos haluat suorittaa kotisivun asetukset."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Muokkaa"
+   },
+   "edit_avatar": {
+      "message": "Muokkaa avataria"
+   },
+   "edit_content": {
+      "message": "Muokkaa sisältöä"
+   },
+   "edit_icon": {
+      "message": "Muokkaa kuvaketta"
+   },
+   "education": {
+      "message": "Koulutus ja työpaikat"
+   },
+   "email": {
+      "message": "Sähköposti"
+   },
+   "email_code": {
+      "message": "Sähköpostin varmennus"
+   },
+   "email_format_error": {
+      "message": "Sähköpostin muoto on virheellinen"
+   },
+   "email_or_phone_number_tips": {
+      "message": "Sähköposti tai matkapuhelinnumero"
+   },
+   "empty": {
+      "message": "Tyhjä"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Haluatko poistaa hakemiston?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Haluatko poistaa tämän kirjanmerkin?"
+   },
+   "ensure_logout": {
+      "message": "Haluatko varmasti kirjautua ulos?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "Täytä tehtävälista ja lisää kohteita napsauttamalla enter"
+   },
+   "enter_password_tips": {
+      "message": "Anna tunnuslause"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Anna oikea puhelinnumero"
+   },
+   "enter_verification_code_tips": {
+      "message": "Anna vahvistuskoodi"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Viennin varmuuskopioida tiedot"
+   },
+   "export_local_data_desc": {
+      "message": "Vienti nykyisistä paikallisista tiedoista"
+   },
+   "extension": {
+      "message": "Laajennukset"
+   },
+   "extension_app": {
+      "message": "Laajennukset"
+   },
+   "extension_des": {
+      "message": "Vapaasti lisätä verkkosivujen kuvakkeita, nauti teräväpiirtopilven ajomatkan taustakuvia ja käytä nopeasti kirjanmerkkejä, säätietoja, muistiinpanoja, to-do-listat, laajennushallinta ja historia uudessa välilehdellä, jonka miljoonat käyttäjät valitsevat."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP voit muokata uuden välilehti-sivun"
+   },
+   "extension_des_firefox": {
+      "message": "Miljoonien valitsema uusi välilehti, joka voi huomattavasti parantaa tuottavuutta, mukaan lukien web- kuvakkeet, hakumoottorit, HD taustakuvat, sää, kirjanmerkit, muistilistat, historia, laajennuksen hallinta."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro voit muokata uuden välilehti-sivun"
+   },
+   "extension_mananger": {
+      "message": "Hallinnoi laajennuksia"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Liity Facebook-ryhmään"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Palaute"
+   },
+   "female": {
+      "message": "Nainen"
+   },
+   "filter": {
+      "message": "Suodata"
+   },
+   "finance": {
+      "message": "Rahoittaa"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox Add-On -kauppa"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Syötä about: preferences #home osoitepalkissa asetussivulle asetussivulle."
+   },
+   "firefox_browser_guide2": {
+      "message": "Kuten kuviossa oleva nuoli osoittaa, valitse mukautettujen URL-osoitteiden vaihtoehto."
+   },
+   "firefox_browser_guide3": {
+      "message": "Syötä URL-osoite * Tekstiruutuun, kotisivun asetus on valmis."
+   },
+   "five_star": {
+      "message": "Anna 5 tähteä"
+   },
+   "folder": {
+      "message": "Kansio"
+   },
+   "follow_us": {
+      "message": "Seuraa meitä"
+   },
+   "follow_wechat": {
+      "message": "Seuraa Infinity Wechat Public tili"
+   },
+   "follow_wechat_desc": {
+      "message": "Kiinnitä huomiota Wechatin julkiseen numeroon (mikro-signaali: InfinityDaily), saat äärettömän tuotteen dynamiikan, ja voit löytää hauskempaa laajentaa ja verkkosivuilla."
+   },
+   "font": {
+      "message": "Fontit"
+   },
+   "font_color": {
+      "message": "Kirjasimen väri"
+   },
+   "font_size": {
+      "message": "Fonttikoko"
+   },
+   "food_drink": {
+      "message": "Ruoka"
+   },
+   "forget_password": {
+      "message": "Unohda salasana"
+   },
+   "format_error": {
+      "message": "Alustusvirhe"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Suuri määrä Royalty Free Photos, vapaa käyttää ja päivittää päivittäin"
+   },
+   "fri": {
+      "message": "Perjantai"
+   },
+   "fri_min": {
+      "message": "Pe"
+   },
+   "fully_authorized_to_use": {
+      "message": "Täysin valtuutettu käyttämään toimintoja"
+   },
+   "games": {
+      "message": "Pelaaminen ja viihde"
+   },
+   "gamil_notice": {
+      "message": "Gmail-ilmoitukset"
+   },
+   "gender": {
+      "message": "Valitse sukupuoli"
+   },
+   "get_app_permission": {
+      "message": "Valtuuta saada paikallinen sovellus"
+   },
+   "get_cloud_icon": {
+      "message": "Hankkia verkossa"
+   },
+   "give_money": {
+      "message": "Lahjoittaa"
+   },
+   "give_money_thanks": {
+      "message": "Tuki on suurin palkkio"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Jos pidät Infinity New Tab -sivulta, tarkista palvelumme tai anna meille palautetta auttamaan meitä IGN."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Jos sinulla on kysyttävää tai ehdotuksia, ota yhteyttä."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail-ilmoitus soittoääni"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google-haku on Googlen kehittämä hakukone. Se on suurin, vaikutusvaltaisin hakukone internetissä"
+   },
+   "have_todo_item": {
+      "message": "Sinulla on tällä hetkellä tehtävä"
+   },
+   "hide_homepage_btn": {
+      "message": "Piilota asetettu kotipainikkeeksi"
+   },
+   "hide_icon_name": {
+      "message": "Piilota kuvakkeen nimi"
+   },
+   "hide_search_button": {
+      "message": "Piilota hakupainike"
+   },
+   "hide_search_category": {
+      "message": "Piilota haku Luokka"
+   },
+   "hide_search_input": {
+      "message": "Piilota hakukenttä"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Piilota asetettu kotipainikkeeksi"
+   },
+   "hint": {
+      "message": "Vinkki"
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "history_backup_list": {
+      "message": "Historia Varmuuskopiosolmuettelo"
+   },
+   "history_week": {
+      "message": "Historian haku viikon sisällä"
+   },
+   "host_permission": {
+      "message": "Isäntäoikeudet"
+   },
+   "hour": {
+      "message": "tunti"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Verkkosivu"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Haluan palkita"
+   },
+   "icon": {
+      "message": "Kuvake"
+   },
+   "icon_added": {
+      "message": "Lisätty"
+   },
+   "icon_bg_text": {
+      "message": "Kuvakkeen teksti"
+   },
+   "icon_network_error": {
+      "message": "Verkon poikkeus, napsauta ladataksesi"
+   },
+   "ignore": {
+      "message": "Ohita"
+   },
+   "img_verify_code": {
+      "message": "Varmennuskuva"
+   },
+   "import_data": {
+      "message": "Tuo varmuuskopioida tiedot"
+   },
+   "import_data_desc": {
+      "message": "Palauta tiedot varmuuskopiotiedostosta"
+   },
+   "import_select_tile": {
+      "message": "Valitse data"
+   },
+   "infinity_bookmarks": {
+      "message": "Tastele kirjanmerkkikansiosi hierarkiaasi ja etsi kirjanmerkkejä helpommin Infinity Bookmarks"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity Featured Anime taustakuvia"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Laadukas infinity anime taustakuvakirjasto"
+   },
+   "infinity_extension": {
+      "message": "Hallitse $browser$-laajennuksia ja sovelluksia helposti Infinity Extension Managerin avulla",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Nopeasti tarkastella ja hallinnoi selaimen historiaasi Infinity Historian kanssa"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Featured Maisema Taustakuvat"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Laadukas infinity-maisema taustakuvakirjasto"
+   },
+   "infinity_notes": {
+      "message": "Tallenna elämän inspiraatiot nopeasti äärettömyystiedoissa"
+   },
+   "infinity_settings": {
+      "message": "Muokkaa Infinity Uusi välilehti-sivu, jossa on Infinity-asetukset"
+   },
+   "infinity_todos": {
+      "message": "Järjestä tehtävät järjestyksessä ja parantaa työtehokkuutta äärettömän tehtäväluettelossa"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper -kirjasto tarjoaa rikkaat ja jännittävät taustakuvat"
+   },
+   "infinity_weather": {
+      "message": "Infinity Weather tarjoaa sinulle sääennusteita kaupungeista ympäri maailmaa"
+   },
+   "info": {
+      "message": "Tietoja"
+   },
+   "inportdata_desc": {
+      "message": "Tuodut tiedot eivät vastaa paikallisia tietoja. Valitse Yhdistä tai korvaa."
+   },
+   "input_and_search": {
+      "message": "Aloita haku"
+   },
+   "input_city": {
+      "message": "Anna kaupunki/alue"
+   },
+   "input_new_password": {
+      "message": "Anna uusi salasana"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Liitetty"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Ilmaiset valokuvat kaikista tarkoituksista"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Säilytä hakukentän sisältö"
+   },
+   "label": {
+      "message": "Tunnisteet"
+   },
+   "language": {
+      "message": "Kieli"
+   },
+   "language_select": {
+      "message": "Valitse kieli"
+   },
+   "last_sync_time": {
+      "message": "Viimeinen Sync Time: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Viimeksi päivitetty"
+   },
+   "layout": {
+      "message": "Ulkoasu"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Ilmainen HD-taustakuva lähde"
+   },
+   "life_style": {
+      "message": "Elämäntapa"
+   },
+   "limit_input_length": {
+      "message": "Tekstin pituus yli"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Paikallinen kuvake"
+   },
+   "local_wallpaper2": {
+      "message": "Paikalliset taustakuvat"
+   },
+   "login": {
+      "message": "Kirjaudu sisään"
+   },
+   "login_abandon_tips": {
+      "message": "Nykyinen kirjautumistapa poistetaan pian, sido sähköpostisi tai muu kolmannen osapuolen tili mahdollisimman pian kirjautumisen jälkeen"
+   },
+   "login_now": {
+      "message": "Kirjaudu sisään Infinity-tilisi nyt nauttimaan lisää käyttöoikeuksia"
+   },
+   "login_now_btn": {
+      "message": "Kirjaudu"
+   },
+   "login_register": {
+      "message": "Kirjaudu sisään / Rekisteröidy"
+   },
+   "loging": {
+      "message": "Kirjautuminen"
+   },
+   "logout": {
+      "message": "Kirjaudu ulos"
+   },
+   "logout_clear_something": {
+      "message": "Tyhjennä henkilökohtaiset asetukset ja muut tiedot tästä laitteesta"
+   },
+   "logout_tips": {
+      "message": "Tarvitsetko paikalliset tiedot, ennen kuin kirjaudut tililtäsi estämään tietoja eri tilistä tällä laitteella yhdistämästä?"
+   },
+   "logout_warn": {
+      "message": "Kun olet kirjautunut ulos tililtä, kaikki tämän tilin varmuuskopiointitiedot poistetaan. Haluatko varmasti kirjautua ulos tästä tilistä? (Kuva Huomautukset ja mukautetut taustakuvakirjastot eivät ehkä ole käytettävissä)"
+   },
+   "male": {
+      "message": "Mies"
+   },
+   "manage_backup_node": {
+      "message": "Hallinnoi historian varmuuskopiointia"
+   },
+   "manul_backup": {
+      "message": "Man. varmuuskop."
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "Taustakuvan himmentäminen"
+   },
+   "me": {
+      "message": "Minä"
+   },
+   "merge_cloud_local": {
+      "message": "Yhdistä paikalliset ja pilvitiedot"
+   },
+   "merge_data": {
+      "message": "Yhdistä tiedot"
+   },
+   "mini_mode": {
+      "message": "Minimalistinen tila"
+   },
+   "mins": {
+      "message": "min"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Käytä verkkosivustoissasi, teemoissa, malleissa, projekteissa, tulostusmateriaaleissa ja sanomalehdissä. Joka viikko uusia taustakuvia ja videoita lisätään"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobile-versio"
+   },
+   "modify": {
+      "message": "Muokkaa tietoja"
+   },
+   "modify_email": {
+      "message": "Muokkaa sähköpostia"
+   },
+   "modify_password": {
+      "message": "Muokkaa salasanaa"
+   },
+   "modify_phone_number": {
+      "message": "Muuta puhelinnumeroa"
+   },
+   "modify_pwd": {
+      "message": "Muokkaa salasanaa"
+   },
+   "modify_success": {
+      "message": "Muuta onnistuneesti"
+   },
+   "modify_this": {
+      "message": "Muokkaa"
+   },
+   "mon": {
+      "message": "Maanantai"
+   },
+   "mon_min": {
+      "message": "Ma"
+   },
+   "month_1": {
+      "message": "Tammikuu"
+   },
+   "month_10": {
+      "message": "Lokakuu"
+   },
+   "month_11": {
+      "message": "Marraskuu"
+   },
+   "month_12": {
+      "message": "Joulukuu"
+   },
+   "month_2": {
+      "message": "Helmikuu"
+   },
+   "month_3": {
+      "message": "Maaliskuu"
+   },
+   "month_4": {
+      "message": "Huhtikuu"
+   },
+   "month_5": {
+      "message": "Toukokuu"
+   },
+   "month_6": {
+      "message": "Kesäkuu"
+   },
+   "month_7": {
+      "message": "Heinäkuu"
+   },
+   "month_8": {
+      "message": "Elokuu"
+   },
+   "month_9": {
+      "message": "Syyskuu"
+   },
+   "more_content_from_site": {
+      "message": "Lisää sisältöä tästä sivustosta"
+   },
+   "most_used_in_chinese": {
+      "message": "Hakukone käytti eniten kiinalaisia"
+   },
+   "music_video": {
+      "message": "Musiikkivideo"
+   },
+   "my_collection": {
+      "message": "Oma kokoelma"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Anna verkkosivuston nimi"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Luonto"
+   },
+   "need_you_permission": {
+      "message": "Lupa vaaditaan"
+   },
+   "network_error": {
+      "message": "Verkkovirhe"
+   },
+   "new_email": {
+      "message": "Uusi sähköposti"
+   },
+   "new_password": {
+      "message": "Anna uusi salasana"
+   },
+   "new_phone_number": {
+      "message": "Uusi puhelinnumero"
+   },
+   "new_tab": {
+      "message": "Uusi välilehti"
+   },
+   "new_tab_web": {
+      "message": "Infinity Kotisivu"
+   },
+   "news": {
+      "message": "Uutiset"
+   },
+   "next": {
+      "message": "Seuraava"
+   },
+   "nickname": {
+      "message": "Lempinimi"
+   },
+   "no_account_register": {
+      "message": "Eikö sinulla ole käyttäjätiliä? Luo tili itsellesi nyt."
+   },
+   "no_backup_time": {
+      "message": "Ei mitään"
+   },
+   "no_bookmark_result": {
+      "message": "Ei kirjanmerkkiä"
+   },
+   "no_chrome_app": {
+      "message": "Et ole asentanut yhtään $browser$-sovellusta",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Ei säätietoja"
+   },
+   "no_data": {
+      "message": "Ei tietoa"
+   },
+   "no_description": {
+      "message": "Ei kuvausta"
+   },
+   "no_more": {
+      "message": "Ei enempää"
+   },
+   "no_more_reminder": {
+      "message": "Älä näytä uudelleen"
+   },
+   "no_permission_text": {
+      "message": "On suositeltavaa avata ja myöntää tämän luvan selaimen osoiteriville tai asetuskeskukselle."
+   },
+   "no_permission_title": {
+      "message": "Lupaa ei ole vielä myönnetty"
+   },
+   "no_permission_to_open_app": {
+      "message": "Ei lupaa avata $browser$-sovellusta",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Ei tehtäviä"
+   },
+   "no_search_result": {
+      "message": "Ei hakutuloksia"
+   },
+   "no_title": {
+      "message": "Ei nimeä"
+   },
+   "none": {
+      "message": "Piilotettu"
+   },
+   "none_auto_backup": {
+      "message": "Tällä hetkellä ei ole ajoitettuja varmuuskopioita"
+   },
+   "none_auto_backup_desc": {
+      "message": "Ajoitetut varmuuskopiot alkavat samana päivänä muokata infinity-tietoja"
+   },
+   "none_manual_backup": {
+      "message": "Tällä hetkellä ei ole manuaalisia varmuuskopioita"
+   },
+   "normal_model": {
+      "message": "Standarditila"
+   },
+   "not_binding": {
+      "message": "Ei liitetty"
+   },
+   "note_title": {
+      "message": "Anna muistiinpanojen otsikko"
+   },
+   "note_upload_img_15": {
+      "message": "Kuvan koko voi olla enintään 15M"
+   },
+   "notes": {
+      "message": "Muistiinpanot"
+   },
+   "notice": {
+      "message": "Ilmoitus"
+   },
+   "ocean": {
+      "message": "valtameri"
+   },
+   "one_day_later": {
+      "message": "Muistuta huomenna"
+   },
+   "one_week_later": {
+      "message": "Muistuta 1 viikon kuluttua"
+   },
+   "only_used_infinity": {
+      "message": "Käytetään vain Infinity sisämoduuleihin"
+   },
+   "opacity": {
+      "message": "Kuvakkeiden läpinäkyvyys"
+   },
+   "open_all": {
+      "message": "Avaa kaikki"
+   },
+   "open_chrome_app": {
+      "message": "Ota sovellus käyttöön"
+   },
+   "open_extension": {
+      "message": "Ota laajennus käyttöön"
+   },
+   "open_folder_icons": {
+      "message": "Avaa kaikki"
+   },
+   "open_new_tab": {
+      "message": "Avaa verkkosivusto uudessa välilehdessä"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Avaa Linkki New Tab"
+   },
+   "open_newtab_history": {
+      "message": "Avaa historia uudessa välilehdessä"
+   },
+   "open_newtab_show_search": {
+      "message": "Avaa kolmannen osapuolen hakutulokset uudessa välilehdessä"
+   },
+   "origin_password": {
+      "message": "Nykyinen salasana"
+   },
+   "other_bookmarks": {
+      "message": "Muut kirjanmerkit"
+   },
+   "others": {
+      "message": "Muut"
+   },
+   "oversize": {
+      "message": "Koko ei voi ylittää 2 M"
+   },
+   "overwrite_data": {
+      "message": "Korvaa tiedot"
+   },
+   "pagin": {
+      "message": "Sivut-painike"
+   },
+   "password": {
+      "message": "Salasana"
+   },
+   "password_dont_empty": {
+      "message": "Salasana ei voi olla tyhjä"
+   },
+   "password_length_low": {
+      "message": "Salasana vähintään 6 numeroa"
+   },
+   "password_not_equals": {
+      "message": "Salasanat eivät täsmää"
+   },
+   "password_not_some": {
+      "message": "Salasanat eivät täsmää"
+   },
+   "permission": {
+      "message": "Valtuuta"
+   },
+   "permission_all": {
+      "message": "Valtuuttaa kaikki"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Pyydä tietojen käyttöä ja muokkaamista mail.google.com; Pyyntö näyttää ilmoituksia"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail-ilmoitukset"
+   },
+   "permission_gmail_num_content": {
+      "message": "Pyyntö Voit käyttää ja muokata tietoja mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Access Gmail Määrä"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Pyyntö käyttää ja muokata tietoja Google.com ja ehdotus.Baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Hakuehdotus"
+   },
+   "permission_todo_notice_content": {
+      "message": "Pyydä näytön ilmoitus"
+   },
+   "permission_todo_notice_title": {
+      "message": "Tehtävän ilmoitus"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Pyyntö käyttämästä verkkosivustoja, jotka vastaavat vierailtuja verkkosivustoja ja käyttöä ja muokkaa kirjanmerkkejä"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Näytä kirjanmerkit päälle"
+   },
+   "permission_top_useful_content": {
+      "message": "Pyyntö käyttää verkkosivustoja, jotka vastaavat verkkosivustoja, ja käytä ja muokkaa luetteloa useimmiten verkkosivustoista"
+   },
+   "permission_top_useful_title": {
+      "message": "Näytä usein käytetyt sivut päälle"
+   },
+   "permisson_label": {
+      "message": "Käyttöoikeudet"
+   },
+   "phone_number": {
+      "message": "Puhelinnumero"
+   },
+   "photos": {
+      "message": "Kuvat"
+   },
+   "pick_local_wallpaper": {
+      "message": "Valitse paikallinen taustakuva"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Vapaa ja kauniita valokuvia, jotka ovat käytettävissä mihin tahansa käyttöön"
+   },
+   "placeholder_name": {
+      "message": "Nimi"
+   },
+   "please_chose_picture": {
+      "message": "Valitse Image"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Anna kirjanmerkin nimi"
+   },
+   "please_enter_email": {
+      "message": "Syötä sähköpostiosoite"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Anna kuvan vahvistuskoodi"
+   },
+   "please_enter_nickname": {
+      "message": "Syötä lempinimi"
+   },
+   "please_enter_phone": {
+      "message": "Anna puhelinnumero"
+   },
+   "please_enter_right_account": {
+      "message": "Anna oikea sähköpostiosoite tai puhelinnumero"
+   },
+   "please_enter_text": {
+      "message": "Input teksti"
+   },
+   "please_enter_url": {
+      "message": "Kirjoita URL-osoite"
+   },
+   "please_input_bg_text": {
+      "message": "Anna kuvaketext"
+   },
+   "please_pre_login": {
+      "message": "Kirjaudu ensin sisään"
+   },
+   "please_re_login": {
+      "message": "Kirjaudu uudelleen"
+   },
+   "please_set_your_password": {
+      "message": "Määritä salasanasi"
+   },
+   "please_type_link": {
+      "message": "Anna linkki"
+   },
+   "please_type_right_link": {
+      "message": "Anna oikea linkin osoite"
+   },
+   "please_upload_photos": {
+      "message": "Lataa kuva ylös"
+   },
+   "popular": {
+      "message": "Suosittu"
+   },
+   "preview": {
+      "message": "Esikatselu"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Tietosuoja ja tietojen keräys"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Mukautetun verkkosivuston kuvakkeen tuottamat kuvat"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Mukautetun hakukoneen tuottamat kuvat"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Rekisteröity sähköpostiosoitteesi, ladattu profiilikuva, valittu lempinimi, ei-tavallinen tekstin salasana ja muut tiedot"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Jos kirjaudut sisään kolmannen osapuolen tilillä, tallennat lempinimen, sukupuolesi, profiilikuvan ja muut kolmannen osapuolen toimittamat tiedot"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Verkkosivuston kuvake Tiedot ja hakukoneen tiedot"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Säätiedot omalla alueellasi tai säällä tietoja muilla alueilla"
+   },
+   "privacy_data_item_2_5": {
+      "message": "To-tehdä listat, jonka olet luonut"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Luottamasi muistiinpanot ja muistiinpanojen ladatut kuvat"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Nykyinen taustakuva, taustakuvaasetukset, paikalliselle taustakuvalle ladatut kuvat ja paikallisen taustakuvakirjeen ladatut kuvat"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Laajennusasetukset"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Palvelin voi tallentaa vuorovaikutuksen aikana syntyvät lokit käyttäjien ja asiakkaiden kanssa. Tätä tietuetta käytetään pääasiassa poikkeusvirheiden vianmääritykseen. Poistamme tämän lokin aika ajoin."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Selain tyyppi, kieli ja versio ja näytön tarkkuus"
+   },
+   "privacy_data_item_4_10": {
+      "message": "On tällä hetkellä kirjautunut sisään tai ei"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Nykyisten kuvakkeiden likimääräinen määrä"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Nykyiset laajennukset käytössä (jos käytät laajennettuja hallintaominaisuuksia)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Näiden laajennusten määrä on avattu"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP-osoite ja maantieteellinen sijainti, joka on johdettu IP-osoitteesta"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Verkkosivujen kuvakkeet ja hakukoneet lisätään"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Taustakuva ja laajennusasetukset"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Laajennusversio"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Toimintopainikkeiden napsauttamisen taajuus"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Poikkeusvirheviesti"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Avaa osoite-isäntä verkkosivuston"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Nykyinen hakukone isäntä"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Me nimettömästi lasketaan kuinka monta hakukoneita käytetään."
+   },
+   "privacy_data_item_9": {
+      "message": "Sinun on hyväksyttävä tämä tietosuojakäytäntö ennen kuin voit käyttää tätä laajennusta. Tarkastele $the_infinity_privacy$ saadaksesi lisätietoja.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Ei, älä kerää anonyymejä tietoja"
+   },
+   "privacy_data_title_1": {
+      "message": "Voimme tallentaa käyttäjien vapaaehtoisesti syntyneitä kuvia käytön aikana. Seuraavat kuvat tallennetaan nimettömästi:"
+   },
+   "privacy_data_title_2": {
+      "message": "Jos rekisteröit tai kirjaudut tilillesi, meidän on tallennettava seuraavat tunnistetiedot (jäljempänä 'käyttäjätiedot) palvelimellamme tietojen varmuuskopioinnin ja synkronoinnin suorittamiseksi:"
+   },
+   "privacy_data_title_3": {
+      "message": "Palvelinloki:"
+   },
+   "privacy_data_title_4": {
+      "message": "Seuraavien tietojen keruu on valinnainen. Tiedot kerätään nimettömästi Google Analyticsin avulla voimme parantaa tuotteitamme:"
+   },
+   "privacy_data_title_5": {
+      "message": "Tilastollinen analyysi:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Vahvista Poista Infinity New Tab -sivu"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Vahvista Poista Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Poista Infinity Uusi välilehti sivu?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Poista Infinity New Tab Pro Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Kyllä, anonyymit tiedot voidaan kerätä tietosuojakäytännön mukaisesti"
+   },
+   "privacy_disagree": {
+      "message": "En hyväksy"
+   },
+   "privacy_policy": {
+      "message": "yksityisyyskäytännön"
+   },
+   "privacy_title": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "profile": {
+      "message": "Henkilökohtaiset tiedot"
+   },
+   "pure_color": {
+      "message": "Puhdas väri"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ-ryhmä"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Satunnaiset taustakuvat"
+   },
+   "re_update": {
+      "message": "Upgrade"
+   },
+   "read": {
+      "message": "Lue"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Suuri määrä HD-valokuvia saatavilla henkilökohtaiseen ja kaupalliseen käyttöön, 7 uutta joka viikko"
+   },
+   "recently_add": {
+      "message": "Viimeksi lisätyt"
+   },
+   "recently_use": {
+      "message": "Viimeksi käytetyt"
+   },
+   "recover_error": {
+      "message": "Tietojen palauttaminen epäonnistui"
+   },
+   "recover_error_version": {
+      "message": "Ei tueta tietomuotoa"
+   },
+   "recover_this": {
+      "message": "Toipua tästä solmusta"
+   },
+   "redius": {
+      "message": "Kuvakkeet pyöristetyt kulmat"
+   },
+   "refresh_qrcode": {
+      "message": "QR-koodi on virheellinen, valitse Päivitä"
+   },
+   "register": {
+      "message": "Rekisteröidy"
+   },
+   "register_back": {
+      "message": "Mene takaisin"
+   },
+   "register_get_email_code_error": {
+      "message": "Todennuskoodia ei saatu"
+   },
+   "register_now": {
+      "message": "Rekisteröi Infinity-tili nyt nauttimaan lisää käyttöoikeuksia"
+   },
+   "relative_humidity": {
+      "message": "Suhteellinen kosteus"
+   },
+   "reload": {
+      "message": "Yritä uudelleen"
+   },
+   "reminder_update_text1": {
+      "message": "Jotta saat paremman kokemuksen Infinity kanssa"
+   },
+   "reminder_update_text2": {
+      "message": "On suositeltavaa päivittää selaimesi uusimpaan versioon, suosittelen selaimen yhteensopiva Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Virheenäyttö sivulla"
+   },
+   "remove_account": {
+      "message": "Poista tili"
+   },
+   "remove_done": {
+      "message": "Poista valmistuneet tehtäväkohteet"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Kaikki tämän taustakuvakirjaston alla olevat taustakuvat poistetaan yhdessä"
+   },
+   "rename_folder": {
+      "message": "Muuta nimeä"
+   },
+   "repair_auto_backup": {
+      "message": "Varmuuskopioi tiedot automaattisesti"
+   },
+   "repair_concat": {
+      "message": "yhteystiedot"
+   },
+   "repair_concat_email": {
+      "message": "Sähköposti: "
+   },
+   "repair_concat_qq": {
+      "message": "Insinööri QQ: "
+   },
+   "repair_data": {
+      "message": "Korjaustiedot"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Lähetä meille korjattava datatiedosto seuraavien yhteystietojen avulla, ja me autamme sinua korjaamaan tiedot mahdollisimman pian. Ennen kuin insinööri ratkaisee ongelman, yritä olla tekemättä muita toimintoja. Tämä tiedosto voi sisältää arkaluonteisia tietoja, kuten tilejä, älä paljasta sitä muille."
+   },
+   "repair_data_title": {
+      "message": "Nouda kadonneita tai vaurioituneita tietoja"
+   },
+   "repair_export_btn": {
+      "message": "Vietiedot korjataan"
+   },
+   "repeat_city": {
+      "message": "Et voi lisätä samaa kaupunkia uudelleen"
+   },
+   "reqeust_login_message": {
+      "message": "Sinun täytyy kirjautua sisään, jotta voit käyttää tätä toimintoa"
+   },
+   "request_logout_confirm": {
+      "message": "Poista tili?"
+   },
+   "request_reset_all_settings": {
+      "message": "Haluatko varmasti nollata asetukset oletusarvoiksi?"
+   },
+   "reset": {
+      "message": "Tyhjennä"
+   },
+   "reset_password": {
+      "message": "Nollaa salasanat"
+   },
+   "reset_password_by_email": {
+      "message": "Palauta salasana sähköpostin vahvistuksen kautta"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Palauta salasana sähköpostin tai puhelinnumeron tarkistuksen kautta"
+   },
+   "reset_setting": {
+      "message": "Nollaa asetukset"
+   },
+   "reset_your_password": {
+      "message": "Ole hyvä ja uudista salasanasi"
+   },
+   "restore_setting": {
+      "message": "Palauta asetukset"
+   },
+   "revovery_data": {
+      "message": "Palauta tiedot"
+   },
+   "row_gap": {
+      "message": "Riviväli"
+   },
+   "row_num": {
+      "message": "Sarakkeet"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Napsauta vaihtoehtoa kuvan osoittamalla tavalla kuvassa."
+   },
+   "safari_browser_guide2": {
+      "message": "Syötä POP-UP-ikkunassa URL-osoite https://inftab.com Kotisivu-sarakkeessa."
+   },
+   "safari_browser_guide3": {
+      "message": "Napsauta URL-osoittimen alapuolella olevaa kotisivun asetusta."
+   },
+   "sat": {
+      "message": "Lauantai"
+   },
+   "sat_min": {
+      "message": "La"
+   },
+   "save": {
+      "message": "Tallenna"
+   },
+   "scale": {
+      "message": "Kuvakkeen koko"
+   },
+   "scale_main": {
+      "message": "Näytön zoomaus"
+   },
+   "scale_side": {
+      "message": "Sivupylväs zoomaus"
+   },
+   "scheduled_backup": {
+      "message": "Ajoita varmuuskopiointi"
+   },
+   "search": {
+      "message": "Haku"
+   },
+   "search_bookmark": {
+      "message": "Hae kirjanmerkeistä"
+   },
+   "search_engine": {
+      "message": "Hakukone"
+   },
+   "search_engine_error": {
+      "message": "Anna hakukoneen nimi"
+   },
+   "search_error": {
+      "message": "Lataus epäonnistui"
+   },
+   "search_extension": {
+      "message": "Hae laajennuksia"
+   },
+   "search_from": {
+      "message": "Haettu: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Hakukuvake"
+   },
+   "search_input": {
+      "message": "hakukenttä"
+   },
+   "search_input_shadow": {
+      "message": "Etsi laatikon varjo"
+   },
+   "search_opacity": {
+      "message": "Etsi laatikon opasiteetti"
+   },
+   "search_redius": {
+      "message": "Etsi ruutu pyöristettyjä kulmia"
+   },
+   "search_result": {
+      "message": "Hakutulokset"
+   },
+   "search_size": {
+      "message": "Etsi laatikon koko"
+   },
+   "search_suggest": {
+      "message": "Näytä hakuehdotukset"
+   },
+   "search_website": {
+      "message": "Hae sivustoja"
+   },
+   "searching": {
+      "message": "Etsitään"
+   },
+   "select_date": {
+      "message": "Valitse päivä"
+   },
+   "select_icon": {
+      "message": "Valitse kuvake"
+   },
+   "select_time": {
+      "message": "Valitse kellonaika"
+   },
+   "send_success": {
+      "message": "Varmistussähköposti lähetetty. Tarkista sähköpostilaatikkosi"
+   },
+   "set_homepage_desc": {
+      "message": "Asenna laajennus selaimeen saadaksesi täydelliset ominaisuudet"
+   },
+   "set_homepage_title2": {
+      "message": "Tätä ominaisuutta ei tueta nykyisessä versiossa_#_Asenna selainlaajennus ennen käyttöä"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Aseta Infinity kotisivuksi selaimesi"
+   },
+   "set_new_password": {
+      "message": "Aseta uusi salasana"
+   },
+   "set_remind_time": {
+      "message": "Aseta muistutusaika"
+   },
+   "set_setting_default": {
+      "message": "Palauta oletusasetukset"
+   },
+   "set_to_homepage": {
+      "message": "Aseta aloitussivuksi"
+   },
+   "set_top": {
+      "message": "Yläreunassa"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "määritä lempinimi ja avatar"
+   },
+   "settings": {
+      "message": "Asetukset"
+   },
+   "shadow": {
+      "message": "Kuvakkeet varjo"
+   },
+   "share": {
+      "message": "Jaa"
+   },
+   "share_by_user": {
+      "message": "käyttäjät jakavat"
+   },
+   "share_desc": {
+      "message": "Infinity Uusi välilehti, miljoonien, käyttäjän ystävällisen uuden välilehden valitsema navigointintarkkailu selaimella"
+   },
+   "share_title": {
+      "message": "Se voi olla paras uusi välilehti $browser$ selaimella",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Ostokset ja ryhmän ostaminen"
+   },
+   "shortcut_mode": {
+      "message": "Pikakäyttötila"
+   },
+   "show_detail": {
+      "message": "Näytä nyt"
+   },
+   "show_gamil_unread_number": {
+      "message": "Näytä lukemattomien sähköpostiviestien lukumäärä Gmailista kuvakkeessa"
+   },
+   "show_later": {
+      "message": "Muistuta minua myöhemmin"
+   },
+   "show_name": {
+      "message": "Näytä nimi"
+   },
+   "show_reminders_number": {
+      "message": "Näytä kuvakkeessa olevien tehtävien lukumäärä"
+   },
+   "skip": {
+      "message": "Ohita"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Paikka löytää, näyttää ja jakaa valokuvia"
+   },
+   "social": {
+      "message": "Sosiaalinen media ja blogit"
+   },
+   "solid_color_wallpaper": {
+      "message": "Yksivärinen taustakuva"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Hakukone, joka voi etsiä Wechatin virallisten tilien lähettämiä sisältöjä"
+   },
+   "sports": {
+      "message": "Urheilu ja matkailu"
+   },
+   "start_animation": {
+      "message": "Aloita animaatio"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Tarjoa käyttöön aloittajat, bloggaajat, julkaisijat, verkkosivustot, suunnittelijat, kehittäjät, luojat ja pidemmät kuin ilmaiset kuvat"
+   },
+   "street_photography": {
+      "message": "Katu"
+   },
+   "sun": {
+      "message": "Sunnuntai"
+   },
+   "sun_min": {
+      "message": "Su"
+   },
+   "support": {
+      "message": "Tuki"
+   },
+   "switch_to": {
+      "message": "Vaihda päälle"
+   },
+   "sync_fail": {
+      "message": "Synkronointi epäonnistui, yritä uudelleen"
+   },
+   "sync_suncess": {
+      "message": "Synkronointi valmis"
+   },
+   "sync_type_tips": {
+      "message": "Pilvitiedot ja paikalliset tiedot havaitaan olevan epäjohdonmukainen. Valitse yksi tietotyyppi."
+   },
+   "syncing": {
+      "message": "Data synkronoidaan..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Et ole asentanut tätä $browser$-sovellusta",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Tapa avata kohde"
+   },
+   "tech": {
+      "message": "Tekniikka"
+   },
+   "technology": {
+      "message": "Tekniikka"
+   },
+   "term_of_use": {
+      "message": "Käyttöehdot"
+   },
+   "text": {
+      "message": "Teksti"
+   },
+   "text_shadow": {
+      "message": "Tekstin varjo"
+   },
+   "thirt_party": {
+      "message": "Kirjautuminen kolmannen osapuolen tilille"
+   },
+   "thu": {
+      "message": "Torstai"
+   },
+   "thu_min": {
+      "message": "To"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Avaa sivusto ja anna hakukenttään \"% s\" hakukenttään. (Googlen kanssa esimerkkinä)"
+   },
+   "tip_question_2": {
+      "message": "2. Kopioi hakutuloksen URL-osoite suoraan"
+   },
+   "tip_question_3": {
+      "message": "3. Liitä kopioitu URL-osoite täällä ja olet valmis"
+   },
+   "tip_question_title": {
+      "message": "Käyttämällä \"% s\" korvata hakutermit"
+   },
+   "to_login": {
+      "message": "Kirjaudu sisään nyt"
+   },
+   "today": {
+      "message": "Tänään"
+   },
+   "todo_welcome": {
+      "message": "Tervetuloa Infinity New Tab -sivulle. Tämä on näytteen tehtävänä."
+   },
+   "todos": {
+      "message": "Tehtävät"
+   },
+   "top_bookmark": {
+      "message": "Näytä kirjanmerkit päälle"
+   },
+   "top_use_ful": {
+      "message": "Näytä usein käytetyt sivut päälle"
+   },
+   "travel": {
+      "message": "Matkailu"
+   },
+   "tue": {
+      "message": "Tiistai"
+   },
+   "tue_min": {
+      "message": "Ti"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Muistuta 2 tunnin päästä"
+   },
+   "type_link": {
+      "message": "Anna linkki."
+   },
+   "type_text": {
+      "message": "Input teksti"
+   },
+   "unbind": {
+      "message": "Poista"
+   },
+   "unbind_btn": {
+      "message": "Poista liitäntä"
+   },
+   "unbind_email": {
+      "message": "Postilaatikko irrotettu"
+   },
+   "unbind_phone_number": {
+      "message": "Puhelinnumeron sidonnan avaaminen"
+   },
+   "unbind_success": {
+      "message": "Poistettu onnistuneesti"
+   },
+   "uninstall_agree": {
+      "message": "Hyväksy"
+   },
+   "uninstall_chrome_app": {
+      "message": "Poista sovellus"
+   },
+   "uninstall_extension": {
+      "message": "Poista laajennus"
+   },
+   "unknown_mistake": {
+      "message": "Tuntematon virhe"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Maailmankuulu korkealaatuiset taustakuvat"
+   },
+   "unzip_folder_content": {
+      "message": "Kansio poistetaan ja kuvake säilytetään. Oletko varma?"
+   },
+   "unzip_folder_title": {
+      "message": "Vapauta"
+   },
+   "update_data": {
+      "message": "Päivitä tiedot"
+   },
+   "update_data_failure": {
+      "message": "Päivitä Profiili epäonnistui"
+   },
+   "update_desc_1": {
+      "message": "Jos tietojen muuntaminen epäonnistui version päivityksen aikana, voit yrittää päivittää tiedot uudelleen."
+   },
+   "update_desc_2": {
+      "message": "Jos et vieläkään voi ratkaista ongelmaa useita kertoja, voit ottaa yhteyttä insinööreihimme, yritämme auttaa sinua ratkaisemaan."
+   },
+   "update_desc_3": {
+      "message": "Muuntotieto Korvaa uusia versiotietoja, on suositeltavaa varmuuskopioida tietoja ennen kuin käytät."
+   },
+   "update_error_desc1": {
+      "message": "Voit yrittää päivittää uudelleen, jos havaitset joitain tietoja."
+   },
+   "update_error_desc2": {
+      "message": "Jos epäonnistut useita päivityksiä, voit myös napsauttaa \"Asetukset\" -kuvaketta oikeassa yläkulmassa - [My] - [Varmuuskopiointi ja korjaus]."
+   },
+   "update_now": {
+      "message": "Päivitä nyt"
+   },
+   "update_or_repair_data": {
+      "message": "Päivitä tai korjata tietoja"
+   },
+   "upload_avatar_failure": {
+      "message": "Avatar-kuvan lähetys epäonnistui"
+   },
+   "upload_file_error": {
+      "message": "Tiedoston lähetys epäonnistui"
+   },
+   "upload_image_error": {
+      "message": "Kuvan lataus epäonnistui"
+   },
+   "uploading": {
+      "message": "Siirretään..."
+   },
+   "use_cloud": {
+      "message": "Käytä pilvitietoja"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Anna teksti ja paina Enter Lisää"
+   },
+   "use_local": {
+      "message": "Käytä paikallisia tietoja"
+   },
+   "use_mobile_screen": {
+      "message": "Käytä mobiililaitetta skannaamaan QR-koodi"
+   },
+   "user_evaluation": {
+      "message": "Käyttäjän arviointi"
+   },
+   "username_cannot_empty": {
+      "message": "Käyttäjätunnusta ei saa jättää tyhjäksi"
+   },
+   "verify_password_desc": {
+      "message": "Kirjoita tilisi suojaus tilisi salasana"
+   },
+   "verity_code": {
+      "message": "Lähetä tarkistuskoodi"
+   },
+   "verity_code_no_value": {
+      "message": "Vahvistuskoodi ei voi olla tyhjä"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Näytä"
+   },
+   "w309": {
+      "message": "Tihkusade"
+   },
+   "w_100": {
+      "message": "Aurinkoista"
+   },
+   "w_101": {
+      "message": "Paiste"
+   },
+   "w_102": {
+      "message": "Vähän pilvistä"
+   },
+   "w_103": {
+      "message": "Puolipilvistä"
+   },
+   "w_104": {
+      "message": "Synkkää"
+   },
+   "w_200": {
+      "message": "Windy"
+   },
+   "w_201": {
+      "message": "Rauhallinen"
+   },
+   "w_202": {
+      "message": "Tuulinen"
+   },
+   "w_203": {
+      "message": "Kohtalainen tuuli"
+   },
+   "w_204": {
+      "message": "Navakka tuuli"
+   },
+   "w_205": {
+      "message": "Navakka tuuli"
+   },
+   "w_206": {
+      "message": "Kova tuuli"
+   },
+   "w_207": {
+      "message": "Kova tuuli"
+   },
+   "w_208": {
+      "message": "Myrsky"
+   },
+   "w_209": {
+      "message": "Myrskyt"
+   },
+   "w_210": {
+      "message": "Myrskyä"
+   },
+   "w_211": {
+      "message": "Hurrikaani"
+   },
+   "w_212": {
+      "message": "Tornado"
+   },
+   "w_213": {
+      "message": "Trooppinen myrsky"
+   },
+   "w_300": {
+      "message": "Sadekuuroja"
+   },
+   "w_301": {
+      "message": "Vahva suihku"
+   },
+   "w_302": {
+      "message": "Ukkosta"
+   },
+   "w_303": {
+      "message": "Vahva ukkosmyrsky"
+   },
+   "w_304": {
+      "message": "Ukkosta ja rakeita"
+   },
+   "w_305": {
+      "message": "Kevyttä sadetta"
+   },
+   "w_306": {
+      "message": "Kohtalaista sadetta"
+   },
+   "w_307": {
+      "message": "Rankkaa sadetta"
+   },
+   "w_308": {
+      "message": "On äärimmäisen sade"
+   },
+   "w_310": {
+      "message": "Rankka sadekuuro"
+   },
+   "w_311": {
+      "message": "Voimakas myrsky"
+   },
+   "w_312": {
+      "message": "Voimakas myrsky"
+   },
+   "w_313": {
+      "message": "Jäistä sadetta"
+   },
+   "w_314": {
+      "message": "Kevyttä tai kohtalaista sadetta"
+   },
+   "w_315": {
+      "message": "Mid - rankkasade"
+   },
+   "w_316": {
+      "message": "Kovaa sadetta tai rankkasadetta"
+   },
+   "w_317": {
+      "message": "Myrsky tai voimakas myrsky"
+   },
+   "w_318": {
+      "message": "Kaatosadetta tai voimakasta rankkasadetta"
+   },
+   "w_399": {
+      "message": "Sade"
+   },
+   "w_400": {
+      "message": "Kevyttä lumisadetta"
+   },
+   "w_401": {
+      "message": "Kohtalaista lumisadetta"
+   },
+   "w_402": {
+      "message": "Rankkaa lumisadetta"
+   },
+   "w_403": {
+      "message": "Lumimyrskyt"
+   },
+   "w_404": {
+      "message": "Räntää"
+   },
+   "w_405": {
+      "message": "Räntää"
+   },
+   "w_406": {
+      "message": "Suihku ja pieni lumi"
+   },
+   "w_407": {
+      "message": "Snow suihku"
+   },
+   "w_408": {
+      "message": "Heikkoa tai kohtalaista lumisadetta"
+   },
+   "w_409": {
+      "message": "Kohtalaista tai raskasta lumisadetta"
+   },
+   "w_410": {
+      "message": "Raskas lumisade tai lumimyrsky"
+   },
+   "w_499": {
+      "message": "Lumisadetta"
+   },
+   "w_500": {
+      "message": "Sumu"
+   },
+   "w_501": {
+      "message": "Sumuista"
+   },
+   "w_502": {
+      "message": "Kuivaa sumua"
+   },
+   "w_503": {
+      "message": "Hiekkaa"
+   },
+   "w_504": {
+      "message": "Pölyistä"
+   },
+   "w_507": {
+      "message": "Hiekkamyrsky"
+   },
+   "w_508": {
+      "message": "Kova hiekkamyrsky"
+   },
+   "w_509": {
+      "message": "Tiheä sumu"
+   },
+   "w_510": {
+      "message": "Hyvin sankkaa sumua"
+   },
+   "w_511": {
+      "message": "Kohtalainen usva"
+   },
+   "w_512": {
+      "message": "Sakeaa usvaa"
+   },
+   "w_513": {
+      "message": "Erittäin vahva usva"
+   },
+   "w_514": {
+      "message": "Sumuista"
+   },
+   "w_515": {
+      "message": "Erittäin sankka sumu"
+   },
+   "w_900": {
+      "message": "Kuuma"
+   },
+   "w_901": {
+      "message": "Kylmä"
+   },
+   "w_999": {
+      "message": "Tuntematon"
+   },
+   "wallpaper": {
+      "message": "Taustakuva"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Lisää mukautettu väri"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Kuvan lisääminen epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Paikallinen taustakuva sovellus epäonnistui. Yritä myöhemmin uudelleen"
+   },
+   "wallpaper_applying_library": {
+      "message": "Otetaan käyttöön taustakuvakirjasto..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Taustakuva Päivitä taajuus"
+   },
+   "wallpaper_choose_library": {
+      "message": "Valitse Taustakuva lähde"
+   },
+   "wallpaper_choose_single": {
+      "message": "Valitse taustakuva"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Tyhjennä valinta"
+   },
+   "wallpaper_cloud": {
+      "message": "Pilvi tapetti"
+   },
+   "wallpaper_collect_current": {
+      "message": "Kerää nykyistä taustakuvaa"
+   },
+   "wallpaper_common_color": {
+      "message": "Yhteiset väri"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Poista tämä taustakuva?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Paikallisen taustakuvan kirjaston luominen epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Käyttäjän räätälöity taustakuvakirjasto ylittää rajan"
+   },
+   "wallpaper_custom_color": {
+      "message": "Mukautettu väri"
+   },
+   "wallpaper_delete_color": {
+      "message": "Poista tämä väri"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Poistettu onnistuneesti"
+   },
+   "wallpaper_delete_file": {
+      "message": "Poista taustakuva"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Taustakuvan poistaminen epäonnistui"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Poista automaattinen taustakuvakytkentä käytöstä"
+   },
+   "wallpaper_empty_text": {
+      "message": "Ei tietoa"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Taustakuvan haku epäonnistui"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Käyttäjän taustakuvan saaminen epäonnistui"
+   },
+   "wallpaper_library": {
+      "message": "Taustakuvakirjasto"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$'paikallinen taustakuvakirjasto",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Laiton taustakuva kirjaston nimi"
+   },
+   "wallpaper_library_preview": {
+      "message": "Taustakuvan esikatselu"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Lataa enintään 20 taustakuvaa. Jokainen taustakuva ei saa ylittää 10 m."
+   },
+   "wallpaper_loading": {
+      "message": "Käsittelee…"
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Tarvitaan verkkoyhteys, jotta se onnistuu"
+   },
+   "wallpaper_remove_library": {
+      "message": "Poista tämä taustakuvakirjasto"
+   },
+   "wallpaper_sort_default": {
+      "message": "Oletus lajittelu"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Väestö"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Sisällyttämispäivä"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Kytke 24 tunnin välein"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Swapping taustakuva epäonnistui"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Päivitä päivittäiset taustakuvat Bingilla. Et voi valita kytkentätaajuutta."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Vaihda 1 tunnin välein"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Vaihda joka 12 tunti"
+   },
+   "wallpaper_switch_success": {
+      "message": "Satunnainen taustakuva muuttui onnistuneesti"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Vaihda seuraavaan taustakuvaan"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Vaihda, kun avaat uuden välilehden"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Vaihda, kun avaa sivu"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Tiedoston lataus epäonnistui. Syy: koko ylittää rajan"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Valitse paikallinen tausta"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Vähintään yksi taustakuva vaaditaan"
+   },
+   "want_more": {
+      "message": "Nauti enemmän perksistä heti"
+   },
+   "weather": {
+      "message": "Sää"
+   },
+   "weather_empty": {
+      "message": "Tällä hetkellä säätietoja ei ole saatavilla"
+   },
+   "web_set_home_title": {
+      "message": "Kuinka asettaa Infinity kotisivuksi"
+   },
+   "website_address": {
+      "message": "URL-osoite"
+   },
+   "website_name": {
+      "message": "Sivuston nimi"
+   },
+   "website_search_replace_char": {
+      "message": "URL-osoite (käytä% s, jos haluat korvata hakuja)"
+   },
+   "wechat": {
+      "message": "WeChat"
+   },
+   "wed": {
+      "message": "Keskiviikko"
+   },
+   "wed_min": {
+      "message": "Ke"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Voimakkuus"
+   },
+   "wind_mill": {
+      "message": "Näytä satunnainen taustakuva -painike oikeassa alakulmassa"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search on Yahoo ylläpitämä hakukone"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex on yksi tärkeimmistä Internet-palveluportaaleista Venäjällä"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$vuosi$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Eilen"
+   },
+   "you_need_login": {
+      "message": "Kirjaudu sisään Infinity -tilille käyttääksesi tätä toimintoa"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Selaustietueesi näkyy täällä"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

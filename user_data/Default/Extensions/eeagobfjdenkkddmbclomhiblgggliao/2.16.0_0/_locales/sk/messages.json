@@ -1,0 +1,722 @@
+{
+   "buttonApply": {
+      "message": "Použiť"
+   },
+   "buttonCancel": {
+      "message": "Zrušiť"
+   },
+   "buttonCheckForUpdates": {
+      "message": "Skontrolovať aktualizácie"
+   },
+   "buttonClose": {
+      "message": "Zavrieť"
+   },
+   "buttonDisable": {
+      "message": "Zakázať"
+   },
+   "buttonEdit": {
+      "message": "Upraviť"
+   },
+   "buttonEditClickHint": {
+      "message": "Tiež môžete použiť pravoklik, Ctrl + klik, kliknutie kolieskom na názov skriptu."
+   },
+   "buttonEmptyRecycleBin": {
+      "message": "Vysypať kôš teraz!"
+   },
+   "buttonEnable": {
+      "message": "Povoliť"
+   },
+   "buttonExportData": {
+      "message": "Exportovať do zip"
+   },
+   "buttonHome": {
+      "message": "Domovská stránka"
+   },
+   "buttonImportData": {
+      "message": "Importovať zo zip"
+   },
+   "buttonInstallFromURL": {
+      "message": "Inštalovať z adresy"
+   },
+   "buttonNew": {
+      "message": "Nový"
+   },
+   "buttonOK": {
+      "message": "OK"
+   },
+   "buttonRecycleBin": {
+      "message": "Kôš"
+   },
+   "buttonRemove": {
+      "message": "Odstrániť"
+   },
+   "buttonReplace": {
+      "message": "Nahradiť"
+   },
+   "buttonReplaceAll": {
+      "message": "Všetko"
+   },
+   "buttonReset": {
+      "message": "Obnoviť"
+   },
+   "buttonRestore": {
+      "message": "Obnoviť"
+   },
+   "buttonSave": {
+      "message": "Uložiť"
+   },
+   "buttonSaveClose": {
+      "message": "Uložiť & Zavrieť"
+   },
+   "buttonSaved": {
+      "message": "Uložené"
+   },
+   "buttonShowEditorState": {
+      "message": "Zobraziť stav editora"
+   },
+   "buttonSupport": {
+      "message": "Stránka podpory"
+   },
+   "buttonUndo": {
+      "message": "Späť"
+   },
+   "buttonUpdate": {
+      "message": "Aktualizovať"
+   },
+   "buttonUpdateAll": {
+      "message": "Skontrolovať aktualizácie"
+   },
+   "buttonVacuum": {
+      "message": "Prečistiť databázu"
+   },
+   "buttonVacuumed": {
+      "message": "Databáza bola prečistená"
+   },
+   "buttonVacuuming": {
+      "message": "Čistím databázu..."
+   },
+   "confirmManualUpdate": {
+      "message": "Automatická aktualizácia je pre tento skript zakázaná!\nKliknutím na tlačidlo OK ho napriek tomu aktualizujte."
+   },
+   "confirmNotSaved": {
+      "message": "Úpravy nie sú uložené!\nKliknite na OK pre ich zrušenie alebo zrušiť pre ich ponechanie."
+   },
+   "descBlacklist": {
+      "message": "Webové adresy v tomto zozname nebudú injektované skriptami."
+   },
+   "descCustomCSS": {
+      "message": "Vlastné CSS pre stránku s možnosťami a inštalačnú stránku. Ak si nie ste istí, čo to je, prosím, neupravujte to."
+   },
+   "descEditorOptions": {
+      "message": "Vlastné možnosti pre CodeMirror a doplnky v JSON objekte ako \u003Ccode>{\"indentUnit\":2, \"smartIndent\":true}\u003C/code> avšak niektoré z nich nemusia byť funkčné vo Violentmonkey. Pozri \u003Ca href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">celý zoznam\u003C/a>."
+   },
+   "editHelpDocumention": {
+      "message": "Dokumentácia k bloku metadát požívateľského skriptu a \u003Ccode>GM\u003C/code> API:"
+   },
+   "editHelpKeyboard": {
+      "message": "Klávesové skratky:"
+   },
+   "editHowToHint": {
+      "message": "Chcete použiť iný editor?"
+   },
+   "editLabelMeta": {
+      "message": "Vlastné metadáta"
+   },
+   "editLabelSettings": {
+      "message": "Nastavenia skriptu"
+   },
+   "editLongLine": {
+      "message": "Riadok je príliš dlhý"
+   },
+   "editLongLineTooltip": {
+      "message": "Tento riadok je príliš dlhý, takže jeho text je zbalený, aby sa predišlo oneskoreniu pri úpravách.\nLimit môžete upraviť v rozšírených nastaveniach, napríklad:\n\"maxDisplayLength\": 20000"
+   },
+   "editNavCode": {
+      "message": "Kód"
+   },
+   "editNavSettings": {
+      "message": "Nastavenia"
+   },
+   "editNavValues": {
+      "message": "Hodnoty"
+   },
+   "editValueAllHint": {
+      "message": "Zobraziť/upraviť celé úložisko hodnoty skriptu"
+   },
+   "extDescription": {
+      "message": "Správca používateľských skriptov s otvoreným kódom a podporou viacerých prehliadačov"
+   },
+   "extName": {
+      "message": "Violentmonkey"
+   },
+   "failureReasonBlacklisted": {
+      "message": "Na čiernej listine v nastaveniach Violentmonkey"
+   },
+   "failureReasonNoninjectable": {
+      "message": "Violentmonkey nemôže spustiť skripty na tejto stránke\n(najčastejší prípad: rozhranie prehliadača alebo rozšírenia, blokované cez politiku, web vyhľadávača v Opere)"
+   },
+   "fileInstallBlocked": {
+      "message": "Existuje niekoľko metód na inštaláciu alebo sledovanie úprav v lokálnom súbore: \u003C1> Pretiahnite súbor do otvorenej stránky alebo vyskakovacieho okna Violentmonkey, vrátane tejto. \u003C2> Nainštalujte lokálny HTTP server pre tento súbor a otvorte ho cez stránku http://localhost. \u003C3> V podrobnostiach pre Violentmonkey na stránke chrome://extensions povoľte možnosť \"Povoliť prístup k webovým adresám súboru\". Je to nebezpečné, pretože akýkoľvek používateľský skript môže čítať akýkoľvek lokálny súbor."
+   },
+   "filterAlphabeticalOrder": {
+      "message": "abecedy"
+   },
+   "filterExecutionOrder": {
+      "message": "spustenia"
+   },
+   "filterLastUpdateOrder": {
+      "message": "poslednej aktualizácie"
+   },
+   "filterScopeAll": {
+      "message": "Všetko"
+   },
+   "filterScopeCode": {
+      "message": "Kód"
+   },
+   "filterScopeName": {
+      "message": "Názov"
+   },
+   "filterSize": {
+      "message": "veľkosť"
+   },
+   "genericError": {
+      "message": "Chyba"
+   },
+   "genericOff": {
+      "message": "vypnuté"
+   },
+   "genericOn": {
+      "message": "zapnuté"
+   },
+   "genericUseGlobal": {
+      "message": "použiť globálne nastavenie"
+   },
+   "headerRecycleBin": {
+      "message": "Kôš"
+   },
+   "helpForLocalFile": {
+      "message": "Zobraziť pokyny pre pretiahnuté lokálne skripty"
+   },
+   "hintInputURL": {
+      "message": "Vložte adresu:"
+   },
+   "hintRecycleBin": {
+      "message": "Tu sa zobrazujú odstránené súbory a budú odstránené po 7 dňoch."
+   },
+   "hintUseDownloadURL": {
+      "message": "Použiť @downloadURL"
+   },
+   "hintVacuum": {
+      "message": "Zruší redundanciu a skúsi znova načítať chýbajúce zdroje do vyrovnávacej pamäte."
+   },
+   "install": {
+      "message": "Inštalovať"
+   },
+   "installFrom": {
+      "message": "Inštalovať z $1"
+   },
+   "installOptionTrackTooltip": {
+      "message": "Karta so zdrojovým súborom by mala byť otvorená vo Firefoxe 68 a novšom."
+   },
+   "labelAdvanced": {
+      "message": "Pokročilé"
+   },
+   "labelAllowUpdate": {
+      "message": "Povoliť aktualizácie"
+   },
+   "labelAuthor": {
+      "message": "Autor: "
+   },
+   "labelAutoReloadCurrentTab": {
+      "message": "Obnoviť aktuálny list po vypnutí alebo zapnutí skriptu z menu"
+   },
+   "labelAutoUpdate": {
+      "message": "Kontrolovať aktualizácie skriptu každý $1 deň, pre zakázanie použite 0"
+   },
+   "labelBackup": {
+      "message": "Záloha"
+   },
+   "labelBadge": {
+      "message": "Zobraziť počítadlo: "
+   },
+   "labelBadgeColors": {
+      "message": "Farby odznaku:"
+   },
+   "labelBadgeNone": {
+      "message": "žiadne"
+   },
+   "labelBadgeTotal": {
+      "message": "spustených skriptov"
+   },
+   "labelBadgeUnique": {
+      "message": "spustených unikátnych skriptov"
+   },
+   "labelBlacklist": {
+      "message": "Čierna listina"
+   },
+   "labelContributors": {
+      "message": "Prispievatelia"
+   },
+   "labelCurrentLang": {
+      "message": "Aktuálny jazyk: "
+   },
+   "labelCustomCSS": {
+      "message": "Vlastný štýl"
+   },
+   "labelDownloadURL": {
+      "message": "Adresa pre sťahovanie:"
+   },
+   "labelEditValue": {
+      "message": "Úprava hodnoty skriptu"
+   },
+   "labelEditValueAll": {
+      "message": "Úprava úložiska skriptu"
+   },
+   "labelEditor": {
+      "message": "Editor"
+   },
+   "labelEnabledScriptsOnly": {
+      "message": "povoliť iba skripty"
+   },
+   "labelExclude": {
+      "message": "pravidlá @exclude"
+   },
+   "labelExcludeMatch": {
+      "message": "pravidlá @exclude-match"
+   },
+   "labelExportScriptData": {
+      "message": "Exportovať dáta skriptu"
+   },
+   "labelExposeStatus": {
+      "message": "Zobraziť nainštalovanú verziu v katalógoch používateľských skriptov: $1"
+   },
+   "labelFastFirefoxInject": {
+      "message": "Alternatívny režim $1 vo Firefoxe"
+   },
+   "labelFastFirefoxInjectHint": {
+      "message": "Alternatívna metóda injektovania pre \u003Cdocument-start> skripty od Firefoxu 59, rýchlejšia ako predvolený režim. Podobne ako \"Synchrónny režim stránky\" tiež zvyšuje spotrebu pamäte, takže ho môžete vypnúť, ak vaše skripty fungujú správne bez tejto možnosti."
+   },
+   "labelFeedback": {
+      "message": "Spätná väzba"
+   },
+   "labelFilterSort": {
+      "message": "Zoradiť podľa $1"
+   },
+   "labelGeneral": {
+      "message": "Všeobecné"
+   },
+   "labelHelpTranslate": {
+      "message": "Pomôžte s prekladom"
+   },
+   "labelHomepage": {
+      "message": "Domovská stránka"
+   },
+   "labelHomepageURL": {
+      "message": "Adresa domovskej stránky:"
+   },
+   "labelImportScriptData": {
+      "message": "Importovať dáta skriptu"
+   },
+   "labelImportSettings": {
+      "message": "Importovať nastavenia"
+   },
+   "labelInclude": {
+      "message": "pravidlá @include"
+   },
+   "labelInjectionMode": {
+      "message": "Režim injektovania:"
+   },
+   "labelInstall": {
+      "message": "Inštalovanie skriptu"
+   },
+   "labelKeepOriginal": {
+      "message": "Ponechať pôvodné"
+   },
+   "labelLastUpdatedAt": {
+      "message": "Posledná aktualizácia $1"
+   },
+   "labelLineNumber": {
+      "message": "Riadok č.: "
+   },
+   "labelMatch": {
+      "message": "pravidlá @match"
+   },
+   "labelName": {
+      "message": "Názov:"
+   },
+   "labelNoFrames": {
+      "message": "Spustiť v rámoch:"
+   },
+   "labelNoName": {
+      "message": "Bez názvu"
+   },
+   "labelNoSearchScripts": {
+      "message": "Nenašiel sa žiadny skript."
+   },
+   "labelNotifyThisUpdated": {
+      "message": ", potom upozorniť:"
+   },
+   "labelNotifyUpdates": {
+      "message": "Upozorňovať na aktualizácie skriptu"
+   },
+   "labelNotifyUpdatesGlobal": {
+      "message": "ignorovať nastavenie upozornenia (záložka \"Nastavenia\" v editore)"
+   },
+   "labelPopupSort": {
+      "message": "Zoradiť skripty vo vyskakovacom okne podľa $1"
+   },
+   "labelPrivacyPolicy": {
+      "message": "Zásady ochrany osobných údajov"
+   },
+   "labelReinstall": {
+      "message": "Preinštalovanie skriptu"
+   },
+   "labelRelated": {
+      "message": "Súvisiace odkazy: "
+   },
+   "labelRemovedAt": {
+      "message": "Odstránené $1"
+   },
+   "labelReplace": {
+      "message": "Nahradiť: "
+   },
+   "labelRunAt": {
+      "message": "Spustiť pri: "
+   },
+   "labelRunAtDefault": {
+      "message": "(Predvolené)"
+   },
+   "labelScriptTemplate": {
+      "message": "Šablóna vlastného skriptu"
+   },
+   "labelSearch": {
+      "message": "Vyhľadať: "
+   },
+   "labelSearchScript": {
+      "message": "Vyhľadať skripty..."
+   },
+   "labelSettings": {
+      "message": "Nastavenia"
+   },
+   "labelShowOrder": {
+      "message": "Zobraziť poradie vykonania príkazu"
+   },
+   "labelSync": {
+      "message": "Synchronizácia"
+   },
+   "labelSyncAnonymous": {
+      "message": "Použiť anonymný účet"
+   },
+   "labelSyncAuthorize": {
+      "message": "Autorizácia"
+   },
+   "labelSyncAuthorizing": {
+      "message": "Autorizácia"
+   },
+   "labelSyncDisabled": {
+      "message": "Zakázané"
+   },
+   "labelSyncPassword": {
+      "message": "Heslo: "
+   },
+   "labelSyncRevoke": {
+      "message": "Odvolať"
+   },
+   "labelSyncScriptStatus": {
+      "message": "Stav synchronizácie skriptu"
+   },
+   "labelSyncServerUrl": {
+      "message": "Server URL: "
+   },
+   "labelSyncService": {
+      "message": "Synchronizovať s"
+   },
+   "labelSyncUsername": {
+      "message": "Používateľské meno: "
+   },
+   "labelTheme": {
+      "message": "Motív:"
+   },
+   "labelUpdateURL": {
+      "message": "Aktualizačná adresa:"
+   },
+   "labelViewSingleColumn": {
+      "message": "Jeden stĺpec"
+   },
+   "labelViewTable": {
+      "message": "Tabuľkové zobrazenie"
+   },
+   "labelXhrInject": {
+      "message": "Synchrónny režim $1"
+   },
+   "labelXhrInjectHint": {
+      "message": "Povoľte iba vtedy, ak máte skript, ktorý sa musí spustiť pred začatím načítavania stránky a v súčasnosti sa spúšťa príliš neskoro. Rovnako ako režim okamžitého injektovania v Tampermonkey, aj táto možnosť používa zastaraný synchrónny XHR, takže v prehliadači Chrome/Chromium sa v konzole vývojárskych nástrojoch zobrazia varovania, hoci ich môžete pokojne ignorovať, pretože nepriaznivé účinky sú v tomto prípade zanedbateľné. Varovania môžete natrvalo skryť kliknutím pravým tlačidlom myši."
+   },
+   "labelXhrInjectNote": {
+      "message": "(okrem inkognita a stránok so zakázanými cookies)"
+   },
+   "lastSync": {
+      "message": "Posledná synchronizácia $1"
+   },
+   "learnBlacklist": {
+      "message": "Získajte viac informácií o vzoroch čiernej listiny."
+   },
+   "learnInjectionMode": {
+      "message": "Viac informácií o režimoch injektovania."
+   },
+   "menuDashboard": {
+      "message": "Otvoriť Dashboard"
+   },
+   "menuExclude": {
+      "message": "Vylúčiť"
+   },
+   "menuExcludeHint": {
+      "message": "Aktuálna karta sa automaticky obnoví, ak povolíte túto možnosť v nastaveniach.\nAk chcete použiť zmeny na všetkých ostatných kartách, obnovte ich ručne.\nPre väčšiu flexibilitu použite kartu „Nastavenia“ editora."
+   },
+   "menuFeedback": {
+      "message": "Spätná väzba"
+   },
+   "menuFindScripts": {
+      "message": "Vyhľadať skripty pre túto stránku"
+   },
+   "menuInjectionFailed": {
+      "message": "Nepodarilo sa injektovať niektoré skripty."
+   },
+   "menuInjectionFailedFix": {
+      "message": "Vyskúšať znova v režime \"auto\""
+   },
+   "menuMatchedDisabledScripts": {
+      "message": "Zodpovedajúce zakázané skripty"
+   },
+   "menuMatchedFrameScripts": {
+      "message": "Iba skripty podrámcov"
+   },
+   "menuMatchedScripts": {
+      "message": "Vyhovujúce skripty"
+   },
+   "menuNewScript": {
+      "message": "Vytvoriť nový skript"
+   },
+   "menuScriptDisabled": {
+      "message": "Skripty sú zakázané"
+   },
+   "menuScriptEnabled": {
+      "message": "Skripty sú povolené"
+   },
+   "msgCheckingForUpdate": {
+      "message": "Kontrola aktualizácií..."
+   },
+   "msgDateFormatInfo": {
+      "message": "Kliknutím otvoríte dokumentáciu MomentJS. Povolené tokeny: $1. Na ochranu doslovného textu použite [hranaté zátvorky]."
+   },
+   "msgErrorFetchingResource": {
+      "message": "Chyba pri načítaní zdroja!"
+   },
+   "msgErrorFetchingScript": {
+      "message": "Chyba pri načítaní skriptu!"
+   },
+   "msgErrorFetchingUpdateInfo": {
+      "message": "Načítanie informácií o aktualizácii skončilo chybou."
+   },
+   "msgErrorLoadingData": {
+      "message": "Chyba pri načítaní dát skriptu."
+   },
+   "msgErrorLoadingDependency": {
+      "message": "Chyba pri načítaní závislostí."
+   },
+   "msgImported": {
+      "message": "Importovaných položiek: $1"
+   },
+   "msgIncognitoChanges": {
+      "message": "Zmeny, ktoré vykonáte v režime inkognito budú použité aj v hlavnom profile."
+   },
+   "msgInstalled": {
+      "message": "Skript bol nainštalovaný."
+   },
+   "msgInvalidScript": {
+      "message": "Neplatný skript!"
+   },
+   "msgLoadingData": {
+      "message": "Načítavam dáta skriptu..."
+   },
+   "msgLoadingDependency": {
+      "message": "Načítavam závislosti... ($1/$2)"
+   },
+   "msgMissingResources": {
+      "message": "Chýbajú požadované zdroje."
+   },
+   "msgNamespaceConflict": {
+      "message": "Takýto skript je už nainštalovaný.\nBuď použite iné @name a @namespace alebo namiesto toho upravte tento skript."
+   },
+   "msgNamespaceConflictRestore": {
+      "message": "Skript s rovnakým @name a @namespace je už nainštalovaný."
+   },
+   "msgNewVersion": {
+      "message": "Nájdená nová verzia."
+   },
+   "msgNoUpdate": {
+      "message": "Nie sú žiadne aktualizácie."
+   },
+   "msgOpenUpdateErrors": {
+      "message": "Chyba pri aktualizácii skriptov. Kliknutím ich otvoríte."
+   },
+   "msgReinstallScripts": {
+      "message": "Prosím, znovu uložte alebo nainštalujte tieto skripty:"
+   },
+   "msgSameCode": {
+      "message": " (kód je rovnaký)"
+   },
+   "msgScriptUpdated": {
+      "message": "Skript [$1] bol aktualizovaný!"
+   },
+   "msgShowHide": {
+      "message": "Zobraziť/skryť"
+   },
+   "msgSyncError": {
+      "message": "Chyba synchronizácie!"
+   },
+   "msgSyncInit": {
+      "message": "Inicializácia..."
+   },
+   "msgSyncInitError": {
+      "message": "Chyba inicializácie!"
+   },
+   "msgSyncNoAuthYet": {
+      "message": "Zatiaľ nie je autorizovaný."
+   },
+   "msgSyncReady": {
+      "message": "Synchronizácia sa spustí o chvíľu..."
+   },
+   "msgSyncing": {
+      "message": "Prebieha synchronizácia..."
+   },
+   "msgSyntaxError": {
+      "message": "Chyba syntaxe?"
+   },
+   "msgUpdated": {
+      "message": "Skript aktualizovaný."
+   },
+   "msgUpdating": {
+      "message": "Aktualizujem..."
+   },
+   "noValues": {
+      "message": "Nie je uložená žiadna hodnota"
+   },
+   "optionEditorWindow": {
+      "message": "Otvoriť editor z vyskakovacieho okna do nového okna"
+   },
+   "optionEditorWindowHint": {
+      "message": "Poloha okna editora sa uloží iba pri zmene veľkosti alebo uložení"
+   },
+   "optionEditorWindowSimple": {
+      "message": "Schovať pole omnibox"
+   },
+   "optionPopup": {
+      "message": "Vyskakovacia ponuka a ikona"
+   },
+   "optionPopupEnabledFirst": {
+      "message": "Najskôr povolené"
+   },
+   "optionPopupGroupDisabled": {
+      "message": "Zoskupiť zakázané skripty"
+   },
+   "optionPopupGroupRunAt": {
+      "message": "Zoskupiť podľa @run-at"
+   },
+   "optionPopupHideDisabled": {
+      "message": "Skryť zakázané skripty"
+   },
+   "optionPopupShowDisabled": {
+      "message": "Zobraziť zakázané skripty"
+   },
+   "optionShowEnabledFirst": {
+      "message": "Zobraziť najskôr povolené skripty"
+   },
+   "optionUiTheme": {
+      "message": "Motív rozhrania:"
+   },
+   "optionUiThemeAuto": {
+      "message": "automatický"
+   },
+   "optionUiThemeDark": {
+      "message": "tmavý"
+   },
+   "optionUiThemeLight": {
+      "message": "svetlý"
+   },
+   "optionUpdate": {
+      "message": "Aktualizácia"
+   },
+   "readonly": {
+      "message": "Iba na čítanie"
+   },
+   "readonlyNote": {
+      "message": "Automaticky aktualizovaný skript je určený len na čítanie, pokiaľ nezakážete aktualizácie alebo nepovolíte úpravy."
+   },
+   "readonlyOpt": {
+      "message": "Povoliť úpravy"
+   },
+   "readonlyOptWarn": {
+      "message": "(ďalšia aktualizácia ich prepíše)"
+   },
+   "reinstall": {
+      "message": "Preinštalovať"
+   },
+   "reloadTab": {
+      "message": "Znova načítať kartu"
+   },
+   "reloadTabTrackHint": {
+      "message": "Ak je povolené, aktívna karta sa znovu načíta, keď sa zistia zmeny a tento skript sa zhoduje s adresou URL karty."
+   },
+   "searchCaseSensitive": {
+      "message": "Rozlišovať veľké a malé písmená"
+   },
+   "searchUseRegex": {
+      "message": "Použiť regulárne výrazy"
+   },
+   "sideMenuAbout": {
+      "message": "O Violentmonkey"
+   },
+   "sideMenuInstalled": {
+      "message": "Nainštalované skripty"
+   },
+   "sideMenuSettings": {
+      "message": "Nastavenia"
+   },
+   "skipScripts": {
+      "message": "Načítať stránku bez používateľských skriptov"
+   },
+   "skipScriptsMsg": {
+      "message": "Zakázali ste používateľské skripty pre túto stránku. Ak ich chcete znovu spustiť, znovu načítajte alebo prejdite na kartu."
+   },
+   "stopTracking": {
+      "message": "Zastaviť sledovanie"
+   },
+   "titleBadgeColor": {
+      "message": "Normálna farba odznaku"
+   },
+   "titleBadgeColorBlocked": {
+      "message": "Farba odznaku, keď je web neinjektovateľný (na čiernej listine alebo nepodporovaný)"
+   },
+   "titleSearchHint": {
+      "message": "* kláves \u003CEnter> pridá text do histórie automatického dopĺňania\n* je podporovaná syntax RegExp: /re/ a /re/flags"
+   },
+   "trackEdits": {
+      "message": "Sledovať externé úpravy"
+   },
+   "trackEditsNote": {
+      "message": "Nechajte túto stránku otvorenú, aby ste mohli sledovať svoje úpravy v lokálnom súbore"
+   },
+   "updateListedCmd": {
+      "message": "Aktualizovať skripty ($1)"
+   },
+   "valueLabelKey": {
+      "message": "Kľúč (reťazec)"
+   },
+   "valueLabelValue": {
+      "message": "Hodnota (serializované ako JSON)"
+   },
+   "valueLabelValueAll": {
+      "message": "Všetky hodnoty (serializované ako JSON)"
+   }
+}

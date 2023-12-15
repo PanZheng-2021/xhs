@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Enjin carian selamat"
+   },
+   "about": {
+      "message": "Mengenai"
+   },
+   "about_us": {
+      "message": "Tentang kita"
+   },
+   "account_expired": {
+      "message": "Uji akaun anda telah tamat tempoh, sila log masuk semula"
+   },
+   "account_setting": {
+      "message": "Tetapan akaun"
+   },
+   "add": {
+      "message": "Tambah"
+   },
+   "add_city": {
+      "message": "Tambah bandar"
+   },
+   "add_first_note": {
+      "message": "Tambah nota pertama"
+   },
+   "add_icon_success": {
+      "message": "Ditambah berjaya"
+   },
+   "add_link": {
+      "message": "Tambah pautan"
+   },
+   "add_new_search_engine": {
+      "message": "Tambah enjin carian baru"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Perpustakaan Wallpaper Baru."
+   },
+   "add_search_engine": {
+      "message": "Tambah enjin carian"
+   },
+   "add_success": {
+      "message": "Berjaya ditambah"
+   },
+   "add_to_home_site": {
+      "message": "Tambah ke halaman rumah"
+   },
+   "add_to_infinity": {
+      "message": "Tambah ke halaman Tab Infinity Baharu"
+   },
+   "additional_search_engine": {
+      "message": "Enjin Carian Tersambung"
+   },
+   "air_pressure": {
+      "message": "Tekanan"
+   },
+   "all_wallpaper_sources": {
+      "message": "Semua kertas dinding"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Semua sumber wallpaper"
+   },
+   "ambiguity": {
+      "message": "kekaburan"
+   },
+   "animals": {
+      "message": "Haiwan"
+   },
+   "animation": {
+      "message": "Animasi"
+   },
+   "animation_tips": {
+      "message": "Memulakan animasi boleh menjejaskan kelancaran"
+   },
+   "anime": {
+      "message": "Komik"
+   },
+   "any_money": {
+      "message": "Sebarang"
+   },
+   "app": {
+      "message": "Aplikasi"
+   },
+   "app_disabled_enable_first": {
+      "message": "Anda telah melumpuhkan aplikasi ini. Benarkan infiniti untuk membolehkan aplikasi ini terlebih dahulu?"
+   },
+   "application": {
+      "message": "Aplikasi"
+   },
+   "apply": {
+      "message": "Gunakan"
+   },
+   "architecture": {
+      "message": "Seni bina"
+   },
+   "athletics": {
+      "message": "Sukan"
+   },
+   "avatar": {
+      "message": "Pilih Avatar"
+   },
+   "backing_up": {
+      "message": "Menyimpan sandar..."
+   },
+   "backup_and_recovery": {
+      "message": "Sandaran dan pemulihan"
+   },
+   "backup_failed": {
+      "message": "Salinan Sandar Gagal"
+   },
+   "backup_now": {
+      "message": "Buat sandaran sekarang"
+   },
+   "backup_successful": {
+      "message": "Backup yang berjaya"
+   },
+   "backup_tips": {
+      "message": "Kami menyimpan maksimum 3 nod sandaran manual dan 3 nod sandaran automatik untuk anda"
+   },
+   "backup_with_device": {
+      "message": "Segerakan dengan peranti-peranti lain"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Fokus pada mengumpul fotografi jenis bukan galeri yang berkualiti tinggi dan berkualiti tinggi"
+   },
+   "basic_info": {
+      "message": "Maklumat umum"
+   },
+   "bg_color": {
+      "message": "Warna latar"
+   },
+   "bg_updating": {
+      "message": "Dalam Upgrade, sila tunggu ..."
+   },
+   "bind": {
+      "message": "Hubungkan"
+   },
+   "bind_success": {
+      "message": "Perhubungan berjaya"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing adalah enjin carian yang dibangunkan oleh Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Perpustakaan Wallpaper Bing Daily"
+   },
+   "bookmarks": {
+      "message": "Penanda buku"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ tidak menyokong ciri ini",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cancel_login": {
+      "message": "Batalkan log masuk"
+   },
+   "cancel_remind_time": {
+      "message": "Batalkan masa peringatan"
+   },
+   "cancel_set_top": {
+      "message": "Padamkan pin"
+   },
+   "cannot_change_password": {
+      "message": "Anda tidak boleh menukar kata laluan jika log masuk dengan akaun pihak ketiga"
+   },
+   "cannot_change_profile": {
+      "message": "Pengguna pihak ketiga yang log masuk tidak boleh mengubah maklumat profil"
+   },
+   "cannot_download": {
+      "message": "Muat turun tidak disokong"
+   },
+   "cannot_empty": {
+      "message": "Tidak Boleh Dibiarkan Kosong"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Tukar masa peringatan"
+   },
+   "change_wallpaper": {
+      "message": "Tukar kertas dinding"
+   },
+   "check_olddata_desc": {
+      "message": "Ia dikesan bahawa terdapat versi lama data warisan, yang mungkin dinaik taraf. Jika anda memerlukan anda cuba untuk menaik taraf data ini"
+   },
+   "choose_sync_type": {
+      "message": "Pilih data akaun"
+   },
+   "chose_from_mypc": {
+      "message": "Buat Perpustakaan Wallpaper Saya"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$ Apps",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Kedai Web Chrome - Sambungan"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Masukkan chrome://settings/appearance di bar alamat dan masukkan halaman tetapan."
+   },
+   "chrome_browser_guide2": {
+      "message": "Slaid ke bawah dan pilih pilihan yang ditunjukkan oleh anak panah dalam angka tersebut."
+   },
+   "chrome_browser_guide3": {
+      "message": "Masukkan URL https://inftab.com dalam tetingkap pop timbul, dan kemudian klik butang Tambah untuk melengkapkan tetapan halaman Laman Utama."
+   },
+   "clear_historys": {
+      "message": "Kosongkan sejarah"
+   },
+   "col_gap": {
+      "message": "Jarak lajur"
+   },
+   "col_num": {
+      "message": "Baris"
+   },
+   "color": {
+      "message": "Warna"
+   },
+   "color_icon": {
+      "message": "Ikon warna pepejal"
+   },
+   "come_from": {
+      "message": "Dari pengguna"
+   },
+   "comming_soon": {
+      "message": "Akan datang"
+   },
+   "comming_soon_title": {
+      "message": "Versi Mobil Infinity dalam perjalanan"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Kau pasti ingin membersihkan semua sejarah?"
+   },
+   "confirm_cover_remote": {
+      "message": "Data tempatan akan disimpan ke nod sandaran manual"
+   },
+   "confirm_del_folder": {
+      "message": "Adakah anda pasti mahu memadamkan folder ini?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Adakah anda pasti mahu memadamkan item yang lengkap?"
+   },
+   "confirm_delete_note": {
+      "message": "Sahkan pemadaman catatan?"
+   },
+   "confirm_logout": {
+      "message": "Log keluar"
+   },
+   "confirm_password": {
+      "message": "Sahkan kata laluan"
+   },
+   "confirm_password_2": {
+      "message": "Sahkan kata laluan"
+   },
+   "confirm_recovery_data": {
+      "message": "Data awan akan menggantikan data tempatan. Adakah anda pasti tentang tindakan ini?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Adakah anda pasti mahu mengeluarkan perpustakaan kertas dinding ini?"
+   },
+   "confirm_unbind": {
+      "message": "Mengesahkan Unbind tersebut?"
+   },
+   "confirm_unbind_email": {
+      "message": "Anda pasti ingin nyahikat kotak mel $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Adakah anda pasti mahu melepaskan nombor telefon anda $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Jurutera kenalan"
+   },
+   "contact_us": {
+      "message": "Hubungi kami"
+   },
+   "copy": {
+      "message": "Salin"
+   },
+   "cubic_bezier": {
+      "message": "Tendang Belakang"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Foto profil"
+   },
+   "current_browser_not_support": {
+      "message": "Penyemak imbas semasa tidak menyokong pengurusan sambungan"
+   },
+   "current_no_reminders": {
+      "message": "Tiada Item Tugasan"
+   },
+   "current_node": {
+      "message": "Node semasa."
+   },
+   "custom": {
+      "message": "Peribadikan"
+   },
+   "custom_icon": {
+      "message": "Ikon Suai"
+   },
+   "custom_layout": {
+      "message": "Layout Custom"
+   },
+   "custom_site": {
+      "message": "Laman Web Custom."
+   },
+   "default": {
+      "message": "Lalai"
+   },
+   "del_folder": {
+      "message": "Padam"
+   },
+   "delete_all_bookmarks": {
+      "message": "Hapuskan semua tandabuku di bawah folder ini"
+   },
+   "disable_chrome_app": {
+      "message": "Lumpuhkan apl?"
+   },
+   "disable_extension": {
+      "message": "Melumpuhkan sambungan"
+   },
+   "do_later": {
+      "message": "bercakap mengenainya kemudian"
+   },
+   "done": {
+      "message": "Selesai"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Muat turun CRX"
+   },
+   "download_current_wallpaper": {
+      "message": "Muat turun wallpaper semasa."
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo memberi tumpuan kepada pengimportan kandungan dari laman web utama Web 2.0 selain menjadi enjin carian tradisional Falsafah laman web adalah menghormati privasi pengguna, menjanjikan untuk tidak memantau atau mendokumentasikan kandungan carian."
+   },
+   "ease_in": {
+      "message": "Pudar di dalamnya"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Masukkan edge://settings/on Startup di bar alamat penyemak imbas, masukkan halaman persediaan."
+   },
+   "edge_browser_guide2": {
+      "message": "Klik pilihan yang dinyatakan oleh panah dalam figur."
+   },
+   "edge_browser_guide3": {
+      "message": "Masukkan URL https://inftab.com dalam tetingkap pop timbul, dan kemudian klik butang Tambah untuk melengkapkan tetapan halaman Laman Utama."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "edit_avatar": {
+      "message": "Edit avatar"
+   },
+   "edit_content": {
+      "message": "Edit kandungan"
+   },
+   "edit_icon": {
+      "message": "Edit Ikon"
+   },
+   "education": {
+      "message": "Pendidikan dan pekerjaan"
+   },
+   "email": {
+      "message": "Emel"
+   },
+   "email_code": {
+      "message": "Kod pengesahan e-mel"
+   },
+   "email_format_error": {
+      "message": "Format e-mel tidak betul"
+   },
+   "email_or_phone_number_tips": {
+      "message": "E-mel atau nombor telefon bimbit"
+   },
+   "empty": {
+      "message": "Kosong"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Sahkan untuk memadam folder?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Sahkan untuk memadam penanda buku ini?"
+   },
+   "ensure_logout": {
+      "message": "Adakah anda pasti anda hendak log keluar?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "isi senarai tugasan anda, tambah item dengan mengklik enter"
+   },
+   "enter_password_tips": {
+      "message": "Masukkan Ungkapan Laluan"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Sila masukkan nombor telefon yang betul"
+   },
+   "enter_verification_code_tips": {
+      "message": "Sila masukkan kod pengesahan"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Data sandaran eksport"
+   },
+   "export_local_data_desc": {
+      "message": "Eksport dari data tempatan semasa"
+   },
+   "extension": {
+      "message": "Pelanjutan"
+   },
+   "extension_app": {
+      "message": "Pelanjutan"
+   },
+   "extension_des": {
+      "message": "Bebas menambah ikon laman web, nikmati wallpaper pemacu awan definisi tinggi, dan dengan cepat mengakses penanda buku, maklumat cuaca, nota, senarai tugasan, pengurusan sambungan, dan sejarah di halaman Tab baru, yang dipilih oleh berjuta-juta pengguna."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP membolehkan anda menyesuaikan halaman Tab Baharu anda"
+   },
+   "extension_des_firefox": {
+      "message": "Tab Baru yang dipilih oleh berjuta-juta, yang boleh meningkatkan produktiviti. Termasuk ikon web, enjin carian, wallpaper HD, cuaca, nota, penanda halaman, senarai tugasan, sejarah, dan sebagainya."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro membolehkan anda menyesuaikan halaman Tab Baharu anda"
+   },
+   "extension_mananger": {
+      "message": "Urus Sambungan"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Sertai Kumpulan Facebook"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Maklum balas"
+   },
+   "female": {
+      "message": "Perempuan"
+   },
+   "filter": {
+      "message": "Filter"
+   },
+   "finance": {
+      "message": "kewangan"
+   },
+   "firefox": {
+      "message": "FireFox"
+   },
+   "firefox_app_store": {
+      "message": "Kedai Add-on Firefox"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Masukkan about: preferences #home dalam bar alamat untuk memasuki halaman tetapan."
+   },
+   "firefox_browser_guide2": {
+      "message": "Seperti yang ditunjukkan oleh anak panah dalam angka, pilih pilihan URL tersuai."
+   },
+   "firefox_browser_guide3": {
+      "message": "Masukkan URL https://inftab.com Dalam kotak teks, persediaan halaman Laman adalah lengkap."
+   },
+   "five_star": {
+      "message": "Berikan 5 bintang"
+   },
+   "folder": {
+      "message": "Folder"
+   },
+   "follow_us": {
+      "message": "Ikuti kami"
+   },
+   "follow_wechat": {
+      "message": "Ikut Akaun Awam Infinity Wechat"
+   },
+   "follow_wechat_desc": {
+      "message": "Beri perhatian kepada nombor awam WeChat kami (isyarat mikro: Infinitydaily), dapatkan dinamik produk terbaru Infinity, dan anda boleh menemui lebih banyak keseronokan untuk berkembang dan laman web."
+   },
+   "font": {
+      "message": "Fon"
+   },
+   "font_color": {
+      "message": "Warna Font"
+   },
+   "font_size": {
+      "message": "Saiz teks"
+   },
+   "food_drink": {
+      "message": "Makanan"
+   },
+   "forget_password": {
+      "message": "Lupa kata laluan"
+   },
+   "format_error": {
+      "message": "Ralat format"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Kuantiti besar foto bebas royalti, percuma untuk digunakan dan dikemas kini setiap hari"
+   },
+   "fri": {
+      "message": "Jumaat"
+   },
+   "fri_min": {
+      "message": "Jum"
+   },
+   "fully_authorized_to_use": {
+      "message": "Sepenuhnya diberi kuasa untuk menggunakan fungsi"
+   },
+   "games": {
+      "message": "Permainan dan hiburan"
+   },
+   "gamil_notice": {
+      "message": "Notis Mail Gmail"
+   },
+   "gender": {
+      "message": "Pilih jantina"
+   },
+   "get_app_permission": {
+      "message": "Memberi kuasa untuk mendapatkan aplikasi tempatan anda"
+   },
+   "get_cloud_icon": {
+      "message": "Memperoleh dalam talian"
+   },
+   "give_money": {
+      "message": "Derma"
+   },
+   "give_money_thanks": {
+      "message": "Sokongan anda adalah ganjaran terbesar kami"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Jika anda suka halaman Tab Infinity New, sila menilai perkhidmatan kami atau memberi maklum balas kepada kami untuk membantu kami IGN."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Sekiranya anda mempunyai sebarang pertanyaan atau cadangan, sila hubungi kami."
+   },
+   "gmail_notice_voice": {
+      "message": "Nada dering pemberitahuan gmail."
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Carian Google adalah enjin carian yang dibangunkan oleh Google. Ia adalah enjin carian yang paling berpengaruh, paling berpengaruh di Internet"
+   },
+   "have_todo_item": {
+      "message": "Anda kini mempunyai item tugas"
+   },
+   "hide_homepage_btn": {
+      "message": "Sembunyikan Tetapkan sebagai Butang Rumah"
+   },
+   "hide_icon_name": {
+      "message": "Sembunyikan nama ikon."
+   },
+   "hide_search_button": {
+      "message": "Sembunyikan butang carian"
+   },
+   "hide_search_category": {
+      "message": "Sembunyikan kategori carian"
+   },
+   "hide_search_input": {
+      "message": "Sembunyikan kotak carian"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Sembunyikan Tetapkan sebagai Butang Rumah"
+   },
+   "hint": {
+      "message": "Tip"
+   },
+   "history": {
+      "message": "Sejarah"
+   },
+   "history_backup_list": {
+      "message": "Senarai Sejarah Senarai Node"
+   },
+   "history_week": {
+      "message": "Cari sejarah dalam seminggu"
+   },
+   "host_permission": {
+      "message": "Kebenaran tuan rumah."
+   },
+   "hour": {
+      "message": "jam"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Web"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Saya mahu memberi ganjaran"
+   },
+   "icon": {
+      "message": "Ikon"
+   },
+   "icon_added": {
+      "message": "Ditambah"
+   },
+   "icon_bg_text": {
+      "message": "Teks ikon"
+   },
+   "icon_network_error": {
+      "message": "Pengecualian rangkaian, klik untuk muat semula"
+   },
+   "ignore": {
+      "message": "Abaikan"
+   },
+   "img_verify_code": {
+      "message": "Gambar pengesahan"
+   },
+   "import_data": {
+      "message": "Import data sandaran"
+   },
+   "import_data_desc": {
+      "message": "Pulihkan data dari fail sandaran"
+   },
+   "import_select_tile": {
+      "message": "Pilih data"
+   },
+   "infinity_bookmarks": {
+      "message": "Flatten Hierarki Folder Bookmark anda dan cari penanda halaman dengan lebih mudah dengan penanda buku infiniti"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity memaparkan wallpaper anime"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Perpustakaan kertas dinding anime berkualiti tinggi berkualiti tinggi"
+   },
+   "infinity_extension": {
+      "message": "Urus sambungan dan aplikasi $browser$ anda dengan mudah dengan Pengurus Extension Infinity",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Cepat melihat dan mengurus sejarah penyemak imbas anda dengan sejarah infiniti"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity memaparkan wallpaper landskap"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Perpustakaan Landskap Landskap Berkualiti Tinggi"
+   },
+   "infinity_notes": {
+      "message": "Rekod Inspirasi Kehidupan dengan cepat dengan Nota Infiniti"
+   },
+   "infinity_settings": {
+      "message": "Peribadikan halaman Tab Infinity Baharu anda dengan Tetapan Infiniti"
+   },
+   "infinity_todos": {
+      "message": "Susun Tugas anda dalam urutan dan meningkatkan kecekapan kerja anda dengan senarai Infinity To-Do"
+   },
+   "infinity_wallpaper": {
+      "message": "Perpustakaan Wallpaper Infinity menyediakan anda dengan wallpaper yang kaya dan menarik"
+   },
+   "infinity_weather": {
+      "message": "Infinity Weather menyediakan anda ramalan cuaca di seluruh dunia"
+   },
+   "info": {
+      "message": "Maklumat"
+   },
+   "inportdata_desc": {
+      "message": "Data yang diimport tidak konsisten dengan data setempat. Sila pilih gabung atau tulis ganti."
+   },
+   "input_and_search": {
+      "message": "Masukkan carian"
+   },
+   "input_city": {
+      "message": "Masukkan Bandar/Wilayah"
+   },
+   "input_new_password": {
+      "message": "Masukkan kata laluan baharu"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Dihubungkan"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Foto percuma untuk sebarang tujuan"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Simpan kandungan kotak carian"
+   },
+   "label": {
+      "message": "Label"
+   },
+   "language": {
+      "message": "Bahasa"
+   },
+   "language_select": {
+      "message": "Pilih bahasa"
+   },
+   "last_sync_time": {
+      "message": "Masa penyegerakan terakhir: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Terakhir Dikemas Kini"
+   },
+   "layout": {
+      "message": "Susun atur"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Sumber Wallpaper HD Percuma"
+   },
+   "life_style": {
+      "message": "Gaya hidup"
+   },
+   "limit_input_length": {
+      "message": "Panjang teks melebihi had"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Ikon tempatan"
+   },
+   "local_wallpaper2": {
+      "message": "Wallpaper tempatan"
+   },
+   "login": {
+      "message": "Log masuk"
+   },
+   "login_abandon_tips": {
+      "message": "Kaedah daftar masuk semasa akan dibuang segera, sila ikat e-mel anda atau akaun pihak ketiga lain secepat mungkin selepas daftar masuk"
+   },
+   "login_now": {
+      "message": "Masuk ke Akaun Infinity anda sekarang untuk menikmati lebih banyak kebenaran"
+   },
+   "login_now_btn": {
+      "message": "Masuk"
+   },
+   "login_register": {
+      "message": "Masuk / Daftar"
+   },
+   "loging": {
+      "message": "Melog masuk"
+   },
+   "logout": {
+      "message": "Log keluar"
+   },
+   "logout_clear_something": {
+      "message": "Tetapan peribadi yang jelas dan maklumat lain pada peranti ini"
+   },
+   "logout_tips": {
+      "message": "Adakah anda perlu membersihkan data setempat sebelum anda log keluar dari akaun anda untuk mengelakkan data dari akaun yang berbeza pada peranti ini daripada menyambung?"
+   },
+   "logout_warn": {
+      "message": "Selepas log keluar dari akaun, semua maklumat sandaran di bawah akaun ini akan dipadamkan. Adakah anda pasti mahu keluar dari akaun ini? (Gambar Nota dan Perpustakaan Wallpaper Custom mungkin tidak tersedia)"
+   },
+   "male": {
+      "message": "Lelaki"
+   },
+   "manage_backup_node": {
+      "message": "Mengurus nod sandaran sejarah"
+   },
+   "manul_backup": {
+      "message": "Sokongan Manual"
+   },
+   "map": {
+      "message": "Peta"
+   },
+   "mask_density": {
+      "message": "Dim kertas dinding"
+   },
+   "me": {
+      "message": "Saya"
+   },
+   "merge_cloud_local": {
+      "message": "Menggabungkan data tempatan dan awan"
+   },
+   "merge_data": {
+      "message": "Gabung data"
+   },
+   "mini_mode": {
+      "message": "Mod Minimalis."
+   },
+   "mins": {
+      "message": "Min"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Gunakan di laman web, tema, templat, projek, bahan percetakan, dan surat khabar anda. Setiap minggu wallpaper dan video baru ditambah"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobile-version"
+   },
+   "modify": {
+      "message": "Ubah maklumat"
+   },
+   "modify_email": {
+      "message": "Ubah suai e-mel"
+   },
+   "modify_password": {
+      "message": "Edit kata laluan"
+   },
+   "modify_phone_number": {
+      "message": "Ubah suai nombor telefon"
+   },
+   "modify_pwd": {
+      "message": "Edit kata laluan"
+   },
+   "modify_success": {
+      "message": "Berjaya menukar"
+   },
+   "modify_this": {
+      "message": "Edit"
+   },
+   "mon": {
+      "message": "Isnin"
+   },
+   "mon_min": {
+      "message": "Isn"
+   },
+   "month_1": {
+      "message": "Januari"
+   },
+   "month_10": {
+      "message": "Oktober"
+   },
+   "month_11": {
+      "message": "November"
+   },
+   "month_12": {
+      "message": "Disember"
+   },
+   "month_2": {
+      "message": "Februari"
+   },
+   "month_3": {
+      "message": "Mac"
+   },
+   "month_4": {
+      "message": "April"
+   },
+   "month_5": {
+      "message": "Mei"
+   },
+   "month_6": {
+      "message": "Jun"
+   },
+   "month_7": {
+      "message": "Julai"
+   },
+   "month_8": {
+      "message": "Ogos"
+   },
+   "month_9": {
+      "message": "September"
+   },
+   "more_content_from_site": {
+      "message": "Lebih banyak kandungan dari laman web ini"
+   },
+   "most_used_in_chinese": {
+      "message": "Enjin carian menggunakan yang paling oleh orang Cina"
+   },
+   "music_video": {
+      "message": "Video Muzik"
+   },
+   "my_collection": {
+      "message": "Koleksi saya"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Sila masukkan nama laman web"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Alam"
+   },
+   "need_you_permission": {
+      "message": "Kebenaran diperlukan"
+   },
+   "network_error": {
+      "message": "Ralat rangkaian"
+   },
+   "new_email": {
+      "message": "Emel baru"
+   },
+   "new_password": {
+      "message": "Masukkan kata laluan baharu"
+   },
+   "new_phone_number": {
+      "message": "Nombor telefon baru"
+   },
+   "new_tab": {
+      "message": "Tab Baharu"
+   },
+   "new_tab_web": {
+      "message": "Infinity Homepage"
+   },
+   "news": {
+      "message": "Journalism"
+   },
+   "next": {
+      "message": "Seterusnya"
+   },
+   "nickname": {
+      "message": "Nama samaran"
+   },
+   "no_account_register": {
+      "message": "Tidak mempunyai akaun? Daftarlah sekarang."
+   },
+   "no_backup_time": {
+      "message": "Tiada"
+   },
+   "no_bookmark_result": {
+      "message": "Tiada penanda buku"
+   },
+   "no_chrome_app": {
+      "message": "Anda belum memasang sebarang aplikasi $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Data data cuaca"
+   },
+   "no_data": {
+      "message": "Tiada data"
+   },
+   "no_description": {
+      "message": "Tiada Perihalan"
+   },
+   "no_more": {
+      "message": "Tiada lagi"
+   },
+   "no_more_reminder": {
+      "message": "Jangan tunjukkan lagi"
+   },
+   "no_permission_text": {
+      "message": "Adalah disyorkan bahawa anda cuba membuka dan memberikan kebenaran ini di bar alamat penyemak imbas atau pusat tetapan."
+   },
+   "no_permission_title": {
+      "message": "Keizinan belum diberikan lagi"
+   },
+   "no_permission_to_open_app": {
+      "message": "Tiada kebenaran untuk membuka aplikasi $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Tiada Item Tugasan"
+   },
+   "no_search_result": {
+      "message": "Tiada hasil carian"
+   },
+   "no_title": {
+      "message": "Tiada tajuk"
+   },
+   "none": {
+      "message": "Tersembunyi"
+   },
+   "none_auto_backup": {
+      "message": "Pada masa ini tiada sandaran yang dijadualkan"
+   },
+   "none_auto_backup_desc": {
+      "message": "Backup yang dijadualkan akan bermula pada hari yang sama anda mengubah maklumat mengenai infiniti"
+   },
+   "none_manual_backup": {
+      "message": "Pada masa ini tiada sandaran manual"
+   },
+   "normal_model": {
+      "message": "Mod Standard"
+   },
+   "not_binding": {
+      "message": "Tidak dihubungkan"
+   },
+   "note_title": {
+      "message": "Masukkan tajuk nota"
+   },
+   "note_upload_img_15": {
+      "message": "Saiz imej ini tidak boleh melebihi 15M"
+   },
+   "notes": {
+      "message": "Nota"
+   },
+   "notice": {
+      "message": "Notis"
+   },
+   "ocean": {
+      "message": "laut"
+   },
+   "one_day_later": {
+      "message": "Ingatkan saya esok"
+   },
+   "one_week_later": {
+      "message": "Ingatkan saya dalam 1 minggu"
+   },
+   "only_used_infinity": {
+      "message": "Hanya digunakan untuk modul dalaman infiniti"
+   },
+   "opacity": {
+      "message": "Ikon opacity"
+   },
+   "open_all": {
+      "message": "Buka semua"
+   },
+   "open_chrome_app": {
+      "message": "Dayakan apl"
+   },
+   "open_extension": {
+      "message": "Dayakan Sambungan"
+   },
+   "open_folder_icons": {
+      "message": "Buka semua"
+   },
+   "open_new_tab": {
+      "message": "Buka Laman Web di Tab Baru"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Buka Pautan Bookmark di Tab Baru"
+   },
+   "open_newtab_history": {
+      "message": "Sejarah Terbuka dalam tab baru"
+   },
+   "open_newtab_show_search": {
+      "message": "Buka Keputusan Carian Pihak Ketiga di Tab Baru"
+   },
+   "origin_password": {
+      "message": "Kata laluan sekarang"
+   },
+   "other_bookmarks": {
+      "message": "Penanda Halaman Lain"
+   },
+   "others": {
+      "message": "Lain-lain"
+   },
+   "oversize": {
+      "message": "Saiz tidak boleh melebihi 2MB"
+   },
+   "overwrite_data": {
+      "message": "Tambah data"
+   },
+   "pagin": {
+      "message": "Button Pages"
+   },
+   "password": {
+      "message": "Kata laluan"
+   },
+   "password_dont_empty": {
+      "message": "Kata laluan tidak boleh kosong"
+   },
+   "password_length_low": {
+      "message": "Kata laluan tidak kurang daripada 6 digit"
+   },
+   "password_not_equals": {
+      "message": "Kata laluan tidak sepadan"
+   },
+   "password_not_some": {
+      "message": "Kata laluan yang dimasukkan tidak sepadan"
+   },
+   "permission": {
+      "message": "Beri keizinan"
+   },
+   "permission_all": {
+      "message": "Memberi kuasa kepada semua"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Permintaan untuk mengakses dan mengubah suai data anda di mail.google.com; Permintaan untuk menunjukkan pemberitahuan"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Pemberitahuan Gmail."
+   },
+   "permission_gmail_num_content": {
+      "message": "Permintaan untuk mengakses dan mengubah suai data anda di Mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Akses Kuantiti Gmail."
+   },
+   "permission_serch_suggest_content": {
+      "message": "Permintaan untuk mengakses dan mengubah suai data anda di google.com dan cadangan.baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Cadangan carian"
+   },
+   "permission_todo_notice_content": {
+      "message": "Meminta Pemberitahuan Paparan."
+   },
+   "permission_todo_notice_title": {
+      "message": "Pemberitahuan To-Do"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Permintaan untuk mengakses ikon yang sepadan dengan laman web yang dilawati, dan mengakses dan mengubah suai penanda buku anda"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Tunjukkan penanda buku di atas"
+   },
+   "permission_top_useful_content": {
+      "message": "Permintaan untuk mengakses ikon yang sepadan dengan laman web yang dikunjungi, dan mengakses dan mengubah suai senarai anda yang paling kerap di laman web"
+   },
+   "permission_top_useful_title": {
+      "message": "Tunjukkan laman web yang sering digunakan di atas"
+   },
+   "permisson_label": {
+      "message": "Kebenaran"
+   },
+   "phone_number": {
+      "message": "Nombor telefon"
+   },
+   "photos": {
+      "message": "Imej"
+   },
+   "pick_local_wallpaper": {
+      "message": "Pilih kertas dinding tempatan"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Foto percuma dan indah yang tersedia untuk sebarang kegunaan"
+   },
+   "placeholder_name": {
+      "message": "Nama"
+   },
+   "please_chose_picture": {
+      "message": "Sila pilih foto"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Sila masukkan nama penanda buku"
+   },
+   "please_enter_email": {
+      "message": "Masukkan alamat e-mel"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Sila masukkan kod pengesahan imej"
+   },
+   "please_enter_nickname": {
+      "message": "Masukkan nama berian"
+   },
+   "please_enter_phone": {
+      "message": "Sila masukkan nombor telefon"
+   },
+   "please_enter_right_account": {
+      "message": "Sila masukkan e-mel atau nombor telefon yang betul"
+   },
+   "please_enter_text": {
+      "message": "Input teks"
+   },
+   "please_enter_url": {
+      "message": "Taip URL"
+   },
+   "please_input_bg_text": {
+      "message": "Sila masukkan teks ikon"
+   },
+   "please_pre_login": {
+      "message": "Sila log masuk dahulu"
+   },
+   "please_re_login": {
+      "message": "Sila daftar masuk lagi"
+   },
+   "please_set_your_password": {
+      "message": "Sila tetapkan kata laluan"
+   },
+   "please_type_link": {
+      "message": "Sila masukkan link"
+   },
+   "please_type_right_link": {
+      "message": "Sila masukkan alamat pautan yang betul"
+   },
+   "please_upload_photos": {
+      "message": "Memuat naik gambar sila."
+   },
+   "popular": {
+      "message": "Popular"
+   },
+   "preview": {
+      "message": "Pratonton"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Koleksi Privasi dan Data"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Imej yang dihasilkan oleh ikon laman web yang disesuaikan"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Imej yang dihasilkan oleh enjin carian yang disesuaikan"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Alamat e-mel berdaftar anda, gambar profil yang dimuat naik, nama samaran yang dipilih, kata laluan teks bukan biasa, dan maklumat lain"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Jika anda log masuk dengan akaun pihak ketiga, kami akan menyimpan nama panggilan, jantina, gambar profil, dan maklumat lain yang disediakan oleh pihak ketiga"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Maklumat Ikon Laman Web dan Maklumat Enjin Carian yang anda tambah"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Maklumat cuaca di kawasan atau maklumat cuaca anda di kawasan lain yang anda tetapkan"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Senarai tugasan yang anda buat"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Kandungan nota yang anda buat dan imej yang dimuat naik dalam nota anda"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Kertas dinding semasa anda, tetapan kertas dinding, imej yang dimuat naik ke kertas dinding tempatan anda, dan imej yang dimuat naik ke perpustakaan kertas dinding anda"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Tetapan sambungan"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Pelayan boleh menyimpan log yang dihasilkan semasa interaksi dengan pengguna dan pelanggan. Rekod ini digunakan terutamanya untuk menyelesaikan masalah pengecualian. Kami akan membersihkan log ini dari semasa ke semasa."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Jenis penyemak imbas, bahasa, dan versi, dan resolusi skrin"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Sedang log masuk atau tidak"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Anggaran nombor ikon semasa"
+   },
+   "privacy_data_item_4_12": {
+      "message": "Sambungan yang sedang diaktifkan (jika anda menggunakan ciri pengurusan lanjutan)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Bilangan kali Pelanjutan ini telah dibuka"
+   },
+   "privacy_data_item_4_2": {
+      "message": "Alamat IP dan lokasi geografi yang berasal dari alamat IP"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Ikon laman web dan enjin carian ditambah"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Tetapan Wallpaper dan Sambungan"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Versi lanjutan"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Kekerapan mengklik pada butang fungsi"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Mesej Ralat Pengecualian"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Buka alamat alamat laman web"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Tuan rumah enjin carian semasa"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Kami akan menghitung secara anonim bilangan kali beberapa enjin carian yang digunakan."
+   },
+   "privacy_data_item_9": {
+      "message": "Anda mesti setuju dengan polisi privasi ini sebelum anda boleh guna sambungan ini.Lihat $the_infinity_privacy$ kita untuk belajar lebih banyak.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Tidak, jangan mengumpul data tanpa nama"
+   },
+   "privacy_data_title_1": {
+      "message": "Kami boleh menyimpan imej yang dihasilkan secara sukarela oleh pengguna semasa penggunaan. Imej berikut disimpan secara anonim:"
+   },
+   "privacy_data_title_2": {
+      "message": "Jika anda mendaftar atau log masuk ke akaun anda, kami perlu menyimpan data yang boleh dikenalpasti berikut (selepas ini dirujuk sebagai data pengguna) pada pelayan kami untuk melengkapkan sandaran data dan penyegerakan:"
+   },
+   "privacy_data_title_3": {
+      "message": "Log pelayan:"
+   },
+   "privacy_data_title_4": {
+      "message": "Pengumpulan maklumat berikut adalah pilihan. Maklumat ini akan dikumpulkan secara anonim melalui Google Analytics membantu kami memperbaiki produk kami:"
+   },
+   "privacy_data_title_5": {
+      "message": "Analisis statistik:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Sila sahkan untuk menyahpasang halaman Tab Infinity New"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Sila sahkan untuk menyahpasang Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Uninstall Infinity New Tab Page?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Nyahpasang Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Ya, data tanpa nama boleh dikumpulkan mengikut Dasar Privasi"
+   },
+   "privacy_disagree": {
+      "message": "Tidak Setuju"
+   },
+   "privacy_policy": {
+      "message": "Dasar Privasi"
+   },
+   "privacy_title": {
+      "message": "Perjanjian Dasar Privasi"
+   },
+   "profile": {
+      "message": "Maklumat peribadi"
+   },
+   "pure_color": {
+      "message": "Warna tulen"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "Kumpulan QQ"
+   },
+   "qq_zone": {
+      "message": "QZone"
+   },
+   "random_wallpaper": {
+      "message": "Wallpaper rawak"
+   },
+   "re_update": {
+      "message": "Menaik taraf semula."
+   },
+   "read": {
+      "message": "Baca"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Jumlah besar foto HD yang tersedia untuk kegunaan peribadi dan komersial, 7 yang baru setiap minggu"
+   },
+   "recently_add": {
+      "message": "Ditambah Baru-baru Ini"
+   },
+   "recently_use": {
+      "message": "Baru-baru ini digunakan."
+   },
+   "recover_error": {
+      "message": "Pemulihan data gagal"
+   },
+   "recover_error_version": {
+      "message": "Tidak disokong format data"
+   },
+   "recover_this": {
+      "message": "Pulih dari nod ini"
+   },
+   "redius": {
+      "message": "Ikon Bulat Corners."
+   },
+   "refresh_qrcode": {
+      "message": "Kod QR tidak sah, klik Refresh"
+   },
+   "register": {
+      "message": "Daftar"
+   },
+   "register_back": {
+      "message": "Pergi balik"
+   },
+   "register_get_email_code_error": {
+      "message": "Gagal mendapatkan kod pengesahan"
+   },
+   "register_now": {
+      "message": "Daftar Akaun Infinity Anda Sekarang untuk menikmati lebih banyak kebenaran"
+   },
+   "relative_humidity": {
+      "message": "Kelembapan relatif"
+   },
+   "reload": {
+      "message": "Cuba lagi"
+   },
+   "reminder_update_text1": {
+      "message": "Bagi anda untuk mendapatkan pengalaman yang lebih baik menggunakan Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Sebaiknya tingkatkan penyemak imbas ke versi terbaru, dan disarankan untuk menggunakan penyemak imbas yang serasi dengan Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Paparan Ralat pada halaman"
+   },
+   "remove_account": {
+      "message": "Padam Akaun"
+   },
+   "remove_done": {
+      "message": "Buang item tugasan selesai"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Semua wallpaper di bawah Perpustakaan Wallpaper ini akan dikeluarkan bersama-sama"
+   },
+   "rename_folder": {
+      "message": "Namakan semula"
+   },
+   "repair_auto_backup": {
+      "message": "Membuat sandaran data secara automatik"
+   },
+   "repair_concat": {
+      "message": "butiran kenalan"
+   },
+   "repair_concat_email": {
+      "message": "E-mel: "
+   },
+   "repair_concat_qq": {
+      "message": "Jurutera QQ: "
+   },
+   "repair_data": {
+      "message": "Data pembaikan"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Sila hantarkan fail data untuk diperbaiki melalui maklumat hubungan berikut, dan kami akan membantu anda memperbaiki data secepat mungkin. Sebelum jurutera menyelesaikan masalah, sila cuba untuk tidak melakukan operasi lain. Fail ini mungkin mengandungi maklumat sensitif seperti akaun, jangan sampai mendedahkannya kepada orang lain."
+   },
+   "repair_data_title": {
+      "message": "Dapatkan data yang hilang atau rosak"
+   },
+   "repair_export_btn": {
+      "message": "Data Eksport untuk dibaiki"
+   },
+   "repeat_city": {
+      "message": "Anda tidak boleh menambah bandar yang sama sekali lagi"
+   },
+   "reqeust_login_message": {
+      "message": "Anda mesti merakam masuk untuk menggunakan ciri ini"
+   },
+   "request_logout_confirm": {
+      "message": "Padam akaun anda?"
+   },
+   "request_reset_all_settings": {
+      "message": "Adakah anda pasti mahu menetapkan semula tetapan kepada nilai lalai?"
+   },
+   "reset": {
+      "message": "Tetapkan semula"
+   },
+   "reset_password": {
+      "message": "Set semula kata laluan"
+   },
+   "reset_password_by_email": {
+      "message": "Tetapkan semula kata laluan anda melalui pengesahan e-mel"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Tetapkan semula kata laluan anda melalui e-mel atau pengesahan nombor telefon"
+   },
+   "reset_setting": {
+      "message": "Tetapkan semula tetapan"
+   },
+   "reset_your_password": {
+      "message": "Sila reset katalaluan anda"
+   },
+   "restore_setting": {
+      "message": "Pulihkan Tetapan"
+   },
+   "revovery_data": {
+      "message": "Pulihkan data"
+   },
+   "row_gap": {
+      "message": "Jarak baris"
+   },
+   "row_num": {
+      "message": "Bilangan lajur"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Klik pilihan seperti yang ditunjukkan oleh anak panah dalam angka."
+   },
+   "safari_browser_guide2": {
+      "message": "Dalam tetingkap pop timbul, masukkan URL https://inftab.com dalam lajur halaman Laman Utama."
+   },
+   "safari_browser_guide3": {
+      "message": "Klik butang di bawah URL untuk melengkapkan tetapan halaman Laman Utama."
+   },
+   "sat": {
+      "message": "Sabtu"
+   },
+   "sat_min": {
+      "message": "Sab"
+   },
+   "save": {
+      "message": "Simpan"
+   },
+   "scale": {
+      "message": "Saiz ikon"
+   },
+   "scale_main": {
+      "message": "Zum skrin"
+   },
+   "scale_side": {
+      "message": "Side Column Zoom."
+   },
+   "scheduled_backup": {
+      "message": "Sandaran berjadual"
+   },
+   "search": {
+      "message": "Cari"
+   },
+   "search_bookmark": {
+      "message": "Cari penanda halaman anda"
+   },
+   "search_engine": {
+      "message": "Enjin Carian"
+   },
+   "search_engine_error": {
+      "message": "Masukkan nama enjin carian"
+   },
+   "search_error": {
+      "message": "Beban gagal"
+   },
+   "search_extension": {
+      "message": "Cari sambungan"
+   },
+   "search_from": {
+      "message": "Mencari dari: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "ikon carian"
+   },
+   "search_input": {
+      "message": "kotak carian"
+   },
+   "search_input_shadow": {
+      "message": "Carian kotak bayangan"
+   },
+   "search_opacity": {
+      "message": "Carian kotak opacity"
+   },
+   "search_redius": {
+      "message": "Carian kotak bulat"
+   },
+   "search_result": {
+      "message": "Hasil Carian"
+   },
+   "search_size": {
+      "message": "Saiz kotak Search."
+   },
+   "search_suggest": {
+      "message": "Papar cadangan carian"
+   },
+   "search_website": {
+      "message": "Cari laman web"
+   },
+   "searching": {
+      "message": "Mencari"
+   },
+   "select_date": {
+      "message": "Pilih Tarikh"
+   },
+   "select_icon": {
+      "message": "Pilih ikon"
+   },
+   "select_time": {
+      "message": "Pilih Masa"
+   },
+   "send_success": {
+      "message": "E-mel pengesahan dihantar. Sila semak peti masuk"
+   },
+   "set_homepage_desc": {
+      "message": "Pasang pelanjutan untuk penyemak imbas untuk menikmati ciri-ciri penuh"
+   },
+   "set_homepage_title2": {
+      "message": "Fungsi ini tidak disokong dalam versi semasa_#_Pasang pelanjutan penyemak imbas sebelum menggunakannya"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Tetapkan Infinity sebagai laman utama untuk penyemak imbas anda"
+   },
+   "set_new_password": {
+      "message": "Tetapkan kata laluan baru"
+   },
+   "set_remind_time": {
+      "message": "Menetapkan masa peringatan"
+   },
+   "set_setting_default": {
+      "message": "Pulihkan ke tetapan lalai"
+   },
+   "set_to_homepage": {
+      "message": "Tetapkan sebagai Halaman Utama"
+   },
+   "set_top": {
+      "message": "Di atas"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "tetapkan nama samaran dan avatar"
+   },
+   "settings": {
+      "message": "Tetapan"
+   },
+   "shadow": {
+      "message": "Icons Shadow"
+   },
+   "share": {
+      "message": "Kongsi"
+   },
+   "share_by_user": {
+      "message": "pengguna berkongsi"
+   },
+   "share_desc": {
+      "message": "Infinity tab baru, sambungan navigasi yang dipilih oleh berjuta-juta, tab baru yang paling mesra pengguna pada penyemak imbas"
+   },
+   "share_title": {
+      "message": "Ia mungkin tab baru terbaik pada pelayar $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Membeli-belah dan Membeli Kumpulan"
+   },
+   "shortcut_mode": {
+      "message": "Mod Ekspres"
+   },
+   "show_detail": {
+      "message": "Lihat sekarang."
+   },
+   "show_gamil_unread_number": {
+      "message": "Tunjukkan bilangan e-mel yang belum dibaca dari Gmail pada ikon"
+   },
+   "show_later": {
+      "message": "Ingatkan saya selepas ini."
+   },
+   "show_name": {
+      "message": "Nama paparan"
+   },
+   "show_reminders_number": {
+      "message": "Tunjukkan bilangan to-do pada ikon"
+   },
+   "skip": {
+      "message": "Langkau"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Tempat untuk mencari, memaparkan, dan berkongsi foto"
+   },
+   "social": {
+      "message": "Media sosial dan blog"
+   },
+   "solid_color_wallpaper": {
+      "message": "Wallpaper Warna Single"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Enjin carian yang boleh mencari kandungan yang diposkan oleh akaun rasmi WeChat"
+   },
+   "sports": {
+      "message": "Sukan dan perjalanan"
+   },
+   "start_animation": {
+      "message": "Mulakan animasi"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Menyediakan permulaan, blogger, penerbit, laman web, pereka, pemaju, pencipta dan seterusnya dengan foto percuma"
+   },
+   "street_photography": {
+      "message": "Jalan"
+   },
+   "sun": {
+      "message": "Ahad"
+   },
+   "sun_min": {
+      "message": "Aha"
+   },
+   "support": {
+      "message": "Sokongan"
+   },
+   "switch_to": {
+      "message": "Bertukar kepada"
+   },
+   "sync_fail": {
+      "message": "Penyegerakan gagal, sila cuba lagi"
+   },
+   "sync_suncess": {
+      "message": "Segerak selesai"
+   },
+   "sync_type_tips": {
+      "message": "Data awan dan data tempatan dikesan untuk tidak konsisten. Sila pilih satu jenis data."
+   },
+   "syncing": {
+      "message": "Data disegerakkan..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Anda belum memasang aplikasi $browser$ ini",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Cara untuk membuka sasaran"
+   },
+   "tech": {
+      "message": "Teknologi"
+   },
+   "technology": {
+      "message": "Teknologi"
+   },
+   "term_of_use": {
+      "message": "Terma Penggunaan"
+   },
+   "text": {
+      "message": "Teks"
+   },
+   "text_shadow": {
+      "message": "Bayangan Teks"
+   },
+   "thirt_party": {
+      "message": "Gunakan log masuk akaun pihak ketiga"
+   },
+   "thu": {
+      "message": "Khamis"
+   },
+   "thu_min": {
+      "message": "Kha"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Buka mana-mana laman web dan masukkan \"% s\" dalam kotak carian untuk mencari. (Dengan Google sebagai contoh)"
+   },
+   "tip_question_2": {
+      "message": "2. Salin URL hasil carian secara langsung"
+   },
+   "tip_question_3": {
+      "message": "3. Tampalkan URL yang disalin di sini dan anda sudah selesai"
+   },
+   "tip_question_title": {
+      "message": "Mengenai penggunaan \"% s\" untuk menggantikan istilah carian"
+   },
+   "to_login": {
+      "message": "Log masuk sekarang"
+   },
+   "today": {
+      "message": "Hari ini"
+   },
+   "todo_welcome": {
+      "message": "Selamat datang ke halaman Tab Infinity New. Ini adalah item sampel untuk melakukan."
+   },
+   "todos": {
+      "message": "Tugasan"
+   },
+   "top_bookmark": {
+      "message": "Tunjukkan penanda buku di atas"
+   },
+   "top_use_ful": {
+      "message": "Tunjukkan laman web yang sering digunakan di atas"
+   },
+   "travel": {
+      "message": "Pelancongan"
+   },
+   "tue": {
+      "message": "Selasa"
+   },
+   "tue_min": {
+      "message": "Sel"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Ingatkan saya dalam 2 jam"
+   },
+   "type_link": {
+      "message": "Masukkan Pautan"
+   },
+   "type_text": {
+      "message": "Input teks"
+   },
+   "unbind": {
+      "message": "Nyahhubungkan"
+   },
+   "unbind_btn": {
+      "message": "Nyahhubungkan"
+   },
+   "unbind_email": {
+      "message": "Buka e-mel"
+   },
+   "unbind_phone_number": {
+      "message": "Nyahikat nombor telefon anda"
+   },
+   "unbind_success": {
+      "message": "Dihapus berjaya"
+   },
+   "uninstall_agree": {
+      "message": "Setuju"
+   },
+   "uninstall_chrome_app": {
+      "message": "Nyahpasang aplikasi"
+   },
+   "uninstall_extension": {
+      "message": "Alih keluar pelanjutan"
+   },
+   "unknown_mistake": {
+      "message": "Ralat tidak diketahui"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Wallpaper berkualiti tinggi di dunia"
+   },
+   "unzip_folder_content": {
+      "message": "Folder akan dipadamkan dan ikon akan disimpan. Adakah anda pasti?"
+   },
+   "unzip_folder_title": {
+      "message": "Keluaran"
+   },
+   "update_data": {
+      "message": "Menaik taraf data"
+   },
+   "update_data_failure": {
+      "message": "Update Profil Gagal"
+   },
+   "update_desc_1": {
+      "message": "Jika penukaran data gagal semasa menaik taraf versi, anda boleh cuba untuk menaik taraf semula data."
+   },
+   "update_desc_2": {
+      "message": "Jika anda masih tidak dapat menyelesaikan masalah beberapa kali, anda boleh menghubungi jurutera kami, kami akan cuba membantu anda menyelesaikannya."
+   },
+   "update_desc_3": {
+      "message": "Data penukaran Menimpa data versi baru, disarankan agar anda membuat sandaran data sebelum anda beroperasi."
+   },
+   "update_error_desc1": {
+      "message": "Anda boleh cuba untuk menaik taraf semula jika anda mengesan beberapa data."
+   },
+   "update_error_desc2": {
+      "message": "Sekiranya anda gagal menaik taraf, anda juga boleh mengklik ikon \"Tetapan\" dari sudut kanan atas untuk masuk - [MY] - [sandaran dan pembaikan]."
+   },
+   "update_now": {
+      "message": "Kemas kini sekarang"
+   },
+   "update_or_repair_data": {
+      "message": "Menaik taraf atau membaiki data"
+   },
+   "upload_avatar_failure": {
+      "message": "Gagal memuat naik gambar avatar anda"
+   },
+   "upload_file_error": {
+      "message": "Gagal memuat naik fail"
+   },
+   "upload_image_error": {
+      "message": "Gagal memuat naik imej"
+   },
+   "uploading": {
+      "message": "Memuat naik..."
+   },
+   "use_cloud": {
+      "message": "Gunakan data awan"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Masukkan teks dan tekan ENTER untuk menambah"
+   },
+   "use_local": {
+      "message": "Gunakan data tempatan"
+   },
+   "use_mobile_screen": {
+      "message": "Gunakan peranti mudah alih untuk mengimbas kod QR"
+   },
+   "user_evaluation": {
+      "message": "Komen Pengguna"
+   },
+   "username_cannot_empty": {
+      "message": "Nama pengguna tidak boleh kosong"
+   },
+   "verify_password_desc": {
+      "message": "Untuk keselamatan akaun anda, sila masukkan kata laluan akaun"
+   },
+   "verity_code": {
+      "message": "Hantar Kod Pengesahan"
+   },
+   "verity_code_no_value": {
+      "message": "Kod pengesahan mesti diisi"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Lihat"
+   },
+   "w309": {
+      "message": "Hujan renyai-renyai"
+   },
+   "w_100": {
+      "message": "hari yang cerah"
+   },
+   "w_101": {
+      "message": "Redup"
+   },
+   "w_102": {
+      "message": "Beberapa awan"
+   },
+   "w_103": {
+      "message": "Sebahagian besarnya cerah"
+   },
+   "w_104": {
+      "message": "Redup"
+   },
+   "w_200": {
+      "message": "Berangin"
+   },
+   "w_201": {
+      "message": "Tenang"
+   },
+   "w_202": {
+      "message": "Berangin"
+   },
+   "w_203": {
+      "message": "Angin bertiup sederhana"
+   },
+   "w_204": {
+      "message": "Angin Segar"
+   },
+   "w_205": {
+      "message": "Angin bertiup kuat"
+   },
+   "w_206": {
+      "message": "Angin tinggi"
+   },
+   "w_207": {
+      "message": "Angin Kencang"
+   },
+   "w_208": {
+      "message": "Bayu Kuat"
+   },
+   "w_209": {
+      "message": "Ribut"
+   },
+   "w_210": {
+      "message": "Kencang"
+   },
+   "w_211": {
+      "message": "Taufan"
+   },
+   "w_212": {
+      "message": "Putting beliung"
+   },
+   "w_213": {
+      "message": "Badai tropika"
+   },
+   "w_300": {
+      "message": "Hujan"
+   },
+   "w_301": {
+      "message": "Hujan panas lebat"
+   },
+   "w_302": {
+      "message": "Ribut Petir"
+   },
+   "w_303": {
+      "message": "Hujan petir lebat"
+   },
+   "w_304": {
+      "message": "Ribut petir dengan hujan beku"
+   },
+   "w_305": {
+      "message": "Hujan renyai"
+   },
+   "w_306": {
+      "message": "Hujan sederhana"
+   },
+   "w_307": {
+      "message": "Hujan lebat"
+   },
+   "w_308": {
+      "message": "Terdapat hujan melampau"
+   },
+   "w_310": {
+      "message": "Hujan lebat"
+   },
+   "w_311": {
+      "message": "Ribut yang teruk"
+   },
+   "w_312": {
+      "message": "Hujan lebat luarbiasa"
+   },
+   "w_313": {
+      "message": "Hujan Beku"
+   },
+   "w_314": {
+      "message": "Hujan renyai berrubah menjadi hujan sederhana"
+   },
+   "w_315": {
+      "message": "Hujan sederhana berubah menjadi hujan lebat"
+   },
+   "w_316": {
+      "message": "Hujan lebat ke ribut"
+   },
+   "w_317": {
+      "message": "Ribut ke ribut teruk"
+   },
+   "w_318": {
+      "message": "Ribut teruk ke badai"
+   },
+   "w_399": {
+      "message": "Hujan"
+   },
+   "w_400": {
+      "message": "Salji ringan"
+   },
+   "w_401": {
+      "message": "Salji yang sederhana"
+   },
+   "w_402": {
+      "message": "Salji lebat"
+   },
+   "w_403": {
+      "message": "Ribut salji"
+   },
+   "w_404": {
+      "message": "Campuran musim sejuk"
+   },
+   "w_405": {
+      "message": "Hujan ais dan salji"
+   },
+   "w_406": {
+      "message": "Hujan Beku Setempat"
+   },
+   "w_407": {
+      "message": "Hujan salji"
+   },
+   "w_408": {
+      "message": "Salji renyai dan sederhana"
+   },
+   "w_409": {
+      "message": "Salji sederhana dan lebat"
+   },
+   "w_410": {
+      "message": "Salji lebat kepada ribut salji"
+   },
+   "w_499": {
+      "message": "Salji"
+   },
+   "w_500": {
+      "message": "Kabus"
+   },
+   "w_501": {
+      "message": "Kabus"
+   },
+   "w_502": {
+      "message": "Kabus kering"
+   },
+   "w_503": {
+      "message": "Pasir"
+   },
+   "w_504": {
+      "message": "Debu"
+   },
+   "w_507": {
+      "message": "Ribut pasir"
+   },
+   "w_508": {
+      "message": "Sandstorm yang kuat"
+   },
+   "w_509": {
+      "message": "Kabus Tebal"
+   },
+   "w_510": {
+      "message": "Kabus tebal yang kuat"
+   },
+   "w_511": {
+      "message": "Jerebu sederhana"
+   },
+   "w_512": {
+      "message": "Jerebu​ tebal"
+   },
+   "w_513": {
+      "message": "Jerebu teruk"
+   },
+   "w_514": {
+      "message": "Berkabut"
+   },
+   "w_515": {
+      "message": "Kabus tebal"
+   },
+   "w_900": {
+      "message": "Panas"
+   },
+   "w_901": {
+      "message": "Sejuk"
+   },
+   "w_999": {
+      "message": "Tidak diketahui"
+   },
+   "wallpaper": {
+      "message": "Kertas dinding"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Tambah Warna Custom"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Gagal menambah imej. Cuba lagi nanti."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Aplikasi kertas dinding tempatan gagal. Cuba lagi nanti"
+   },
+   "wallpaper_applying_library": {
+      "message": "Perpustakaan Wallpaper sedang digunakan..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Kekerapan segar semula hias latar"
+   },
+   "wallpaper_choose_library": {
+      "message": "Pilih sumber kertas dinding"
+   },
+   "wallpaper_choose_single": {
+      "message": "Pilih kertas dinding"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Kosongkan pilihan"
+   },
+   "wallpaper_cloud": {
+      "message": "Wallpaper awan"
+   },
+   "wallpaper_collect_current": {
+      "message": "Kumpulkan wallpaper semasa."
+   },
+   "wallpaper_common_color": {
+      "message": "Warna sejagat"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Padam hias latar ini?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Gagal membuat perpustakaan kertas dinding tempatan. Cuba lagi nanti."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Perpustakaan kertas dinding yang disesuaikan pengguna melebihi had"
+   },
+   "wallpaper_custom_color": {
+      "message": "Warna Tersuai"
+   },
+   "wallpaper_delete_color": {
+      "message": "Padamkan warna ini"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "berjaya dipadam"
+   },
+   "wallpaper_delete_file": {
+      "message": "Padamkan wallpaper"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Gagal Padam Wallpaper"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Lumpuhkan Switching Wallpaper Automatik"
+   },
+   "wallpaper_empty_text": {
+      "message": "Tiada data"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Perolehan hiasan latar gagal"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Gagal Dapatkan Wallpaper Pengguna"
+   },
+   "wallpaper_library": {
+      "message": "Perpustakaan Wallpaper"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$ Pustaka kertas dinding setempat",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Nama Perpustakaan Wallpaper Haram"
+   },
+   "wallpaper_library_preview": {
+      "message": "Pratonton Kertas dinding"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Muat naik maksimum 20 wallpaper. Setiap kertas dinding tidak boleh melebihi 10m."
+   },
+   "wallpaper_loading": {
+      "message": "Sedang memproses..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Perlu sambungan rangkaian untuk melakukannya"
+   },
+   "wallpaper_remove_library": {
+      "message": "Keluarkan perpustakaan kertas dinding ini"
+   },
+   "wallpaper_sort_default": {
+      "message": "Pengisihan Default"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Popularitas"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Tarikh dimasukkan"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Tukar setiap 24 jam"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Wallpaper bertukar gagal"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Kemas kini wallpaper harian anda dengan Bing. Anda tidak boleh memilih frekuensi pensuisan."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Beralih setiap 1 jam"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Tukar setiap 12 jam"
+   },
+   "wallpaper_switch_success": {
+      "message": "Wallpaper Rawak berjaya diubah"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Tukar ke Wallpaper Seterusnya"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Tukar apabila membuka tab baru"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Tukar apabila membuka halaman"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Muat naik fail gagal. Sebab: Saiz melebihi had"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Pilih latar belakang tempatan"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Sekurang-kurangnya satu kertas dinding diperlukan"
+   },
+   "want_more": {
+      "message": "Nikmati lebih banyak faedah dengan serta-merta"
+   },
+   "weather": {
+      "message": "Cuaca"
+   },
+   "weather_empty": {
+      "message": "Tiada maklumat cuaca yang ada sekarang"
+   },
+   "web_set_home_title": {
+      "message": "Bagaimana untuk menetapkan Infinity sebagai laman utama"
+   },
+   "website_address": {
+      "message": "URL"
+   },
+   "website_name": {
+      "message": "Nama tapak web"
+   },
+   "website_search_replace_char": {
+      "message": "URL (Gunakan% s untuk menggantikan perkataan carian)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Rabu"
+   },
+   "wed_min": {
+      "message": "Rab"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Angin"
+   },
+   "wind_mill": {
+      "message": "Paparkan butang Wallpaper Rawak di sudut kanan bawah"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Carian Yahoo adalah enjin carian yang dikendalikan oleh Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex adalah salah satu portal perkhidmatan internet yang paling penting di Rusia"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$tahun$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Semalam"
+   },
+   "you_need_login": {
+      "message": "Log masuk ke Akaun Infinity untuk menggunakan ciri ini"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Sejarah pelayaran anda akan dipaparkan di sini"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

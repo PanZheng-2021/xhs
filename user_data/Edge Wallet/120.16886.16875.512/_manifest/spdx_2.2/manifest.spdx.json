@@ -1,0 +1,4763 @@
+{
+  "files": [
+    {
+      "fileName": "./../hub/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-hub--manifest-spdx-2.2-manifest.spdx.json-914F4FBDED8E3A7F867F612E2156032FBD1313AD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18f5e9368b7163a75a343612761847d78c63ad27d98b5669a5763b3fb360b7c0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "914f4fbded8e3a7f867f612e2156032fbd1313ad"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../hub-fallback/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-hub-fallback--manifest-spdx-2.2-manifest.spdx.json-A37CFDAF950F1AC43221DCBCFBDF95971AEEFF39",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c930a764262608c14fad41a46195c3229905ea29c2dfd7b2e416d929c9c4c5ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a37cfdaf950f1ac43221dcbcfbdf95971aeeff39"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../crypto-drawer/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-crypto-drawer--manifest-spdx-2.2-manifest.spdx.json-2B038B31A36796B321ABE5BB1A63C335E19FB533",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d865aded5ff17493cd05e3765ff22f88060d6d244d31c7f9824da50695d7ec6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b038b31a36796b321abe5bb1a63c335e19fb533"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../crypto-help-center/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-crypto-help-center--manifest-spdx-2.2-manifest.spdx.json-E251F4856A28AC52C06EB32BA65891FA0F3E6176",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3570f67a70f57e4ff02ba67fd9aafebe47cae3c8c8b70d1d2f7eb0cc643ccbe7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e251f4856a28ac52c06eb32ba65891fa0f3e6176"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../bundle-crypto-hub/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-bundle-crypto-hub--manifest-spdx-2.2-manifest.spdx.json-313F3EBCFD68F3F9B7232F9446687E91E0C9E247",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1d8a56c6d48d9be5e414afc9563d5b241a71e4ba3849a505c27e52f7d329cbf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "313f3ebcfd68f3f9b7232f9446687e91e0c9e247"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../bundle-hub/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-bundle-hub--manifest-spdx-2.2-manifest.spdx.json-3AED0BFFEB1129FA83F1FD1F0746C417CEEA24AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2bf8d78c164472f2676fbb0c600766ce199514ac143a97d35463a2f097cdd011"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3aed0bffeb1129fa83f1fd1f0746c417ceea24ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../hub-mock/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-hub-mock--manifest-spdx-2.2-manifest.spdx.json-D7D4D5664ABAF2106B9531998F5A47C352405A5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9984bf06a7fe305c2e5258ed727e495f74413ee6e56a83723af8d867dacabf3b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d7d4d5664abaf2106b9531998f5a47c352405a5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../crypto-hub/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-crypto-hub--manifest-spdx-2.2-manifest.spdx.json-387480C2716072929F066A7FD2B182EA89790AD3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67bbad28a8a788ca676fbd7b2082fd346caff7736cb572b5f6b470842e3fb9be"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "387480c2716072929f066a7fd2b182ea89790ad3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../bundle-hub/bnpl/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-bundle-hub-bnpl--manifest-spdx-2.2-manifest.spdx.json-2B9C1156C5B3B23CA50AF254E0166882BAE1B87B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87cce5767a39ee5cffb1b1b4c4812123e902b993d0ddbd711e2f902f2b09dff9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2b9c1156c5b3b23ca50af254e0166882bae1b87b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../tokenized-card-mock/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-tokenized-card-mock--manifest-spdx-2.2-manifest.spdx.json-669AEEE41F1D9ADF0C37F09F4B8852B651C6F552",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0749a03a449add6ee7cba416d1da836f2fabc7766e0f392de755097a5dd44ca7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "669aeee41f1d9adf0c37f09f4b8852b651c6f552"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../ec-driver/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-ec-driver--manifest-spdx-2.2-manifest.spdx.json-D9223533496462C837DFC3558BFC6D103CC84AD8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8c5f799225907be3b2cf2bf014de46e75435584442e790a02418a38aa3ae348"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9223533496462c837dfc3558bfc6d103cc84ad8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./Wallet-Checkout/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-manifest.spdx.json-5716790098598DA5C6FC3C85F39D363D300BC7B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b0c7c1e34f59588dd1eb2e9f33d2cb12e9940cd2e4e0e9dbd99987ae7896c76c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5716790098598da5c6fc3c85f39d363d300bc7b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../bundle-crypto-help-center/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-bundle-crypto-help-center--manifest-spdx-2.2-manifest.spdx.json-617AE6B1C722D71325C9DBCB2EDC8587429706CF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2014f0b60ed689eaae0f0611c640cbfa0dbf81bab11fc473affe5aabef4c76bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "617ae6b1c722d71325c9dbcb2edc8587429706cf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../notification/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-notification--manifest-spdx-2.2-manifest.spdx.json-A23F8D0D624A7ED4B7A9790C5CA7F7CF6C70D102",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "16f66a93d93726b1537ef465c976b4e0a0c7f7692f0af95bac225440197c05e6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a23f8d0d624a7ed4b7a9790c5ca7f7cf6c70d102"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../tokenized-card/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-tokenized-card--manifest-spdx-2.2-manifest.spdx.json-7C86B4BC2D780BC5783DD896DD1338759B82648E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "899191ff473d6fb3522ff6b87c86ebabd40b76dee3a7da46d08b3fff99305ca4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c86b4bc2d780bc5783dd896dd1338759b82648e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../driver/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-driver--manifest-spdx-2.2-manifest.spdx.json-3931B3B8EDCF016CB839094BF847F561E71A706B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "090ead54e7b10d5b79de953ce9e37fe1352e24ae649d8bdb3160884f5df5d7b3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3931b3b8edcf016cb839094bf847f561e71a706b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./Tokenized-Card/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-manifest.spdx.json-95F39183746EB6D5D416CE7B85F8F42F125548CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f5562ff50ffe47ee2875e2d4923aedde328c1d551513d458d82618ee93a058a0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "95f39183746eb6d5d416ce7b85f8f42f125548cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../donation-driver/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-donation-driver--manifest-spdx-2.2-manifest.spdx.json-A9215776D68F33ED6E4C6DC4191855E0B81D6DF2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "69f8c856b69bb8e03c7b2b2143de2b6c8ec0c43cd92c29602014c6ec09212f62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a9215776d68f33ed6e4c6dc4191855e0b81d6df2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../bundle-crypto-drawer/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-bundle-crypto-drawer--manifest-spdx-2.2-manifest.spdx.json-257B6C96638B8BCAEF0B89CD10194942A8146BAB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1c5a4b40e09c43d967c7ec5fb72be70865d942aa3db96745e750aa454a37422a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "257b6c96638b8bcaef0b89cd10194942a8146bab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./Mini-Wallet/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-manifest.spdx.json-C74FF8234E614F3ADD2BA08B6DEA07881A91D773",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8c83f47ab89eabd44896cdf3e5379cf4be63745c9ece90e00c6a4bd64eb39221"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c74ff8234e614f3add2ba08b6dea07881a91d773"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../source-maps/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-source-maps--manifest-spdx-2.2-manifest.spdx.json-B4F8740D9CBAF4AFF41E044EC55962635ECFF40E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d759e65a10876ed8d2f3f120c8e6419221e5b6f1f1d812f1ef3cdb8122e9140a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4f8740d9cbaf4aff41e044ec55962635ecff40e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../drawer/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-drawer--manifest-spdx-2.2-manifest.spdx.json-7C3F2A909E6D14D4F4B19BDA808DC3B57FDF1ED6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b531831a0e8ac1949f4754a8a4705217aa9ca8dc2f1848429450efba7d017ef6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7c3f2a909e6d14d4f4b19bda808dc3b57fdf1ed6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./Notification/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--Notification--manifest-spdx-2.2-manifest.spdx.json-F1EEA70B3DEF4F9851B039F9FB165DDAFC29E4DB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa81167f6ddb2ccb3775f3a0c3853c2024d05f32824e48a1b4376b0e9fa9b240"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f1eea70b3def4f9851b039f9fb165ddafc29e4db"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../bundle-crypto/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-bundle-crypto--manifest-spdx-2.2-manifest.spdx.json-F5A77A869B379A32FD097D66C04BCEB8848030C0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5f3c5b9683e481841e7bdf1437d1927a979b352ff50eaedb127197acb02f336d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f5a77a869b379a32fd097d66c04bceb8848030c0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../mini-wallet/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-mini-wallet--manifest-spdx-2.2-manifest.spdx.json-960DC1BD65038D95B5FBCB24F344786499BB2487",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1743ae4aa032d76a832015c28d8cca76cb26a80703fee044b6a79b8835079a4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "960dc1bd65038d95b5fbcb24f344786499bb2487"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../crypto-shared/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-crypto-shared--manifest-spdx-2.2-manifest.spdx.json-04F07E54F3B6C4B0C0ABD5DD9591231F02416357",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bc454b3c512c6575d6364b6a2c3323c27e1f403f7bcd72ae0bf5c77df1c66beb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04f07e54f3b6c4b0c0abd5dd9591231f02416357"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./../buynow/_manifest/spdx_2.2/manifest.spdx.json",
+      "SPDXID": "SPDXRef-File--..-buynow--manifest-spdx-2.2-manifest.spdx.json-52DAEBA62E7C909A40D36BAFAB10CD48CAB4763C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71b14b10e006c721d950f7d8be1a8a09b81b2485e9d7ddb7f628c4fa3704c7d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "52daeba62e7c909a40d36bafab10cd48cab4763c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileTypes": [
+        "SPDX"
+      ]
+    },
+    {
+      "fileName": "./bnpl_driver.js",
+      "SPDXID": "SPDXRef-File--bnpl-driver.js-A845B80AEB4A16221B3656C8802D389CE305EFBE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f4f41041a49d486b94e3596a637b77e91f5c294648a413761f2662f34a005f0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a845b80aeb4a16221b3656c8802d389ce305efbe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./runtime.bundle.js",
+      "SPDXID": "SPDXRef-File--runtime.bundle.js-1548799DB6350E25591534225946BC995F4478C3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "48f104fead6a95086de4b9fc94af5cdb7b6804242be779a3c0971e9f3d5df2a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1548799db6350e25591534225946bc995f4478c3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./wallet_checkout_autofill_driver.js",
+      "SPDXID": "SPDXRef-File--wallet-checkout-autofill-driver.js-4E56E89642A64ADF54CEC525052935126F2C3C7F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "889a4f70b30b8fcacc89f3572852b466cc6c19063f240f68bb26818989175bd9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4e56e89642a64adf54cec525052935126f2c3c7f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./buynow_driver.js",
+      "SPDXID": "SPDXRef-File--buynow-driver.js-E8F6256826CBB2E035B23319A5740981E17B6FE0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "599e80b382fa1c70fed90e8c33a3347b04d4c1d86c0f0ec9c8173ace60d68814"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e8f6256826cbb2e035b23319a5740981e17b6fe0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./shopping_iframe_driver.js",
+      "SPDXID": "SPDXRef-File--shopping-iframe-driver.js-5A25C6F02F7D8853E7FC08DC5596ACBE58BB6002",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "191f5e4642a8b5e2db1cdfd9a002bb7ce2431464a304bac048452390fb6b9b0f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5a25c6f02f7d8853e7fc08dc5596acbe58bb6002"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./wallet_donation_driver.js",
+      "SPDXID": "SPDXRef-File--wallet-donation-driver.js-A581AEB20FDD46E10A487E4763F80E03E73F698E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e2a3d851f4d36712c5e4ebd49d09d67960a82389fd199ffbcdc999c752615b0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a581aeb20fdd46e10a487e4763f80e03e73f698e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./driver-signature.txt",
+      "SPDXID": "SPDXRef-File--driver-signature.txt-4AD60EB059E2D72AD33FCAB9890251A5A88D81D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "61f35db7a6fb0ea96058576a95d4342c08ab7e4601884d19ef6d4b947f7ed7fc"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ad60eb059e2d72ad33fcab9890251a5a88d81d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./vendor.bundle.js.LICENSE.txt",
+      "SPDXID": "SPDXRef-File--vendor.bundle.js.LICENSE.txt-F06D5F12257E219A9550475DA3617A9932D380B7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7000485eac84b8801d25f1c1e59acc8d0f29fc47036e13123720e3f780d8eb93"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f06d5f12257e219a9550475da3617a9932d380b7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./crypto.bundle.js",
+      "SPDXID": "SPDXRef-File--crypto.bundle.js-05AA62741AB68CE5E5A5A491DDF3ED7FBBCB30B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5fae7a1a84e0189549f54558d50562a244dbfbda0d8c9f0b91e88c2c3698fea3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "05aa62741ab68ce5e5a5a491ddf3ed7fbbcb30b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./vendor.bundle.js",
+      "SPDXID": "SPDXRef-File--vendor.bundle.js-31D9206FD0B0DAF948E8ACAC214FEA1DAE049553",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2126adec81a44d4f1507eb983b09e6a065c5e814213529a147422954eb2cb07"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "31d9206fd0b0daf948e8acac214fea1dae049553"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./app-setup.js",
+      "SPDXID": "SPDXRef-File--app-setup.js-9A153D97946836FB64E9400A90A328B182B75732",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3e7e0c7761c710639adbd1306e7ec6d8638039831cb79281c3c85ee8ddc01e6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9a153d97946836fb64e9400a90a328b182b75732"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./manifest.webapp.json",
+      "SPDXID": "SPDXRef-File--manifest.webapp.json-CD7BDD927F327F9E08D2E059C0C62D21F4DF5DCC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07076ecba0a5b8afc639ba81a3ae1df094aad4ef0558ef54c866f2d6daca404d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd7bdd927f327f9e08d2e059c0c62d21f4df5dcc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./wallet.html",
+      "SPDXID": "SPDXRef-File--wallet.html-E3545A2B1CDAE819B1AE81B43ABD1231B53238F5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e7a0ed4d299495facc6184d60cf2b0f311078bbba6b34ac1e7ca434f4f5b2d4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e3545a2b1cdae819b1ae81b43abd1231b53238f5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./edge_driver.js",
+      "SPDXID": "SPDXRef-File--edge-driver.js-B88A3BC54BBBF1C9F7FECF77FD91BB9B863DA326",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf5060c42358f473ce1e2cfc203aabb09f213ee9d4d267ef07873449034f0918"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b88a3bc54bbbf1c9f7fecf77fd91bb9b863da326"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./wallet-crypto.html",
+      "SPDXID": "SPDXRef-File--wallet-crypto.html-723937F378A6CCD42D489009A81BBB8FC1813A87",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a9b748bfab92591940da6774ea14cdd61ae2cb8b0f8c1fe6926d2c85245649bf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "723937f378a6ccd42d489009a81bbb8fc1813a87"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./bnpl/bnpl.bundle.js.LICENSE.txt",
+      "SPDXID": "SPDXRef-File--bnpl-bnpl.bundle.js.LICENSE.txt-6D51AF99898C263907845CE60FD0FBF7030F2FBA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c07e888a9cb89eace4de3d08a9a480a422e04a41c39fd6275f087aac3dae5ca3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d51af99898c263907845ce60fd0fbf7030f2fba"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/fr/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-fr-strings.json-41DE59847CB2122C6F2334E837C1656E6266C865",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44c3063f4369484dd139d846f701133a3e367897ce94a27b5571b8114cd1df4a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41de59847cb2122c6f2334e837c1656e6266c865"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/ru/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-ru-strings.json-728CBB75FF4B532BDA5A5B847D0CA8A103D10676",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2000e5439733e3a8937a944d752bab6ca0059cd58ae95e4e7e6eaf3c44aa72a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "728cbb75ff4b532bda5a5b847d0ca8a103d10676"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/es/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-es-strings.json-6D2ADD9B2BDFC53E2D4C2483EABE2FCB2ADCD1D6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "14bf849077ddce21b3e860841e2ce8326f2ae2ac6d50784f173fe276554c43ef"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d2add9b2bdfc53e2d4c2483eabe2fcb2adcd1d6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/pt-BR/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-pt-BR-strings.json-04F0D5CDF259E6B65AF5BFE7E5B5D4D7A5EF4826",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "680866262d2f960a9cd418ca1506ab1d17ad1c4c28f672fc4642ebb636622052"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "04f0d5cdf259e6b65af5bfe7e5b5d4d7a5ef4826"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/en-GB/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-en-GB-strings.json-A85AEABD958A1D6E47DA0CD244D835358A938F36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6b1f890f7250798b24fce4cde307b2cae6dcf3b18d249a41a73fda4beeca85f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a85aeabd958a1d6e47da0cd244d835358a938f36"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/pt-BR/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-pt-BR-strings.json-BBFAFB0E8F6339B8B02B09BA294659A37EF7CE1D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7240277b28f97496b44e98e40e99641e44172f4d80a9b6a7a63641bb74d09702"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bbfafb0e8f6339b8b02b09ba294659a37ef7ce1d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/en-GB/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-en-GB-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/pt-BR/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-pt-BR-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/el/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-el-strings.json-9DE60EFFFECCC7EB9A2ACD1B133DD0D86740EBBE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ced78ee86b96c4b56de4a28b6b98c9f64024e8c0efe90684d85fc7e8e2d7e751"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9de60efffeccc7eb9a2acd1b133dd0d86740ebbe"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/ja/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-ja-strings.json-4CA113A9460B6EEDBC34B1006133FA5D98A87810",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1f9360037e566d3e440dbdda75496080d0f902cb9736db1a1bfde2e6787dea6e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ca113a9460b6eedbc34b1006133fa5d98a87810"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/ar/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-ar-strings.json-E7E918AF6ACDD413980BD18E3CC948B9EAC7E35C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9a2b95a48ffced21231cbff957aa58e49ff626fae9fe9efd4706f49fd9e06cfa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e7e918af6acdd413980bd18e3cc948b9eac7e35c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/id/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-id-strings.json-730FDE09754DBCE77578E84DEA8E0635BE54A7B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4e56080373a55a6d6283754fc566913244d40f210a0e8cb3dc61e11b234a6336"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "730fde09754dbce77578e84dea8e0635be54a7b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/zh-Hans/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-zh-Hans-strings.json-440EA1C4130D93933A7AAE9D902F29BA960401CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a3cb5de8b0991d82e1a3fe2d98dd73b5aea9e983d1e4185c8e988ea1a46a010c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "440ea1c4130d93933a7aae9d902f29ba960401ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/id/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-id-strings.json-605A36FF40E00B5FFB05CAABC0023FA606809713",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4310e458384799d22b529f2423dfb296dd4a08b0959591b286ef24a9a4df8f26"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "605a36ff40e00b5ffb05caabc0023fa606809713"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/zh-Hans/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-zh-Hans-strings.json-8A7D03F9707CDE4DD254332D6ACE408410090347",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d2a5f68fcaa799428a4e4a0ce2a365edd767c1acdbfb88e7d95d4f12796cd536"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8a7d03f9707cde4dd254332d6ace408410090347"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/wallet-stable.json",
+      "SPDXID": "SPDXRef-File--json-wallet-wallet-stable.json-44E139BA78BBCDC6951E39DE2476653CC656B1E4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca532b6e7f494987ddf00e52857a3859f77b225fa8d4bd9f708e40d29138c383"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44e139ba78bbcdc6951e39de2476653cc656b1e4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/_manifest/spdx_2.2/bsi.json",
+      "SPDXID": "SPDXRef-File--Notification--manifest-spdx-2.2-bsi.json-B34930003A637713C55F6126468F8FB5A8F33BF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07914f821727b543b06ed30b7870d933393e7f242336b51b32ed81e09473e9d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b34930003a637713c55f6126468f8fb5a8f33bf8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./bnpl/bnpl.html",
+      "SPDXID": "SPDXRef-File--bnpl-bnpl.html-3CB07220918DE72D57600F0AADA3ED80BFED11EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8224f4a6c4924f88e89d7c878ba1fcfaba657894d408eff8cb255f004317d0e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3cb07220918de72d57600f0aada3ed80bfed11ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/fr-CA/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-fr-CA-strings.json-3418963EBA1952FF81B68ACA63AB31B28AF4D944",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7649b1c9c3f30ac8e3d7f8570ae3bf24ac6338080b195f7112cfbc6b8e291b5c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3418963eba1952ff81b68aca63ab31b28af4d944"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/sv/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-sv-strings.json-5B946AABD7AF38CD76E66D90B1A16C89ADB13D33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07dfafef183f3ca0e6c5734177638fbd2102e1d1f978f5184f4acdbcc27ff2ab"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5b946aabd7af38cd76e66d90b1a16c89adb13d33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/fi/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-fi-strings.json-DF59109D7BDD0035F8FF00A0DFC420C86AABC765",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "750fcd69f8c49afe664d8a2f51fbcfe046bf8b91baaceffbe5e11aa72172c1ff"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "df59109d7bdd0035f8ff00a0dfc420c86aabc765"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/pt-PT/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-pt-PT-strings.json-5EBD9AB1A3C5E5540D270461A63D34CA32228056",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "96efcc77cd1b45ee1393488169f7bc77716b886803463dbcc717ad8b85d63991"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ebd9ab1a3c5e5540d270461a63d34ca32228056"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/es/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-es-strings.json-E00F45FD2CA0A9895FCE652BA331BD69B37892C7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b7feab665c865723dd32da6f5eef9c4ff9d8b70fdebedc6b513e05db301c3453"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e00f45fd2ca0a9895fce652ba331bd69b37892c7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/pt-PT/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-pt-PT-strings.json-AF1829A136A90130E90C498ED203C11155058FE6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a0c21298800acb8396a4014a1694c7d072d57717698be290c06ca3753be2bf78"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "af1829a136a90130e90c498ed203c11155058fe6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/es/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-es-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/pt-PT/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-pt-PT-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/en-GB/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-en-GB-strings.json-2CE3FACC347104B8B1887B7827894B593D695D58",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59e5b3c33dc5622695db6351ee81189dd577868f5b3979f03890ca6fba05ca71"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ce3facc347104b8b1887b7827894b593d695d58"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/nl/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-nl-strings.json-CB227EB4357AA5D216C782E45BBABEC4E5034586",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f582c2197fb1f95e15f41d4b47f88fd98cf21ea3b40c7374ebf21de71cff5e01"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb227eb4357aa5d216c782e45bbabec4e5034586"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/de/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-de-strings.json-C40CECA56E2B33A32F9B37776C8A64BA62CF0A11",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f026b936ba1294e81dc475ec99abebba0d6bc592af4e01a0be3a638fe797418b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c40ceca56e2b33a32f9b37776c8a64ba62cf0a11"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/it/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-it-strings.json-8974800A56DA7A65472564E3B1608A2D069038D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8709d894d2c504668a6a2f287f592ccb443e2ae27f97e7d5ba1cca24d3cc6a49"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8974800a56da7a65472564e3b1608a2d069038d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/zh-Hant/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-zh-Hant-strings.json-A3A63684A2EEA5E42F8F8C6C4677C04C93D93ECE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b53966ffb98f8f62fe7c4a94ed5a01fde99e847da860f4e946e8274f183d340"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a3a63684a2eea5e42f8f8c6c4677c04c93d93ece"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/it/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-it-strings.json-D02C5030B5485EFF83F32F6CFF9B0C819DC29388",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cff13afa92b800f92cfa674de758124976ce70520d099dc6bf71e7c64433a48a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d02c5030b5485eff83f32f6cff9b0c819dc29388"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/zh-Hant/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-zh-Hant-strings.json-CCE0BE73B439579A047E6ED4231CACE3B3B4AC44",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aee755921cccc1c38fae2815590a8b381f5269d8a6b6f6d235726d5072d6cd1d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cce0be73b439579a047e6ed4231cace3b3b4ac44"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/wallet-tokenization-config.json",
+      "SPDXID": "SPDXRef-File--json-wallet-wallet-tokenization-config.json-619192A332D9EC2239412E9FEF6E2259E627F4FF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5858378fd44eedd4eb1615f7e48072f5d4374848c0b3a5eacffa7cd9f3b9333c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "619192a332d9ec2239412e9fef6e2259e627f4ff"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Mini-Wallet/_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-manifest.spdx.json.sha256-7A5346BABC0032545F2E49725314F7A9927C2A61",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d017308e21d0a3cedabb068c97f49b5161d595df868dd2600191d09126ff843a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7a5346babc0032545f2e49725314f7a9927c2a61"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/_manifest/spdx_2.2/manifest.cat",
+      "SPDXID": "SPDXRef-File--Notification--manifest-spdx-2.2-manifest.cat-5BB5BA3A5F7235EE7F0ED332624E393E49618F0B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d442733816c09cef2e14357db70e78ae2a9fdef7309d2c4a13538c5eb518cbcf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5bb5ba3a5f7235ee7f0ed332624e393e49618f0b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/el/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-el-strings.json-44550D4F5A709CD7B002BFE17C19F19AD293F561",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6c56dfd07eb44482aaf2b5a6ae63e9fb68404d9e0a88ede0a42d5c1ef7ed4223"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "44550d4f5a709cd7b002bfe17c19f19ad293f561"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/ja/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-ja-strings.json-2172C5A65C35C3DFF93623C0FD389A5ABC4AF6F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "24977adb15476e6b6c044da7970b6f839029cb4e0612ee8b0682a012dca303a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2172c5a65c35c3dff93623c0fd389a5abc4af6f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/ar/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-ar-strings.json-E2209A490B1D867A15DB7616ABB965D3F3695B08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dfd471abce013a02bdc5362fb2ff832ce51a4aa1fcd3553111ca31a452a2ff53"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e2209a490b1d867a15db7616abb965d3f3695b08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/id/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-id-strings.json-72D529D2F37477B38E128CB99AA849A334126101",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62667656114eadf55ce63a83bc0c320a6b916b55833ae7e32eb47ed9fd8f308b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "72d529d2f37477b38e128cb99aa849a334126101"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/zh-Hans/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-zh-Hans-strings.json-B4F20135D474315EB6F23375A378AC008372D3B4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "12cfca6bc0448ce6c9860ba7ebfa53d9613ae5716fb9db83cdbc3e85bc2af1f4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b4f20135d474315eb6f23375a378ac008372d3b4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/id/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-id-strings.json-7849E5530A788EDBDD88D5E425D042D669165479",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c2e5fe5d760d8ec6809664a6121f87b99f9619a4df5414f3418c86a7f22c4d86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7849e5530a788edbdd88d5e425d042d669165479"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/zh-Hans/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-zh-Hans-strings.json-C97D24192AFCB63AE07541817EC541C10D9A73FA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "adbf812bd24ac7a2526b305699494f0dc8cfda70ebe3158799a7356d0b18408b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c97d24192afcb63ae07541817ec541c10d9a73fa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/id/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-id-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/zh-Hans/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-zh-Hans-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/fr/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-fr-strings.json-FE1CE35DC98880B83C1CE2B8FFD2F85090A85EC4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c8ee4afcbb457cf388938cc67305b4443f5a01c2cefaa138981ff9247c849e3d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fe1ce35dc98880b83c1ce2b8ffd2f85090a85ec4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/ru/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-ru-strings.json-06880FD961AD79387EE6021AD450354DA5570494",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "003ad578f491869826c2b75d8c4020a239733a13de3f1846b8f9fdf5b666b03d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "06880fd961ad79387ee6021ad450354da5570494"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/es/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-es-strings.json-E397D05AC45F7BF912C13925BD3389B52223A62D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aea01777c6083c8f622493fc2bfddf588db5df6a82843fec4ef38db1466fe49b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e397d05ac45f7bf912c13925bd3389b52223a62d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/pt-BR/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-pt-BR-strings.json-8E0F1BEDC0E47ACA9048B6099DDC53662C3960DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9bdae54370179a9fff443bdd05e1646749e92f4fddffe82493599797ae7ca333"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8e0f1bedc0e47aca9048b6099ddc53662c3960dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/en-GB/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-en-GB-strings.json-15BABFD2C2EB57B7725DEC3200129D0E28C37373",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "34d8f42b69b8912520dda2c3df8fcce6869dd78224bba3718c769df674daf085"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "15babfd2c2eb57b7725dec3200129d0e28c37373"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/pt-BR/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-pt-BR-strings.json-E0379C8F9ECC6AC0DE6AC60FFA5FC7F6805D8B80",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1897da6c82d3f7337a88dc6e30da1c95bb7a4f0815d2a0a7d32282c2bda41bc3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0379c8f9ecc6ac0de6ac60ffa5fc7f6805d8b80"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/wallet-checkout-eligible-sites-pre-stable.json",
+      "SPDXID": "SPDXRef-File--json-wallet-wallet-checkout-eligible-sites-pre-stable.json-5DCD6DA90D58E2190C001A2048C5C736C58600D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91b7a210d29ac5985d7dcce4c4fd783ff1fb99a3fbbdef62ece6feabe005fb7a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5dcd6da90d58e2190c001a2048c5c736c58600d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Mini-Wallet/miniwallet.bundle.js",
+      "SPDXID": "SPDXRef-File--Mini-Wallet-miniwallet.bundle.js-867D02D02669A3D01515E46F250A7E3602A90C7E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e102905c02a432104a85315744d07d248ddac8a2a0576102e2a0b2051489a41"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "867d02d02669a3d01515e46f250a7e3602a90c7e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/notification.html",
+      "SPDXID": "SPDXRef-File--Notification-notification.html-328EDA14601A7D0A4B984134B432090F7B5B6980",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "069aeb52328e31989ec7dd39893c8e26c4466c1b54bcd3f11c64e0d85a4353cf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "328eda14601a7d0a4b984134b432090f7b5b6980"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/en-GB/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-en-GB-strings.json-801F51EE097EFAACA7412C1AC763D92A58A7ACD6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "331f4a6d3c25a92f7d09edbe2a1dde01db8b5b0510139ffccd40ff7ea2bf8b16"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "801f51ee097efaaca7412c1ac763d92a58a7acd6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/nl/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-nl-strings.json-BDEFB387AEB8EA82DCF10348FF5F2BC67C517852",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ba6df39c7b03aaa816be0072baf79e0a697ec1e14e769831cf5550e4394e027"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bdefb387aeb8ea82dcf10348ff5f2bc67c517852"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/de/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-de-strings.json-CFB02A758E1FC2A78C037E444B5851A3CEADD5B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3bd1971a77c90688a1bcf2e5ecfc610f6710a846a44cb51013b0414e737ba24"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cfb02a758e1fc2a78c037e444b5851a3ceadd5b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/it/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-it-strings.json-444A985AE7D79CF24C11F5E1D6B4A52B6490F581",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08a7c5ee4bd1946ac88e82daf334a5103e6116f10c8610988bebbb410c991787"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "444a985ae7d79cf24c11f5e1d6b4a52b6490f581"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/zh-Hant/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-zh-Hant-strings.json-3B071B08F62D1A49984C3E93A72260BE1199D75C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c88d5ea03b8af1cf7824c4f351b1d59fbfed20174b4f5cd6d9edbe4551022f2b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3b071b08f62d1a49984c3e93a72260be1199d75c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/it/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-it-strings.json-34ECCDD054DF523D97D0FC14AD9B213C6F9319E2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "060359824434b660c9ab0179f0548afd1d2b8f18ff50c0e4e3d6564421fbea5e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "34eccdd054df523d97d0fc14ad9b213c6f9319e2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/zh-Hant/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-zh-Hant-strings.json-39BD6C2DC92FA0C68A4A7729EA1672ED12DB060D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "92c17ed3827298bc822f22ec26414af914f79a7f146a080031b2bea64e4a75e8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39bd6c2dc92fa0c68a4a7729ea1672ed12db060d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/it/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-it-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/zh-Hant/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-zh-Hant-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/fr-CA/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-fr-CA-strings.json-AA95F1639990B0477DE60D470160844826BBE93B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "761de7dc366000175e76cda33e15e1b8a5d4eee1c7c88cf77822baad200d4799"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "aa95f1639990b0477de60d470160844826bbe93b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/sv/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-sv-strings.json-9346E531ADFEC904C945D83D5753D67CDC66EA3F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62e509b04682c9b3b50b6a2310acbe0a3e1976c9c9c0df8faab0932d8859c88e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9346e531adfec904c945d83d5753d67cdc66ea3f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/fi/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-fi-strings.json-E160BA98D007A6705684A8D5308B9B51073249C4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "912d989cc3dd1fe950f26e591a7b30372563fbffa11eddda6e609ce1b8ede883"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e160ba98d007a6705684a8d5308b9b51073249c4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/pt-PT/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-pt-PT-strings.json-A87B8A96B1EE112C1171501A2C7C514AA04F9666",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2f3841a468ae0ec3286d5c15691f02ed0c3d90aab123a2b1e63cb6f55fffc69c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a87b8a96b1ee112c1171501a2c7c514aa04f9666"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/es/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-es-strings.json-E4E81042CFA38D1A43CE625112ED39D96BD69F25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a29e99f3c3460d35cbd2bf4f30a720bf4b0beafa73220640f7fc7d0f5b91cccd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e4e81042cfa38d1a43ce625112ed39d96bd69f25"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/pt-PT/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-pt-PT-strings.json-332213CFA4CE5C6D2B8BA81CF29433FA2D7A5612",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a7284ad9ceae5f98747c5579afeea088cddc2730462de767c17fc81af30d403e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "332213cfa4ce5c6d2b8ba81cf29433fa2d7a5612"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/es/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-es-strings.json-7744E1252CF244C4EB5C75454A1C753D9DD855AB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd0bd3b42ccd6df28e976f49afc8d7ef30c03d2b6847b7b72971d967b142ecb1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7744e1252cf244c4eb5c75454a1c753d9dd855ab"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/pt-BR/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-pt-BR-strings.json-F3D8CF70DF1664622146AAA91800CE5896F5AF58",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "690c04f8898b05dad95caf81b8ff383f65633db395f56d781dcdeda5b581606f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f3d8cf70df1664622146aaa91800ce5896f5af58"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/el/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-el-strings.json-87B50D76087F334CFFBC60497FE8DF2E0CE571D9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d950a602f783cd15fd9a23dc2fae540fa837387c9cdc2851232fea5b3134d2ad"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "87b50d76087f334cffbc60497fe8df2e0ce571d9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/ja/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-ja-strings.json-48F3E07AD4F750715FC50E3783894BD0C63F68DD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2d2001d3f848ad680b061f631995bef57f36b238f24cab1164577352b38d1e2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "48f3e07ad4f750715fc50e3783894bd0c63f68dd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/ar/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-ar-strings.json-6219A54C058911E4C9E438E9403C50EF84C06D09",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8e2c8b9212327c3af0bf6c0aab5e18a92c1f67a7c1803604d249d52eb1f8bd2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6219a54c058911e4c9e438e9403c50ef84c06d09"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/ja/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-ja-strings.json-B67BE842477CCAD088963CA9E4811BF96A7C0E32",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b63789bdad7576ea1afdca6489fa87dd28740049c77d568435b7eedb6d1c84d2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b67be842477ccad088963ca9e4811bf96a7c0e32"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/ar/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-ar-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/ja/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-ja-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/ar/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-ar-strings.json-1789E29A8A66FDFE6F8D6A7182005CB57ADFD909",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "749c9bc19fe12ebae396d91d5986cef544d84da6207a41304c0867f1ec36499a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1789e29a8a66fdfe6f8d6a7182005cb57adfd909"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/id/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-id-strings.json-36BEEC91FDA0D32B6EA0F0FFD3109713BAAB9617",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6d8f4a27132c1c08ccc1f06ba48b43ebdc4b87cf78194ee026c588f8a78426b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36beec91fda0d32b6ea0f0ffd3109713baab9617"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/zh-Hans/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-zh-Hans-strings.json-863ED8B3F7E291BE55A7F7314729F9E0000E2682",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e1ea82eb31eb73af906d29735a20af845b61bc67607d2c970ac95c7a1823b78c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "863ed8b3f7e291be55a7f7314729f9e0000e2682"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/fr/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-fr-strings.json-A886F0447DC1D05520BABA1FCE9D75AAC2C7918A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7534d26357c92953424d1c58c578d46b20f7f20232bd5b835275e54f2e57a596"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a886f0447dc1d05520baba1fce9d75aac2c7918a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/ru/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-ru-strings.json-67A311C62920A7A28C25D05DA28D3AF6512DA48F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "81253e1d8f035921e905ea69ba26bf202e34059349273592cf728db0ec0bb33b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "67a311c62920a7a28c25d05da28d3af6512da48f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/fr/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-fr-strings.json-4AAEEF0905E67B490D4A9508ED5D4A406263ED9C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c67b555372582b07df86a6ce3329a854e349ba9525d7be0672517bab0ac14db5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4aaeef0905e67b490d4a9508ed5d4a406263ed9c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/ru/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-ru-strings.json-503894AA17D445242955BBFB9510591FBBB53544",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "196e299f08dd96275db61b025205029b03259484b06978053f4615f721be2298"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "503894aa17d445242955bbfb9510591fbbb53544"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/wallet-notification-config.json",
+      "SPDXID": "SPDXRef-File--json-wallet-wallet-notification-config.json-7F404DE2F844C238C7B7A98714C4B09BF8C0FA5E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f962793a15499f437dad09d1b37642a7643567b79fa5e0854d19e85332b5292"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f404de2f844c238c7b7a98714c4b09bf8c0fa5e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Mini-Wallet/_manifest/spdx_2.2/bsi.json",
+      "SPDXID": "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-bsi.json-B34930003A637713C55F6126468F8FB5A8F33BF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "07914f821727b543b06ed30b7870d933393e7f242336b51b32ed81e09473e9d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b34930003a637713c55f6126468f8fb5a8f33bf8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/notification_fast.bundle.js.LICENSE.txt",
+      "SPDXID": "SPDXRef-File--Notification-notification-fast.bundle.js.LICENSE.txt-6BC94FAFFAA1EF64E8B4CC258B4B3D66FB6D8DF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28a5a378110c10fa51b24d7d1770759f32782c0e184ac0e860be8cb36f592163"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bc94faffaa1ef64e8b4cc258b4b3d66fb6d8df8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Tokenized-Card/tokenized-card.bundle.js",
+      "SPDXID": "SPDXRef-File--Tokenized-Card-tokenized-card.bundle.js-3271D9266C629449C1CD800EE6F7FC49DE7A2CA1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74370848dbc24c485530f1934844d7eb4cd751161757d04095cb8a4352bd1f17"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3271d9266c629449c1cd800ee6f7fc49de7a2ca1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/load-ec-i18n.bundle.js",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout-load-ec-i18n.bundle.js-2C8811457A3B2B34B8B73F8B19C6103E2D4727A0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4cac69d0545740f35cb9b1c4a473875a1f4064f087eb8ea119bafd98059a417e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2c8811457a3b2b34b8b73f8b19c6103e2d4727a0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Tokenized-Card/tokenized-card.html",
+      "SPDXID": "SPDXRef-File--Tokenized-Card-tokenized-card.html-EEE947CCA55A9720FEA7C09B4A6697F880F77D33",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7b0a4cae98730371eafcffbd0f2ed9c36b8e79abbd9b9057778674cfa0c759d3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eee947cca55a9720fea7c09b4a6697f880f77d33"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/wallet-drawer.bundle.js.LICENSE.txt",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout-wallet-drawer.bundle.js.LICENSE.txt-42A7C3FB950E1C632227BFDCE33E45A14751CF11",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5e31a58923ccce8c0e6a55f2143392b779a274561909aabf5f9d7cce5dd6088"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "42a7c3fb950e1c632227bfdce33e45a14751cf11"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Tokenized-Card/_manifest/spdx_2.2/manifest.cat",
+      "SPDXID": "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-manifest.cat-5C044E349BAC654AD0644A860DEF9B76BB1BD76C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22f4a6bdcf841422b8f8cd38602ceb9d72d32968253cf770061c5c51bf63d602"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5c044e349bac654ad0644a860def9b76bb1bd76c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/_manifest/spdx_2.2/bsi.json",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-bsi.json-BF357892881E6B4E5AFC3D53C7D112EBF85E24EF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89dcd524b29560e446339a79c638b0e0974d6bd3be5cf2d4d56368786d745215"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf357892881e6b4e5afc3d53c7d112ebf85e24ef"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/wallet-checkout-eligible-sites.json",
+      "SPDXID": "SPDXRef-File--json-wallet-wallet-checkout-eligible-sites.json-C2F296483F3F18AB4759B6AAD72D9E88A50926A4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02a42c95dc1fd17798658fd3327d94a5b552122c2c0a331982a49a4dac40819b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c2f296483f3f18ab4759b6aad72d9e88a50926a4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Mini-Wallet/miniwallet.bundle.js.LICENSE.txt",
+      "SPDXID": "SPDXRef-File--Mini-Wallet-miniwallet.bundle.js.LICENSE.txt-6BC94FAFFAA1EF64E8B4CC258B4B3D66FB6D8DF8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28a5a378110c10fa51b24d7d1770759f32782c0e184ac0e860be8cb36f592163"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6bc94faffaa1ef64e8b4cc258b4b3d66fb6d8df8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/notification_fast.bundle.js",
+      "SPDXID": "SPDXRef-File--Notification-notification-fast.bundle.js-ACBEE0252FABE2781867949B767CAD529810F81B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "050c6d5e766364b6aad8c260a9b5ac874a31229b2d6869930f703332f3458bd9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "acbee0252fabe2781867949b767cad529810f81b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Tokenized-Card/tokenized-card.bundle.js.LICENSE.txt",
+      "SPDXID": "SPDXRef-File--Tokenized-Card-tokenized-card.bundle.js.LICENSE.txt-FBBD7B6A58ACA424723DB423621FCC2D390A87C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4717324137a91f6160b88255a26a3b20abdf08ff1c1b0b90792da813a0927f99"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fbbd7b6a58aca424723db423621fcc2d390a87c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/wallet-drawer.bundle.js",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout-wallet-drawer.bundle.js-B808205334A0A2F7BBE83F995635A5B7052908BD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71546c5bce9c2c4c20495db7ee986d72b5a6ad78d7e50d4d04ae353f368cc710"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b808205334a0a2f7bbe83f995635a5b7052908bd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/_manifest/spdx_2.2/manifest.cat",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-manifest.cat-2EE880D6303A6CD4A6DEF590E8DE4FE26BFDCF8C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "14b714d5b0efce2db717c449dba02432132fdcb2f2f4ed5b22cd0b6e0e9907b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2ee880d6303a6cd4a6def590e8de4fe26bfdcf8c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./hub-signature.txt",
+      "SPDXID": "SPDXRef-File--hub-signature.txt-581E259CFE897013EB4CE872539E1B3AC909678A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c4a387deb9c7d76a0ff8d411f32741939760799873545e5468f0857c42d07ab0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "581e259cfe897013eb4ce872539e1b3ac909678a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./wallet-icon.svg",
+      "SPDXID": "SPDXRef-File--wallet-icon.svg-27796A933CAD16EE4DDA7D0E645F1101B0A715FB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e4508eaf4867610fbf5f9c117cf09741215f27cb4dc0e608ba5651bec7d3520"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27796a933cad16ee4dda7d0e645f1101b0a715fb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/ar/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-ar-strings.json-93CB9779A03B2711FF2560B8E3D9999A0BB1F28D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9bd3a51521a16b081f2c9b445098ae76d8e364a13851ce70eb6d93147f9fb1b1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "93cb9779a03b2711ff2560b8e3d9999a0bb1f28d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/id/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-id-strings.json-7992B6442520A8DC2B59BDFCAE2C4BDD03D45F08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ebfdaf232c360a4a5aed2bc321a64a6ba3754f1431d66638e40492aa5f12ed25"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7992b6442520a8dc2b59bdfcae2c4bdd03d45f08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/zh-Hans/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-zh-Hans-strings.json-783089834D9D361CED8EDA1DD481914A0BEE1331",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0911ef166ae907d4a01262ba6c6b5a1971d8537232d7c3a66f9c756f03dc4939"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "783089834d9d361ced8eda1dd481914a0bee1331"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/fr/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-fr-strings.json-41CCE3AA776683E987306D7D44C71E42F3EC7E03",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f63d275aa8df4a0e226fca8bc21eb29d100d131dd9e5c0c37a7a1ff8248669ed"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41cce3aa776683e987306d7d44c71e42f3ec7e03"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/ru/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-ru-strings.json-AC1C3CFA1B0F3A4ACD06FC68C89C1DC587950B13",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "750cd07be6cef01a7a591e8189d04e6b5a219255c876535ef911b6702cb3e453"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ac1c3cfa1b0f3a4acd06fc68c89c1dc587950b13"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/fr/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-fr-strings.json-A82CC302649AE008E9200C419FAFB119B99437BE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "58834e44cfc5ca24c6220209bed723b3cb46014162e54eccdba69622b89d4926"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a82cc302649ae008e9200c419fafb119b99437be"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/ru/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-ru-strings.json-CA9DEA0AC95E51B167D1F124DC83BD0B0E91BCE4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbbdaa510df6c5dfd1b42ca748f867ff63102ef375a679e66fc37c93fc8fd1a6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ca9dea0ac95e51b167d1f124dc83bd0b0e91bce4"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/fr/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-fr-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/ru/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-ru-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/es/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-es-strings.json-F52E3A76DDE67FEE1E3924456CF15625489C5865",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dbc7fea685e714bacbdc0ea18006ef3e4d4d8a0614ad5017512a2457c5bb4ead"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f52e3a76dde67fee1e3924456cf15625489c5865"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/pt-BR/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-pt-BR-strings.json-27B6AF13FFB4E4F61F24CF950E4E53D184BD8D8E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "19416456168426513411435de23445ea48a58500ea7cb7caefc90375370641a7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "27b6af13ffb4e4f61f24cf950e4e53d184bd8d8e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/el/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-el-strings.json-F8275C8C29529B0B196385A610BDD5D263D46B08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4f3446210b92ebcd86d74a30ce03426dedfb0c43ab94784e3e1786b3fa488649"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f8275c8c29529b0b196385a610bdd5d263d46b08"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/ja/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-ja-strings.json-BE24D167B7159C297C2BB938FE7F825CAA4CA68F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0566d76c16fbd44063874f80e0275ae83b75f5b1199598c407ee372c00d6b0b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "be24d167b7159c297c2bb938fe7f825caa4ca68f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/ar/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-ar-strings.json-2A45A8F8C3BC81C531432C3F9B6128529C892384",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9ac21ed99bf0bcfda7ae152dfec227c30f9607f2ab91f73dac99d5e9203745f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "2a45a8f8c3bc81c531432c3f9b6128529c892384"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/ja/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-ja-strings.json-8C2566E15D565372A67B75B88CA57BBCC251811A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "096e7a1f1a25432d256a7f9de010f50f023e7b452886e1bed6660aa15cc2e17b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "8c2566e15d565372a67b75b88ca57bbcc251811a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/README.md",
+      "SPDXID": "SPDXRef-File--json-wallet-README.md-146B8E0F62DA6C6230D449918BCD0B233E2E1ECE",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "59995305545d02f735081f14d7fa4d20021890671d3eeab20bff1a7d419f8012"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "146b8e0f62da6c6230d449918bcd0b233e2e1ece"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/wallet-checkout/checkoutdata.json",
+      "SPDXID": "SPDXRef-File--json-wallet-wallet-checkout-checkoutdata.json-BBA607996195808C80FE7C2704EAD2F5BEDAC715",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f607973a5745c6862a05fbb019cc9c819ab460d4472f582f8e71942866b88bb6"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bba607996195808c80fe7c2704ead2f5bedac715"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/notification.bundle.js",
+      "SPDXID": "SPDXRef-File--Notification-notification.bundle.js-CD873CD1AF08D9FB972B7CA8C59B91664779946E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e87cd0df3fdad2b2193b8168d00ab00640ef50da102fb419b312a43a152c1b50"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cd873cd1af08d9fb972b7ca8c59b91664779946e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Tokenized-Card/_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-manifest.spdx.json.sha256-E91764B1EF398DF96DE0E3D9D4D016AFCE3815FC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "84b9ec515229ee7f521b9d8b7aef7fc0182c32b5596adad92b21220650afdf40"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e91764b1ef398df96de0e3d9d4d016afce3815fc"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./bnpl/bnpl.bundle.js",
+      "SPDXID": "SPDXRef-File--bnpl-bnpl.bundle.js-22647E99FEE7833AC02F06EE7A3C80B29B60727F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17ebb0a881ab7d210da3eda699c9b1cec6c9f951b11b8809981d9580f70a800b"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "22647e99fee7833ac02f06ee7a3c80b29b60727f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/fi/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-fi-strings.json-D41AEED5E543EE3CC873733BC886B8A4B87D9679",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d649633f93817b072d0f58f16f605d2e530a353d2692ffa0591323b5728c1d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d41aeed5e543ee3cc873733bc886b8a4b87d9679"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/pt-PT/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-pt-PT-strings.json-A8DF353FDAF269A0395581A1B12A7D25C4F8DE20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfc1e4db72b53c1e8051d1ae68e8623849e5a41890e53769a1d4dbf695c52eee"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "a8df353fdaf269a0395581a1b12a7d25c4f8de20"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/en-GB/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-en-GB-strings.json-4EE1CFAA3C53D71FE10EA875CAEB1881B4D9DBB0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "28fc597800bb24d3c7396daa229d6ee1b383f140f3afa3d8bbe84e1beb7db0af"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4ee1cfaa3c53d71fe10ea875caeb1881b4d9dbb0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/nl/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-nl-strings.json-29A5BE540BA68455DDEB094615A584A6813B647B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "41a2e8dce1db3837886661fe675547024f54379f20484b75bbf4fa9a14d171b2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29a5be540ba68455ddeb094615a584a6813b647b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/de/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-de-strings.json-ECB4A84E4A23B8161E1D42D7942BCC4D4A6C02F0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "7151147478077383c8407825436d863db72150002baf632e5106398689e5e592"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "ecb4a84e4a23b8161e1d42d7942bcc4d4a6c02f0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/nl/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-nl-strings.json-EDEF4B206B37644AEE4483A79C21D8BF9C4F2A49",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02bb4f38d97b2d5ae8d1cc95f593d306fe6b2d834a4d3d73322533d9621ed847"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "edef4b206b37644aee4483a79c21d8bf9c4f2a49"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/de/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-de-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./load-hub-i18n.bundle.js",
+      "SPDXID": "SPDXRef-File--load-hub-i18n.bundle.js-39151D08DB7774CF64E5F055D151D985FFF61C2D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8960fa628f19e24404e4efa6d5c3d9997f73da3d95a6ea9dec1eab34d047f86"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "39151d08db7774cf64e5f055d151d985fff61c2d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./wallet.bundle.js",
+      "SPDXID": "SPDXRef-File--wallet.bundle.js-6210EC49E47DFF9FF76BA6A58B3348E7A2B03A4F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2bea51345f701562120412d69749ba2fd2fd14bf6b663926514837bbad135f70"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6210ec49e47dff9ff76ba6a58b3348e7a2b03a4f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/de/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-de-strings.json-CC0EC8C930A7C3CE46294376A7D2B828E5F22C9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2538eb2148f492583d86d76b4f3e852027827ff0aeb476640fc6260d5f355fac"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cc0ec8c930a7c3ce46294376a7d2b828e5f22c9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/it/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-it-strings.json-D1943A841C989B88B6A6389F962CCBA7F7324216",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a30c79e8796ae299897c26bd68cf4637e6858e2cd83476387a4a84b97e5d62ae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d1943a841c989b88b6a6389f962ccba7f7324216"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-ec/zh-Hant/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-ec-zh-Hant-strings.json-1B683A734461CF58DA28C212A6917302C61D7540",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3474cf05784ce40eb126d173db2da63c895e285d42b796b8a40632b1d022261f"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1b683a734461cf58da28c212a6917302c61d7540"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/fr-CA/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-fr-CA-strings.json-9842E598643B522AEA67F54F34BC749A00D244CD",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9cf05a276440d293d594897dc9d87e128da7a7a259ea7c833f30871ab5e02cfa"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9842e598643b522aea67f54f34bc749a00d244cd"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-hub/sv/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-hub-sv-strings.json-1C06A694BF44CD98A6D089F343FEFCBAEEEF7453",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "590aa20a016e5eb897fc0cd071126e8996a51b3ffcc5044d396407f8b35d1e11"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1c06a694bf44cd98a6d089f343fefcbaeeef7453"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/fr-CA/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-fr-CA-strings.json-F86C869382248A4CA8429E9BAF8646425E302960",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0af1d4c0b656de09579d4cb57df5c194185b741695a3451566eeeeb939571ccd"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f86c869382248a4ca8429e9baf8646425e302960"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-mobile-hub/sv/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-mobile-hub-sv-strings.json-366B7A107B1F30E1F8043034D196F9ADBA54077A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c020d2bf24d829e2dcbc0b8afdc1a47f7f56a0c4bb07ff85e499ec9ff3fe0d35"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "366b7a107b1f30e1f8043034d196f9adba54077a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/fr-CA/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-fr-CA-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/sv/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-sv-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/fi/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-fi-strings.json-33F3E877D8223804AD75926BFCE76A9F3007DEB7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6fcffcec7dc211712db7505bf73fa8b2cefd461deeca1340a2eb8f1793839bd2"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "33f3e877d8223804ad75926bfce76a9f3007deb7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/pt-PT/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-pt-PT-strings.json-344CE3648F3EE552DA39692220DDF4E1C234192B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9fe432d2ad444daa811c9591beb55ace43566f338a25382bb4a314a7459627ea"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "344ce3648f3ee552da39692220ddf4e1c234192b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/en-GB/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-en-GB-strings.json-36B6BF1A9501A99AB5BFC1CCD141CA1BC6388AAC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c46aa23f54cccab627536b963f251dc1c1fe5a752bb2a0e6e8c0a01d5942dd1e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36b6bf1a9501a99ab5bfc1ccd141ca1bc6388aac"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/nl/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-nl-strings.json-5C988CC5F1AF6D94D79F512F14E5DE2B77A3608F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "208739b2b5aee5326f690eefc88e45c84cf71523b551c35a8bbc2aca59169dae"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5c988cc5f1af6d94d79f512f14e5de2b77a3608f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/de/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-de-strings.json-B79564DB9A2B74690D038C2C04AB6FA5AD05404A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a424f83d2c86b6497287e7997f773e3103a1f29b322efc76c26518e8260ff0e4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b79564db9a2b74690d038c2c04ab6fa5ad05404a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/nl/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-nl-strings.json-FC59EFF165F7FC8038D07E4474736911CF3DCB29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "757092ad519b182536a38e798fceb9716b7f101375930a2023563350857aee89"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fc59eff165f7fc8038d07e4474736911cf3dcb29"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/super_coupon.json",
+      "SPDXID": "SPDXRef-File--json-wallet-super-coupon.json-3BFC665B5938A78CA69858B5E986A09028179A57",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4e0852e3b06f5d6a614554b5e4e7f19af8b2ed1490a1c87e0f3d1a96451a0ad7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3bfc665b5938a78ca69858b5e986a09028179a57"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Mini-Wallet/mini-wallet.html",
+      "SPDXID": "SPDXRef-File--Mini-Wallet-mini-wallet.html-120176ECC5CF13DA4592C2899C65C735BBAAEF16",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8d433c119becb1307c7ed022d7f536ed24dc967cef67228b13a4eebed581accf"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "120176ecc5cf13da4592c2899c65c735bbaaef16"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/notification.bundle.js.LICENSE.txt",
+      "SPDXID": "SPDXRef-File--Notification-notification.bundle.js.LICENSE.txt-FBBD7B6A58ACA424723DB423621FCC2D390A87C9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4717324137a91f6160b88255a26a3b20abdf08ff1c1b0b90792da813a0927f99"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "fbbd7b6a58aca424723db423621fcc2d390a87c9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--Notification--manifest-spdx-2.2-manifest.spdx.json.sha256-36D4978E40D820ADD3A099C94AB70571A0CD0AD7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "04c04b9ec856870a7d3d364e0f8a70bc9c2a3300b04502ce31a6992acc4eb801"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36d4978e40d820add3a099c94ab70571a0cd0ad7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/app-setup.js",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout-app-setup.js-328DB6D47F7B5768A5B2AA15CA39A1BC25232A7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "258a2b58d47d2f7a74636537d257f3d54666c2a5d5201ef919cceb184a3ee53c"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "328db6d47f7b5768a5b2aa15ca39a1bc25232a7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/_manifest/spdx_2.2/manifest.spdx.json.sha256",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-manifest.spdx.json.sha256-D9D317A33801155C9D490DB8E122EB6ADFBFE6B0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e79480eea59e0a79e8b28974796974bea98f97124c3d0c7a4051cb10c4fa1238"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "d9d317a33801155c9d490db8e122eb6adfbfe6b0"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification/nl/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-nl-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/de/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-de-strings.json-C1B29E25CA91C01C3870EEA734A83E60E9B4B2EC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c73f11cbf2a34788debdc0e116906bc24432d4ff0344ee0656bbdf913243b435"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c1b29e25ca91c01c3870eea734a83e60e9b4b2ec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/it/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-it-strings.json-B2C52DF73634E2FD808BBE9F554C2870BAFBA024",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "90e6abe3d7710735c2d8f98598c70d7bec951402a9bc4d79b5540e48ec2c56c9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b2c52df73634e2fd808bbe9f554c2870bafba024"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-notification-shared/zh-Hant/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-notification-shared-zh-Hant-strings.json-20D9051C647BDEB15C8C2125B233DF86A5F72F68",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "805c3e25e92930b17240a3d419c18bcbd1a8703daed486df3e3f52deffa07d5a"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "20d9051c647bdeb15c8c2125b233df86a5f72f68"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/fr-CA/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-fr-CA-strings.json-29D4C96783F2658E9EDB96F13E46C62ED2291E21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1c9bb65888acd75b43e9480e6c99a266d56e7eaf53ad3d114fad6176f706dce"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "29d4c96783f2658e9edb96f13e46c62ed2291e21"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-shared-components/sv/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-shared-components-sv-strings.json-25CCD3FB993A5F656AF66C8F64DE093BD0B26971",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f05db7d58af176df48b03e468f11d95251f473113fe1eb8c853c9d53dd9c8670"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "25ccd3fb993a5f656af66c8f64de093bd0b26971"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/fr-CA/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-fr-CA-strings.json-4AAEEF0905E67B490D4A9508ED5D4A406263ED9C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c67b555372582b07df86a6ce3329a854e349ba9525d7be0672517bab0ac14db5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "4aaeef0905e67b490d4a9508ed5d4a406263ed9c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/i18n-tokenized-card/sv/strings.json",
+      "SPDXID": "SPDXRef-File--json-i18n-tokenized-card-sv-strings.json-84B886A0EE188F4E59B6DBA3D3D4115EB5BE5090",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfcfd48298f1dc8e1822563f4c7fbca4f0328afe92680f8b0d5a33c8461e446e"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "84b886a0ee188f4e59b6dba3d3d4115eb5be5090"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./json/wallet/wallet-pre-stable.json",
+      "SPDXID": "SPDXRef-File--json-wallet-wallet-pre-stable.json-0B58343060A3BA011D72EE42EE2FEA620FF6F0B5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5fd4740c0728516af8207e28ff02298ccfbc8e591e231b239d3f6324263000f8"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "0b58343060a3ba011d72ee42ee2fea620ff6f0b5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Mini-Wallet/_manifest/spdx_2.2/manifest.cat",
+      "SPDXID": "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-manifest.cat-36527FBD586204925BAE876C3FB3CDCE5E0F72A6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a227eb5249f406ae1ea76afeef9af0dfc16e635a3ad4bf47f7cee5e03a49b233"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "36527fbd586204925bae876c3fb3cdce5e0f72a6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Notification/notification_fast.html",
+      "SPDXID": "SPDXRef-File--Notification-notification-fast.html-6F8CD203CB9B4DCAC5D72C61FBD0FF382A9DA756",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5796009474c4d82f44c4416cbf0c13e746fa1fb4e8b9111f5b20fe2ba04f8501"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6f8cd203cb9b4dcac5d72c61fbd0ff382a9da756"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Tokenized-Card/_manifest/spdx_2.2/bsi.json",
+      "SPDXID": "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-bsi.json-18556CF759B4E8598F59FF4C91FD0134B453FDF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1271979edaea9f24ce6b6f160f2ad679f0c4035c5586080dc436210c790b25d9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "18556cf759b4e8598f59ff4c91fd0134b453fdf7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Wallet-Checkout/wallet-drawer.html",
+      "SPDXID": "SPDXRef-File--Wallet-Checkout-wallet-drawer.html-C49DCFFDA418FA632609D157F132BA4B149DA4F9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57f30472eadb68f22b72805d20d61989c71beedcb6c8c31165a83012ec17fbd4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c49dcffda418fa632609d157f132ba4b149da4f9"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Azure Pipelines Hosted Image win22",
+      "SPDXID": "SPDXRef-Package-50D0A072F18DA59D9BA1934A30D1D1E90F2F2771AAE007060F6462AF4FCC1E86",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "20231126.1.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "https://github.com/actions/virtual-environments"
+        }
+      ],
+      "supplier": "Organization: Microsoft/GitHub"
+    },
+    {
+      "name": "XPay.Wallet.PartialIntegration.1ESPT",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "187205c22fd254c0345732d2b392fe51fc0f4a64"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "41843855",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/Microsoft/sbom.microsoft/XPay.Wallet.PartialIntegration.1ESPT@41843855?tag_id=69bc7906-787a-43aa-8049-aeea1f148dde"
+        }
+      ],
+      "supplier": "Organization: Microsoft",
+      "hasFiles": [
+        "SPDXRef-File--json-i18n-tokenized-card-sv-strings.json-84B886A0EE188F4E59B6DBA3D3D4115EB5BE5090",
+        "SPDXRef-File--json-i18n-tokenized-card-fr-CA-strings.json-4AAEEF0905E67B490D4A9508ED5D4A406263ED9C",
+        "SPDXRef-File--json-i18n-shared-components-sv-strings.json-25CCD3FB993A5F656AF66C8F64DE093BD0B26971",
+        "SPDXRef-File--json-i18n-shared-components-fr-CA-strings.json-29D4C96783F2658E9EDB96F13E46C62ED2291E21",
+        "SPDXRef-File--json-i18n-notification-shared-zh-Hant-strings.json-20D9051C647BDEB15C8C2125B233DF86A5F72F68",
+        "SPDXRef-File--json-i18n-notification-shared-it-strings.json-B2C52DF73634E2FD808BBE9F554C2870BAFBA024",
+        "SPDXRef-File--json-i18n-notification-shared-de-strings.json-C1B29E25CA91C01C3870EEA734A83E60E9B4B2EC",
+        "SPDXRef-File--json-i18n-notification-nl-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-manifest.spdx.json.sha256-D9D317A33801155C9D490DB8E122EB6ADFBFE6B0",
+        "SPDXRef-File--Wallet-Checkout-app-setup.js-328DB6D47F7B5768A5B2AA15CA39A1BC25232A7D",
+        "SPDXRef-File--Notification--manifest-spdx-2.2-manifest.spdx.json.sha256-36D4978E40D820ADD3A099C94AB70571A0CD0AD7",
+        "SPDXRef-File--Notification-notification.bundle.js.LICENSE.txt-FBBD7B6A58ACA424723DB423621FCC2D390A87C9",
+        "SPDXRef-File--Mini-Wallet-mini-wallet.html-120176ECC5CF13DA4592C2899C65C735BBAAEF16",
+        "SPDXRef-File--json-wallet-super-coupon.json-3BFC665B5938A78CA69858B5E986A09028179A57",
+        "SPDXRef-File--json-i18n-tokenized-card-nl-strings.json-FC59EFF165F7FC8038D07E4474736911CF3DCB29",
+        "SPDXRef-File--json-i18n-tokenized-card-de-strings.json-B79564DB9A2B74690D038C2C04AB6FA5AD05404A",
+        "SPDXRef-File--json-i18n-shared-components-nl-strings.json-5C988CC5F1AF6D94D79F512F14E5DE2B77A3608F",
+        "SPDXRef-File--json-i18n-shared-components-en-GB-strings.json-36B6BF1A9501A99AB5BFC1CCD141CA1BC6388AAC",
+        "SPDXRef-File--json-i18n-notification-shared-pt-PT-strings.json-344CE3648F3EE552DA39692220DDF4E1C234192B",
+        "SPDXRef-File--json-i18n-notification-shared-fi-strings.json-33F3E877D8223804AD75926BFCE76A9F3007DEB7",
+        "SPDXRef-File--json-i18n-notification-sv-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-notification-fr-CA-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-sv-strings.json-366B7A107B1F30E1F8043034D196F9ADBA54077A",
+        "SPDXRef-File--json-i18n-mobile-hub-fr-CA-strings.json-F86C869382248A4CA8429E9BAF8646425E302960",
+        "SPDXRef-File--json-i18n-hub-sv-strings.json-1C06A694BF44CD98A6D089F343FEFCBAEEEF7453",
+        "SPDXRef-File--json-i18n-hub-fr-CA-strings.json-9842E598643B522AEA67F54F34BC749A00D244CD",
+        "SPDXRef-File--json-i18n-ec-zh-Hant-strings.json-1B683A734461CF58DA28C212A6917302C61D7540",
+        "SPDXRef-File--json-i18n-ec-it-strings.json-D1943A841C989B88B6A6389F962CCBA7F7324216",
+        "SPDXRef-File--json-i18n-ec-de-strings.json-CC0EC8C930A7C3CE46294376A7D2B828E5F22C9A",
+        "SPDXRef-File--wallet.bundle.js-6210EC49E47DFF9FF76BA6A58B3348E7A2B03A4F",
+        "SPDXRef-File--load-hub-i18n.bundle.js-39151D08DB7774CF64E5F055D151D985FFF61C2D",
+        "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-bsi.json-18556CF759B4E8598F59FF4C91FD0134B453FDF7",
+        "SPDXRef-File--Notification-notification-fast.html-6F8CD203CB9B4DCAC5D72C61FBD0FF382A9DA756",
+        "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-manifest.cat-36527FBD586204925BAE876C3FB3CDCE5E0F72A6",
+        "SPDXRef-File--json-wallet-wallet-pre-stable.json-0B58343060A3BA011D72EE42EE2FEA620FF6F0B5",
+        "SPDXRef-File--json-i18n-notification-de-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-nl-strings.json-EDEF4B206B37644AEE4483A79C21D8BF9C4F2A49",
+        "SPDXRef-File--json-i18n-mobile-hub-de-strings.json-ECB4A84E4A23B8161E1D42D7942BCC4D4A6C02F0",
+        "SPDXRef-File--json-i18n-hub-nl-strings.json-29A5BE540BA68455DDEB094615A584A6813B647B",
+        "SPDXRef-File--json-i18n-hub-en-GB-strings.json-4EE1CFAA3C53D71FE10EA875CAEB1881B4D9DBB0",
+        "SPDXRef-File--json-i18n-ec-pt-PT-strings.json-A8DF353FDAF269A0395581A1B12A7D25C4F8DE20",
+        "SPDXRef-File--json-i18n-ec-fi-strings.json-D41AEED5E543EE3CC873733BC886B8A4B87D9679",
+        "SPDXRef-File--bnpl-bnpl.bundle.js-22647E99FEE7833AC02F06EE7A3C80B29B60727F",
+        "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-manifest.spdx.json.sha256-E91764B1EF398DF96DE0E3D9D4D016AFCE3815FC",
+        "SPDXRef-File--Notification-notification.bundle.js-CD873CD1AF08D9FB972B7CA8C59B91664779946E",
+        "SPDXRef-File--json-wallet-wallet-checkout-checkoutdata.json-BBA607996195808C80FE7C2704EAD2F5BEDAC715",
+        "SPDXRef-File--json-wallet-README.md-146B8E0F62DA6C6230D449918BCD0B233E2E1ECE",
+        "SPDXRef-File--json-i18n-tokenized-card-ja-strings.json-8C2566E15D565372A67B75B88CA57BBCC251811A",
+        "SPDXRef-File--json-i18n-tokenized-card-ar-strings.json-2A45A8F8C3BC81C531432C3F9B6128529C892384",
+        "SPDXRef-File--json-i18n-shared-components-ja-strings.json-BE24D167B7159C297C2BB938FE7F825CAA4CA68F",
+        "SPDXRef-File--json-i18n-shared-components-el-strings.json-F8275C8C29529B0B196385A610BDD5D263D46B08",
+        "SPDXRef-File--json-i18n-notification-shared-pt-BR-strings.json-27B6AF13FFB4E4F61F24CF950E4E53D184BD8D8E",
+        "SPDXRef-File--json-i18n-notification-shared-es-strings.json-F52E3A76DDE67FEE1E3924456CF15625489C5865",
+        "SPDXRef-File--json-i18n-notification-ru-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-notification-fr-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-ru-strings.json-CA9DEA0AC95E51B167D1F124DC83BD0B0E91BCE4",
+        "SPDXRef-File--json-i18n-mobile-hub-fr-strings.json-A82CC302649AE008E9200C419FAFB119B99437BE",
+        "SPDXRef-File--json-i18n-hub-ru-strings.json-AC1C3CFA1B0F3A4ACD06FC68C89C1DC587950B13",
+        "SPDXRef-File--json-i18n-hub-fr-strings.json-41CCE3AA776683E987306D7D44C71E42F3EC7E03",
+        "SPDXRef-File--json-i18n-ec-zh-Hans-strings.json-783089834D9D361CED8EDA1DD481914A0BEE1331",
+        "SPDXRef-File--json-i18n-ec-id-strings.json-7992B6442520A8DC2B59BDFCAE2C4BDD03D45F08",
+        "SPDXRef-File--json-i18n-ec-ar-strings.json-93CB9779A03B2711FF2560B8E3D9999A0BB1F28D",
+        "SPDXRef-File--wallet-icon.svg-27796A933CAD16EE4DDA7D0E645F1101B0A715FB",
+        "SPDXRef-File--hub-signature.txt-581E259CFE897013EB4CE872539E1B3AC909678A",
+        "SPDXRef-File--vendor.bundle.js.LICENSE.txt-F06D5F12257E219A9550475DA3617A9932D380B7",
+        "SPDXRef-File--driver-signature.txt-4AD60EB059E2D72AD33FCAB9890251A5A88D81D2",
+        "SPDXRef-File--wallet-donation-driver.js-A581AEB20FDD46E10A487E4763F80E03E73F698E",
+        "SPDXRef-File--shopping-iframe-driver.js-5A25C6F02F7D8853E7FC08DC5596ACBE58BB6002",
+        "SPDXRef-File--buynow-driver.js-E8F6256826CBB2E035B23319A5740981E17B6FE0",
+        "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-manifest.cat-2EE880D6303A6CD4A6DEF590E8DE4FE26BFDCF8C",
+        "SPDXRef-File--Wallet-Checkout-wallet-drawer.bundle.js-B808205334A0A2F7BBE83F995635A5B7052908BD",
+        "SPDXRef-File--Tokenized-Card-tokenized-card.bundle.js.LICENSE.txt-FBBD7B6A58ACA424723DB423621FCC2D390A87C9",
+        "SPDXRef-File--Notification-notification-fast.bundle.js-ACBEE0252FABE2781867949B767CAD529810F81B",
+        "SPDXRef-File--Mini-Wallet-miniwallet.bundle.js.LICENSE.txt-6BC94FAFFAA1EF64E8B4CC258B4B3D66FB6D8DF8",
+        "SPDXRef-File--json-wallet-wallet-checkout-eligible-sites.json-C2F296483F3F18AB4759B6AAD72D9E88A50926A4",
+        "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-bsi.json-BF357892881E6B4E5AFC3D53C7D112EBF85E24EF",
+        "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-manifest.cat-5C044E349BAC654AD0644A860DEF9B76BB1BD76C",
+        "SPDXRef-File--Wallet-Checkout-wallet-drawer.bundle.js.LICENSE.txt-42A7C3FB950E1C632227BFDCE33E45A14751CF11",
+        "SPDXRef-File--Tokenized-Card-tokenized-card.html-EEE947CCA55A9720FEA7C09B4A6697F880F77D33",
+        "SPDXRef-File--Wallet-Checkout-load-ec-i18n.bundle.js-2C8811457A3B2B34B8B73F8B19C6103E2D4727A0",
+        "SPDXRef-File--Tokenized-Card-tokenized-card.bundle.js-3271D9266C629449C1CD800EE6F7FC49DE7A2CA1",
+        "SPDXRef-File--Notification-notification-fast.bundle.js.LICENSE.txt-6BC94FAFFAA1EF64E8B4CC258B4B3D66FB6D8DF8",
+        "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-bsi.json-B34930003A637713C55F6126468F8FB5A8F33BF8",
+        "SPDXRef-File--json-wallet-wallet-notification-config.json-7F404DE2F844C238C7B7A98714C4B09BF8C0FA5E",
+        "SPDXRef-File--json-i18n-tokenized-card-ru-strings.json-503894AA17D445242955BBFB9510591FBBB53544",
+        "SPDXRef-File--json-i18n-tokenized-card-fr-strings.json-4AAEEF0905E67B490D4A9508ED5D4A406263ED9C",
+        "SPDXRef-File--json-i18n-shared-components-ru-strings.json-67A311C62920A7A28C25D05DA28D3AF6512DA48F",
+        "SPDXRef-File--json-i18n-shared-components-fr-strings.json-A886F0447DC1D05520BABA1FCE9D75AAC2C7918A",
+        "SPDXRef-File--json-i18n-notification-shared-zh-Hans-strings.json-863ED8B3F7E291BE55A7F7314729F9E0000E2682",
+        "SPDXRef-File--json-i18n-notification-shared-id-strings.json-36BEEC91FDA0D32B6EA0F0FFD3109713BAAB9617",
+        "SPDXRef-File--json-i18n-notification-shared-ar-strings.json-1789E29A8A66FDFE6F8D6A7182005CB57ADFD909",
+        "SPDXRef-File--json-i18n-notification-ja-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-notification-ar-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-ja-strings.json-B67BE842477CCAD088963CA9E4811BF96A7C0E32",
+        "SPDXRef-File--json-i18n-mobile-hub-ar-strings.json-6219A54C058911E4C9E438E9403C50EF84C06D09",
+        "SPDXRef-File--json-i18n-hub-ja-strings.json-48F3E07AD4F750715FC50E3783894BD0C63F68DD",
+        "SPDXRef-File--json-i18n-hub-el-strings.json-87B50D76087F334CFFBC60497FE8DF2E0CE571D9",
+        "SPDXRef-File--json-i18n-ec-pt-BR-strings.json-F3D8CF70DF1664622146AAA91800CE5896F5AF58",
+        "SPDXRef-File--json-i18n-ec-es-strings.json-7744E1252CF244C4EB5C75454A1C753D9DD855AB",
+        "SPDXRef-File--json-i18n-tokenized-card-pt-PT-strings.json-332213CFA4CE5C6D2B8BA81CF29433FA2D7A5612",
+        "SPDXRef-File--json-i18n-tokenized-card-es-strings.json-E4E81042CFA38D1A43CE625112ED39D96BD69F25",
+        "SPDXRef-File--json-i18n-shared-components-pt-PT-strings.json-A87B8A96B1EE112C1171501A2C7C514AA04F9666",
+        "SPDXRef-File--json-i18n-shared-components-fi-strings.json-E160BA98D007A6705684A8D5308B9B51073249C4",
+        "SPDXRef-File--json-i18n-notification-shared-sv-strings.json-9346E531ADFEC904C945D83D5753D67CDC66EA3F",
+        "SPDXRef-File--json-i18n-notification-shared-fr-CA-strings.json-AA95F1639990B0477DE60D470160844826BBE93B",
+        "SPDXRef-File--json-i18n-notification-zh-Hant-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-notification-it-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-zh-Hant-strings.json-39BD6C2DC92FA0C68A4A7729EA1672ED12DB060D",
+        "SPDXRef-File--json-i18n-mobile-hub-it-strings.json-34ECCDD054DF523D97D0FC14AD9B213C6F9319E2",
+        "SPDXRef-File--json-i18n-hub-zh-Hant-strings.json-3B071B08F62D1A49984C3E93A72260BE1199D75C",
+        "SPDXRef-File--json-i18n-hub-it-strings.json-444A985AE7D79CF24C11F5E1D6B4A52B6490F581",
+        "SPDXRef-File--json-i18n-hub-de-strings.json-CFB02A758E1FC2A78C037E444B5851A3CEADD5B3",
+        "SPDXRef-File--json-i18n-ec-nl-strings.json-BDEFB387AEB8EA82DCF10348FF5F2BC67C517852",
+        "SPDXRef-File--json-i18n-ec-en-GB-strings.json-801F51EE097EFAACA7412C1AC763D92A58A7ACD6",
+        "SPDXRef-File--Notification-notification.html-328EDA14601A7D0A4B984134B432090F7B5B6980",
+        "SPDXRef-File--Mini-Wallet-miniwallet.bundle.js-867D02D02669A3D01515E46F250A7E3602A90C7E",
+        "SPDXRef-File--json-wallet-wallet-checkout-eligible-sites-pre-stable.json-5DCD6DA90D58E2190C001A2048C5C736C58600D9",
+        "SPDXRef-File--json-i18n-tokenized-card-pt-BR-strings.json-E0379C8F9ECC6AC0DE6AC60FFA5FC7F6805D8B80",
+        "SPDXRef-File--json-i18n-tokenized-card-en-GB-strings.json-15BABFD2C2EB57B7725DEC3200129D0E28C37373",
+        "SPDXRef-File--json-i18n-shared-components-pt-BR-strings.json-8E0F1BEDC0E47ACA9048B6099DDC53662C3960DD",
+        "SPDXRef-File--json-i18n-shared-components-es-strings.json-E397D05AC45F7BF912C13925BD3389B52223A62D",
+        "SPDXRef-File--json-i18n-notification-shared-ru-strings.json-06880FD961AD79387EE6021AD450354DA5570494",
+        "SPDXRef-File--json-i18n-notification-shared-fr-strings.json-FE1CE35DC98880B83C1CE2B8FFD2F85090A85EC4",
+        "SPDXRef-File--json-i18n-notification-zh-Hans-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-notification-id-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-zh-Hans-strings.json-C97D24192AFCB63AE07541817EC541C10D9A73FA",
+        "SPDXRef-File--json-i18n-mobile-hub-id-strings.json-7849E5530A788EDBDD88D5E425D042D669165479",
+        "SPDXRef-File--json-i18n-hub-zh-Hans-strings.json-B4F20135D474315EB6F23375A378AC008372D3B4",
+        "SPDXRef-File--json-i18n-hub-id-strings.json-72D529D2F37477B38E128CB99AA849A334126101",
+        "SPDXRef-File--json-i18n-hub-ar-strings.json-E2209A490B1D867A15DB7616ABB965D3F3695B08",
+        "SPDXRef-File--json-i18n-ec-ja-strings.json-2172C5A65C35C3DFF93623C0FD389A5ABC4AF6F2",
+        "SPDXRef-File--json-i18n-ec-el-strings.json-44550D4F5A709CD7B002BFE17C19F19AD293F561",
+        "SPDXRef-File--Notification--manifest-spdx-2.2-manifest.cat-5BB5BA3A5F7235EE7F0ED332624E393E49618F0B",
+        "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-manifest.spdx.json.sha256-7A5346BABC0032545F2E49725314F7A9927C2A61",
+        "SPDXRef-File--json-wallet-wallet-tokenization-config.json-619192A332D9EC2239412E9FEF6E2259E627F4FF",
+        "SPDXRef-File--json-i18n-tokenized-card-zh-Hant-strings.json-CCE0BE73B439579A047E6ED4231CACE3B3B4AC44",
+        "SPDXRef-File--json-i18n-tokenized-card-it-strings.json-D02C5030B5485EFF83F32F6CFF9B0C819DC29388",
+        "SPDXRef-File--json-i18n-shared-components-zh-Hant-strings.json-A3A63684A2EEA5E42F8F8C6C4677C04C93D93ECE",
+        "SPDXRef-File--json-i18n-shared-components-it-strings.json-8974800A56DA7A65472564E3B1608A2D069038D8",
+        "SPDXRef-File--json-i18n-shared-components-de-strings.json-C40CECA56E2B33A32F9B37776C8A64BA62CF0A11",
+        "SPDXRef-File--json-i18n-notification-shared-nl-strings.json-CB227EB4357AA5D216C782E45BBABEC4E5034586",
+        "SPDXRef-File--json-i18n-notification-shared-en-GB-strings.json-2CE3FACC347104B8B1887B7827894B593D695D58",
+        "SPDXRef-File--json-i18n-notification-pt-PT-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-notification-es-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-pt-PT-strings.json-AF1829A136A90130E90C498ED203C11155058FE6",
+        "SPDXRef-File--json-i18n-mobile-hub-es-strings.json-E00F45FD2CA0A9895FCE652BA331BD69B37892C7",
+        "SPDXRef-File--json-i18n-hub-pt-PT-strings.json-5EBD9AB1A3C5E5540D270461A63D34CA32228056",
+        "SPDXRef-File--json-i18n-hub-fi-strings.json-DF59109D7BDD0035F8FF00A0DFC420C86AABC765",
+        "SPDXRef-File--json-i18n-ec-sv-strings.json-5B946AABD7AF38CD76E66D90B1A16C89ADB13D33",
+        "SPDXRef-File--json-i18n-ec-fr-CA-strings.json-3418963EBA1952FF81B68ACA63AB31B28AF4D944",
+        "SPDXRef-File--bnpl-bnpl.html-3CB07220918DE72D57600F0AADA3ED80BFED11EC",
+        "SPDXRef-File--Notification--manifest-spdx-2.2-bsi.json-B34930003A637713C55F6126468F8FB5A8F33BF8",
+        "SPDXRef-File--json-wallet-wallet-stable.json-44E139BA78BBCDC6951E39DE2476653CC656B1E4",
+        "SPDXRef-File--json-i18n-tokenized-card-zh-Hans-strings.json-8A7D03F9707CDE4DD254332D6ACE408410090347",
+        "SPDXRef-File--json-i18n-tokenized-card-id-strings.json-605A36FF40E00B5FFB05CAABC0023FA606809713",
+        "SPDXRef-File--json-i18n-shared-components-zh-Hans-strings.json-440EA1C4130D93933A7AAE9D902F29BA960401CA",
+        "SPDXRef-File--json-i18n-shared-components-id-strings.json-730FDE09754DBCE77578E84DEA8E0635BE54A7B5",
+        "SPDXRef-File--json-i18n-shared-components-ar-strings.json-E7E918AF6ACDD413980BD18E3CC948B9EAC7E35C",
+        "SPDXRef-File--json-i18n-notification-shared-ja-strings.json-4CA113A9460B6EEDBC34B1006133FA5D98A87810",
+        "SPDXRef-File--json-i18n-notification-shared-el-strings.json-9DE60EFFFECCC7EB9A2ACD1B133DD0D86740EBBE",
+        "SPDXRef-File--json-i18n-notification-pt-BR-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-notification-en-GB-strings.json-BF21A9E8FBC5A3846FB05B4FA0859E0917B2202F",
+        "SPDXRef-File--json-i18n-mobile-hub-pt-BR-strings.json-BBFAFB0E8F6339B8B02B09BA294659A37EF7CE1D",
+        "SPDXRef-File--json-i18n-mobile-hub-en-GB-strings.json-A85AEABD958A1D6E47DA0CD244D835358A938F36",
+        "SPDXRef-File--json-i18n-hub-pt-BR-strings.json-04F0D5CDF259E6B65AF5BFE7E5B5D4D7A5EF4826",
+        "SPDXRef-File--json-i18n-hub-es-strings.json-6D2ADD9B2BDFC53E2D4C2483EABE2FCB2ADCD1D6",
+        "SPDXRef-File--json-i18n-ec-ru-strings.json-728CBB75FF4B532BDA5A5B847D0CA8A103D10676",
+        "SPDXRef-File--json-i18n-ec-fr-strings.json-41DE59847CB2122C6F2334E837C1656E6266C865",
+        "SPDXRef-File--bnpl-bnpl.bundle.js.LICENSE.txt-6D51AF99898C263907845CE60FD0FBF7030F2FBA",
+        "SPDXRef-File--wallet-crypto.html-723937F378A6CCD42D489009A81BBB8FC1813A87",
+        "SPDXRef-File--edge-driver.js-B88A3BC54BBBF1C9F7FECF77FD91BB9B863DA326",
+        "SPDXRef-File--wallet.html-E3545A2B1CDAE819B1AE81B43ABD1231B53238F5",
+        "SPDXRef-File--manifest.webapp.json-CD7BDD927F327F9E08D2E059C0C62D21F4DF5DCC",
+        "SPDXRef-File--app-setup.js-9A153D97946836FB64E9400A90A328B182B75732",
+        "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-manifest.spdx.json-95F39183746EB6D5D416CE7B85F8F42F125548CD",
+        "SPDXRef-File--Wallet-Checkout-wallet-drawer.html-C49DCFFDA418FA632609D157F132BA4B149DA4F9",
+        "SPDXRef-File--vendor.bundle.js-31D9206FD0B0DAF948E8ACAC214FEA1DAE049553",
+        "SPDXRef-File--crypto.bundle.js-05AA62741AB68CE5E5A5A491DDF3ED7FBBCB30B4",
+        "SPDXRef-File--wallet-checkout-autofill-driver.js-4E56E89642A64ADF54CEC525052935126F2C3C7F",
+        "SPDXRef-File--runtime.bundle.js-1548799DB6350E25591534225946BC995F4478C3",
+        "SPDXRef-File--bnpl-driver.js-A845B80AEB4A16221B3656C8802D389CE305EFBE",
+        "SPDXRef-File--Notification--manifest-spdx-2.2-manifest.spdx.json-F1EEA70B3DEF4F9851B039F9FB165DDAFC29E4DB",
+        "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-manifest.spdx.json-C74FF8234E614F3ADD2BA08B6DEA07881A91D773",
+        "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-manifest.spdx.json-5716790098598DA5C6FC3C85F39D363D300BC7B4"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-b4f8740d9cbaf4aff41e044ec55962635ecff40e",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/KiYrZOtub0Onom7YVkQHNg",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "b4f8740d9cbaf4aff41e044ec55962635ecff40e"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-669aeee41f1d9adf0c37f09f4b8852b651c6f552",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/skpNbsyUwE2B0hM_PzUsxQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "669aeee41f1d9adf0c37f09f4b8852b651c6f552"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-7c3f2a909e6d14d4f4b19bda808dc3b57fdf1ed6",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/k8T5WiBofECWcaxcnMK9SQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "7c3f2a909e6d14d4f4b19bda808dc3b57fdf1ed6"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-d9223533496462c837dfc3558bfc6d103cc84ad8",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/_CyKOzv2d0WueU4FBVZL-w",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "d9223533496462c837dfc3558bfc6d103cc84ad8"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41612581-f1eea70b3def4f9851b039f9fb165ddafc29e4db",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41612581/LCT_Tq7EkESqmiRMxxNjDw",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "f1eea70b3def4f9851b039f9fb165ddafc29e4db"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41625522-5716790098598da5c6fc3c85f39d363d300bc7b4",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41625522/rGpFbTZxC0amE4BBP-yWcw",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "5716790098598da5c6fc3c85f39d363d300bc7b4"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-617ae6b1c722d71325c9dbcb2edc8587429706cf",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/YeGULb0gn0CmrzUNikjx9Q",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "617ae6b1c722d71325c9dbcb2edc8587429706cf"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-f5a77a869b379a32fd097d66c04bceb8848030c0",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/XqFmhp0eyUmO95F2t9qfkQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "f5a77a869b379a32fd097d66c04bceb8848030c0"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-960dc1bd65038d95b5fbcb24f344786499bb2487",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/UjvPKXsqUEee_YN1Er1akg",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "960dc1bd65038d95b5fbcb24f344786499bb2487"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-04f07e54f3b6c4b0c0abd5dd9591231f02416357",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/60K4kbwdNkqxPBZVv7UXng",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "04f07e54f3b6c4b0c0abd5dd9591231f02416357"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-52daeba62e7c909a40d36bafab10cd48cab4763c",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/fxsz36aGQ0SKEXkpU0Mx7Q",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "52daeba62e7c909a40d36bafab10cd48cab4763c"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-7c86b4bc2d780bc5783dd896dd1338759b82648e",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/__-rHj2Qpk-6dERaG-cbpQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "7c86b4bc2d780bc5783dd896dd1338759b82648e"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-3931b3b8edcf016cb839094bf847f561e71a706b",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/zF7nVPLdGUKx63EUudWfTg",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "3931b3b8edcf016cb839094bf847f561e71a706b"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41746180-95f39183746eb6d5d416ce7b85f8f42f125548cd",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41746180/mfoxeKfnqkivMqgaWAdiTQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "95f39183746eb6d5d416ce7b85f8f42f125548cd"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-257b6c96638b8bcaef0b89cd10194942a8146bab",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/JukzMTzyGU6S4aSSDH1Wdg",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "257b6c96638b8bcaef0b89cd10194942a8146bab"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-d7d4d5664abaf2106b9531998f5a47c352405a5e",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/0lr7iE003EOKZvUOxKBkhA",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "d7d4d5664abaf2106b9531998f5a47c352405a5e"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-387480c2716072929f066a7fd2b182ea89790ad3",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/y4NvaetX6kaGUYT-eucfAQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "387480c2716072929f066a7fd2b182ea89790ad3"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-2b9c1156c5b3b23ca50af254e0166882bae1b87b",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/wxfia86ziUaCCqCjdQGzeA",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "2b9c1156c5b3b23ca50af254e0166882bae1b87b"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-a23f8d0d624a7ed4b7a9790c5ca7f7cf6c70d102",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/3dbmipqId0WF-VzwvI4akA",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "a23f8d0d624a7ed4b7a9790c5ca7f7cf6c70d102"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-a9215776d68f33ed6e4c6dc4191855e0b81d6df2",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/7s7nX2oSbE-Em0EHiIkWKA",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "a9215776d68f33ed6e4c6dc4191855e0b81d6df2"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41612581-c74ff8234e614f3add2ba08b6dea07881a91d773",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41612581/KtkHJ47riEahV2EhrjHh5g",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "c74ff8234e614f3add2ba08b6dea07881a91d773"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-914f4fbded8e3a7f867f612e2156032fbd1313ad",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/jH81KSBYHESrXQkdeL27Yw",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "914f4fbded8e3a7f867f612e2156032fbd1313ad"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-2b038b31a36796b321abe5bb1a63c335e19fb533",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/xt60FdgMhUu0cBMItQCHlQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "2b038b31a36796b321abe5bb1a63c335e19fb533"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-313f3ebcfd68f3f9b7232f9446687e91e0c9e247",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/I8Y4DL5No0u7etjVNFX_wA",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "313f3ebcfd68f3f9b7232f9446687e91e0c9e247"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-a37cfdaf950f1ac43221dcbcfbdf95971aeeff39",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/kjIllOLzVUCrKaFcdCQ9PQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "a37cfdaf950f1ac43221dcbcfbdf95971aeeff39"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-e251f4856a28ac52c06eb32ba65891fa0f3e6176",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/7Y2e6XiowUeMT4QbB8hRIQ",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "e251f4856a28ac52c06eb32ba65891fa0f3e6176"
+      }
+    },
+    {
+      "externalDocumentId": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-3aed0bffeb1129fa83f1fd1f0746c417ceea24ab",
+      "spdxDocument": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/32637:41827568/YKWmUwA40kuv0oPuULT-xg",
+      "checksum": {
+        "algorithm": "SHA1",
+        "checksumValue": "3aed0bffeb1129fa83f1fd1f0746c417ceea24ab"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-3aed0bffeb1129fa83f1fd1f0746c417ceea24ab:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-e251f4856a28ac52c06eb32ba65891fa0f3e6176:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-a37cfdaf950f1ac43221dcbcfbdf95971aeeff39:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-313f3ebcfd68f3f9b7232f9446687e91e0c9e247:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-2b038b31a36796b321abe5bb1a63c335e19fb533:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-914f4fbded8e3a7f867f612e2156032fbd1313ad:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41612581-c74ff8234e614f3add2ba08b6dea07881a91d773:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-a9215776d68f33ed6e4c6dc4191855e0b81d6df2:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-a23f8d0d624a7ed4b7a9790c5ca7f7cf6c70d102:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-2b9c1156c5b3b23ca50af254e0166882bae1b87b:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-387480c2716072929f066a7fd2b182ea89790ad3:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-d7d4d5664abaf2106b9531998f5a47c352405a5e:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-257b6c96638b8bcaef0b89cd10194942a8146bab:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41746180-95f39183746eb6d5d416ce7b85f8f42f125548cd:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-3931b3b8edcf016cb839094bf847f561e71a706b:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-7c86b4bc2d780bc5783dd896dd1338759b82648e:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-52daeba62e7c909a40d36bafab10cd48cab4763c:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-04f07e54f3b6c4b0c0abd5dd9591231f02416357:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-960dc1bd65038d95b5fbcb24f344786499bb2487:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-617ae6b1c722d71325c9dbcb2edc8587429706cf:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41625522-5716790098598da5c6fc3c85f39d363d300bc7b4:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-d9223533496462c837dfc3558bfc6d103cc84ad8:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-669aeee41f1d9adf0c37f09f4b8852b651c6f552:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-50D0A072F18DA59D9BA1934A30D1D1E90F2F2771AAE007060F6462AF4FCC1E86",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-f5a77a869b379a32fd097d66c04bceb8848030c0:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41612581-f1eea70b3def4f9851b039f9fb165ddafc29e4db:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-7c3f2a909e6d14d4f4b19bda808dc3b57fdf1ed6:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "PREREQUISITE_FOR",
+      "relatedSpdxElement": "DocumentRef-XPay.Wallet.CI.1ESPT-41827568-b4f8740d9cbaf4aff41e044ec55962635ecff40e:SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-bundle-crypto-hub--manifest-spdx-2.2-manifest.spdx.json-313F3EBCFD68F3F9B7232F9446687E91E0C9E247"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-crypto-drawer--manifest-spdx-2.2-manifest.spdx.json-2B038B31A36796B321ABE5BB1A63C335E19FB533"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-hub--manifest-spdx-2.2-manifest.spdx.json-914F4FBDED8E3A7F867F612E2156032FBD1313AD"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-bundle-crypto-help-center--manifest-spdx-2.2-manifest.spdx.json-617AE6B1C722D71325C9DBCB2EDC8587429706CF"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--Wallet-Checkout--manifest-spdx-2.2-manifest.spdx.json-5716790098598DA5C6FC3C85F39D363D300BC7B4"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-ec-driver--manifest-spdx-2.2-manifest.spdx.json-D9223533496462C837DFC3558BFC6D103CC84AD8"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-tokenized-card-mock--manifest-spdx-2.2-manifest.spdx.json-669AEEE41F1D9ADF0C37F09F4B8852B651C6F552"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-bundle-crypto--manifest-spdx-2.2-manifest.spdx.json-F5A77A869B379A32FD097D66C04BCEB8848030C0"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--Notification--manifest-spdx-2.2-manifest.spdx.json-F1EEA70B3DEF4F9851B039F9FB165DDAFC29E4DB"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-drawer--manifest-spdx-2.2-manifest.spdx.json-7C3F2A909E6D14D4F4B19BDA808DC3B57FDF1ED6"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-source-maps--manifest-spdx-2.2-manifest.spdx.json-B4F8740D9CBAF4AFF41E044EC55962635ECFF40E"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--Mini-Wallet--manifest-spdx-2.2-manifest.spdx.json-C74FF8234E614F3ADD2BA08B6DEA07881A91D773"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-donation-driver--manifest-spdx-2.2-manifest.spdx.json-A9215776D68F33ED6E4C6DC4191855E0B81D6DF2"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-notification--manifest-spdx-2.2-manifest.spdx.json-A23F8D0D624A7ED4B7A9790C5CA7F7CF6C70D102"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-bundle-hub-bnpl--manifest-spdx-2.2-manifest.spdx.json-2B9C1156C5B3B23CA50AF254E0166882BAE1B87B"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-crypto-hub--manifest-spdx-2.2-manifest.spdx.json-387480C2716072929F066A7FD2B182EA89790AD3"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-hub-mock--manifest-spdx-2.2-manifest.spdx.json-D7D4D5664ABAF2106B9531998F5A47C352405A5E"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-buynow--manifest-spdx-2.2-manifest.spdx.json-52DAEBA62E7C909A40D36BAFAB10CD48CAB4763C"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-crypto-shared--manifest-spdx-2.2-manifest.spdx.json-04F07E54F3B6C4B0C0ABD5DD9591231F02416357"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-mini-wallet--manifest-spdx-2.2-manifest.spdx.json-960DC1BD65038D95B5FBCB24F344786499BB2487"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-bundle-crypto-drawer--manifest-spdx-2.2-manifest.spdx.json-257B6C96638B8BCAEF0B89CD10194942A8146BAB"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--Tokenized-Card--manifest-spdx-2.2-manifest.spdx.json-95F39183746EB6D5D416CE7B85F8F42F125548CD"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-driver--manifest-spdx-2.2-manifest.spdx.json-3931B3B8EDCF016CB839094BF847F561E71A706B"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-tokenized-card--manifest-spdx-2.2-manifest.spdx.json-7C86B4BC2D780BC5783DD896DD1338759B82648E"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-bundle-hub--manifest-spdx-2.2-manifest.spdx.json-3AED0BFFEB1129FA83F1FD1F0746C417CEEA24AB"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-crypto-help-center--manifest-spdx-2.2-manifest.spdx.json-E251F4856A28AC52C06EB32BA65891FA0F3E6176"
+    },
+    {
+      "relationshipType": "DESCRIBED_BY",
+      "relatedSpdxElement": "SPDXRef-DOCUMENT",
+      "spdxElementId": "SPDXRef-File--..-hub-fallback--manifest-spdx-2.2-manifest.spdx.json-A37CFDAF950F1AC43221DCBCFBDF95971AEEFF39"
+    },
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "XPay.Wallet.PartialIntegration.1ESPT 41843855",
+  "documentNamespace": "https://sbom.microsoft/1:QyJCGbkZhU2cpryWGGHShw:jDwRToOBTEup9UIfsi0TBQ/35002:41843855/fCPO2YS1BEi7iOirgJUSig",
+  "creationInfo": {
+    "created": "2023-12-11T02:57:40Z",
+    "creators": [
+      "Organization: Microsoft",
+      "Tool: Microsoft.SBOMTool-2.2.1"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

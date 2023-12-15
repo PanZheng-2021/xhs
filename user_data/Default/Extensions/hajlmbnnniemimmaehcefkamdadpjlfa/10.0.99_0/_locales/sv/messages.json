@@ -1,0 +1,2418 @@
+{
+   "360_desc": {
+      "message": "Säker sökmotor"
+   },
+   "about": {
+      "message": "Om"
+   },
+   "about_us": {
+      "message": "Om oss"
+   },
+   "account_expired": {
+      "message": "Testa ditt konto har gått ut, logga in igen"
+   },
+   "account_setting": {
+      "message": "Kontoinställningar"
+   },
+   "add": {
+      "message": "Lägg till"
+   },
+   "add_city": {
+      "message": "Lägg till stad"
+   },
+   "add_first_note": {
+      "message": "Skriv din första anteckning"
+   },
+   "add_icon_success": {
+      "message": "Tillagt framgångsrikt"
+   },
+   "add_link": {
+      "message": "Lägg till en länk"
+   },
+   "add_new_search_engine": {
+      "message": "Lägg till en ny sökmotor"
+   },
+   "add_new_wallpaper_libary": {
+      "message": "Ny bakgrundsbibliotek"
+   },
+   "add_search_engine": {
+      "message": "Lägg till sökmotor"
+   },
+   "add_success": {
+      "message": "Tillagt framgångsrikt"
+   },
+   "add_to_home_site": {
+      "message": "Lägg till på hemsidan"
+   },
+   "add_to_infinity": {
+      "message": "Lägg till i Infinity New Tab Page"
+   },
+   "additional_search_engine": {
+      "message": "Bifogad sökmotor"
+   },
+   "air_pressure": {
+      "message": "Lufttryck"
+   },
+   "all_wallpaper_sources": {
+      "message": "Alla bakgrundsbilder"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Alla källor till bakgrundsbilder"
+   },
+   "ambiguity": {
+      "message": "Oskärpa"
+   },
+   "animals": {
+      "message": "Djur"
+   },
+   "animation": {
+      "message": "Animationer"
+   },
+   "animation_tips": {
+      "message": "Startanimering kan påverka jämnhet"
+   },
+   "anime": {
+      "message": "Tecknat"
+   },
+   "any_money": {
+      "message": "Alla"
+   },
+   "app": {
+      "message": "Applikation"
+   },
+   "app_disabled_enable_first": {
+      "message": "Du har inaktiverat den här appen. Tillåt oändlighet att aktivera den här appen först?"
+   },
+   "application": {
+      "message": "Program"
+   },
+   "apply": {
+      "message": "Verkställ"
+   },
+   "architecture": {
+      "message": "Arkitektur"
+   },
+   "athletics": {
+      "message": "Sport"
+   },
+   "avatar": {
+      "message": "Välj en Avatar"
+   },
+   "backing_up": {
+      "message": "Säkerhetskopierar…"
+   },
+   "backup_and_recovery": {
+      "message": "Backup och återhämtning"
+   },
+   "backup_failed": {
+      "message": "Säkerhetskopieringen misslyckades"
+   },
+   "backup_now": {
+      "message": "Säkerhetskopiera nu"
+   },
+   "backup_successful": {
+      "message": "Säkerhetskopierad"
+   },
+   "backup_tips": {
+      "message": "Vi håller högst 3 manuella backupnoder och 3 automatiska backup noder för dig"
+   },
+   "backup_with_device": {
+      "message": "Synka med andra enheter"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Fokusera på att samla fri och högkvalitativ icke-gallonstypfotografi"
+   },
+   "basic_info": {
+      "message": "Allmän information"
+   },
+   "bg_color": {
+      "message": "Bakgrundsfärg"
+   },
+   "bg_updating": {
+      "message": "I uppgraderingen, vänligen vänta ..."
+   },
+   "bind": {
+      "message": "Associera"
+   },
+   "bind_success": {
+      "message": "Kopplingen lyckades"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing är en sökmotor som utvecklats av Microsoft"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Daily Bing Wallpaper Library"
+   },
+   "bookmarks": {
+      "message": "Bokmärken"
+   },
+   "browser_does_not_support_this_feature": {
+      "message": "$browser$ stöder inte funktionen",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "cancel_login": {
+      "message": "Avbryt inloggningen"
+   },
+   "cancel_remind_time": {
+      "message": "Avbryt påminnelsestid"
+   },
+   "cancel_set_top": {
+      "message": "Ta bort det fästa"
+   },
+   "cannot_change_password": {
+      "message": "Du kan inte ändra lösenord om inloggning med tredje part konto"
+   },
+   "cannot_change_profile": {
+      "message": "Tredjeparts användare som loggar in kan inte ändra profilinformation"
+   },
+   "cannot_download": {
+      "message": "Nedladdningar stöds inte"
+   },
+   "cannot_empty": {
+      "message": "Kan inte lämnas tomt"
+   },
+   "celsius": {
+      "message": "Celsius"
+   },
+   "change_remind_time": {
+      "message": "Ändra påminnelsetid"
+   },
+   "change_wallpaper": {
+      "message": "Ändra tapeter"
+   },
+   "check_olddata_desc": {
+      "message": "Det upptäcks att det finns en gammal version av äldre data, som kan uppgraderas. Om du behöver du försöker uppgradera dessa data"
+   },
+   "choose_sync_type": {
+      "message": "Välj kontouppgifter"
+   },
+   "chose_from_mypc": {
+      "message": "Skapa mitt tapetbibliotek"
+   },
+   "chrome": {
+      "message": "Chrome"
+   },
+   "chrome_app": {
+      "message": "$browser$-appar",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "chrome_app_store": {
+      "message": "Chrome Web Store - Extensions"
+   },
+   "chrome_browser": {
+      "message": "Chrome"
+   },
+   "chrome_browser_guide1": {
+      "message": "Ange chrome://settings/appearance i adressfältet och ange inställningssidan."
+   },
+   "chrome_browser_guide2": {
+      "message": "Skjut ner till botten och välj det alternativ som anges med pilen i figuren."
+   },
+   "chrome_browser_guide3": {
+      "message": "Ange URL https://inftab.com i popup-fönstret och klicka sedan på knappen Lägg till för att slutföra startsidan."
+   },
+   "clear_historys": {
+      "message": "Rensa historik"
+   },
+   "col_gap": {
+      "message": "Kolumnavstånd"
+   },
+   "col_num": {
+      "message": "Rader"
+   },
+   "color": {
+      "message": "Färg"
+   },
+   "color_icon": {
+      "message": "Solid färgikon"
+   },
+   "come_from": {
+      "message": "Från användaren"
+   },
+   "comming_soon": {
+      "message": "Kommer snart"
+   },
+   "comming_soon_title": {
+      "message": "Infinity Mobile Version är på väg"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_clear_all_history": {
+      "message": "Bekräfta att du vill ta bort alla historikposter?"
+   },
+   "confirm_cover_remote": {
+      "message": "Lokala data sparas i en manuell backup nod"
+   },
+   "confirm_del_folder": {
+      "message": "Vill du verkligen ta bort den här mappen?"
+   },
+   "confirm_delete_done_todos": {
+      "message": "Är du säker på att du vill radera de färdiga objekten?"
+   },
+   "confirm_delete_note": {
+      "message": "Bekräfta borttagning av anteckning?"
+   },
+   "confirm_logout": {
+      "message": "Logga ut"
+   },
+   "confirm_password": {
+      "message": "Bekräfta nytt lösenord"
+   },
+   "confirm_password_2": {
+      "message": "Bekräfta lösenord"
+   },
+   "confirm_recovery_data": {
+      "message": "Cloud-data kommer att ersätta lokala data. Är du säker på den här åtgärden?"
+   },
+   "confirm_remove_wallpaper_library": {
+      "message": "Är du säker på att du vill ta bort det här tapetbiblioteket?"
+   },
+   "confirm_unbind": {
+      "message": "Koppla bort det här kontot?"
+   },
+   "confirm_unbind_email": {
+      "message": "Är du säker på att du vill koppla bort din e-post $email$?",
+      "placeholders": {
+         "email": {
+            "content": "$1"
+         }
+      }
+   },
+   "confirm_unbind_phone_number": {
+      "message": "Är du säker på att du vill befria ditt telefonnummer $phone_number$?",
+      "placeholders": {
+         "phone_number": {
+            "content": "$1"
+         }
+      }
+   },
+   "contact_engineer": {
+      "message": "Kontaktingenjör"
+   },
+   "contact_us": {
+      "message": "Kontakta oss"
+   },
+   "copy": {
+      "message": "Kopiera"
+   },
+   "cubic_bezier": {
+      "message": "Kick tillbaka"
+   },
+   "currency_symbol": {
+      "message": "¥"
+   },
+   "current_avatar": {
+      "message": "Profilfoto"
+   },
+   "current_browser_not_support": {
+      "message": "Den aktuella webbläsaren stöder inte förlängningshantering"
+   },
+   "current_no_reminders": {
+      "message": "Att-göra-listan är tom"
+   },
+   "current_node": {
+      "message": "Nuvarande nod"
+   },
+   "custom": {
+      "message": "Anpassa"
+   },
+   "custom_icon": {
+      "message": "Anpassa ikon"
+   },
+   "custom_layout": {
+      "message": "Anpassa layout"
+   },
+   "custom_site": {
+      "message": "Anpassad webbplats"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "del_folder": {
+      "message": "Radera"
+   },
+   "delete_all_bookmarks": {
+      "message": "Ta bort alla bokmärken under korgen"
+   },
+   "disable_chrome_app": {
+      "message": "Inaktivera program"
+   },
+   "disable_extension": {
+      "message": "Inaktivera tillägg"
+   },
+   "do_later": {
+      "message": "Prata om det senare"
+   },
+   "done": {
+      "message": "Klart"
+   },
+   "douban": {
+      "message": "Douban"
+   },
+   "download_crx": {
+      "message": "Ladda ner crx"
+   },
+   "download_current_wallpaper": {
+      "message": "Ladda ner nuvarande tapet"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Duckduckgo fokuserar på att importera innehåll från stora Web 2.0-webbplatser Förutom att vara en traditionell sökmotorer är webbplatsens filosofi att respektera användarnas integritet, lovande att inte övervaka eller dokumentera sökinnehåll."
+   },
+   "ease_in": {
+      "message": "Tona in"
+   },
+   "edge": {
+      "message": "Microsoft Edge"
+   },
+   "edge_app_store": {
+      "message": "Edge add-on"
+   },
+   "edge_browser": {
+      "message": "Microsoft Edge"
+   },
+   "edge_browser_guide1": {
+      "message": "Ange edge://settings/onStartup i webbläsarens adressfält och tryck sedan på ENTER-tangenten."
+   },
+   "edge_browser_guide2": {
+      "message": "Klicka på alternativet som anges av pilen i figuren."
+   },
+   "edge_browser_guide3": {
+      "message": "Ange URL https://inftab.com i popup-fönstret och klicka sedan på knappen Lägg till för att slutföra startsidan."
+   },
+   "edge_install_crx_item_1": {
+      "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "edge_install_crx_item_2": {
+      "message": "(2) Open the \"Developer mode\" and \"Allow extensions from other stores\" on the extension page"
+   },
+   "edge_install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "edit": {
+      "message": "Redigera"
+   },
+   "edit_avatar": {
+      "message": "Redigera avatar"
+   },
+   "edit_content": {
+      "message": "Redigera innehåll"
+   },
+   "edit_icon": {
+      "message": "Redigera ikon"
+   },
+   "education": {
+      "message": "Utbildning och jobb"
+   },
+   "email": {
+      "message": "E-post"
+   },
+   "email_code": {
+      "message": "E-postverifiering"
+   },
+   "email_format_error": {
+      "message": "E-postformatet är felaktigt"
+   },
+   "email_or_phone_number_tips": {
+      "message": "E-post eller mobilnummer"
+   },
+   "empty": {
+      "message": "Tömma"
+   },
+   "ensure_delete_bookmark_folder": {
+      "message": "Vill du radera mappen?"
+   },
+   "ensure_delete_bookmarks": {
+      "message": "Vill du verkligen radera detta bokmärke?"
+   },
+   "ensure_logout": {
+      "message": "Är du säker på att du vill logga ut?"
+   },
+   "enter_key_to_input_reminders": {
+      "message": "Fyll i din uppgiftslista, lägg till objekt genom att klicka på returtangenten"
+   },
+   "enter_password_tips": {
+      "message": "Ange lösenfras"
+   },
+   "enter_valid_phone_tips": {
+      "message": "Ange rätt telefonnummer"
+   },
+   "enter_verification_code_tips": {
+      "message": "Ange verifieringskoden"
+   },
+   "exfans": {
+      "message": "Extfans"
+   },
+   "export_local_data": {
+      "message": "Exportera backupdata"
+   },
+   "export_local_data_desc": {
+      "message": "Exportera från nuvarande lokala data"
+   },
+   "extension": {
+      "message": "Tillägg"
+   },
+   "extension_app": {
+      "message": "Tillägg"
+   },
+   "extension_des": {
+      "message": "Fritt Lägg till webbplatsikoner, njut av högupplösta molnkörningar, och snabbt åtkomst till bokmärken, väderinformation, anteckningar, listor, förlängningshantering och historia på ny fliksida, som valts av miljontals användare."
+   },
+   "extension_des_app": {
+      "message": "Infinity New Tab APP kan du anpassa din nya fliksida"
+   },
+   "extension_des_firefox": {
+      "message": "Den Nya fliken vald av miljoner, vilket kan förbättra produktiviteten. Inkludera webbikoner, sökmotorer, HD-bakgrundsbilder, väder, anteckningar, bokmärken, lista, historia, förlängningshantering etc."
+   },
+   "extension_des_pro": {
+      "message": "Infinity New Tab Pro kan du anpassa din nya fliksida"
+   },
+   "extension_mananger": {
+      "message": "Hantera tillägg"
+   },
+   "extfans": {
+      "message": "Extfans"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_group": {
+      "message": "Bli medlem av vår Facebook-grupp"
+   },
+   "fahrenheit": {
+      "message": "Fahrenheit"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "female": {
+      "message": "Kvinna"
+   },
+   "filter": {
+      "message": "Filter"
+   },
+   "finance": {
+      "message": "finansiera"
+   },
+   "firefox": {
+      "message": "Firefox"
+   },
+   "firefox_app_store": {
+      "message": "Firefox tilläggsbutik"
+   },
+   "firefox_browser": {
+      "message": "Firefox"
+   },
+   "firefox_browser_guide1": {
+      "message": "Inmatning about: preferences #home i adressfältet för att öppna inställningssidan."
+   },
+   "firefox_browser_guide2": {
+      "message": "Som visas med pilen i figuren, välj alternativet för anpassade webbadresser."
+   },
+   "firefox_browser_guide3": {
+      "message": "Ange URL-adressen https://inftab.com I textrutan är inställning av hemsidan slutförd."
+   },
+   "five_star": {
+      "message": "Ge 5 stjärnor"
+   },
+   "folder": {
+      "message": "Mapp"
+   },
+   "follow_us": {
+      "message": "Följ Oss"
+   },
+   "follow_wechat": {
+      "message": "Följ Infinity Wechat Public Account"
+   },
+   "follow_wechat_desc": {
+      "message": "Var uppmärksam på vårt WeChat-offentliga nummer (Micro Signal: InfinityDaily), Få Infinity senaste produktdynamik, och du kan upptäcka mer kul att expandera och hemsida."
+   },
+   "font": {
+      "message": "Teckensnitt"
+   },
+   "font_color": {
+      "message": "Teckenfärg"
+   },
+   "font_size": {
+      "message": "textstorlek"
+   },
+   "food_drink": {
+      "message": "Mat"
+   },
+   "forget_password": {
+      "message": "glömt ditt lösenord"
+   },
+   "format_error": {
+      "message": "Formatfel"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Stor mängd royaltyfria bilder, fri att använda och uppdateras dagligen"
+   },
+   "fri": {
+      "message": "Fredag"
+   },
+   "fri_min": {
+      "message": "Fre"
+   },
+   "fully_authorized_to_use": {
+      "message": "Fullt behörigt att använda funktioner"
+   },
+   "games": {
+      "message": "Spel och underhållning"
+   },
+   "gamil_notice": {
+      "message": "Gmail-meddelanden"
+   },
+   "gender": {
+      "message": "Välj kön"
+   },
+   "get_app_permission": {
+      "message": "Godkänn för att få din lokala app"
+   },
+   "get_cloud_icon": {
+      "message": "Förvärva online"
+   },
+   "give_money": {
+      "message": "Donera"
+   },
+   "give_money_thanks": {
+      "message": "Ditt stöd är vår största belöning"
+   },
+   "give_some_feedback_to_improve": {
+      "message": "Om du gillar Infinity New Tab Page, vänligen betygsätt vår tjänst eller ge oss feedback för att hjälpa oss ign."
+   },
+   "give_some_feedback_to_improve_web": {
+      "message": "Om du har några frågor eller förslag, vänligen kontakta oss."
+   },
+   "gmail_notice_voice": {
+      "message": "Gmail-anmälan ringsignal"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google-sökning är en sökmotor som utvecklats av Google. Det är den största, mest inflytelserika sökmotorn på internet"
+   },
+   "have_todo_item": {
+      "message": "Du har för närvarande en uppgift"
+   },
+   "hide_homepage_btn": {
+      "message": "Dölj set som hemknapp"
+   },
+   "hide_icon_name": {
+      "message": "Dölj ikonens namn"
+   },
+   "hide_search_button": {
+      "message": "Dölj sökknappen"
+   },
+   "hide_search_category": {
+      "message": "Dölj sökkategori"
+   },
+   "hide_search_input": {
+      "message": "Dölj sökrutan"
+   },
+   "hide_set_homepage_btn": {
+      "message": "Dölj set som hemknapp"
+   },
+   "hint": {
+      "message": "Tips"
+   },
+   "history": {
+      "message": "Historik"
+   },
+   "history_backup_list": {
+      "message": "Historik Backup Node List"
+   },
+   "history_week": {
+      "message": "Sök efter historia inom en vecka"
+   },
+   "host_permission": {
+      "message": "Värdbehörigheter"
+   },
+   "hour": {
+      "message": "timme"
+   },
+   "how_to_install_crx": {
+      "message": "How to install CRX files?"
+   },
+   "html": {
+      "message": "Webben"
+   },
+   "i_taobao": {
+      "message": "taobao"
+   },
+   "i_want_to_reward": {
+      "message": "Jag vill belöna"
+   },
+   "icon": {
+      "message": "Ikon"
+   },
+   "icon_added": {
+      "message": "Tillagt"
+   },
+   "icon_bg_text": {
+      "message": "Ikontext"
+   },
+   "icon_network_error": {
+      "message": "Nätverksundantag, klicka för att läsa in igen"
+   },
+   "ignore": {
+      "message": "Ignorera"
+   },
+   "img_verify_code": {
+      "message": "Verifieringsbild"
+   },
+   "import_data": {
+      "message": "Importera säkerhetskopieringsdata"
+   },
+   "import_data_desc": {
+      "message": "Återställ data från backup-filen"
+   },
+   "import_select_tile": {
+      "message": "Välj data"
+   },
+   "infinity_bookmarks": {
+      "message": "Flatten din bokmärke mapphierarki och hitta bokmärken lättare med oändlighet bokmärken"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity presenterade anime bakgrundsbilder"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Högkvalitativ Infinity Anime Wallpaper Library"
+   },
+   "infinity_extension": {
+      "message": "Hantera dina $browser$ Extensions och Apps enkelt med Infinity Extension Manager",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "infinity_history": {
+      "message": "Visa snabbt och hantera din webbläsarhistorik med oändlighetshistorik"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity presenterade landskapsunderlägg"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Högkvalitativt Infinity Landscape Wallpaper Library"
+   },
+   "infinity_notes": {
+      "message": "Spela in livets inspirationer snabbt med Infinity Notes"
+   },
+   "infinity_settings": {
+      "message": "Personifiera din infinity New Tab-sida med Infinity Settings"
+   },
+   "infinity_todos": {
+      "message": "Ordna dina uppgifter för och förbättra din arbetseffektivitet med Infinity to-do-lista"
+   },
+   "infinity_wallpaper": {
+      "message": "Infinity Wallpaper Library ger dig rika och spännande bakgrundsbilder"
+   },
+   "infinity_weather": {
+      "message": "Infinity Weather ger dig väderprognoser av städer runt om i världen"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "inportdata_desc": {
+      "message": "Importerade data är oförenliga med lokala data. Välj sammanfoga eller skriv över."
+   },
+   "input_and_search": {
+      "message": "Öppna sökning"
+   },
+   "input_city": {
+      "message": "Skriv in stad/region"
+   },
+   "input_new_password": {
+      "message": "Skriv in det nya lösenordet"
+   },
+   "install_crx_home_des": {
+      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+   },
+   "install_crx_item_1": {
+      "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
+   },
+   "install_crx_item_2": {
+      "message": "(2) Open the \"Developer Mode\" on the extension page"
+   },
+   "install_crx_item_3": {
+      "message": "(3) Drag and drop the crx file to the extension page to complete the installation"
+   },
+   "install_crx_wx_des": {
+      "message": "If you encounter any problems during installation and use, please add our customer service WeChat, we will try our best to help you solve the problem."
+   },
+   "instann_crx_title": {
+      "message": "Extension Installation Instructions"
+   },
+   "is_binding": {
+      "message": "Associerat"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Gratis bilder för något ändamål"
+   },
+   "jindong_shopping": {
+      "message": "Jingdong"
+   },
+   "keep_search_input": {
+      "message": "Behåll innehållet i sökrutan"
+   },
+   "label": {
+      "message": "Etiketter"
+   },
+   "language": {
+      "message": "Språk"
+   },
+   "language_select": {
+      "message": "Välj språk"
+   },
+   "last_sync_time": {
+      "message": "Senaste synkroniseringstid: $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "last_time_update": {
+      "message": "Uppdaterades senast"
+   },
+   "layout": {
+      "message": "Layout"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Gratis HD-tapetkälla"
+   },
+   "life_style": {
+      "message": "Livsstil"
+   },
+   "limit_input_length": {
+      "message": "Textlängd bortom gränsen"
+   },
+   "linkedin": {
+      "message": "LinkedIn"
+   },
+   "local_icon": {
+      "message": "Lokal ikon"
+   },
+   "local_wallpaper2": {
+      "message": "Lokala bakgrundsbilder"
+   },
+   "login": {
+      "message": "Logga in"
+   },
+   "login_abandon_tips": {
+      "message": "Den nuvarande inloggningsmetoden kommer att tas bort snart, vänligen bind din e-post eller annat tredjepartskonto så snart som möjligt efter inloggning"
+   },
+   "login_now": {
+      "message": "Logga in på ditt Infinity-konto nu för att njuta av fler behörigheter"
+   },
+   "login_now_btn": {
+      "message": "Sign in"
+   },
+   "login_register": {
+      "message": "Logga in / Bli medlem"
+   },
+   "loging": {
+      "message": "Logga in"
+   },
+   "logout": {
+      "message": "Logga ut"
+   },
+   "logout_clear_something": {
+      "message": "Rensa personliga inställningar och annan information om den här enheten"
+   },
+   "logout_tips": {
+      "message": "Behöver du rensa lokala data innan du loggar ut på ditt konto för att förhindra data från olika konton på den här enheten från anslutning?"
+   },
+   "logout_warn": {
+      "message": "Efter att ha logg ut från kontot kommer all säkerhetskopieringsinformation under det här kontot att raderas. Är du säker på att du vill logga ut från det här kontot? (Bild på anteckningar och anpassade tapetbibliotek kan inte vara tillgängliga)"
+   },
+   "male": {
+      "message": "Man"
+   },
+   "manage_backup_node": {
+      "message": "Hantera historia Backup noder"
+   },
+   "manul_backup": {
+      "message": "Manuell säkerhetskopiering"
+   },
+   "map": {
+      "message": "Maps"
+   },
+   "mask_density": {
+      "message": "Dämpa tapeten"
+   },
+   "me": {
+      "message": "Jag"
+   },
+   "merge_cloud_local": {
+      "message": "Kombinera lokala och molndata"
+   },
+   "merge_data": {
+      "message": "Slå ihop data"
+   },
+   "mini_mode": {
+      "message": "Minimalistiskt läge"
+   },
+   "mins": {
+      "message": "Min"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Använd på dina webbplatser, teman, mallar, projekt, tryckmaterial och tidningar. Varje vecka läggs nya bakgrundsbilder och videor till"
+   },
+   "mobile_devices": {
+      "message": "Infinity Mobil-version"
+   },
+   "modify": {
+      "message": "Ändra uppgifter"
+   },
+   "modify_email": {
+      "message": "Ändra e- post"
+   },
+   "modify_password": {
+      "message": "Redigera lösenord"
+   },
+   "modify_phone_number": {
+      "message": "Ändra telefonnummer"
+   },
+   "modify_pwd": {
+      "message": "Redigera lösenord"
+   },
+   "modify_success": {
+      "message": "Ändring utförd"
+   },
+   "modify_this": {
+      "message": "Redigera"
+   },
+   "mon": {
+      "message": "Måndag"
+   },
+   "mon_min": {
+      "message": "Mån"
+   },
+   "month_1": {
+      "message": "Januari"
+   },
+   "month_10": {
+      "message": "Oktober"
+   },
+   "month_11": {
+      "message": "november"
+   },
+   "month_12": {
+      "message": "december"
+   },
+   "month_2": {
+      "message": "Februari"
+   },
+   "month_3": {
+      "message": "Mars"
+   },
+   "month_4": {
+      "message": "april"
+   },
+   "month_5": {
+      "message": "Maj"
+   },
+   "month_6": {
+      "message": "Juni"
+   },
+   "month_7": {
+      "message": "Juli"
+   },
+   "month_8": {
+      "message": "augusti"
+   },
+   "month_9": {
+      "message": "september"
+   },
+   "more_content_from_site": {
+      "message": "Mer innehåll från den här webbplatsen"
+   },
+   "most_used_in_chinese": {
+      "message": "Sökmotorn användes mest av kinesiska"
+   },
+   "music_video": {
+      "message": "Musikvideo"
+   },
+   "my_collection": {
+      "message": "Min samling"
+   },
+   "n_360": {
+      "message": "360 Search"
+   },
+   "name": {
+      "message": "Infinity New Tab "
+   },
+   "name_app": {
+      "message": "Infinity New Tab (APP)"
+   },
+   "name_error": {
+      "message": "Vänligen ange webbplatsens namn"
+   },
+   "name_pro": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "nature": {
+      "message": "Natur"
+   },
+   "need_you_permission": {
+      "message": "Tillstånd krävs"
+   },
+   "network_error": {
+      "message": "Nätverksfel"
+   },
+   "new_email": {
+      "message": "Nytt e-postmeddelande"
+   },
+   "new_password": {
+      "message": "Skriv in det nya lösenordet"
+   },
+   "new_phone_number": {
+      "message": "Nytt telefonnummer"
+   },
+   "new_tab": {
+      "message": "Ny flik"
+   },
+   "new_tab_web": {
+      "message": "Infinity hemsida"
+   },
+   "news": {
+      "message": "Nyheter"
+   },
+   "next": {
+      "message": "Nästa"
+   },
+   "nickname": {
+      "message": "Smeknamn"
+   },
+   "no_account_register": {
+      "message": "Har du inte ett konto? Registrera dig nu"
+   },
+   "no_backup_time": {
+      "message": "Inget"
+   },
+   "no_bookmark_result": {
+      "message": "Ingen bokmärke"
+   },
+   "no_chrome_app": {
+      "message": "Du har inte installerat några $browser$-appar",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_current_city_weather_data": {
+      "message": "Ingen väderinformation"
+   },
+   "no_data": {
+      "message": "Ingen uppgift"
+   },
+   "no_description": {
+      "message": "Ingen beskrivning"
+   },
+   "no_more": {
+      "message": "Inte mer"
+   },
+   "no_more_reminder": {
+      "message": "Visa inte igen"
+   },
+   "no_permission_text": {
+      "message": "Det rekommenderas att du försöker öppna och ge detta tillstånd i webbläsarens adressfält eller inställningscenter."
+   },
+   "no_permission_title": {
+      "message": "Tillståndet har inte beviljats ​​ännu"
+   },
+   "no_permission_to_open_app": {
+      "message": "Ingen tillåtelse att öppna $browser$ App",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "no_reminders": {
+      "message": "Att-göra-listan är tom"
+   },
+   "no_search_result": {
+      "message": "Inga sökresultat"
+   },
+   "no_title": {
+      "message": "Ingen titel"
+   },
+   "none": {
+      "message": "Dold"
+   },
+   "none_auto_backup": {
+      "message": "Det finns för närvarande inga schemalagda säkerhetskopior"
+   },
+   "none_auto_backup_desc": {
+      "message": "Schemalagda säkerhetskopior startar samma dag du ändrar information om oändligheten"
+   },
+   "none_manual_backup": {
+      "message": "Det finns för närvarande inga manuella säkerhetskopior"
+   },
+   "normal_model": {
+      "message": "Standardläge"
+   },
+   "not_binding": {
+      "message": "Ej associerat"
+   },
+   "note_title": {
+      "message": "Skriv in anteckningens titel"
+   },
+   "note_upload_img_15": {
+      "message": "Storleken på fotot får inte överstiga 15M"
+   },
+   "notes": {
+      "message": "Anteckningar"
+   },
+   "notice": {
+      "message": "Anmärkning"
+   },
+   "ocean": {
+      "message": "Hav"
+   },
+   "one_day_later": {
+      "message": "Påminn mig imorgon"
+   },
+   "one_week_later": {
+      "message": "Påminn mig om 1 vecka"
+   },
+   "only_used_infinity": {
+      "message": "Används endast för infinity interna moduler"
+   },
+   "opacity": {
+      "message": "Ikonopacitet"
+   },
+   "open_all": {
+      "message": "Öppna alla"
+   },
+   "open_chrome_app": {
+      "message": "Aktivera app"
+   },
+   "open_extension": {
+      "message": "Aktivera tillägg"
+   },
+   "open_folder_icons": {
+      "message": "Öppna alla"
+   },
+   "open_new_tab": {
+      "message": "Öppna webbplatsen i ny flik"
+   },
+   "open_newtab_bookmarks": {
+      "message": "Öppna bokmärkt länk i ny flik"
+   },
+   "open_newtab_history": {
+      "message": "Öppna historien på ny flik"
+   },
+   "open_newtab_show_search": {
+      "message": "Öppna tredjeparts sökresultat i Ny flik"
+   },
+   "origin_password": {
+      "message": "Nuvarande lösenord"
+   },
+   "other_bookmarks": {
+      "message": "Övriga bokmärken"
+   },
+   "others": {
+      "message": "Övriga"
+   },
+   "oversize": {
+      "message": "Storleken kan inte överstiga 2 MB"
+   },
+   "overwrite_data": {
+      "message": "Skriva över data"
+   },
+   "pagin": {
+      "message": "Knappen för sidans vridning"
+   },
+   "password": {
+      "message": "Lösenord"
+   },
+   "password_dont_empty": {
+      "message": "Lösenordet kan inte vara tomt"
+   },
+   "password_length_low": {
+      "message": "Lösenordet inte mindre än 6 siffror"
+   },
+   "password_not_equals": {
+      "message": "Lösenorden är inte lika"
+   },
+   "password_not_some": {
+      "message": "De angivna lösenorden stämmer inte"
+   },
+   "permission": {
+      "message": "Auktorisera"
+   },
+   "permission_all": {
+      "message": "Godkänn alla"
+   },
+   "permission_gmail_notice_content": {
+      "message": "Begär att komma åt och ändra dina data på mail.google.com; Begäran om att visa meddelanden"
+   },
+   "permission_gmail_notice_title": {
+      "message": "Gmail-meddelanden"
+   },
+   "permission_gmail_num_content": {
+      "message": "Begär att komma åt och ändra dina data på mail.google.com"
+   },
+   "permission_gmail_num_title": {
+      "message": "Åtkomst Gmail kvantitet"
+   },
+   "permission_serch_suggest_content": {
+      "message": "Begär att komma åt och ändra dina data på google.com och förslag.Baidu.com"
+   },
+   "permission_serch_suggest_title": {
+      "message": "Sökförslag"
+   },
+   "permission_todo_notice_content": {
+      "message": "Begär visningsmeddelande"
+   },
+   "permission_todo_notice_title": {
+      "message": "Att lägga märke till"
+   },
+   "permission_top_bookmark_content": {
+      "message": "Begäran om åtkomst ikoner som motsvarar webbplatser som besöks och åtkomst och ändra dina bokmärken"
+   },
+   "permission_top_bookmark_title": {
+      "message": "Visa bokmärken på toppen"
+   },
+   "permission_top_useful_content": {
+      "message": "Begäran om åtkomst till ikoner som motsvarar webbplatser som besöks och åtkomst och ändra din lista över vanligaste webbplatser"
+   },
+   "permission_top_useful_title": {
+      "message": "Visa ofta använda webbplatser på toppen"
+   },
+   "permisson_label": {
+      "message": "Behörigheter"
+   },
+   "phone_number": {
+      "message": "Telefonnummer"
+   },
+   "photos": {
+      "message": "Bilder"
+   },
+   "pick_local_wallpaper": {
+      "message": "Välj en lokal tapeter"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Gratis och vackra bilder som är tillgängliga för alla användningsområden"
+   },
+   "placeholder_name": {
+      "message": "Namn"
+   },
+   "please_chose_picture": {
+      "message": "Välj Bild"
+   },
+   "please_enter_bookmark_name": {
+      "message": "Ange ett bokmärkesnamn"
+   },
+   "please_enter_email": {
+      "message": "Ange en e-postadress"
+   },
+   "please_enter_img_verify_code": {
+      "message": "Vänligen ange bildverifieringskoden"
+   },
+   "please_enter_nickname": {
+      "message": "Ange smeknamn"
+   },
+   "please_enter_phone": {
+      "message": "Vänligen ange telefonnumret"
+   },
+   "please_enter_right_account": {
+      "message": "Vänligen ange rätt e-post eller telefonnummer"
+   },
+   "please_enter_text": {
+      "message": "Inmatnings~~POS=TRUNC"
+   },
+   "please_enter_url": {
+      "message": "Skriv en webbadress"
+   },
+   "please_input_bg_text": {
+      "message": "Vänligen ange ikontexten"
+   },
+   "please_pre_login": {
+      "message": "Logga in först"
+   },
+   "please_re_login": {
+      "message": "Logga in igen"
+   },
+   "please_set_your_password": {
+      "message": "Ställ in kontots lösenord"
+   },
+   "please_type_link": {
+      "message": "Ange länk"
+   },
+   "please_type_right_link": {
+      "message": "Vänligen ange rätt länkadress"
+   },
+   "please_upload_photos": {
+      "message": "Snälla ladda upp bilden"
+   },
+   "popular": {
+      "message": "Populära"
+   },
+   "preview": {
+      "message": "Förhandsgranskning"
+   },
+   "privacy_and_data_20_8_18": {
+      "message": "Sekretess och datainsamling"
+   },
+   "privacy_data_item_1_1": {
+      "message": "Bilder som genereras av anpassad webbplatsikon"
+   },
+   "privacy_data_item_1_2": {
+      "message": "Bilder som genereras av anpassad sökmotor"
+   },
+   "privacy_data_item_2_1": {
+      "message": "Din registrerade e-postadress, uppladdad profilbild, vald smeknamn, icke-vanligt textlösenord och annan information"
+   },
+   "privacy_data_item_2_2": {
+      "message": "Om du loggar in med ett tredjepartskonto, lagrar vi ditt smeknamn, kön, profilbild och annan information som tillhandahålls av den tredje parten"
+   },
+   "privacy_data_item_2_3": {
+      "message": "Webbplatsikon Information och sökmotorinformation du har lagt till"
+   },
+   "privacy_data_item_2_4": {
+      "message": "Väderinformation i ditt område eller väderinformation på andra områden som du sätter"
+   },
+   "privacy_data_item_2_5": {
+      "message": "Att göra listor du skapade"
+   },
+   "privacy_data_item_2_6": {
+      "message": "Innehåll av anteckningar du skapade och bilder laddas upp i dina anteckningar"
+   },
+   "privacy_data_item_2_7": {
+      "message": "Din nuvarande tapet, tapetinställningar, bilder som laddas upp till din lokala tapet, och bilder som laddas upp till ditt lokala tapetbibliotek"
+   },
+   "privacy_data_item_2_8": {
+      "message": "Förlängningsinställningar"
+   },
+   "privacy_data_item_3_1": {
+      "message": "Servern kan lagra loggar som genereras under interaktioner med användare och klienter. Denna post används huvudsakligen för att felsöka undantagsfel. Vi kommer att rensa den här loggen från tid till annan."
+   },
+   "privacy_data_item_4_1": {
+      "message": "Webbläsartyp, språk och version och skärmupplösning"
+   },
+   "privacy_data_item_4_10": {
+      "message": "Är för närvarande inloggad eller inte"
+   },
+   "privacy_data_item_4_11": {
+      "message": "Ungefärligt antal aktuella ikoner"
+   },
+   "privacy_data_item_4_12": {
+      "message": "För närvarande aktiverade tillägg (om du använder förlängningshantering)"
+   },
+   "privacy_data_item_4_13": {
+      "message": "Antal gånger har denna förlängning öppnats"
+   },
+   "privacy_data_item_4_2": {
+      "message": "IP-adress och geografiskt läge som härrör från IP-adress"
+   },
+   "privacy_data_item_4_3": {
+      "message": "Webbplatsikoner och sökmotorer läggs till"
+   },
+   "privacy_data_item_4_4": {
+      "message": "Bakgrunds- och förlängningsinställningar"
+   },
+   "privacy_data_item_4_5": {
+      "message": "Förlängningsversion"
+   },
+   "privacy_data_item_4_6": {
+      "message": "Frekvensen av att klicka på funktionsknapparna"
+   },
+   "privacy_data_item_4_7": {
+      "message": "Undantagsfelmeddelande"
+   },
+   "privacy_data_item_4_8": {
+      "message": "Öppna adressvärdet på webbplatsen"
+   },
+   "privacy_data_item_4_9": {
+      "message": "Nuvarande sökmotorvärd"
+   },
+   "privacy_data_item_5_1": {
+      "message": "Vi räknar anonymt antalet gånger vissa sökmotorer används."
+   },
+   "privacy_data_item_9": {
+      "message": "Du måste godkänna denna sekretesspolicy innan du kan använda den här förlängningen. Visa vår $the_infinity_privacy$ för att lära dig mer.",
+      "placeholders": {
+         "the_infinity_privacy": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy_data_no": {
+      "message": "Nej, samla inte de anonyma data"
+   },
+   "privacy_data_title_1": {
+      "message": "Vi kan lagra bilder som genereras frivilligt av användarna under användning. Följande bilder lagras anonymt:"
+   },
+   "privacy_data_title_2": {
+      "message": "Om du registrerar eller loggar in på ditt konto måste vi lagra följande identifierbara data (nedan kallad användardata) på vår server för att slutföra data backup och synkronisering:"
+   },
+   "privacy_data_title_3": {
+      "message": "Serverlogg:"
+   },
+   "privacy_data_title_4": {
+      "message": "Samling av följande information är valfri. Informationen kommer att samlas anonymt via Google Analytics Hjälp oss att förbättra våra produkter:"
+   },
+   "privacy_data_title_5": {
+      "message": "Statistisk analys:"
+   },
+   "privacy_data_uninstall_confirm": {
+      "message": "Vänligen bekräfta att Avinstallera Infinity New Tab Page"
+   },
+   "privacy_data_uninstall_confirm_pro": {
+      "message": "Vänligen bekräfta att avinstallera Infinity New Tab Pro"
+   },
+   "privacy_data_uninstall_title": {
+      "message": "Avinstallera Infinity New Tab Page?"
+   },
+   "privacy_data_uninstall_title_pro": {
+      "message": "Avinstallera Infinity New Tab Pro?"
+   },
+   "privacy_data_yes": {
+      "message": "Ja, de anonyma data kan samlas i enlighet med sekretesspolicyen"
+   },
+   "privacy_disagree": {
+      "message": "Accepterar inte"
+   },
+   "privacy_policy": {
+      "message": "Integritetspolicy"
+   },
+   "privacy_title": {
+      "message": "Avtal om sekretesspolicy"
+   },
+   "profile": {
+      "message": "Personliga uppgifter"
+   },
+   "pure_color": {
+      "message": "Ren färg"
+   },
+   "qq": {
+      "message": "QQ"
+   },
+   "qq_group": {
+      "message": "QQ grupp"
+   },
+   "qq_zone": {
+      "message": "Qzone"
+   },
+   "random_wallpaper": {
+      "message": "Slumpmässiga bilder"
+   },
+   "re_update": {
+      "message": "Uppgradera"
+   },
+   "read": {
+      "message": "Läs"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Stor mängd HD-bilder tillgängliga för personlig och kommersiell användning, 7 nya varje vecka"
+   },
+   "recently_add": {
+      "message": "Nyligen tillagt"
+   },
+   "recently_use": {
+      "message": "Nyligen använt"
+   },
+   "recover_error": {
+      "message": "Dataåterställning misslyckades"
+   },
+   "recover_error_version": {
+      "message": "Inte stödd dataformat"
+   },
+   "recover_this": {
+      "message": "Återhämta sig från den här noden"
+   },
+   "redius": {
+      "message": "Ikonrundade hörn"
+   },
+   "refresh_qrcode": {
+      "message": "QR-koden är ogiltig, klicka på Uppdatera"
+   },
+   "register": {
+      "message": "Registrera"
+   },
+   "register_back": {
+      "message": "Gå tillbaka"
+   },
+   "register_get_email_code_error": {
+      "message": "Verifieringskoden kunde inte erhållas"
+   },
+   "register_now": {
+      "message": "Registrera ditt Infinity-konto nu för att njuta av fler behörigheter"
+   },
+   "relative_humidity": {
+      "message": "Relativ luftfuktighet"
+   },
+   "reload": {
+      "message": "Försök igen"
+   },
+   "reminder_update_text1": {
+      "message": "För att du ska få en bättre upplevelse att använda Infinity"
+   },
+   "reminder_update_text2": {
+      "message": "Det rekommenderas att du uppgraderar webbläsaren till den senaste versionen, och det rekommenderas att du använder en webbläsare som är kompatibel med Infinity"
+   },
+   "reminder_update_title": {
+      "message": "Felvisning på sidan"
+   },
+   "remove_account": {
+      "message": "Ta bort konto"
+   },
+   "remove_done": {
+      "message": "Ta bort färdiga till-gör-objekt"
+   },
+   "remove_wallpaper_library_warn": {
+      "message": "Alla bakgrundsbilder under detta tapetbibliotek kommer att tas bort tillsammans"
+   },
+   "rename_folder": {
+      "message": "Ändra namn"
+   },
+   "repair_auto_backup": {
+      "message": "Säkerhetskopiera data automatiskt"
+   },
+   "repair_concat": {
+      "message": "kontaktuppgifter"
+   },
+   "repair_concat_email": {
+      "message": "E-post: "
+   },
+   "repair_concat_qq": {
+      "message": "Ingenjör QQ: "
+   },
+   "repair_data": {
+      "message": "Reparera data"
+   },
+   "repair_data_desc_contnet": {
+      "message": "Skicka oss den datafil som ska repareras via följande kontaktinformation, så hjälper vi dig att reparera informationen så snart som möjligt. Innan ingenjören löser problemet, försök att inte utföra andra åtgärder. Den här filen kan innehålla känslig information som konton, lämna den inte till andra."
+   },
+   "repair_data_title": {
+      "message": "Hämta förlorade eller skadade data"
+   },
+   "repair_export_btn": {
+      "message": "Exportera data som ska repareras"
+   },
+   "repeat_city": {
+      "message": "Du kan inte lägga till samma stad igen"
+   },
+   "reqeust_login_message": {
+      "message": "Du måste vara inloggad för att kunna använda denna funktion"
+   },
+   "request_logout_confirm": {
+      "message": "Radera ditt konto?"
+   },
+   "request_reset_all_settings": {
+      "message": "Är du säker på att du vill återställa inställningar till standardvärden?"
+   },
+   "reset": {
+      "message": "Återställ"
+   },
+   "reset_password": {
+      "message": "Återställ lösenord"
+   },
+   "reset_password_by_email": {
+      "message": "Återställ ditt lösenord via e-post verifiering"
+   },
+   "reset_password_by_email_or_phone": {
+      "message": "Återställ ditt lösenord via e-post eller telefonnummer verifiering"
+   },
+   "reset_setting": {
+      "message": "Återställ inställningarna"
+   },
+   "reset_your_password": {
+      "message": "Vänligen återställ ditt lösenord"
+   },
+   "restore_setting": {
+      "message": "Återställ inställningar"
+   },
+   "revovery_data": {
+      "message": "Återställ data"
+   },
+   "row_gap": {
+      "message": "Radavstånd"
+   },
+   "row_num": {
+      "message": "Kolumner"
+   },
+   "safari_browser": {
+      "message": "Safari"
+   },
+   "safari_browser_guide1": {
+      "message": "Klicka på alternativet som visas med pilen i figuren."
+   },
+   "safari_browser_guide2": {
+      "message": "I popup-fönstret, skriv URL https://inftab.com i kolumnen Hemsid."
+   },
+   "safari_browser_guide3": {
+      "message": "Klicka på knappen under URL för att slutföra inställning av hemsida."
+   },
+   "sat": {
+      "message": "Lördag"
+   },
+   "sat_min": {
+      "message": "Lör"
+   },
+   "save": {
+      "message": "Spara"
+   },
+   "scale": {
+      "message": "Ikonstorlek"
+   },
+   "scale_main": {
+      "message": "Skärmzoom"
+   },
+   "scale_side": {
+      "message": "Sidokolumnzoom"
+   },
+   "scheduled_backup": {
+      "message": "Schemalägg säkerhetskopiering"
+   },
+   "search": {
+      "message": "Sök"
+   },
+   "search_bookmark": {
+      "message": "Sök bland dina bokmärken"
+   },
+   "search_engine": {
+      "message": "Sökmotor"
+   },
+   "search_engine_error": {
+      "message": "Ange sökmotorns namn"
+   },
+   "search_error": {
+      "message": "Laddar misslyckades"
+   },
+   "search_extension": {
+      "message": "Sök efter tillägg"
+   },
+   "search_from": {
+      "message": "Sökte från: $site$",
+      "placeholders": {
+         "site": {
+            "content": "$1"
+         }
+      }
+   },
+   "search_icons": {
+      "message": "Sökikon"
+   },
+   "search_input": {
+      "message": "sökruta"
+   },
+   "search_input_shadow": {
+      "message": "Sök Box Shadow"
+   },
+   "search_opacity": {
+      "message": "Sökfält opacitet"
+   },
+   "search_redius": {
+      "message": "Sökruta avrundade hörn"
+   },
+   "search_result": {
+      "message": "Sökresultat"
+   },
+   "search_size": {
+      "message": "Sökfältstorlek"
+   },
+   "search_suggest": {
+      "message": "Visa sökförslag"
+   },
+   "search_website": {
+      "message": "Sök efter webbplatser"
+   },
+   "searching": {
+      "message": "Söker"
+   },
+   "select_date": {
+      "message": "Välj datum"
+   },
+   "select_icon": {
+      "message": "Välj ikon"
+   },
+   "select_time": {
+      "message": "Välj tid"
+   },
+   "send_success": {
+      "message": "E-postmeddelandet för bekräftelse har skickats. Kontrollera din inkorg"
+   },
+   "set_homepage_desc": {
+      "message": "Installera förlängningen för webbläsaren för att njuta av fulla funktioner"
+   },
+   "set_homepage_title2": {
+      "message": "Den här funktionen stöds inte i den aktuella versionen_#_Installera webbläsartillägget innan du använder det"
+   },
+   "set_infinity_to_homepage": {
+      "message": "Ställ in Infinity som hemsidan för din webbläsare"
+   },
+   "set_new_password": {
+      "message": "Nytt lösenord"
+   },
+   "set_remind_time": {
+      "message": "Ange påminnelsetid"
+   },
+   "set_setting_default": {
+      "message": "Återställ till standard"
+   },
+   "set_to_homepage": {
+      "message": "Sätt som hemsida"
+   },
+   "set_top": {
+      "message": "På toppen"
+   },
+   "setting_your_avatar_nickname": {
+      "message": "Ange smeknamn och avatar"
+   },
+   "settings": {
+      "message": "Inställningar"
+   },
+   "shadow": {
+      "message": "Ikoner skugga"
+   },
+   "share": {
+      "message": "Dela"
+   },
+   "share_by_user": {
+      "message": "användare delar"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab, en navigeringstillägg vald av miljoner, den mest användarvänliga nya fliken på webbläsaren"
+   },
+   "share_title": {
+      "message": "Det kan vara den bästa nya fliken i webbläsaren $browser$",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "shopping": {
+      "message": "Shopping och gruppköp"
+   },
+   "shortcut_mode": {
+      "message": "Expressläge"
+   },
+   "show_detail": {
+      "message": "Visa nu"
+   },
+   "show_gamil_unread_number": {
+      "message": "Visa antal olästa e-postmeddelanden från Gmail på ikonen"
+   },
+   "show_later": {
+      "message": "Påminn mig senare"
+   },
+   "show_name": {
+      "message": "Visningsnamn"
+   },
+   "show_reminders_number": {
+      "message": "Visa antal to-do på ikonen"
+   },
+   "skip": {
+      "message": "Hoppa över"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "En plats att hitta, visa och dela foton"
+   },
+   "social": {
+      "message": "Sociala medier och bloggar"
+   },
+   "solid_color_wallpaper": {
+      "message": "Singelfärg tapeter"
+   },
+   "sougou": {
+      "message": "Sogou"
+   },
+   "sougou_desc": {
+      "message": "Sökmotor som kan söka efter innehåll som skickas av Wechat officiella konton"
+   },
+   "sports": {
+      "message": "Sport och resor"
+   },
+   "start_animation": {
+      "message": "Starta animering"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Ge nybörjare, bloggare, förlag, webbplatser, designers, utvecklare, skapare och bortom med gratis bilder"
+   },
+   "street_photography": {
+      "message": "Gata"
+   },
+   "sun": {
+      "message": "söndag"
+   },
+   "sun_min": {
+      "message": "Sön"
+   },
+   "support": {
+      "message": "Support"
+   },
+   "switch_to": {
+      "message": "Växla till"
+   },
+   "sync_fail": {
+      "message": "Synkronisering misslyckades, försök igen"
+   },
+   "sync_suncess": {
+      "message": "Synkroniseringen klar"
+   },
+   "sync_type_tips": {
+      "message": "Molndata och lokala data detekteras för att vara inkonsekventa. Vänligen välj en typ av data."
+   },
+   "syncing": {
+      "message": "Data synkroniseras..."
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Du har inte installerat den här $browser$-appen",
+      "placeholders": {
+         "browser": {
+            "content": "$1"
+         }
+      }
+   },
+   "target_open_way": {
+      "message": "Sätt att öppna mål"
+   },
+   "tech": {
+      "message": "Teknologi"
+   },
+   "technology": {
+      "message": "Teknik"
+   },
+   "term_of_use": {
+      "message": "Användarvillkor"
+   },
+   "text": {
+      "message": "Text"
+   },
+   "text_shadow": {
+      "message": "Textskugga"
+   },
+   "thirt_party": {
+      "message": "Använd ett tredje parts konto"
+   },
+   "thu": {
+      "message": "Torsdag"
+   },
+   "thu_min": {
+      "message": "Tors"
+   },
+   "tian_mao": {
+      "message": "TMall"
+   },
+   "tip_question_1": {
+      "message": "1. Öppna alla webbplatser och ange \"% s\" i sökrutan för att söka. (Med Google som ett exempel)"
+   },
+   "tip_question_2": {
+      "message": "2. Kopiera webbadressen till sökresultatet direkt"
+   },
+   "tip_question_3": {
+      "message": "3. Klistra in den kopierade webbadressen här och du är klar"
+   },
+   "tip_question_title": {
+      "message": "Om du använder \"% s\" för att ersätta söktermer"
+   },
+   "to_login": {
+      "message": "Logga in nu"
+   },
+   "today": {
+      "message": "Idag"
+   },
+   "todo_welcome": {
+      "message": "Välkommen till Infinity New Tab Page. Detta är ett prov för att göra."
+   },
+   "todos": {
+      "message": "Uppgifter"
+   },
+   "top_bookmark": {
+      "message": "Visa bokmärken på toppen"
+   },
+   "top_use_ful": {
+      "message": "Visa ofta använda webbplatser på toppen"
+   },
+   "travel": {
+      "message": "Resor"
+   },
+   "tue": {
+      "message": "Tisdag"
+   },
+   "tue_min": {
+      "message": "Tis"
+   },
+   "twitter": {
+      "message": "Twitter"
+   },
+   "two_hours_later": {
+      "message": "Påminn mig om 2 timmar"
+   },
+   "type_link": {
+      "message": "Ange länk"
+   },
+   "type_text": {
+      "message": "Inmatnings~~POS=TRUNC"
+   },
+   "unbind": {
+      "message": "Delete"
+   },
+   "unbind_btn": {
+      "message": "Avassociera"
+   },
+   "unbind_email": {
+      "message": "Unbind den här e-postadressen"
+   },
+   "unbind_phone_number": {
+      "message": "Obundet mobilnummer"
+   },
+   "unbind_success": {
+      "message": "Deleted successfully"
+   },
+   "uninstall_agree": {
+      "message": "Godkänn"
+   },
+   "uninstall_chrome_app": {
+      "message": "Avinstallera appen"
+   },
+   "uninstall_extension": {
+      "message": "Ta bort tillägg"
+   },
+   "unknown_mistake": {
+      "message": "Okänt fel"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Världsberömda Wallpapers av hög kvalitet"
+   },
+   "unzip_folder_content": {
+      "message": "Mappen kommer att raderas och ikonen kommer att hållas. Är du säker?"
+   },
+   "unzip_folder_title": {
+      "message": "Frisläpp"
+   },
+   "update_data": {
+      "message": "Uppgradera data"
+   },
+   "update_data_failure": {
+      "message": "Uppdatera profil misslyckades"
+   },
+   "update_desc_1": {
+      "message": "Om datakonverteringen misslyckades under version uppgradering kan du försöka återuppgradera data."
+   },
+   "update_desc_2": {
+      "message": "Om du fortfarande inte kan lösa problemet flera gånger kan du kontakta våra ingenjörer, vi kommer att försöka hjälpa dig att lösa."
+   },
+   "update_desc_3": {
+      "message": "Omvandlingsdata överskriver nya versionsdata, det rekommenderas att du säkerhetskopierar data innan du arbetar."
+   },
+   "update_error_desc1": {
+      "message": "Du kan försöka återuppgradera om du upptäcker vissa data."
+   },
+   "update_error_desc2": {
+      "message": "Om du misslyckas med flera uppgraderingar kan du också klicka på ikonen \"Inställningar\" från det övre högra hörnet för att skriva in - [Min] - [Backup and Repair]."
+   },
+   "update_now": {
+      "message": "Uppdatera nu"
+   },
+   "update_or_repair_data": {
+      "message": "Uppgradera eller reparera data"
+   },
+   "upload_avatar_failure": {
+      "message": "Det gick inte att ladda upp din avatarbild"
+   },
+   "upload_file_error": {
+      "message": "Det gick inte att ladda upp fil"
+   },
+   "upload_image_error": {
+      "message": "Det gick inte att ladda upp bild"
+   },
+   "uploading": {
+      "message": "Laddar upp..."
+   },
+   "use_cloud": {
+      "message": "Använd Cloud Data"
+   },
+   "use_entry_key_add_todo_item": {
+      "message": "Ange text och tryck på ENTER för att lägga till"
+   },
+   "use_local": {
+      "message": "Använd lokala data"
+   },
+   "use_mobile_screen": {
+      "message": "Använd en mobilenhet för att skanna QR-koden"
+   },
+   "user_evaluation": {
+      "message": "Användarutvärdering"
+   },
+   "username_cannot_empty": {
+      "message": "Användarnamn måste anges"
+   },
+   "verify_password_desc": {
+      "message": "För din kontosäkerhet, vänligen ange lösenordet"
+   },
+   "verity_code": {
+      "message": "Skicka verifieringskod"
+   },
+   "verity_code_no_value": {
+      "message": "Verifieringskoden får inte vara tom"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "view": {
+      "message": "Visa"
+   },
+   "w309": {
+      "message": "Dugga"
+   },
+   "w_100": {
+      "message": "Soligt"
+   },
+   "w_101": {
+      "message": "Molnig"
+   },
+   "w_102": {
+      "message": "Några moln"
+   },
+   "w_103": {
+      "message": "Delvis mulet"
+   },
+   "w_104": {
+      "message": "Ostadigt"
+   },
+   "w_200": {
+      "message": "Blåsig"
+   },
+   "w_201": {
+      "message": "Lugn"
+   },
+   "w_202": {
+      "message": "Blåsig"
+   },
+   "w_203": {
+      "message": "Måttlig vind"
+   },
+   "w_204": {
+      "message": "Frisk vind"
+   },
+   "w_205": {
+      "message": "Stark vind"
+   },
+   "w_206": {
+      "message": "Hård vind"
+   },
+   "w_207": {
+      "message": "Kraftig vind"
+   },
+   "w_208": {
+      "message": "Styv kuling"
+   },
+   "w_209": {
+      "message": "Oväder"
+   },
+   "w_210": {
+      "message": "Vindbyar"
+   },
+   "w_211": {
+      "message": "Orkan"
+   },
+   "w_212": {
+      "message": "Tornado"
+   },
+   "w_213": {
+      "message": "Tropisk storm"
+   },
+   "w_300": {
+      "message": "Skurar"
+   },
+   "w_301": {
+      "message": "Stark dusch"
+   },
+   "w_302": {
+      "message": "Åska"
+   },
+   "w_303": {
+      "message": "Stark åskväder"
+   },
+   "w_304": {
+      "message": "Åska med snöblandat regn"
+   },
+   "w_305": {
+      "message": "Lätt nederbörd"
+   },
+   "w_306": {
+      "message": "Måttligt regn"
+   },
+   "w_307": {
+      "message": "Kraftigt regn"
+   },
+   "w_308": {
+      "message": "Det finns extrema regn"
+   },
+   "w_310": {
+      "message": "Störtregn"
+   },
+   "w_311": {
+      "message": "Kraftig storm"
+   },
+   "w_312": {
+      "message": "Häftigt oväder"
+   },
+   "w_313": {
+      "message": "Regn som fryser på"
+   },
+   "w_314": {
+      "message": "Lätt till måttligt regn"
+   },
+   "w_315": {
+      "message": "Måttligt till häftigt regn"
+   },
+   "w_316": {
+      "message": "Heavy rain to rainstorm"
+   },
+   "w_317": {
+      "message": "Storm till kraftig storm"
+   },
+   "w_318": {
+      "message": "Downpour to heavy rainstorm"
+   },
+   "w_399": {
+      "message": "Regn"
+   },
+   "w_400": {
+      "message": "Lätt snöfall"
+   },
+   "w_401": {
+      "message": "Måttligt snöfall"
+   },
+   "w_402": {
+      "message": "Kraftigt snöfall"
+   },
+   "w_403": {
+      "message": "Snöstormar"
+   },
+   "w_404": {
+      "message": "Snöblaskigt väder"
+   },
+   "w_405": {
+      "message": "Snöblandat regn"
+   },
+   "w_406": {
+      "message": "Ösande snöblandat regn"
+   },
+   "w_407": {
+      "message": "Snör dusch"
+   },
+   "w_408": {
+      "message": "Light to moderate snow"
+   },
+   "w_409": {
+      "message": "Moderate to heavy snow"
+   },
+   "w_410": {
+      "message": "Heavy to blizzard"
+   },
+   "w_499": {
+      "message": "Snö"
+   },
+   "w_500": {
+      "message": "Dimma"
+   },
+   "w_501": {
+      "message": "Dimma"
+   },
+   "w_502": {
+      "message": "Torr dimma"
+   },
+   "w_503": {
+      "message": "Sand"
+   },
+   "w_504": {
+      "message": "Damm"
+   },
+   "w_507": {
+      "message": "Sand storm"
+   },
+   "w_508": {
+      "message": "Kraftig sandstorm"
+   },
+   "w_509": {
+      "message": "Tät dimma"
+   },
+   "w_510": {
+      "message": "Stark tät dimma"
+   },
+   "w_511": {
+      "message": "Moderate haze"
+   },
+   "w_512": {
+      "message": "Tungt dis"
+   },
+   "w_513": {
+      "message": "Severe haze"
+   },
+   "w_514": {
+      "message": "Dimmigt"
+   },
+   "w_515": {
+      "message": "Severe fog"
+   },
+   "w_900": {
+      "message": "Varm"
+   },
+   "w_901": {
+      "message": "Kall"
+   },
+   "w_999": {
+      "message": "Okänd"
+   },
+   "wallpaper": {
+      "message": "Bakgrund"
+   },
+   "wallpaper_add_custom_color": {
+      "message": "Lägg till anpassad färg"
+   },
+   "wallpaper_add_images_to_library_error": {
+      "message": "Misslyckades med att lägga till bild. Försök igen senare."
+   },
+   "wallpaper_apply_from_local_error": {
+      "message": "Lokal tapeter app misslyckades. Försök igen senare"
+   },
+   "wallpaper_applying_library": {
+      "message": "Bakgrundsbiblioteket är aktiverat..."
+   },
+   "wallpaper_auto_options_text": {
+      "message": "Bakgrundsfrekvensfrekvens"
+   },
+   "wallpaper_choose_library": {
+      "message": "Välj tapeter källa"
+   },
+   "wallpaper_choose_single": {
+      "message": "Välj en bakgrund"
+   },
+   "wallpaper_clear_filter": {
+      "message": "Rensa markering"
+   },
+   "wallpaper_cloud": {
+      "message": "Moln tapeter"
+   },
+   "wallpaper_collect_current": {
+      "message": "Samla aktuell tapet"
+   },
+   "wallpaper_common_color": {
+      "message": "Vanliga färg"
+   },
+   "wallpaper_confirm_delete_file": {
+      "message": "Ta bort den här bakgrunden?"
+   },
+   "wallpaper_create_library_error": {
+      "message": "Misslyckades med att skapa lokala tapetbibliotek. Försök igen senare."
+   },
+   "wallpaper_create_library_limit": {
+      "message": "Användarens anpassade tapetbibliotek överstiger gränsen"
+   },
+   "wallpaper_custom_color": {
+      "message": "Anpassad färg"
+   },
+   "wallpaper_delete_color": {
+      "message": "Ta bort färg"
+   },
+   "wallpaper_delete_color_success": {
+      "message": "Deleted successfully"
+   },
+   "wallpaper_delete_file": {
+      "message": "Ta bort bakgrund"
+   },
+   "wallpaper_delete_library_item_failure": {
+      "message": "Misslyckades med att radera tapeter"
+   },
+   "wallpaper_disable_auto_switch": {
+      "message": "Inaktivera automatisk tapetväxling"
+   },
+   "wallpaper_empty_text": {
+      "message": "Ingen uppgift"
+   },
+   "wallpaper_get_user_library_error": {
+      "message": "Kunde inte hämta bakgrundsbild"
+   },
+   "wallpaper_get_user_library_item_error": {
+      "message": "Misslyckades med att få användarbakgrund"
+   },
+   "wallpaper_library": {
+      "message": "Bibliotek för bakgrundsbilder"
+   },
+   "wallpaper_library_desc": {
+      "message": "$user$'s lokala tapetbibliotek",
+      "placeholders": {
+         "user": {
+            "content": "$1"
+         }
+      }
+   },
+   "wallpaper_library_name_illegal": {
+      "message": "Illegal Wallpaper Library Name"
+   },
+   "wallpaper_library_preview": {
+      "message": "Bakgrund Förhandsgranskning"
+   },
+   "wallpaper_library_upload_tips": {
+      "message": "Ladda upp maximalt 20 tapeter. Varje tapeter får inte överstiga 10m."
+   },
+   "wallpaper_loading": {
+      "message": "Bearbetar..."
+   },
+   "wallpaper_no_network_connect": {
+      "message": "Behöver en nätverksanslutning för att göra det"
+   },
+   "wallpaper_remove_library": {
+      "message": "Ta bort det här tapetbiblioteket"
+   },
+   "wallpaper_sort_default": {
+      "message": "Standard sortering"
+   },
+   "wallpaper_sort_option_1": {
+      "message": "Popularitet"
+   },
+   "wallpaper_sort_option_2": {
+      "message": "Ingående datum"
+   },
+   "wallpaper_switch_everyday": {
+      "message": "Byt var 24: e timme"
+   },
+   "wallpaper_switch_failure": {
+      "message": "Byta tapet misslyckades"
+   },
+   "wallpaper_switch_limit_with_bing": {
+      "message": "Uppdatera dina dagliga bakgrundsbilder med Bing. Du kan inte välja omkopplingsfrekvensen."
+   },
+   "wallpaper_switch_per_hour": {
+      "message": "Byt varje 1 timme"
+   },
+   "wallpaper_switch_per_twelve_hour": {
+      "message": "Byt var tolfte timme"
+   },
+   "wallpaper_switch_success": {
+      "message": "Slumpmässig tapeter ändras framgångsrikt"
+   },
+   "wallpaper_switch_to_next_wallpaper": {
+      "message": "Byt till nästa tapeter"
+   },
+   "wallpaper_switch_when_open": {
+      "message": "Byt när du öppnar en ny flik"
+   },
+   "wallpaper_switch_when_open_web": {
+      "message": "Växla när du öppnar sidan"
+   },
+   "wallpaper_upload_file_size_exceed": {
+      "message": "Filuppladdning misslyckades. Orsak: Storleken överstiger gränsen"
+   },
+   "wallpaper_upload_form_local": {
+      "message": "Välj en lokal bakgrund"
+   },
+   "wallpaper_user_library_limit_text": {
+      "message": "Minst en tapet krävs"
+   },
+   "want_more": {
+      "message": "Njut av fler förmåner direkt"
+   },
+   "weather": {
+      "message": "Väder"
+   },
+   "weather_empty": {
+      "message": "Ingen väderinformation finns för tillfället"
+   },
+   "web_set_home_title": {
+      "message": "Hur man ställer in Infinity som hemsidan"
+   },
+   "website_address": {
+      "message": "Webbadress"
+   },
+   "website_name": {
+      "message": "Webbplatsnamn"
+   },
+   "website_search_replace_char": {
+      "message": "URL (använd% s för att ersätta sökord)"
+   },
+   "wechat": {
+      "message": "Wechat"
+   },
+   "wed": {
+      "message": "Onsdag"
+   },
+   "wed_min": {
+      "message": "Ons"
+   },
+   "welcome_infinity": {
+      "message": "Welcome to Infinity"
+   },
+   "wind_force": {
+      "message": "Vind"
+   },
+   "wind_mill": {
+      "message": "Visa knappen Slumpmässig tapet i nedre högra hörnet"
+   },
+   "xie_cheng": {
+      "message": "Ctrip"
+   },
+   "xin_lang_weibo": {
+      "message": "Weibo"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo-sökningen är en sökmotor som drivs av Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex är en av de viktigaste Internet-tjänsterna i Ryssland"
+   },
+   "yarndex_ru": {
+      "message": "YandexRU"
+   },
+   "year_month_date": {
+      "message": "$year$år$month$",
+      "placeholders": {
+         "month": {
+            "content": "$2"
+         },
+         "year": {
+            "content": "$1"
+         }
+      }
+   },
+   "yesterday": {
+      "message": "Igår"
+   },
+   "you_need_login": {
+      "message": "Skriv in dig på Infinity- kontot för att använda funktionen"
+   },
+   "your_browsing_history_appears_here": {
+      "message": "Din bläddringshistorik visas här"
+   },
+   "zhifubao": {
+      "message": "Alipay"
+   }
+}

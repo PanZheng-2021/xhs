@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "img/magic-logo.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "homepage_url": "https://microsoftedge.microsoft.com/addons/detail/dgbhmbogkcdheijkkdmfhodkamcaiheo",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "img/magic-logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4VNQrveHtdcrlO8+OtNdCEIvO/Xm3YvwUuAXIwRaEPW+MDTMfFxgUCbrtdNUMLMUNLChLo4YPCCy0T31KLOSdBmC5EiY6yHvOr0HdStsi4sZpPReSNxn2vCdnvIle9OkqKCehAcyh2m6aehjh0LfIaNaoLt2kmP39zkeogIXCfaIsEJ14r/lG/k4elnfOkoiHnQiCoFyehHT9/i6lGllD+I0t5mJmO7syUpBFFXb2gJDGyqGjCJNT2KAlPL68Nbc+zK4BmOJDpfWvZDMvp9IfY/i8612zZQ2sZrX/7SZq9LZ+Vc9W4TdjNq6SYhjuVgCJcLlX0cNcqfz/NSJAt6npQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "proxy", "alarms" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.0.13"
+}

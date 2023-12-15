@@ -1,0 +1,722 @@
+{
+   "buttonApply": {
+      "message": "Aplică"
+   },
+   "buttonCancel": {
+      "message": "Anulează"
+   },
+   "buttonCheckForUpdates": {
+      "message": "Caută actualizări"
+   },
+   "buttonClose": {
+      "message": "Închide"
+   },
+   "buttonDisable": {
+      "message": "Dezactivează"
+   },
+   "buttonEdit": {
+      "message": "Editează"
+   },
+   "buttonEditClickHint": {
+      "message": "Poți și să faci clic dreapta, Ctrl+clic, clic cu rotița pe numele scriptului."
+   },
+   "buttonEmptyRecycleBin": {
+      "message": "Golește coșul de reciclare acum!"
+   },
+   "buttonEnable": {
+      "message": "Activează"
+   },
+   "buttonExportData": {
+      "message": "Exportă în zip"
+   },
+   "buttonHome": {
+      "message": "Pagină de start"
+   },
+   "buttonImportData": {
+      "message": "Importă din zip"
+   },
+   "buttonInstallFromURL": {
+      "message": "Instalează dintr-un URL"
+   },
+   "buttonNew": {
+      "message": "Nou"
+   },
+   "buttonOK": {
+      "message": "OK"
+   },
+   "buttonRecycleBin": {
+      "message": "Coș de reciclare"
+   },
+   "buttonRemove": {
+      "message": "Elimină"
+   },
+   "buttonReplace": {
+      "message": "Înlocuiește"
+   },
+   "buttonReplaceAll": {
+      "message": "Toate"
+   },
+   "buttonReset": {
+      "message": "Resetează"
+   },
+   "buttonRestore": {
+      "message": "Restaurează"
+   },
+   "buttonSave": {
+      "message": "Salvează"
+   },
+   "buttonSaveClose": {
+      "message": "Salvează și închide"
+   },
+   "buttonSaved": {
+      "message": "Saved"
+   },
+   "buttonShowEditorState": {
+      "message": "Afișează starea editorului"
+   },
+   "buttonSupport": {
+      "message": "Pagină de asistență"
+   },
+   "buttonUndo": {
+      "message": "Revocă"
+   },
+   "buttonUpdate": {
+      "message": "Actualizează"
+   },
+   "buttonUpdateAll": {
+      "message": "Caută actualizări pentru toate"
+   },
+   "buttonVacuum": {
+      "message": "Curăță baza de date"
+   },
+   "buttonVacuumed": {
+      "message": "Date curățate"
+   },
+   "buttonVacuuming": {
+      "message": "Se curăță datele..."
+   },
+   "confirmManualUpdate": {
+      "message": "Auto-update is disabled for this script!\nClick OK to update it anyway."
+   },
+   "confirmNotSaved": {
+      "message": "Modificările nu sunt salvate!\nClic pe OK pentru a le ignora sau Anulează pentru a rămâne."
+   },
+   "descBlacklist": {
+      "message": "Scripturile nu vor fi injectate în URL-urile corespondente acestei liste."
+   },
+   "descCustomCSS": {
+      "message": "CSS personalizat pentru pagina cu opțiuni și pagina de instalare a scripturilor. Dacă nu ești sigur despre ce este vorba, te rugăm să nu editezi."
+   },
+   "descEditorOptions": {
+      "message": "Opțiuni personalizate pentru CodeMirror și suplimente în obiecte JSON precum \u003Ccode>{\"indentUnit\":2, \"smartIndent\":true}\u003C/code> Cu toate acestea, reține că unele dintre ele pot să nu funcționeze în Violentmonkey. Vezi \u003Ca href=\"https://codemirror.net/doc/manual.html#config\" target=\"_blank\" rel=\"noopener noreferrer\">lista completă\u003C/a>."
+   },
+   "editHelpDocumention": {
+      "message": "Documentație cu privire la blockurile metadatelor usescripturilor și API-urile \u003Ccode>GM\u003C/code>: "
+   },
+   "editHelpKeyboard": {
+      "message": "Comenzi rapide de la tastatură"
+   },
+   "editHowToHint": {
+      "message": "Folosești un alt editor?"
+   },
+   "editLabelMeta": {
+      "message": "Metadate personalizate"
+   },
+   "editLabelSettings": {
+      "message": "Setări pentru script"
+   },
+   "editLongLine": {
+      "message": "Rândul este prea lung"
+   },
+   "editLongLineTooltip": {
+      "message": "Acest rând este prea lung, astfel că textul acestuia este restrâns pentru a evita întârzierile la editare.\nPoți ajusta limita în setările avansate, de exemplu:\n\"maxDisplayLength\": 20000"
+   },
+   "editNavCode": {
+      "message": "Cod"
+   },
+   "editNavSettings": {
+      "message": "Setări"
+   },
+   "editNavValues": {
+      "message": "Valori"
+   },
+   "editValueAllHint": {
+      "message": "Afișează/editează toate valorile scriptului pentru spațiul de stocare"
+   },
+   "extDescription": {
+      "message": "Un manager de userscripturi, open source, care suportă o grămadă de browsere"
+   },
+   "extName": {
+      "message": "Violentmonkey"
+   },
+   "failureReasonBlacklisted": {
+      "message": "Trecut în lista neagră din setările Violentmonkey"
+   },
+   "failureReasonNoninjectable": {
+      "message": "Violentmonkey nu poate rula userscripturi în această pagină\n(exemple uzuale: interfața de utilizator a browserului, o extensie, blocat via politici, un site al unui motor de căutare în Opera)"
+   },
+   "fileInstallBlocked": {
+      "message": "There are several methods to install or track edits in a local file: \u003C1> Drag'n'drop the file into an open Violentmonkey page or popup, including this one. \u003C2> Install a local HTTP server for this file and open it via http://localhost. \u003C3> Enable \"Allow access to file URLs\" in details for Violentmonkey in chrome://extensions page. This is dangerous because any userscript may read any local file."
+   },
+   "filterAlphabeticalOrder": {
+      "message": "ordinea alfabetică"
+   },
+   "filterExecutionOrder": {
+      "message": "ordinea executării"
+   },
+   "filterLastUpdateOrder": {
+      "message": "momentul ultimei actualizări"
+   },
+   "filterScopeAll": {
+      "message": "Toate"
+   },
+   "filterScopeCode": {
+      "message": "Cod"
+   },
+   "filterScopeName": {
+      "message": "Nume"
+   },
+   "filterSize": {
+      "message": "dimensiune"
+   },
+   "genericError": {
+      "message": "Eroare"
+   },
+   "genericOff": {
+      "message": "dezactivat"
+   },
+   "genericOn": {
+      "message": "activat"
+   },
+   "genericUseGlobal": {
+      "message": "folosește setarea globală"
+   },
+   "headerRecycleBin": {
+      "message": "Coș de reciclare"
+   },
+   "helpForLocalFile": {
+      "message": "Show the instruction for drag'n'dropped local scripts"
+   },
+   "hintInputURL": {
+      "message": "Introdu URL-ul:"
+   },
+   "hintRecycleBin": {
+      "message": "Scripturile eliminate sunt listate aici și vor fi păstrate timp de 7 zile."
+   },
+   "hintUseDownloadURL": {
+      "message": "Folosește @downloadURL"
+   },
+   "hintVacuum": {
+      "message": "Înlătură datele redundante și încearcă să reîncarce resursele lipsă din cache."
+   },
+   "install": {
+      "message": "Install"
+   },
+   "installFrom": {
+      "message": "Instalează de pe $1"
+   },
+   "installOptionTrackTooltip": {
+      "message": "Fila fișierului sursă ar trebui să fie ținută deschisă în Firefox 68 și versiunile mai noi."
+   },
+   "labelAdvanced": {
+      "message": "Avansat"
+   },
+   "labelAllowUpdate": {
+      "message": "Permite actualizarea"
+   },
+   "labelAuthor": {
+      "message": "Autor: "
+   },
+   "labelAutoReloadCurrentTab": {
+      "message": "Reîncarcă fila actuală după activarea/dezactivarea unui script din meniu"
+   },
+   "labelAutoUpdate": {
+      "message": "Caută actualizări pentru scripturi la fiecare  $1 zi(le), folosește 0 pentru a dezactiva"
+   },
+   "labelBackup": {
+      "message": "Backup"
+   },
+   "labelBadge": {
+      "message": "Afișează pe insignă: "
+   },
+   "labelBadgeColors": {
+      "message": "Culori pentru insignă:"
+   },
+   "labelBadgeNone": {
+      "message": "nimic"
+   },
+   "labelBadgeTotal": {
+      "message": "numărul scripturilor care rulează"
+   },
+   "labelBadgeUnique": {
+      "message": "numărul scripturilor unice care rulează"
+   },
+   "labelBlacklist": {
+      "message": "Listă neagră"
+   },
+   "labelContributors": {
+      "message": "Contribuitori"
+   },
+   "labelCurrentLang": {
+      "message": "Limba actuală: "
+   },
+   "labelCustomCSS": {
+      "message": "Stil personalizat"
+   },
+   "labelDownloadURL": {
+      "message": "URL pentru descărcare:"
+   },
+   "labelEditValue": {
+      "message": "Editarea valorii scriptului"
+   },
+   "labelEditValueAll": {
+      "message": "Editarea spațiului de stocare a scriptului"
+   },
+   "labelEditor": {
+      "message": "Editor"
+   },
+   "labelEnabledScriptsOnly": {
+      "message": "numai scripturile activate"
+   },
+   "labelExclude": {
+      "message": "Reguli @exclude"
+   },
+   "labelExcludeMatch": {
+      "message": "Reguli @exclude-match"
+   },
+   "labelExportScriptData": {
+      "message": "Exportă datele scripturilor"
+   },
+   "labelExposeStatus": {
+      "message": "Expune versiunea instalată pe site-urile de catalog ale userscripturilor: $1"
+   },
+   "labelFastFirefoxInject": {
+      "message": "Mod $1 alternativ în Firefox"
+   },
+   "labelFastFirefoxInjectHint": {
+      "message": "O metodă alternativă de injectare pentru scripturile\u003Cdocument-start> începând cu Firefox 59, mai rapidă decât modul implicit. Similar cu „Mod page sincron”, crește și consumul de memorie, astfel încât este posibil să vrei să îl dezactivezi dacă scripturile tale funcționează corect fără această opțiune."
+   },
+   "labelFeedback": {
+      "message": "Feedback"
+   },
+   "labelFilterSort": {
+      "message": "Sortează după $1"
+   },
+   "labelGeneral": {
+      "message": "Generale"
+   },
+   "labelHelpTranslate": {
+      "message": "Ajută la traducere"
+   },
+   "labelHomepage": {
+      "message": "Pagină de start"
+   },
+   "labelHomepageURL": {
+      "message": "URL pentru pagina de start:"
+   },
+   "labelImportScriptData": {
+      "message": "Importă datele scripturilor"
+   },
+   "labelImportSettings": {
+      "message": "Importă setările"
+   },
+   "labelInclude": {
+      "message": "Reguli @include"
+   },
+   "labelInjectionMode": {
+      "message": "Modul de injectare: "
+   },
+   "labelInstall": {
+      "message": "Instalarea scriptului"
+   },
+   "labelKeepOriginal": {
+      "message": "Păstrează valoarea(ile) originală(e)"
+   },
+   "labelLastUpdatedAt": {
+      "message": "Ultima actualizare în $1"
+   },
+   "labelLineNumber": {
+      "message": "Rândul nr.: "
+   },
+   "labelMatch": {
+      "message": "Reguli @match"
+   },
+   "labelName": {
+      "message": "Nume:"
+   },
+   "labelNoFrames": {
+      "message": "Rulează în frame-uri"
+   },
+   "labelNoName": {
+      "message": "Niciun nume"
+   },
+   "labelNoSearchScripts": {
+      "message": "Nu a fost găsit niciun script."
+   },
+   "labelNotifyThisUpdated": {
+      "message": ", apoi notifică:"
+   },
+   "labelNotifyUpdates": {
+      "message": "Notifică la actualizările scripturilor"
+   },
+   "labelNotifyUpdatesGlobal": {
+      "message": "ignoră notificarea per script (fila „setări” în editor)"
+   },
+   "labelPopupSort": {
+      "message": "Sortează scripturile din popup după $1"
+   },
+   "labelPrivacyPolicy": {
+      "message": "Politică de confidențialitate"
+   },
+   "labelReinstall": {
+      "message": "Reinstalarea scriptului"
+   },
+   "labelRelated": {
+      "message": "Linkuri relevante: "
+   },
+   "labelRemovedAt": {
+      "message": "Eliminat în $1"
+   },
+   "labelReplace": {
+      "message": "Înlocuiește cu: "
+   },
+   "labelRunAt": {
+      "message": "Momentul rulării: "
+   },
+   "labelRunAtDefault": {
+      "message": "(Implicit)"
+   },
+   "labelScriptTemplate": {
+      "message": "Șablon personalizat pentru scripturi"
+   },
+   "labelSearch": {
+      "message": "Caută: "
+   },
+   "labelSearchScript": {
+      "message": "Caută scripturi..."
+   },
+   "labelSettings": {
+      "message": "Setări"
+   },
+   "labelShowOrder": {
+      "message": "Afișează pozițiile ordinii executării"
+   },
+   "labelSync": {
+      "message": "Sincronizare"
+   },
+   "labelSyncAnonymous": {
+      "message": "Folosește un cont anonim"
+   },
+   "labelSyncAuthorize": {
+      "message": "Autorizează"
+   },
+   "labelSyncAuthorizing": {
+      "message": "Se autorizează"
+   },
+   "labelSyncDisabled": {
+      "message": "Niciunul"
+   },
+   "labelSyncPassword": {
+      "message": "Parolă: "
+   },
+   "labelSyncRevoke": {
+      "message": "Revocă"
+   },
+   "labelSyncScriptStatus": {
+      "message": "Sincronizează starea scripturilor"
+   },
+   "labelSyncServerUrl": {
+      "message": "URL-ul serverului: "
+   },
+   "labelSyncService": {
+      "message": "Sincronizează cu"
+   },
+   "labelSyncUsername": {
+      "message": "Nume de utilizator: "
+   },
+   "labelTheme": {
+      "message": "Temă:"
+   },
+   "labelUpdateURL": {
+      "message": "URL pentru actualizare:"
+   },
+   "labelViewSingleColumn": {
+      "message": "O singură coloană"
+   },
+   "labelViewTable": {
+      "message": "Vizualizare tip listă"
+   },
+   "labelXhrInject": {
+      "message": "Mod $1 sincron"
+   },
+   "labelXhrInjectHint": {
+      "message": "Activează doar dacă ai un script care trebuie să ruleze înainte ca pagina să înceapă să se încarce și în prezent rulează prea târziu. La fel ca și modul de injectare instantanee din Tampermonkey, această opțiune folosește XHR sincron, care este perimat, astfel încât în Chrome/Chromium vei vedea avertismente în consola devtools, deși le poți ignora în siguranță, deoarece efectele adverse sunt neglijabile în acest caz. Poți ascunde definitiv avertismentele dând clic dreapta pe una."
+   },
+   "labelXhrInjectNote": {
+      "message": "(except incognito and sites with disabled cookies)"
+   },
+   "lastSync": {
+      "message": "Ultima sincronizare în $1"
+   },
+   "learnBlacklist": {
+      "message": "Află mai multe despre tiparele listei negre."
+   },
+   "learnInjectionMode": {
+      "message": "Află mai multe despre modurile de injectare."
+   },
+   "menuDashboard": {
+      "message": "Deschide tabloul de bord"
+   },
+   "menuExclude": {
+      "message": "Exclude..."
+   },
+   "menuExcludeHint": {
+      "message": "Fila actuală se va reîncărca automat dacă ai activat această opțiune în setările generale.\nPentru a aplica modificări la toate celelalte file, te rugăm să le reîncarci manual.\nFolosește fila „Setări” a editorului pentru mai multă flexibilitate."
+   },
+   "menuFeedback": {
+      "message": "Feedback"
+   },
+   "menuFindScripts": {
+      "message": "Găsește scripturi pentru acest site"
+   },
+   "menuInjectionFailed": {
+      "message": "Nu s-au putut injecta unele scripturi."
+   },
+   "menuInjectionFailedFix": {
+      "message": "Reîncearcă în modul „auto”"
+   },
+   "menuMatchedDisabledScripts": {
+      "message": "Scripturi dezactivate coincidente"
+   },
+   "menuMatchedFrameScripts": {
+      "message": "Scripturi numai pentru sub-frame-uri"
+   },
+   "menuMatchedScripts": {
+      "message": "Scripturi coincidente"
+   },
+   "menuNewScript": {
+      "message": "Creează un script nou"
+   },
+   "menuScriptDisabled": {
+      "message": "Scripturi dezactivate"
+   },
+   "menuScriptEnabled": {
+      "message": "Scripturi activate"
+   },
+   "msgCheckingForUpdate": {
+      "message": "Se caută actualizări..."
+   },
+   "msgDateFormatInfo": {
+      "message": "Dă clic pentru a deschide documentația MomentJS. Indicative permise: $1. Folosește [paranteze pătrate] pentru a proteja textul literal."
+   },
+   "msgErrorFetchingResource": {
+      "message": "Eroare la preluarea resursei!"
+   },
+   "msgErrorFetchingScript": {
+      "message": "Eroare la preluarea scriptului!"
+   },
+   "msgErrorFetchingUpdateInfo": {
+      "message": "Eșec la preluarea informațiilor de actualizare."
+   },
+   "msgErrorLoadingData": {
+      "message": "Eroare la încărcarea datelor scriptului."
+   },
+   "msgErrorLoadingDependency": {
+      "message": "Eroare la încărcarea dependințelor."
+   },
+   "msgImported": {
+      "message": "$1 obiect(e) importat(e)."
+   },
+   "msgIncognitoChanges": {
+      "message": "Modificările pe care le faci în modul incognito se aplică și profilului principal."
+   },
+   "msgInstalled": {
+      "message": "Script instalat."
+   },
+   "msgInvalidScript": {
+      "message": "Script nevalid!"
+   },
+   "msgLoadingData": {
+      "message": "Se încarcă datele scriptului..."
+   },
+   "msgLoadingDependency": {
+      "message": "Se încarcă dependințele... ($1/$2)"
+   },
+   "msgMissingResources": {
+      "message": "Lipsesc resursele necesare."
+   },
+   "msgNamespaceConflict": {
+      "message": "Un script ca acesta este deja instalat.\nTe rugăm fie să folosești un alt @name și @namespace aici, fie să editezi scriptul respectiv."
+   },
+   "msgNamespaceConflictRestore": {
+      "message": "Un script cu același @name și @namespace este deja instalat."
+   },
+   "msgNewVersion": {
+      "message": "O nouă versiune a fost găsită."
+   },
+   "msgNoUpdate": {
+      "message": "Nu au fost găsite actualizări."
+   },
+   "msgOpenUpdateErrors": {
+      "message": "Eroare la actualizarea scripturilor. Click pentru a le deschide."
+   },
+   "msgReinstallScripts": {
+      "message": "Te rugăm să resalvezi sau să reinstalezi acest(e) script(uri):"
+   },
+   "msgSameCode": {
+      "message": "(codul este la fel)"
+   },
+   "msgScriptUpdated": {
+      "message": "Scriptul [$1] este actualizat!"
+   },
+   "msgShowHide": {
+      "message": "Afișează/ascunde"
+   },
+   "msgSyncError": {
+      "message": "Eroare la sincronizare!"
+   },
+   "msgSyncInit": {
+      "message": "Se inițializează..."
+   },
+   "msgSyncInitError": {
+      "message": "Eroare la inițializare!"
+   },
+   "msgSyncNoAuthYet": {
+      "message": "Neautorizat încă."
+   },
+   "msgSyncReady": {
+      "message": "Sincronizarea va începe în curând..."
+   },
+   "msgSyncing": {
+      "message": "Sincronizare în desfășurare..."
+   },
+   "msgSyntaxError": {
+      "message": "Eroare de sintaxă?"
+   },
+   "msgUpdated": {
+      "message": "Script actualizat."
+   },
+   "msgUpdating": {
+      "message": "Se actualizează..."
+   },
+   "noValues": {
+      "message": "Nu este stocată nicio valoare"
+   },
+   "optionEditorWindow": {
+      "message": "Deschide editorul din fereastra pop-up într-o fereastră nouă"
+   },
+   "optionEditorWindowHint": {
+      "message": "Poziția ferestrei editorului va fi ținută minte numai la redimensionare sau salvare"
+   },
+   "optionEditorWindowSimple": {
+      "message": "Ascunde caseta polivalentă"
+   },
+   "optionPopup": {
+      "message": "Meniul și pictograma pentru popup"
+   },
+   "optionPopupEnabledFirst": {
+      "message": "Mai întâi cele activate"
+   },
+   "optionPopupGroupDisabled": {
+      "message": "Grupează scripturile dezactivate"
+   },
+   "optionPopupGroupRunAt": {
+      "message": "Grupează după stadiul @run-at"
+   },
+   "optionPopupHideDisabled": {
+      "message": "Ascunde scripturile dezactivate"
+   },
+   "optionPopupShowDisabled": {
+      "message": "Afișează scripturile dezactivate"
+   },
+   "optionShowEnabledFirst": {
+      "message": "Afișează mai întâi scripturile activate"
+   },
+   "optionUiTheme": {
+      "message": "Temă pentru UI:"
+   },
+   "optionUiThemeAuto": {
+      "message": "automată"
+   },
+   "optionUiThemeDark": {
+      "message": "întunecată"
+   },
+   "optionUiThemeLight": {
+      "message": "deschisă"
+   },
+   "optionUpdate": {
+      "message": "Actualizare"
+   },
+   "readonly": {
+      "message": "Read-only"
+   },
+   "readonlyNote": {
+      "message": "Auto-updated script is read-only unless you disable updates or allow editing."
+   },
+   "readonlyOpt": {
+      "message": "Allow edits"
+   },
+   "readonlyOptWarn": {
+      "message": "(next update will overwrite them)"
+   },
+   "reinstall": {
+      "message": "Reinstall"
+   },
+   "reloadTab": {
+      "message": "Reload tab"
+   },
+   "reloadTabTrackHint": {
+      "message": "If enabled, the active tab will be reloaded when changes are detected and this script matches the tab's URL."
+   },
+   "searchCaseSensitive": {
+      "message": "Sensibil la scrierea cu litere mari și mici"
+   },
+   "searchUseRegex": {
+      "message": "Folosește regex"
+   },
+   "sideMenuAbout": {
+      "message": "Despre"
+   },
+   "sideMenuInstalled": {
+      "message": "Scripturi instalate"
+   },
+   "sideMenuSettings": {
+      "message": "Setări"
+   },
+   "skipScripts": {
+      "message": "Reload page without userscripts"
+   },
+   "skipScriptsMsg": {
+      "message": "You disabled userscripts for this page. To run them, reload or navigate the tab."
+   },
+   "stopTracking": {
+      "message": "Stop tracking"
+   },
+   "titleBadgeColor": {
+      "message": "Culoare normală a insignei"
+   },
+   "titleBadgeColorBlocked": {
+      "message": "Culoarea insignei atunci când site-ul este neinjectabil (în lista neagră sau nesuportat)"
+   },
+   "titleSearchHint": {
+      "message": "* Tasta \u003CEnter> adaugă textul în istoricul completării automate\n* Sintaxa RegExp este suportată: /re/ și /re/flags"
+   },
+   "trackEdits": {
+      "message": "Track external edits"
+   },
+   "trackEditsNote": {
+      "message": "Keep this page open to track your edits in local file"
+   },
+   "updateListedCmd": {
+      "message": "Update scripts ($1)"
+   },
+   "valueLabelKey": {
+      "message": "Cheie (șir de caractere)"
+   },
+   "valueLabelValue": {
+      "message": "Valoare (serializată ca JSON)"
+   },
+   "valueLabelValueAll": {
+      "message": "Toate valorile (serializate ca JSON)"
+   }
+}

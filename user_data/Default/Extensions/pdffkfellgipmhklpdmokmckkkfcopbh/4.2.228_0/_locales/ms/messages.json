@@ -1,0 +1,185 @@
+{
+   "alert_popup_filter_enabled_title": {
+      "message": "Auto-aktifkan penyaring"
+   },
+   "context_block_site_ads": {
+      "message": "Halang iklan di laman ini..."
+   },
+   "context_disable_protection": {
+      "message": "Henti sebentar perlindungan AdGuard"
+   },
+   "context_enable_protection": {
+      "message": "Mula kembali perlindungan AdGuard"
+   },
+   "context_open_log": {
+      "message": "Log penyaringan..."
+   },
+   "context_open_settings": {
+      "message": "Tetapan AdGuard..."
+   },
+   "context_site_exception": {
+      "message": "Laman web ini dalam pengecualian"
+   },
+   "context_site_filtering_disabled": {
+      "message": "AdGuard tidak dapat dijalankan di domain ini"
+   },
+   "context_site_filtering_off": {
+      "message": "Nyahktifkan penyaringan di laman web ini"
+   },
+   "context_site_filtering_on": {
+      "message": "Aktifkan penyaringan di laman web ini"
+   },
+   "context_site_protection_disabled": {
+      "message": "Perlindungan AdGuard dihentikan sebentar"
+   },
+   "context_update_antibanner_filters": {
+      "message": "Semak kemaskini penyaring"
+   },
+   "description": {
+      "message": "Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, YouTube and all other websites."
+   },
+   "filtering_log_status_processed": {
+      "message": "Telah di proses"
+   },
+   "filtering_log_title": {
+      "message": "Log penyaringan"
+   },
+   "filtering_modal_add_rule": {
+      "message": "Tambah peraturan"
+   },
+   "filtering_modal_add_title": {
+      "message": "Tambah peraturan"
+   },
+   "filtering_modal_apply_domains": {
+      "message": "Tetapkan peraturan kepada semua laman web"
+   },
+   "filtering_modal_block": {
+      "message": "Halang"
+   },
+   "filtering_modal_copied": {
+      "message": "Disalin"
+   },
+   "filtering_modal_exception_title": {
+      "message": "Tambah pengecualian"
+   },
+   "filtering_modal_filter": {
+      "message": "Penyaring:"
+   },
+   "filtering_modal_important": {
+      "message": "Beri keutamaan lebih tinggi kepada peraturan"
+   },
+   "filtering_modal_info_title": {
+      "message": "Butiran permintaan"
+   },
+   "filtering_modal_open_in_new_tab": {
+      "message": "Buka di tab baru"
+   },
+   "filtering_modal_rule": {
+      "message": "Peraturan:"
+   },
+   "filtering_modal_source": {
+      "message": "Sumber:"
+   },
+   "filtering_modal_third_party": {
+      "message": "Tetapkan kepada permintaan pihak ketiga sahaja"
+   },
+   "filtering_modal_type": {
+      "message": "Jenis:"
+   },
+   "filtering_modal_unblock": {
+      "message": "Nyahhalang"
+   },
+   "filtering_table_rule": {
+      "message": "Peraturan penyaringan"
+   },
+   "filtering_table_source": {
+      "message": "Sumber"
+   },
+   "filtering_table_type": {
+      "message": "Jenis"
+   },
+   "filtering_type_all": {
+      "message": "Semua"
+   },
+   "filtering_type_other": {
+      "message": "Lain-lain"
+   },
+   "name": {
+      "message": "Penghalang Iklan AdGuard"
+   },
+   "options_allowlist": {
+      "message": "Senarai putih"
+   },
+   "options_clear_stats_confirm_modal_clear_button": {
+      "message": "Padam"
+   },
+   "options_enable_autodetect_filter": {
+      "message": "Aktifkan penyaring yang paling sesuai secara automatik"
+   },
+   "options_general_settings": {
+      "message": "Tetapan Umum"
+   },
+   "options_github": {
+      "message": "GitHub"
+   },
+   "options_open_changelog": {
+      "message": "Log perubahan"
+   },
+   "options_popup_subscribe_button": {
+      "message": "Langgan"
+   },
+   "options_popup_update_error": {
+      "message": "Gagal untuk mendapatkan kemaskini. Sila cuba lagi nanti."
+   },
+   "options_popup_update_not_found": {
+      "message": "Tiada kemaskini dijumpai"
+   },
+   "options_report_bug": {
+      "message": "Laporkan pepijat"
+   },
+   "options_reset_settings_confirm_modal_clear_button": {
+      "message": "Tetapkan semula"
+   },
+   "options_reset_stats_done": {
+      "message": "Statistik telah dipadam"
+   },
+   "options_safebrowsing_enabled": {
+      "message": "Perlindungan dari malware dan phishing"
+   },
+   "options_settings": {
+      "message": "Tetapan AdGuard"
+   },
+   "options_site": {
+      "message": "Laman Web Rasmi"
+   },
+   "options_theme_selector_system": {
+      "message": "Lalai sistem"
+   },
+   "options_update_antibanner_filters": {
+      "message": "Semak kemaskini penyaring"
+   },
+   "options_use_optimized_filters": {
+      "message": "Guna penyaring dioptimum"
+   },
+   "options_userfilter": {
+      "message": "Penyaring pengguna"
+   },
+   "options_userfilter_export": {
+      "message": "Eksport"
+   },
+   "options_userfilter_import": {
+      "message": "Import"
+   },
+   "popup_block_site_ads_option": {
+      "message": "Halang iklan di laman ini"
+   },
+   "popup_header_cta_link": {
+      "message": "Mahu sekat lebih banyak?"
+   },
+   "popup_header_update_filters": {
+      "message": "Semak kemaskini penyaring"
+   },
+   "short_name": {
+      "message": "AdGuard"
+   }
+}

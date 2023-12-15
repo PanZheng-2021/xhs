@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="35px" viewBox="0 0 54 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>jp-flag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Checkout-Page1" transform="translate(-904.000000, -1142.000000)" fill-rule="nonzero">
+            <g id="Location-Copy-5" transform="translate(888.000000, 1115.000000)">
+                <g id="jp-flag" transform="translate(16.000000, 27.000000)">
+                    <path d="M52.924375,34.970844 L0.928958333,34.970844 C0.418889014,34.9732571 0.00321238087,34.5621483 0,34.0520833 L0,0.947916667 C0,0.440416667 0.415625,0.0291666667 0.928958333,0.0291666667 L52.9229167,0.0291666667 C53.43625,0.0291666667 53.851875,0.440416667 53.851875,0.947916667 L53.851875,34.0520833 C53.851875,34.5595833 53.43625,34.970844 52.9229167,34.970844 L52.924375,34.970844 Z" id="Path" fill="#F5F5F5"></path>
+                    <ellipse id="Oval" fill="#FF4B55" cx="26.9266667" cy="17.5" rx="10.2127083" ry="10.115"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
